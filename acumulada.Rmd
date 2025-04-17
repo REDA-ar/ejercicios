@@ -1,0 +1,109 @@
+```{r data generation, echo = FALSE, results = "hide", warning=FALSE}
+## cálculos
+library(exams)
+options(scipen=999)
+
+
+n_disc <- 0
+while(n_disc<3)
+{
+n1 <- sample(2:10,1)
+k <- sample(2:4,1)
+n2 <- n1+k
+datos <- sample(n1:n2, 10, replace = TRUE)
+n_disc <- length(unique(datos))
+}
+
+primero <- sort(unique(datos))[1] #primero
+xdic <- sort(unique(datos))[2] #segundo
+tercero <- sort(unique(datos))[3] #tercero
+
+rango <- unique(datos)
+sol1 <- length(unique(datos))
+sol2 <- min(unique(datos))
+sol3 <- mean(datos<=xdic)  # P(X ≤ xdic)
+sol4 <- mean(datos==xdic)  # P(X = xdic)
+sol5 <- mean(datos>=xdic)  # P(X ≤ xdic)
+sol6 <- mean(datos>=xdic)  # P(X ≥ xdic)
+sol7 <- mean((datos>=primero)&(datos<tercero))  # P(primero ≤ X < tercero)
+sol8 <- 0  # lim x→-∞
+sol9 <- 1  # lim x→+∞
+
+```
+
+Question
+========
+El siguiente gráfico corresponde a la función $F_X(t)$, la función de distribución acumulada de la variable $X$,  que se mantiene constante para $t>`r max(unique(datos))+0.5`$ y para $t<`r min(unique(datos))-0.5`$
+
+```{r acumulada, echo=FALSE,fig=TRUE, warning=FALSE}
+plot(ecdf(datos), main="", xlab="t", ylab=expression(F[X](t)))
+```
+
+
+Answerlist
+----------
+* Indicar la cantidad de valores que conforman el rango de $X$: $\#Rg(X)$.  
+
+* Indicar cuál es el menor valor perteneciente al rango de $X$. 
+
+* Indicar cuál es el valor de  $P(X\leq `r xdic`)$
+
+
+* Indicar cuál es el valor de  $P(X=`r xdic`)$
+
+* Indicar cuál es el valor de  $P(X\geq `r xdic`)$
+
+
+* Indicar cuál es el valor de  $P(`r primero` \leq X< `r tercero`)$
+
+* Calcular $\displaystyle {\lim_{t\to -\infty }}F_X(t)$
+
+* Calcular $\displaystyle{\lim_{t\to +\infty}} F_X(t)$
+
+Solution
+============
+
+Recordemos que $F_X$, la función de distribución acumulada de la variable aleatoria $X$, está definida por 
+$$F_X(t)=\mathbb P(X\leq t)\;, \forall t\in \mathbb R.$$
+Es una función definida para cada valore $t$ en los reales y toma valores en el conjunto $[0,1]$: $F_X: \mathbb R\to [0,1]$. 
+
+Conodiendo $F_X$, el rango de $X$ está dado por los puntos de discontinuidad de $F_X$. Los valores en el eje horizontal donde la función pega un salto. En este caso, tenemos que $Rg(X)=\{`r rango`\}$ y por lo tanto, $\#Rg(X)=`r sol1`$ y el menor valor perteneciente al rango es el `r sol2`.
+
+
+Por definición de $F_X$, $P(X\leq `r xdic`)=F_X(`r xdic`)=`r sol3`$, como vemos en el gráfico. 
+
+
+Además, $P(X\leq `r xdic`)=p_X(`r xdic`)$, la función de probabilidad puntual, está dada por el *salto* de la función acumulada en $`r xdic`$. Es decir, $p_X(`r xdic`) =F_X(`r xdic`)-F_X(`r xdic`^-)=`r sol4`$, como vemos en el grárico, recordando que $F_X(`r xdic`^-)$ denota el límite por izquierda. 
+
+
+
+
+
+
+Para calcular $P(X\geq `r xdic`)$ hay diferentes estrategias. Vamos a optar por el complemento.
+\begin{eqnarray*}
+P(X\geq `r xdic`)&=& 1-P(X< `r xdic`)=1-(P(X\leq `r xdic`)-P(X= `r xdic`))\\
+&=&1-\left\{F_X(`r xdic`)-(F_X(`r xdic`)-F_X(`r xdic`^-))\right\}\\
+&=& 1-F_X(`r xdic`^-)=`r sol5`.
+\end{eqnarray*}
+
+Acá, de nuevo, hay que acomodar para conseguir lo que uno quiere en terminos de $F_X$. Operando como hicimos en el caso anterior, llegamos a que 
+
+$$P(`r primero` \leq X< `r tercero`)=F_X(`r tercero`^-)-F_X(`r primero`^-)=`r sol7`.$$
+
+Por último, toda función de distribución acumulada satisface las siguientes dos propiedades: 
+$$\displaystyle {\lim_{t\to -\infty }}F_X(t)=0.$$
+
+$$\displaystyle{\lim_{t\to +\infty}} F_X(t)=1.$$
+
+
+
+
+
+Meta-information
+============
+extype: cloze
+exclozetype: num|num|num|num|num|num|num|num
+exsolution: `r fmt(sol1,4)`|`r fmt(sol2,4)`|`r fmt(sol5,4)`|`r fmt(sol4,4)`|`r fmt(sol6,4)`|`r fmt(sol7,4)`|`r fmt(sol8,4)`|`r fmt(sol9,4)`
+exname: acumulada
+extol: 0.01|0.01|0.01|0.01|0.01|0.01|0.01
