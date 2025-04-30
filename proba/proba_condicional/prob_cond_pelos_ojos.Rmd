@@ -1,0 +1,62 @@
+```{r data generation, echo = FALSE, results = "hide"}
+## parameters
+library(exams)
+library(knitr)
+library(dplyr)
+library(kableExtra)
+a <- sample(seq(0.05,0.15,0.01),1)
+b <- sample(seq(0.1,0.15,0.01),1)
+conjunta <- c( a , 0.5 , 0.4 , 0.3 , b  , 0.6 , 0.11 , 0.4 , a , a+b , 0.6 , 2*a+b , 0.6 , 0.7 , a+2*b  , 0.2 , 0.1 , 0.6 , 0.13 , 0.3	)
+conjunta <-conjunta/sum(conjunta)
+
+conjunta<-round(conjunta,2)
+
+conjunta[order(conjunta)[20]]<-conjunta[order(conjunta)[20]]-(sum(conjunta)-1)
+#sum(conjunta)
+
+tabla <- matrix(conjunta,4,5, byrow = TRUE)
+tabla
+colnames(tabla) = c("rubio","pelirrojo","marron", "oscuros","negro")
+rownames(tabla) = c("claros","azules","castaños", "oscuros")
+
+sol1 <- tabla[3,1]
+sol2 <- round(sol1/sum(tabla[3,]),4)
+sol3 <- 1-round(tabla[2,2]/sum(tabla[2,]),4)
+sol4 <- round(tabla[4,2]/sum(tabla[,2]),4)
+sol5 <- round(tabla[1,2]/sum(tabla[,2]),4)
+```
+    
+Question
+========
+La siguiente tabla representa la distribución de cierta población, considerando color de pelo (en las columnas) y color de ojos (en las filas).
+
+
+``` {r data display, echo = FALSE, results = "asis"}
+kable(tabla, align="cc") %>%
+kable_styling("hover", full_width = F)
+```
+
+
+Se elige una persona al azar. 
+
+Questionlist
+----------
+
+* Calcular la probabilidad de que una persona tenga  ojos castaños y  pelo rubio.
+	
+* Calcular la probabilidad de que una persona de ojos castaños tenga pelo rubio.
+
+* Calcular la probabilidad de que una persona no sea pelirroja sabiendo que tiene ojos azules.
+	
+* Sabiendo que una persona es pelirroja, ¿qué probabilidad tiene de que tenga ojos oscuros? 
+
+* Sabiendo que una persona es pelirroja, ¿qué probabilidad tiene de que tenga ojos claros?
+
+Meta-information
+============
+extype: cloze
+exclozetype: num|num|num|num|num
+exsolution: `r sol1`|`r sol2`|`r sol3`|`r sol4`|`r sol5`
+exname: ojos_pelos_condicional
+extol: 0.01|0.01|0.01|0.01|0.01
+  

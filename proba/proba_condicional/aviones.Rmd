@@ -1,0 +1,87 @@
+\usepackage[utf8]{inputenc}
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+\usepackage[utf8]{inputenc}
+
+```{r data generation, echo = FALSE, results = "hide"}
+
+
+sirve <- function(sol){
+   0.01< sol & sol<0.99
+  
+}
+
+## DATA GENERATION
+probas=round(diff(sort(sample(c(1:9)/10,3))) ,2)
+pp=1-sum(probas)
+probas=c(probas,pp)
+porcentajes=probas*100
+probas_cond=round(sample(c(1:9)/10,3),2)
+en=sample(c(1,2),1)
+aerolinea=c("A","B")[en]
+#solution2 =round(1-pbinom(1,n,tres/100),4)
+#solucion1=porcentajes[3]
+solucion2=sum(probas_cond*probas)
+solucion3=round(probas_cond[en]*probas[en]/solucion2,4)
+
+while(!sirve(solucion2)|!sirve(solucion3))
+{
+  
+probas=round(diff(sort(sample(c(1:9)/10,3))) ,2)
+pp=1-sum(probas)
+probas=c(probas,pp)
+porcentajes=probas*100
+probas_cond=round(sample(c(1:9)/10,3),2)
+en=sample(c(1,2),1)
+aerolinea=c("A","B")[en]
+#solution2 =round(1-pbinom(1,n,tres/100),4)
+#solucion1=porcentajes[3]
+solucion2=sum(probas_cond*probas)
+solucion3=round(probas_cond[en]*probas[en]/solucion2,4)
+
+  
+}
+```
+
+Question
+========
+
+En Ezeiza solamente están volando las compañías A, B, y C. El `r porcentajes[1]`\% de los vuelos son realizados por A, el `r porcentajes[2]`\% por B y el `r porcentajes[3]`\% restante los realiza C. La probablidad de que salga tarde un vuelo de A es `r probas_cond[1]`, de B es `r probas_cond[2]`, y de C es `r probas_cond[3]`. 
+
+
+
+Questionlist
+------------
+
+* ¿Cuál es la probabilidad de que al elegir un vuelo al azar este haya salido tarde?
+
+* Sabemos que un vuelo salió tarde, ¿cuál es la probabilidad de que haya sido de la compañía `r aerolinea`?  
+
+Solution
+========
+
+Utilizaremos A, B y B para denotar que el vuelo es de cada una de las respectivas compañías, mientras que con T denotaremos que el vuelo sale tarde.  Tenemos entonces que el A, B y C forman una partición del espacio muestral, con probabilidad  $P(A)=`r probas[1]`, P(B)=`r probas[2]`$ y $P(C)=`r probas[3]`$, respectivamente. 
+También nos dan como dato la probabilidad de que el vuelo salga tarde, una vez que sabemos de que compañia es. Es decir, tenemos que  $P(T\mid A)=`r probas_cond[1]`, P(T\mid B)=`r probas_cond[2]`$ y $P(T\mid C)=`r probas_cond[3]`$. Ahora bien; siendo A,B,C una partición, tenemos que 
+$$P(T)=P(T\cap A)+P(T\cap B)+P(T\cap C).$$
+Para calcular cada una de estas probabilidades invocamos el principio multiplicativo. Tenemos entonces que 
+
+$$P(T)=P(T\mid A)P(A)+P(T\mid B)P(B)+P(T\mid C)P(C).$$
+Esta última identidad se conoce como el Teorema de la probabilidad Total. 
+Llegamos asi a que la probabilidad de que al elegir un vuelo al azar este haya salido tarde es `r solucion2`.  
+
+
+Nos piden ahora  $P(`r aerolinea`\mid T)$. Es decir, una condicional **al revés**  de las presentadas en el enunciado. Para calcularla, comenzamos con la definición de probabilidad condicional. Tenemos entonces que 
+$$P(`r aerolinea`\mid T)=\frac{P(`r aerolinea`\cap T)}{P(T)}$$
+Ya vimos que, usando la regla multiplicativa,  $P(`r aerolinea`\cap T)= P(T\mid `r aerolinea`)P(`r aerolinea`)$. También obtuvimos que  $P(T)=`r solucion2`$. 
+
+Concluímos entonces que, sabiendo que un vuelo salió tarde, la probabilidad de que haya sido de la compañía `r aerolinea` es `r solucion3`.
+
+
+Meta-information
+================
+extype: cloze
+exclozetype: num|num
+exsolution: `r solucion2`|`r solucion3`
+exname: aviones
+extol: 0.001

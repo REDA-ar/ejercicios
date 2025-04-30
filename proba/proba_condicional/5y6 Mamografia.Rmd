@@ -1,0 +1,63 @@
+\usepackage[utf8]{inputenc}
+
+```{r data generation, echo = FALSE, results = "hide"}
+options(scipen=999)
+
+sirve <- function(sol){
+   0.01< sol & sol<0.99
+  
+}
+## DATA GENERATION
+cancer = round(sample(seq(1,1.5,length=30),1 ),2)
+cancer1=cancer/100
+positivo=sample(seq(87,92,by=1),1)
+positivo1=positivo/100
+negativo=sample(seq(8,9,by=.2),1)
+ 
+negativo1=negativo/100
+
+solution1 = round(positivo1*cancer1+negativo1*(1-cancer1),4)
+solution2 =round(positivo1*cancer1/solution1,4)
+
+
+
+while(!sirve(solution1)|!sirve(solution2)){
+  cancer = round(sample(seq(1,1.5,length=30),1 ),2)
+cancer1=cancer/100
+positivo=sample(seq(87,92,by=1),1)
+positivo1=positivo/100
+negativo=sample(seq(8,9,by=.2),1)
+ 
+negativo1=negativo/100
+
+solution1 = round(positivo1*cancer1+negativo1*(1-cancer1),4)
+solution2 =round(positivo1*cancer1/solution1,4)
+}
+
+```
+
+Question
+========
+Consideremos una población de mujeres mayores de $50$ años. Se tienen los siguientes datos:
+
++ el $`r cancer`$$\%$ tiene cáncer de mama.
++ el $`r positivo`$$\%$ de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.
++ hay un $`r negativo`$ $\%$ de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.
+
+Questionlist
+------------
+
+* ¿Cuál es la probabilidad de que a una de estas mujeres mayores de $50$ años le de positivo el resultado de la mamografía?
+* Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo.
+
+<!-- Solution -->
+<!-- ======== -->
+
+Meta-information
+================
+extype: cloze
+exclozetype: num|num
+exsolution: `r solution1`|`r solution2`
+exname: bayes
+extol: 0.01|0.01
+
