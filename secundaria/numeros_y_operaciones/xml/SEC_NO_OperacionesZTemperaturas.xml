@@ -1,0 +1,3111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/SEC_NO_OperacionesZTemperaturas/SEC_NO_OperacionesZTemperaturas</text>
+</category>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R001 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados de mínima y 26 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Nueva Delhi: 8 grados de mínima y 21 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Sudáfrica:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Nueva Delhi:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=11:0} </li>
+<li>  {1:NUMERICAL:=13:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R002 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero de mínima y 2 grados bajo cero de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Chicago: 6 grados bajo cero de mínima y 0 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Helsinki:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Chicago:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=5:0} </li>
+<li>  {1:NUMERICAL:=6:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R003 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero de mínima y 2 grados bajo cero de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados de mínima y 26 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Helsinki:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Sudáfrica:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=5:0} </li>
+<li>  {1:NUMERICAL:=11:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R004 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Buenos Aires: 21 grados de mínima y 29 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Moscú: 10 grados bajo cero de mínima y 5 grados bajo cero de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Buenos Aires:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Moscú:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=8:0} </li>
+<li>  {1:NUMERICAL:=5:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R005 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Toronto: 5 grados bajo cero de mínima y 1 grado bajo cero de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Madrid: 3 grados de mínima y 10 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Toronto:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Madrid:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=4:0} </li>
+<li>  {1:NUMERICAL:=7:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R006 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Los Ángeles: 9 grados de mínima y 20 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Nueva Delhi: 8 grados de mínima y 21 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Los Ángeles:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Nueva Delhi:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=11:0} </li>
+<li>  {1:NUMERICAL:=13:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R007 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Chicago: 6 grados bajo cero de mínima y 0 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados de mínima y 26 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Chicago:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Sudáfrica:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=6:0} </li>
+<li>  {1:NUMERICAL:=11:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R008 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{San Petersburgo: 9 grados bajo cero de mínima y 4 grados bajo cero de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados de mínima y 26 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de San Petersburgo:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Sudáfrica:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=5:0} </li>
+<li>  {1:NUMERICAL:=11:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R009 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Los Ángeles: 9 grados de mínima y 20 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Medellín: 17 grados de mínima y 28 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Los Ángeles:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Medellín:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=11:0} </li>
+<li>  {1:NUMERICAL:=11:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R010 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{San Petersburgo: 9 grados bajo cero de mínima y 4 grados bajo cero de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Phuket: 24 grados de mínima y 33 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de San Petersburgo:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Phuket:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=5:0} </li>
+<li>  {1:NUMERICAL:=9:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R011 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Nueva York: 3 grados bajo cero de mínima y 4 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Buenos Aires: 21 grados de mínima y 29 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Nueva York:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Buenos Aires:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=7:0} </li>
+<li>  {1:NUMERICAL:=8:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R012 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero de mínima y 2 grados bajo cero de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Estocolmo: 4 grados bajo cero de mínima y 1 grado de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Helsinki:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Estocolmo:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=5:0} </li>
+<li>  {1:NUMERICAL:=5:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R013 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Nueva Delhi: 8 grados de mínima y 21 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Toronto: 5 grados bajo cero de mínima y 1 grado bajo cero de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Nueva Delhi:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Toronto:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=13:0} </li>
+<li>  {1:NUMERICAL:=4:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R014 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Chicago: 6 grados bajo cero de mínima y 0 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Toronto: 5 grados bajo cero de mínima y 1 grado bajo cero de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Chicago:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Toronto:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=6:0} </li>
+<li>  {1:NUMERICAL:=4:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R015 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Medellín: 17 grados de mínima y 28 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Madrid: 3 grados de mínima y 10 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Medellín:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Madrid:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=11:0} </li>
+<li>  {1:NUMERICAL:=7:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R016 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero de mínima y 2 grados bajo cero de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{San Petersburgo: 9 grados bajo cero de mínima y 4 grados bajo cero de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Helsinki:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de San Petersburgo:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=5:0} </li>
+<li>  {1:NUMERICAL:=5:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R017 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Medellín: 17 grados de mínima y 28 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Phuket: 24 grados de mínima y 33 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Medellín:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Phuket:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=11:0} </li>
+<li>  {1:NUMERICAL:=9:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R018 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{México DF: 5 grados de mínima y 22 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Phuket: 24 grados de mínima y 33 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de México DF:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Phuket:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=17:0} </li>
+<li>  {1:NUMERICAL:=9:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R019 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Nueva Delhi: 8 grados de mínima y 21 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{México DF: 5 grados de mínima y 22 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Nueva Delhi:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de México DF:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=13:0} </li>
+<li>  {1:NUMERICAL:=17:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R020 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Phuket: 24 grados de mínima y 33 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Moscú: 10 grados bajo cero de mínima y 5 grados bajo cero de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Phuket:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Moscú:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=9:0} </li>
+<li>  {1:NUMERICAL:=5:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R021 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Nueva York: 3 grados bajo cero de mínima y 4 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Los Ángeles: 9 grados de mínima y 20 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Nueva York:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Los Ángeles:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=7:0} </li>
+<li>  {1:NUMERICAL:=11:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R022 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Moscú: 10 grados bajo cero de mínima y 5 grados bajo cero de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Madrid: 3 grados de mínima y 10 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Moscú:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Madrid:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=5:0} </li>
+<li>  {1:NUMERICAL:=7:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R023 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Chicago: 6 grados bajo cero de mínima y 0 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Medellín: 17 grados de mínima y 28 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Chicago:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Medellín:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=6:0} </li>
+<li>  {1:NUMERICAL:=11:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R024 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Chicago: 6 grados bajo cero de mínima y 0 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Nueva Delhi: 8 grados de mínima y 21 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Chicago:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Nueva Delhi:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=6:0} </li>
+<li>  {1:NUMERICAL:=13:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R025 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Phuket: 24 grados de mínima y 33 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{San Petersburgo: 9 grados bajo cero de mínima y 4 grados bajo cero de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Phuket:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de San Petersburgo:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=9:0} </li>
+<li>  {1:NUMERICAL:=5:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R026 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Nueva Delhi: 8 grados de mínima y 21 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados de mínima y 26 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Nueva Delhi:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Sudáfrica:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=13:0} </li>
+<li>  {1:NUMERICAL:=11:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R027 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Buenos Aires: 21 grados de mínima y 29 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Nueva Delhi: 8 grados de mínima y 21 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Buenos Aires:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Nueva Delhi:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=8:0} </li>
+<li>  {1:NUMERICAL:=13:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R028 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{México DF: 5 grados de mínima y 22 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados de mínima y 26 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de México DF:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Sudáfrica:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=17:0} </li>
+<li>  {1:NUMERICAL:=11:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R029 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Nueva Delhi: 8 grados de mínima y 21 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero de mínima y 2 grados bajo cero de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Nueva Delhi:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Helsinki:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=13:0} </li>
+<li>  {1:NUMERICAL:=5:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R030 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{San Petersburgo: 9 grados bajo cero de mínima y 4 grados bajo cero de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Estocolmo: 4 grados bajo cero de mínima y 1 grado de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de San Petersburgo:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Estocolmo:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=5:0} </li>
+<li>  {1:NUMERICAL:=5:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R031 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Buenos Aires: 21 grados de mínima y 29 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados de mínima y 26 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Buenos Aires:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Sudáfrica:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=8:0} </li>
+<li>  {1:NUMERICAL:=11:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R032 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Medellín: 17 grados de mínima y 28 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Madrid: 3 grados de mínima y 10 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Medellín:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Madrid:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=11:0} </li>
+<li>  {1:NUMERICAL:=7:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R033 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero de mínima y 2 grados bajo cero de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados de mínima y 26 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Helsinki:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Sudáfrica:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=5:0} </li>
+<li>  {1:NUMERICAL:=11:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R034 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{México DF: 5 grados de mínima y 22 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Nueva Delhi: 8 grados de mínima y 21 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de México DF:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Nueva Delhi:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=17:0} </li>
+<li>  {1:NUMERICAL:=13:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R035 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Buenos Aires: 21 grados de mínima y 29 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados de mínima y 26 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Buenos Aires:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Sudáfrica:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=8:0} </li>
+<li>  {1:NUMERICAL:=11:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R036 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Moscú: 10 grados bajo cero de mínima y 5 grados bajo cero de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Los Ángeles: 9 grados de mínima y 20 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Moscú:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Los Ángeles:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=5:0} </li>
+<li>  {1:NUMERICAL:=11:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R037 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Estocolmo: 4 grados bajo cero de mínima y 1 grado de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Madrid: 3 grados de mínima y 10 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Estocolmo:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Madrid:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=5:0} </li>
+<li>  {1:NUMERICAL:=7:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R038 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{San Petersburgo: 9 grados bajo cero de mínima y 4 grados bajo cero de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Estocolmo: 4 grados bajo cero de mínima y 1 grado de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de San Petersburgo:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Estocolmo:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=5:0} </li>
+<li>  {1:NUMERICAL:=5:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R039 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{San Petersburgo: 9 grados bajo cero de mínima y 4 grados bajo cero de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero de mínima y 2 grados bajo cero de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de San Petersburgo:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Helsinki:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=5:0} </li>
+<li>  {1:NUMERICAL:=5:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R040 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Los Ángeles: 9 grados de mínima y 20 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Moscú: 10 grados bajo cero de mínima y 5 grados bajo cero de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Los Ángeles:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Moscú:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=11:0} </li>
+<li>  {1:NUMERICAL:=5:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R041 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{México DF: 5 grados de mínima y 22 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Los Ángeles: 9 grados de mínima y 20 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de México DF:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Los Ángeles:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=17:0} </li>
+<li>  {1:NUMERICAL:=11:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R042 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Nueva Delhi: 8 grados de mínima y 21 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Chicago: 6 grados bajo cero de mínima y 0 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Nueva Delhi:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Chicago:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=13:0} </li>
+<li>  {1:NUMERICAL:=6:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R043 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Nueva York: 3 grados bajo cero de mínima y 4 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Moscú: 10 grados bajo cero de mínima y 5 grados bajo cero de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Nueva York:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Moscú:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=7:0} </li>
+<li>  {1:NUMERICAL:=5:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R044 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Chicago: 6 grados bajo cero de mínima y 0 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Nueva Delhi: 8 grados de mínima y 21 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Chicago:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Nueva Delhi:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=6:0} </li>
+<li>  {1:NUMERICAL:=13:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R045 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Nueva York: 3 grados bajo cero de mínima y 4 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero de mínima y 2 grados bajo cero de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Nueva York:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Helsinki:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=7:0} </li>
+<li>  {1:NUMERICAL:=5:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R046 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Nueva York: 3 grados bajo cero de mínima y 4 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Medellín: 17 grados de mínima y 28 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Nueva York:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Medellín:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=7:0} </li>
+<li>  {1:NUMERICAL:=11:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R047 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Buenos Aires: 21 grados de mínima y 29 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Chicago: 6 grados bajo cero de mínima y 0 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Buenos Aires:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Chicago:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=8:0} </li>
+<li>  {1:NUMERICAL:=6:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R048 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Medellín: 17 grados de mínima y 28 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados de mínima y 26 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Medellín:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Sudáfrica:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=11:0} </li>
+<li>  {1:NUMERICAL:=11:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R049 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Medellín: 17 grados de mínima y 28 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados de mínima y 26 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Medellín:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Sudáfrica:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=11:0} </li>
+<li>  {1:NUMERICAL:=11:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R050 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{México DF: 5 grados de mínima y 22 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados de mínima y 26 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de México DF:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Sudáfrica:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=17:0} </li>
+<li>  {1:NUMERICAL:=11:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R051 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Moscú: 10 grados bajo cero de mínima y 5 grados bajo cero de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Los Ángeles: 9 grados de mínima y 20 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Moscú:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Los Ángeles:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=5:0} </li>
+<li>  {1:NUMERICAL:=11:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R052 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero de mínima y 2 grados bajo cero de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{San Petersburgo: 9 grados bajo cero de mínima y 4 grados bajo cero de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Helsinki:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de San Petersburgo:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=5:0} </li>
+<li>  {1:NUMERICAL:=5:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R053 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Chicago: 6 grados bajo cero de mínima y 0 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados de mínima y 26 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Chicago:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Sudáfrica:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=6:0} </li>
+<li>  {1:NUMERICAL:=11:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R054 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Medellín: 17 grados de mínima y 28 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Toronto: 5 grados bajo cero de mínima y 1 grado bajo cero de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Medellín:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Toronto:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=11:0} </li>
+<li>  {1:NUMERICAL:=4:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R055 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Nueva Delhi: 8 grados de mínima y 21 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Chicago: 6 grados bajo cero de mínima y 0 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Nueva Delhi:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Chicago:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=13:0} </li>
+<li>  {1:NUMERICAL:=6:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R056 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados de mínima y 26 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero de mínima y 2 grados bajo cero de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Sudáfrica:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Helsinki:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=11:0} </li>
+<li>  {1:NUMERICAL:=5:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R057 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Buenos Aires: 21 grados de mínima y 29 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Moscú: 10 grados bajo cero de mínima y 5 grados bajo cero de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Buenos Aires:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Moscú:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=8:0} </li>
+<li>  {1:NUMERICAL:=5:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R058 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Moscú: 10 grados bajo cero de mínima y 5 grados bajo cero de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Madrid: 3 grados de mínima y 10 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Moscú:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Madrid:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=5:0} </li>
+<li>  {1:NUMERICAL:=7:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R059 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{México DF: 5 grados de mínima y 22 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Nueva York: 3 grados bajo cero de mínima y 4 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de México DF:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Nueva York:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=17:0} </li>
+<li>  {1:NUMERICAL:=7:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R060 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Moscú: 10 grados bajo cero de mínima y 5 grados bajo cero de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Medellín: 17 grados de mínima y 28 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Moscú:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Medellín:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=5:0} </li>
+<li>  {1:NUMERICAL:=11:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R061 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados de mínima y 26 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Toronto: 5 grados bajo cero de mínima y 1 grado bajo cero de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Sudáfrica:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Toronto:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=11:0} </li>
+<li>  {1:NUMERICAL:=4:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R062 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero de mínima y 2 grados bajo cero de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Los Ángeles: 9 grados de mínima y 20 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Helsinki:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Los Ángeles:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=5:0} </li>
+<li>  {1:NUMERICAL:=11:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R063 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Medellín: 17 grados de mínima y 28 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Moscú: 10 grados bajo cero de mínima y 5 grados bajo cero de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Medellín:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Moscú:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=11:0} </li>
+<li>  {1:NUMERICAL:=5:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R064 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Phuket: 24 grados de mínima y 33 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Medellín: 17 grados de mínima y 28 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Phuket:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Medellín:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=9:0} </li>
+<li>  {1:NUMERICAL:=11:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R065 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Moscú: 10 grados bajo cero de mínima y 5 grados bajo cero de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Madrid: 3 grados de mínima y 10 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Moscú:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Madrid:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=5:0} </li>
+<li>  {1:NUMERICAL:=7:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R066 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{México DF: 5 grados de mínima y 22 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados de mínima y 26 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de México DF:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Sudáfrica:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=17:0} </li>
+<li>  {1:NUMERICAL:=11:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R067 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Buenos Aires: 21 grados de mínima y 29 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Estocolmo: 4 grados bajo cero de mínima y 1 grado de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Buenos Aires:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Estocolmo:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=8:0} </li>
+<li>  {1:NUMERICAL:=5:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R068 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Madrid: 3 grados de mínima y 10 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Los Ángeles: 9 grados de mínima y 20 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Madrid:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Los Ángeles:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=7:0} </li>
+<li>  {1:NUMERICAL:=11:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R069 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Phuket: 24 grados de mínima y 33 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Madrid: 3 grados de mínima y 10 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Phuket:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Madrid:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=9:0} </li>
+<li>  {1:NUMERICAL:=7:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R070 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{México DF: 5 grados de mínima y 22 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Moscú: 10 grados bajo cero de mínima y 5 grados bajo cero de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de México DF:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Moscú:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=17:0} </li>
+<li>  {1:NUMERICAL:=5:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R071 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero de mínima y 2 grados bajo cero de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Phuket: 24 grados de mínima y 33 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Helsinki:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Phuket:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=5:0} </li>
+<li>  {1:NUMERICAL:=9:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R072 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Madrid: 3 grados de mínima y 10 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Toronto: 5 grados bajo cero de mínima y 1 grado bajo cero de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Madrid:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Toronto:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=7:0} </li>
+<li>  {1:NUMERICAL:=4:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R073 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados de mínima y 26 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Chicago: 6 grados bajo cero de mínima y 0 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Sudáfrica:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Chicago:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=11:0} </li>
+<li>  {1:NUMERICAL:=6:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R074 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Nueva York: 3 grados bajo cero de mínima y 4 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Los Ángeles: 9 grados de mínima y 20 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Nueva York:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Los Ángeles:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=7:0} </li>
+<li>  {1:NUMERICAL:=11:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R075 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Nueva Delhi: 8 grados de mínima y 21 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Phuket: 24 grados de mínima y 33 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Nueva Delhi:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Phuket:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=13:0} </li>
+<li>  {1:NUMERICAL:=9:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R076 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados de mínima y 26 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Buenos Aires: 21 grados de mínima y 29 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Sudáfrica:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Buenos Aires:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=11:0} </li>
+<li>  {1:NUMERICAL:=8:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R077 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Medellín: 17 grados de mínima y 28 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Nueva Delhi: 8 grados de mínima y 21 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Medellín:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Nueva Delhi:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=11:0} </li>
+<li>  {1:NUMERICAL:=13:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R078 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Buenos Aires: 21 grados de mínima y 29 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Los Ángeles: 9 grados de mínima y 20 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Buenos Aires:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Los Ángeles:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=8:0} </li>
+<li>  {1:NUMERICAL:=11:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R079 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Estocolmo: 4 grados bajo cero de mínima y 1 grado de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Medellín: 17 grados de mínima y 28 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Estocolmo:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Medellín:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=5:0} </li>
+<li>  {1:NUMERICAL:=11:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R080 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Estocolmo: 4 grados bajo cero de mínima y 1 grado de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Toronto: 5 grados bajo cero de mínima y 1 grado bajo cero de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Estocolmo:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Toronto:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=5:0} </li>
+<li>  {1:NUMERICAL:=4:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R081 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero de mínima y 2 grados bajo cero de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Moscú: 10 grados bajo cero de mínima y 5 grados bajo cero de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Helsinki:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Moscú:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=5:0} </li>
+<li>  {1:NUMERICAL:=5:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R082 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{San Petersburgo: 9 grados bajo cero de mínima y 4 grados bajo cero de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Phuket: 24 grados de mínima y 33 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de San Petersburgo:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Phuket:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=5:0} </li>
+<li>  {1:NUMERICAL:=9:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R083 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Moscú: 10 grados bajo cero de mínima y 5 grados bajo cero de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Phuket: 24 grados de mínima y 33 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Moscú:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Phuket:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=5:0} </li>
+<li>  {1:NUMERICAL:=9:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R084 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Buenos Aires: 21 grados de mínima y 29 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Medellín: 17 grados de mínima y 28 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Buenos Aires:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Medellín:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=8:0} </li>
+<li>  {1:NUMERICAL:=11:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R085 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Chicago: 6 grados bajo cero de mínima y 0 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Los Ángeles: 9 grados de mínima y 20 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Chicago:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Los Ángeles:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=6:0} </li>
+<li>  {1:NUMERICAL:=11:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R086 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Chicago: 6 grados bajo cero de mínima y 0 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Phuket: 24 grados de mínima y 33 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Chicago:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Phuket:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=6:0} </li>
+<li>  {1:NUMERICAL:=9:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R087 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados de mínima y 26 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Nueva Delhi: 8 grados de mínima y 21 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Sudáfrica:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Nueva Delhi:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=11:0} </li>
+<li>  {1:NUMERICAL:=13:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R088 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Buenos Aires: 21 grados de mínima y 29 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero de mínima y 2 grados bajo cero de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Buenos Aires:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Helsinki:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=8:0} </li>
+<li>  {1:NUMERICAL:=5:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R089 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Nueva Delhi: 8 grados de mínima y 21 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero de mínima y 2 grados bajo cero de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Nueva Delhi:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Helsinki:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=13:0} </li>
+<li>  {1:NUMERICAL:=5:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R090 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Phuket: 24 grados de mínima y 33 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Nueva Delhi: 8 grados de mínima y 21 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Phuket:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Nueva Delhi:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=9:0} </li>
+<li>  {1:NUMERICAL:=13:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R091 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados de mínima y 26 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Madrid: 3 grados de mínima y 10 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Sudáfrica:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Madrid:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=11:0} </li>
+<li>  {1:NUMERICAL:=7:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R092 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{México DF: 5 grados de mínima y 22 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Medellín: 17 grados de mínima y 28 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de México DF:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Medellín:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=17:0} </li>
+<li>  {1:NUMERICAL:=11:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R093 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{México DF: 5 grados de mínima y 22 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{San Petersburgo: 9 grados bajo cero de mínima y 4 grados bajo cero de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de México DF:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de San Petersburgo:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=17:0} </li>
+<li>  {1:NUMERICAL:=5:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R094 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Medellín: 17 grados de mínima y 28 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Los Ángeles: 9 grados de mínima y 20 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Medellín:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Los Ángeles:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=11:0} </li>
+<li>  {1:NUMERICAL:=11:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R095 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Nueva York: 3 grados bajo cero de mínima y 4 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Phuket: 24 grados de mínima y 33 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Nueva York:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Phuket:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=7:0} </li>
+<li>  {1:NUMERICAL:=9:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R096 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Chicago: 6 grados bajo cero de mínima y 0 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Nueva York: 3 grados bajo cero de mínima y 4 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Chicago:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Nueva York:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=6:0} </li>
+<li>  {1:NUMERICAL:=7:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R097 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{México DF: 5 grados de mínima y 22 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Nueva Delhi: 8 grados de mínima y 21 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de México DF:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Nueva Delhi:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=17:0} </li>
+<li>  {1:NUMERICAL:=13:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R098 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Estocolmo: 4 grados bajo cero de mínima y 1 grado de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Phuket: 24 grados de mínima y 33 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Estocolmo:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Phuket:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=5:0} </li>
+<li>  {1:NUMERICAL:=9:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R099 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados de mínima y 26 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Los Ángeles: 9 grados de mínima y 20 grados de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Sudáfrica:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Los Ángeles:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=11:0} </li>
+<li>  {1:NUMERICAL:=11:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R100 Q1 : RN_sumarestaZ-ampter </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OperacionesZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas y máximas promedio (en grados centígrados) de dos ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados de mínima y 26 grados de máxima.}\)</span></li>
+<li><span class="math inline">\(\text{Estocolmo: 4 grados bajo cero de mínima y 1 grado de máxima.}\)</span></li>
+</ul>
+<p>Indicar la amplitud térmica de cada una de ellas. [Se llama “amplitud térmica” a la diferencia entre la temperaturas máxima y la mínima.]</p>
+<ul>
+<li><p><span class="math inline">\(\text{Amplitud términca de Sudáfrica:}\)</span></p></li>
+<li><p><span class="math inline">\(\text{Amplitud térmica de Estocolmo:}\)</span></p></li>
+<li><p>¿Es posible que la amplitud térmica sea negativa?</p></li>
+</ul>
+<ol type = "a">
+<li>  {1:NUMERICAL:=11:0} </li>
+<li>  {1:NUMERICAL:=5:0} </li>
+<li> {1:MULTICHOICE:Sí.~=No.} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+</quiz>

@@ -1,0 +1,5211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/SEC_NO_SimplificacionFracciones/SEC_NO_SimplificacionFracciones</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R001 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{1281}{357}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{1281}{357}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(3\)</span>
+<span class="math display">\[
+\frac{1281}{357}=\frac{427}{119}
+\]</span></p>
+<p>y también por <span class="math inline">\(7\)</span>
+<span class="math display">\[
+\frac{427}{119}=\frac{61}{17}
+\]</span>
+Finalmente, <span class="math inline">\(61\)</span> y <span class="math inline">\(17\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{61}{17}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{61}{17}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{17}{61}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{183}{51}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{427}{119}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R002 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{1935}{3195}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{1935}{3195}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(5\)</span>
+<span class="math display">\[
+\frac{1935}{3195}=\frac{387}{639}
+\]</span></p>
+<p>y también por <span class="math inline">\(9\)</span>
+<span class="math display">\[
+\frac{387}{639}=\frac{43}{71}
+\]</span>
+Finalmente, <span class="math inline">\(43\)</span> y <span class="math inline">\(71\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{43}{71}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{43}{71}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{71}{43}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{215}{355}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{387}{639}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R003 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{738}{1098}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{738}{1098}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(2\)</span>
+<span class="math display">\[
+\frac{738}{1098}=\frac{369}{549}
+\]</span></p>
+<p>y también por <span class="math inline">\(9\)</span>
+<span class="math display">\[
+\frac{369}{549}=\frac{41}{61}
+\]</span>
+Finalmente, <span class="math inline">\(41\)</span> y <span class="math inline">\(61\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{41}{61}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{41}{61}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{61}{41}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{82}{122}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{369}{549}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R004 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{224}{1952}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{224}{1952}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(4\)</span>
+<span class="math display">\[
+\frac{224}{1952}=\frac{56}{488}
+\]</span></p>
+<p>y también por <span class="math inline">\(8\)</span>
+<span class="math display">\[
+\frac{56}{488}=\frac{7}{61}
+\]</span>
+Finalmente, <span class="math inline">\(7\)</span> y <span class="math inline">\(61\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{7}{61}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{7}{61}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{61}{7}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{28}{244}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{56}{488}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R005 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{435}{645}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{435}{645}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(3\)</span>
+<span class="math display">\[
+\frac{435}{645}=\frac{145}{215}
+\]</span></p>
+<p>y también por <span class="math inline">\(5\)</span>
+<span class="math display">\[
+\frac{145}{215}=\frac{29}{43}
+\]</span>
+Finalmente, <span class="math inline">\(29\)</span> y <span class="math inline">\(43\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{29}{43}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{29}{43}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{43}{29}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{87}{129}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{145}{215}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R006 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{90}{210}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{90}{210}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(5\)</span>
+<span class="math display">\[
+\frac{90}{210}=\frac{18}{42}
+\]</span></p>
+<p>y también por <span class="math inline">\(6\)</span>
+<span class="math display">\[
+\frac{18}{42}=\frac{3}{7}
+\]</span>
+Finalmente, <span class="math inline">\(3\)</span> y <span class="math inline">\(7\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{3}{7}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{3}{7}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{7}{3}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{15}{35}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{18}{42}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R007 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{1410}{90}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{1410}{90}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(3\)</span>
+<span class="math display">\[
+\frac{1410}{90}=\frac{470}{30}
+\]</span></p>
+<p>y también por <span class="math inline">\(10\)</span>
+<span class="math display">\[
+\frac{470}{30}=\frac{47}{3}
+\]</span>
+Finalmente, <span class="math inline">\(47\)</span> y <span class="math inline">\(3\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{47}{3}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{47}{3}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{3}{47}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{141}{9}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{470}{30}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R008 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{1533}{1659}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{1533}{1659}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(3\)</span>
+<span class="math display">\[
+\frac{1533}{1659}=\frac{511}{553}
+\]</span></p>
+<p>y también por <span class="math inline">\(7\)</span>
+<span class="math display">\[
+\frac{511}{553}=\frac{73}{79}
+\]</span>
+Finalmente, <span class="math inline">\(73\)</span> y <span class="math inline">\(79\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{73}{79}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{73}{79}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{79}{73}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{219}{237}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{511}{553}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R009 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{3195}{4365}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{3195}{4365}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(5\)</span>
+<span class="math display">\[
+\frac{3195}{4365}=\frac{639}{873}
+\]</span></p>
+<p>y también por <span class="math inline">\(9\)</span>
+<span class="math display">\[
+\frac{639}{873}=\frac{71}{97}
+\]</span>
+Finalmente, <span class="math inline">\(71\)</span> y <span class="math inline">\(97\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{71}{97}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{71}{97}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{97}{71}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{355}{485}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{639}{873}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R010 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{4020}{2220}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{4020}{2220}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(6\)</span>
+<span class="math display">\[
+\frac{4020}{2220}=\frac{670}{370}
+\]</span></p>
+<p>y también por <span class="math inline">\(10\)</span>
+<span class="math display">\[
+\frac{670}{370}=\frac{67}{37}
+\]</span>
+Finalmente, <span class="math inline">\(67\)</span> y <span class="math inline">\(37\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{67}{37}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{67}{37}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{37}{67}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{402}{222}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{670}{370}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R011 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{168}{392}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{168}{392}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(7\)</span>
+<span class="math display">\[
+\frac{168}{392}=\frac{24}{56}
+\]</span></p>
+<p>y también por <span class="math inline">\(8\)</span>
+<span class="math display">\[
+\frac{24}{56}=\frac{3}{7}
+\]</span>
+Finalmente, <span class="math inline">\(3\)</span> y <span class="math inline">\(7\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{3}{7}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{3}{7}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{7}{3}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{21}{49}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{24}{56}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R012 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{2345}{245}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{2345}{245}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(5\)</span>
+<span class="math display">\[
+\frac{2345}{245}=\frac{469}{49}
+\]</span></p>
+<p>y también por <span class="math inline">\(7\)</span>
+<span class="math display">\[
+\frac{469}{49}=\frac{67}{7}
+\]</span>
+Finalmente, <span class="math inline">\(67\)</span> y <span class="math inline">\(7\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{67}{7}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{67}{7}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{7}{67}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{335}{35}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{469}{49}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R013 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{3760}{1040}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{3760}{1040}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(8\)</span>
+<span class="math display">\[
+\frac{3760}{1040}=\frac{470}{130}
+\]</span></p>
+<p>y también por <span class="math inline">\(10\)</span>
+<span class="math display">\[
+\frac{470}{130}=\frac{47}{13}
+\]</span>
+Finalmente, <span class="math inline">\(47\)</span> y <span class="math inline">\(13\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{47}{13}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{47}{13}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{13}{47}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{376}{104}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{470}{130}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R014 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{1968}{2928}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{1968}{2928}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(6\)</span>
+<span class="math display">\[
+\frac{1968}{2928}=\frac{328}{488}
+\]</span></p>
+<p>y también por <span class="math inline">\(8\)</span>
+<span class="math display">\[
+\frac{328}{488}=\frac{41}{61}
+\]</span>
+Finalmente, <span class="math inline">\(41\)</span> y <span class="math inline">\(61\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{41}{61}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{41}{61}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{61}{41}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{246}{366}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{328}{488}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R015 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{645}{915}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{645}{915}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(3\)</span>
+<span class="math display">\[
+\frac{645}{915}=\frac{215}{305}
+\]</span></p>
+<p>y también por <span class="math inline">\(5\)</span>
+<span class="math display">\[
+\frac{215}{305}=\frac{43}{61}
+\]</span>
+Finalmente, <span class="math inline">\(43\)</span> y <span class="math inline">\(61\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{43}{61}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{43}{61}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{61}{43}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{129}{183}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{215}{305}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R016 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{2296}{728}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{2296}{728}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(7\)</span>
+<span class="math display">\[
+\frac{2296}{728}=\frac{328}{104}
+\]</span></p>
+<p>y también por <span class="math inline">\(8\)</span>
+<span class="math display">\[
+\frac{328}{104}=\frac{41}{13}
+\]</span>
+Finalmente, <span class="math inline">\(41\)</span> y <span class="math inline">\(13\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{41}{13}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{41}{13}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{13}{41}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{287}{91}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{328}{104}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R017 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{266}{742}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{266}{742}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(2\)</span>
+<span class="math display">\[
+\frac{266}{742}=\frac{133}{371}
+\]</span></p>
+<p>y también por <span class="math inline">\(7\)</span>
+<span class="math display">\[
+\frac{133}{371}=\frac{19}{53}
+\]</span>
+Finalmente, <span class="math inline">\(19\)</span> y <span class="math inline">\(53\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{19}{53}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{19}{53}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{53}{19}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{38}{106}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{133}{371}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R018 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{650}{3350}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{650}{3350}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(5\)</span>
+<span class="math display">\[
+\frac{650}{3350}=\frac{130}{670}
+\]</span></p>
+<p>y también por <span class="math inline">\(10\)</span>
+<span class="math display">\[
+\frac{130}{670}=\frac{13}{67}
+\]</span>
+Finalmente, <span class="math inline">\(13\)</span> y <span class="math inline">\(67\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{13}{67}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{13}{67}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{67}{13}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{65}{335}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{130}{670}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R019 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{1645}{455}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{1645}{455}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(5\)</span>
+<span class="math display">\[
+\frac{1645}{455}=\frac{329}{91}
+\]</span></p>
+<p>y también por <span class="math inline">\(7\)</span>
+<span class="math display">\[
+\frac{329}{91}=\frac{47}{13}
+\]</span>
+Finalmente, <span class="math inline">\(47\)</span> y <span class="math inline">\(13\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{47}{13}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{47}{13}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{13}{47}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{235}{65}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{329}{91}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R020 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{3650}{1850}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{3650}{1850}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(5\)</span>
+<span class="math display">\[
+\frac{3650}{1850}=\frac{730}{370}
+\]</span></p>
+<p>y también por <span class="math inline">\(10\)</span>
+<span class="math display">\[
+\frac{730}{370}=\frac{73}{37}
+\]</span>
+Finalmente, <span class="math inline">\(73\)</span> y <span class="math inline">\(37\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{73}{37}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{73}{37}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{37}{73}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{365}{185}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{730}{370}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R021 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{1020}{300}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{1020}{300}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(6\)</span>
+<span class="math display">\[
+\frac{1020}{300}=\frac{170}{50}
+\]</span></p>
+<p>y también por <span class="math inline">\(10\)</span>
+<span class="math display">\[
+\frac{170}{50}=\frac{17}{5}
+\]</span>
+Finalmente, <span class="math inline">\(17\)</span> y <span class="math inline">\(5\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{17}{5}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{17}{5}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{5}{17}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{102}{30}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{170}{50}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R022 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{492}{132}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{492}{132}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(3\)</span>
+<span class="math display">\[
+\frac{492}{132}=\frac{164}{44}
+\]</span></p>
+<p>y también por <span class="math inline">\(4\)</span>
+<span class="math display">\[
+\frac{164}{44}=\frac{41}{11}
+\]</span>
+Finalmente, <span class="math inline">\(41\)</span> y <span class="math inline">\(11\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{41}{11}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{41}{11}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{11}{41}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{123}{33}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{164}{44}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R023 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{612}{2844}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{612}{2844}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(4\)</span>
+<span class="math display">\[
+\frac{612}{2844}=\frac{153}{711}
+\]</span></p>
+<p>y también por <span class="math inline">\(9\)</span>
+<span class="math display">\[
+\frac{153}{711}=\frac{17}{79}
+\]</span>
+Finalmente, <span class="math inline">\(17\)</span> y <span class="math inline">\(79\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{17}{79}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{17}{79}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{79}{17}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{68}{316}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{153}{711}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R024 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{1580}{260}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{1580}{260}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(2\)</span>
+<span class="math display">\[
+\frac{1580}{260}=\frac{790}{130}
+\]</span></p>
+<p>y también por <span class="math inline">\(10\)</span>
+<span class="math display">\[
+\frac{790}{130}=\frac{79}{13}
+\]</span>
+Finalmente, <span class="math inline">\(79\)</span> y <span class="math inline">\(13\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{79}{13}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{79}{13}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{13}{79}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{158}{26}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{790}{130}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R025 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{4240}{3760}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{4240}{3760}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(8\)</span>
+<span class="math display">\[
+\frac{4240}{3760}=\frac{530}{470}
+\]</span></p>
+<p>y también por <span class="math inline">\(10\)</span>
+<span class="math display">\[
+\frac{530}{470}=\frac{53}{47}
+\]</span>
+Finalmente, <span class="math inline">\(53\)</span> y <span class="math inline">\(47\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{53}{47}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{53}{47}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{47}{53}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{424}{376}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{530}{470}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R026 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{465}{1335}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{465}{1335}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(3\)</span>
+<span class="math display">\[
+\frac{465}{1335}=\frac{155}{445}
+\]</span></p>
+<p>y también por <span class="math inline">\(5\)</span>
+<span class="math display">\[
+\frac{155}{445}=\frac{31}{89}
+\]</span>
+Finalmente, <span class="math inline">\(31\)</span> y <span class="math inline">\(89\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{31}{89}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{31}{89}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{89}{31}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{93}{267}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{155}{445}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R027 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{621}{1269}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{621}{1269}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(3\)</span>
+<span class="math display">\[
+\frac{621}{1269}=\frac{207}{423}
+\]</span></p>
+<p>y también por <span class="math inline">\(9\)</span>
+<span class="math display">\[
+\frac{207}{423}=\frac{23}{47}
+\]</span>
+Finalmente, <span class="math inline">\(23\)</span> y <span class="math inline">\(47\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{23}{47}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{23}{47}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{47}{23}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{69}{141}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{207}{423}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R028 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{5360}{5680}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{5360}{5680}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(8\)</span>
+<span class="math display">\[
+\frac{5360}{5680}=\frac{670}{710}
+\]</span></p>
+<p>y también por <span class="math inline">\(10\)</span>
+<span class="math display">\[
+\frac{670}{710}=\frac{67}{71}
+\]</span>
+Finalmente, <span class="math inline">\(67\)</span> y <span class="math inline">\(71\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{67}{71}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{67}{71}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{71}{67}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{536}{568}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{670}{710}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R029 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{1992}{408}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{1992}{408}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(3\)</span>
+<span class="math display">\[
+\frac{1992}{408}=\frac{664}{136}
+\]</span></p>
+<p>y también por <span class="math inline">\(8\)</span>
+<span class="math display">\[
+\frac{664}{136}=\frac{83}{17}
+\]</span>
+Finalmente, <span class="math inline">\(83\)</span> y <span class="math inline">\(17\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{83}{17}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{83}{17}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{17}{83}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{249}{51}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{664}{136}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R030 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{1674}{1998}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{1674}{1998}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(6\)</span>
+<span class="math display">\[
+\frac{1674}{1998}=\frac{279}{333}
+\]</span></p>
+<p>y también por <span class="math inline">\(9\)</span>
+<span class="math display">\[
+\frac{279}{333}=\frac{31}{37}
+\]</span>
+Finalmente, <span class="math inline">\(31\)</span> y <span class="math inline">\(37\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{31}{37}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{31}{37}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{37}{31}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{186}{222}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{279}{333}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R031 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{438}{402}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{438}{402}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(2\)</span>
+<span class="math display">\[
+\frac{438}{402}=\frac{219}{201}
+\]</span></p>
+<p>y también por <span class="math inline">\(3\)</span>
+<span class="math display">\[
+\frac{219}{201}=\frac{73}{67}
+\]</span>
+Finalmente, <span class="math inline">\(73\)</span> y <span class="math inline">\(67\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{73}{67}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{73}{67}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{67}{73}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{146}{134}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{219}{201}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R032 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{880}{2960}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{880}{2960}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(8\)</span>
+<span class="math display">\[
+\frac{880}{2960}=\frac{110}{370}
+\]</span></p>
+<p>y también por <span class="math inline">\(10\)</span>
+<span class="math display">\[
+\frac{110}{370}=\frac{11}{37}
+\]</span>
+Finalmente, <span class="math inline">\(11\)</span> y <span class="math inline">\(37\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{11}{37}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{11}{37}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{37}{11}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{88}{296}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{110}{370}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R033 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{1548}{396}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{1548}{396}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(4\)</span>
+<span class="math display">\[
+\frac{1548}{396}=\frac{387}{99}
+\]</span></p>
+<p>y también por <span class="math inline">\(9\)</span>
+<span class="math display">\[
+\frac{387}{99}=\frac{43}{11}
+\]</span>
+Finalmente, <span class="math inline">\(43\)</span> y <span class="math inline">\(11\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{43}{11}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{43}{11}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{11}{43}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{172}{44}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{387}{99}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R034 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{1776}{1392}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{1776}{1392}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(6\)</span>
+<span class="math display">\[
+\frac{1776}{1392}=\frac{296}{232}
+\]</span></p>
+<p>y también por <span class="math inline">\(8\)</span>
+<span class="math display">\[
+\frac{296}{232}=\frac{37}{29}
+\]</span>
+Finalmente, <span class="math inline">\(37\)</span> y <span class="math inline">\(29\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{37}{29}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{37}{29}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{29}{37}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{222}{174}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{296}{232}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R035 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{1036}{1316}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{1036}{1316}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(4\)</span>
+<span class="math display">\[
+\frac{1036}{1316}=\frac{259}{329}
+\]</span></p>
+<p>y también por <span class="math inline">\(7\)</span>
+<span class="math display">\[
+\frac{259}{329}=\frac{37}{47}
+\]</span>
+Finalmente, <span class="math inline">\(37\)</span> y <span class="math inline">\(47\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{37}{47}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{37}{47}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{47}{37}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{148}{188}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{259}{329}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R036 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{680}{3880}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{680}{3880}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(4\)</span>
+<span class="math display">\[
+\frac{680}{3880}=\frac{170}{970}
+\]</span></p>
+<p>y también por <span class="math inline">\(10\)</span>
+<span class="math display">\[
+\frac{170}{970}=\frac{17}{97}
+\]</span>
+Finalmente, <span class="math inline">\(17\)</span> y <span class="math inline">\(97\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{17}{97}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{17}{97}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{97}{17}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{68}{388}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{170}{970}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R037 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{1720}{1240}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{1720}{1240}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(4\)</span>
+<span class="math display">\[
+\frac{1720}{1240}=\frac{430}{310}
+\]</span></p>
+<p>y también por <span class="math inline">\(10\)</span>
+<span class="math display">\[
+\frac{430}{310}=\frac{43}{31}
+\]</span>
+Finalmente, <span class="math inline">\(43\)</span> y <span class="math inline">\(31\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{43}{31}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{43}{31}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{31}{43}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{172}{124}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{430}{310}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R038 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{440}{680}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{440}{680}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(4\)</span>
+<span class="math display">\[
+\frac{440}{680}=\frac{110}{170}
+\]</span></p>
+<p>y también por <span class="math inline">\(10\)</span>
+<span class="math display">\[
+\frac{110}{170}=\frac{11}{17}
+\]</span>
+Finalmente, <span class="math inline">\(11\)</span> y <span class="math inline">\(17\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{11}{17}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{11}{17}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{17}{11}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{44}{68}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{110}{170}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R039 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{1180}{460}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{1180}{460}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(4\)</span>
+<span class="math display">\[
+\frac{1180}{460}=\frac{295}{115}
+\]</span></p>
+<p>y también por <span class="math inline">\(5\)</span>
+<span class="math display">\[
+\frac{295}{115}=\frac{59}{23}
+\]</span>
+Finalmente, <span class="math inline">\(59\)</span> y <span class="math inline">\(23\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{59}{23}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{59}{23}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{23}{59}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{236}{92}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{295}{115}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R040 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{438}{222}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{438}{222}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(2\)</span>
+<span class="math display">\[
+\frac{438}{222}=\frac{219}{111}
+\]</span></p>
+<p>y también por <span class="math inline">\(3\)</span>
+<span class="math display">\[
+\frac{219}{111}=\frac{73}{37}
+\]</span>
+Finalmente, <span class="math inline">\(73\)</span> y <span class="math inline">\(37\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{73}{37}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{73}{37}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{37}{73}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{146}{74}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{219}{111}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R041 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{300}{2220}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{300}{2220}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(6\)</span>
+<span class="math display">\[
+\frac{300}{2220}=\frac{50}{370}
+\]</span></p>
+<p>y también por <span class="math inline">\(10\)</span>
+<span class="math display">\[
+\frac{50}{370}=\frac{5}{37}
+\]</span>
+Finalmente, <span class="math inline">\(5\)</span> y <span class="math inline">\(37\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{5}{37}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{5}{37}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{37}{5}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{30}{222}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{50}{370}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R042 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{3870}{3690}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{3870}{3690}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(9\)</span>
+<span class="math display">\[
+\frac{3870}{3690}=\frac{430}{410}
+\]</span></p>
+<p>y también por <span class="math inline">\(10\)</span>
+<span class="math display">\[
+\frac{430}{410}=\frac{43}{41}
+\]</span>
+Finalmente, <span class="math inline">\(43\)</span> y <span class="math inline">\(41\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{43}{41}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{43}{41}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{41}{43}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{387}{369}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{430}{410}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R043 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{3555}{2385}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{3555}{2385}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(5\)</span>
+<span class="math display">\[
+\frac{3555}{2385}=\frac{711}{477}
+\]</span></p>
+<p>y también por <span class="math inline">\(9\)</span>
+<span class="math display">\[
+\frac{711}{477}=\frac{79}{53}
+\]</span>
+Finalmente, <span class="math inline">\(79\)</span> y <span class="math inline">\(53\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{79}{53}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{79}{53}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{53}{79}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{395}{265}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{711}{477}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R044 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{315}{765}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{315}{765}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(5\)</span>
+<span class="math display">\[
+\frac{315}{765}=\frac{63}{153}
+\]</span></p>
+<p>y también por <span class="math inline">\(9\)</span>
+<span class="math display">\[
+\frac{63}{153}=\frac{7}{17}
+\]</span>
+Finalmente, <span class="math inline">\(7\)</span> y <span class="math inline">\(17\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{7}{17}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{7}{17}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{17}{7}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{35}{85}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{63}{153}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R045 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{126}{2814}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{126}{2814}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(6\)</span>
+<span class="math display">\[
+\frac{126}{2814}=\frac{21}{469}
+\]</span></p>
+<p>y también por <span class="math inline">\(7\)</span>
+<span class="math display">\[
+\frac{21}{469}=\frac{3}{67}
+\]</span>
+Finalmente, <span class="math inline">\(3\)</span> y <span class="math inline">\(67\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{3}{67}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{3}{67}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{67}{3}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{18}{402}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{21}{469}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R046 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{4599}{4977}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{4599}{4977}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(7\)</span>
+<span class="math display">\[
+\frac{4599}{4977}=\frac{657}{711}
+\]</span></p>
+<p>y también por <span class="math inline">\(9\)</span>
+<span class="math display">\[
+\frac{657}{711}=\frac{73}{79}
+\]</span>
+Finalmente, <span class="math inline">\(73\)</span> y <span class="math inline">\(79\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{73}{79}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{73}{79}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{79}{73}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{511}{553}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{657}{711}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R047 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{680}{440}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{680}{440}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(4\)</span>
+<span class="math display">\[
+\frac{680}{440}=\frac{170}{110}
+\]</span></p>
+<p>y también por <span class="math inline">\(10\)</span>
+<span class="math display">\[
+\frac{170}{110}=\frac{17}{11}
+\]</span>
+Finalmente, <span class="math inline">\(17\)</span> y <span class="math inline">\(11\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{17}{11}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{17}{11}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{11}{17}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{68}{44}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{170}{110}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R048 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{1659}{1491}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{1659}{1491}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(3\)</span>
+<span class="math display">\[
+\frac{1659}{1491}=\frac{553}{497}
+\]</span></p>
+<p>y también por <span class="math inline">\(7\)</span>
+<span class="math display">\[
+\frac{553}{497}=\frac{79}{71}
+\]</span>
+Finalmente, <span class="math inline">\(79\)</span> y <span class="math inline">\(71\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{79}{71}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{79}{71}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{71}{79}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{237}{213}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{553}{497}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R049 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{660}{1740}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{660}{1740}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(6\)</span>
+<span class="math display">\[
+\frac{660}{1740}=\frac{110}{290}
+\]</span></p>
+<p>y también por <span class="math inline">\(10\)</span>
+<span class="math display">\[
+\frac{110}{290}=\frac{11}{29}
+\]</span>
+Finalmente, <span class="math inline">\(11\)</span> y <span class="math inline">\(29\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{11}{29}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{11}{29}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{29}{11}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{66}{174}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{110}{290}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R050 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{3618}{2538}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{3618}{2538}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(6\)</span>
+<span class="math display">\[
+\frac{3618}{2538}=\frac{603}{423}
+\]</span></p>
+<p>y también por <span class="math inline">\(9\)</span>
+<span class="math display">\[
+\frac{603}{423}=\frac{67}{47}
+\]</span>
+Finalmente, <span class="math inline">\(67\)</span> y <span class="math inline">\(47\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{67}{47}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{67}{47}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{47}{67}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{402}{282}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{603}{423}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R051 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{5256}{2952}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{5256}{2952}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(8\)</span>
+<span class="math display">\[
+\frac{5256}{2952}=\frac{657}{369}
+\]</span></p>
+<p>y también por <span class="math inline">\(9\)</span>
+<span class="math display">\[
+\frac{657}{369}=\frac{73}{41}
+\]</span>
+Finalmente, <span class="math inline">\(73\)</span> y <span class="math inline">\(41\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{73}{41}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{73}{41}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{41}{73}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{584}{328}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{657}{369}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R052 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{1281}{651}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{1281}{651}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(3\)</span>
+<span class="math display">\[
+\frac{1281}{651}=\frac{427}{217}
+\]</span></p>
+<p>y también por <span class="math inline">\(7\)</span>
+<span class="math display">\[
+\frac{427}{217}=\frac{61}{31}
+\]</span>
+Finalmente, <span class="math inline">\(61\)</span> y <span class="math inline">\(31\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{61}{31}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{61}{31}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{31}{61}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{183}{93}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{427}{217}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R053 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{1264}{112}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{1264}{112}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(2\)</span>
+<span class="math display">\[
+\frac{1264}{112}=\frac{632}{56}
+\]</span></p>
+<p>y también por <span class="math inline">\(8\)</span>
+<span class="math display">\[
+\frac{632}{56}=\frac{79}{7}
+\]</span>
+Finalmente, <span class="math inline">\(79\)</span> y <span class="math inline">\(7\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{79}{7}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{79}{7}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{7}{79}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{158}{14}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{632}{56}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R054 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{1449}{1197}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{1449}{1197}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(7\)</span>
+<span class="math display">\[
+\frac{1449}{1197}=\frac{207}{171}
+\]</span></p>
+<p>y también por <span class="math inline">\(9\)</span>
+<span class="math display">\[
+\frac{207}{171}=\frac{23}{19}
+\]</span>
+Finalmente, <span class="math inline">\(23\)</span> y <span class="math inline">\(19\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{23}{19}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{23}{19}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{19}{23}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{161}{133}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{207}{171}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R055 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{2480}{7120}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{2480}{7120}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(8\)</span>
+<span class="math display">\[
+\frac{2480}{7120}=\frac{310}{890}
+\]</span></p>
+<p>y también por <span class="math inline">\(10\)</span>
+<span class="math display">\[
+\frac{310}{890}=\frac{31}{89}
+\]</span>
+Finalmente, <span class="math inline">\(31\)</span> y <span class="math inline">\(89\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{31}{89}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{31}{89}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{89}{31}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{248}{712}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{310}{890}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R056 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{4248}{6984}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{4248}{6984}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(8\)</span>
+<span class="math display">\[
+\frac{4248}{6984}=\frac{531}{873}
+\]</span></p>
+<p>y también por <span class="math inline">\(9\)</span>
+<span class="math display">\[
+\frac{531}{873}=\frac{59}{97}
+\]</span>
+Finalmente, <span class="math inline">\(59\)</span> y <span class="math inline">\(97\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{59}{97}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{59}{97}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{97}{59}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{472}{776}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{531}{873}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R057 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{3560}{3320}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{3560}{3320}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(5\)</span>
+<span class="math display">\[
+\frac{3560}{3320}=\frac{712}{664}
+\]</span></p>
+<p>y también por <span class="math inline">\(8\)</span>
+<span class="math display">\[
+\frac{712}{664}=\frac{89}{83}
+\]</span>
+Finalmente, <span class="math inline">\(89\)</span> y <span class="math inline">\(83\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{89}{83}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{89}{83}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{83}{89}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{445}{415}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{712}{664}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R058 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{132}{732}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{132}{732}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(2\)</span>
+<span class="math display">\[
+\frac{132}{732}=\frac{66}{366}
+\]</span></p>
+<p>y también por <span class="math inline">\(6\)</span>
+<span class="math display">\[
+\frac{66}{366}=\frac{11}{61}
+\]</span>
+Finalmente, <span class="math inline">\(11\)</span> y <span class="math inline">\(61\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{11}{61}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{11}{61}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{61}{11}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{22}{122}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{66}{366}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R059 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{342}{126}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{342}{126}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(3\)</span>
+<span class="math display">\[
+\frac{342}{126}=\frac{114}{42}
+\]</span></p>
+<p>y también por <span class="math inline">\(6\)</span>
+<span class="math display">\[
+\frac{114}{42}=\frac{19}{7}
+\]</span>
+Finalmente, <span class="math inline">\(19\)</span> y <span class="math inline">\(7\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{19}{7}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{19}{7}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{7}{19}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{57}{21}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{114}{42}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R060 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{476}{84}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{476}{84}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(4\)</span>
+<span class="math display">\[
+\frac{476}{84}=\frac{119}{21}
+\]</span></p>
+<p>y también por <span class="math inline">\(7\)</span>
+<span class="math display">\[
+\frac{119}{21}=\frac{17}{3}
+\]</span>
+Finalmente, <span class="math inline">\(17\)</span> y <span class="math inline">\(3\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{17}{3}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{17}{3}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{3}{17}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{68}{12}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{119}{21}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R061 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{999}{1269}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{999}{1269}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(3\)</span>
+<span class="math display">\[
+\frac{999}{1269}=\frac{333}{423}
+\]</span></p>
+<p>y también por <span class="math inline">\(9\)</span>
+<span class="math display">\[
+\frac{333}{423}=\frac{37}{47}
+\]</span>
+Finalmente, <span class="math inline">\(37\)</span> y <span class="math inline">\(47\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{37}{47}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{37}{47}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{47}{37}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{111}{141}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{333}{423}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R062 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{1072}{496}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{1072}{496}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(2\)</span>
+<span class="math display">\[
+\frac{1072}{496}=\frac{536}{248}
+\]</span></p>
+<p>y también por <span class="math inline">\(8\)</span>
+<span class="math display">\[
+\frac{536}{248}=\frac{67}{31}
+\]</span>
+Finalmente, <span class="math inline">\(67\)</span> y <span class="math inline">\(31\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{67}{31}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{67}{31}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{31}{67}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{134}{62}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{536}{248}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R063 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{396}{828}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{396}{828}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(4\)</span>
+<span class="math display">\[
+\frac{396}{828}=\frac{99}{207}
+\]</span></p>
+<p>y también por <span class="math inline">\(9\)</span>
+<span class="math display">\[
+\frac{99}{207}=\frac{11}{23}
+\]</span>
+Finalmente, <span class="math inline">\(11\)</span> y <span class="math inline">\(23\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{11}{23}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{11}{23}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{23}{11}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{44}{92}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{99}{207}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R064 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{880}{6320}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{880}{6320}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(8\)</span>
+<span class="math display">\[
+\frac{880}{6320}=\frac{110}{790}
+\]</span></p>
+<p>y también por <span class="math inline">\(10\)</span>
+<span class="math display">\[
+\frac{110}{790}=\frac{11}{79}
+\]</span>
+Finalmente, <span class="math inline">\(11\)</span> y <span class="math inline">\(79\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{11}{79}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{11}{79}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{79}{11}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{88}{632}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{110}{790}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R065 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{826}{994}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{826}{994}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(2\)</span>
+<span class="math display">\[
+\frac{826}{994}=\frac{413}{497}
+\]</span></p>
+<p>y también por <span class="math inline">\(7\)</span>
+<span class="math display">\[
+\frac{413}{497}=\frac{59}{71}
+\]</span>
+Finalmente, <span class="math inline">\(59\)</span> y <span class="math inline">\(71\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{59}{71}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{59}{71}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{71}{59}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{118}{142}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{413}{497}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R066 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{245}{1855}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{245}{1855}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(5\)</span>
+<span class="math display">\[
+\frac{245}{1855}=\frac{49}{371}
+\]</span></p>
+<p>y también por <span class="math inline">\(7\)</span>
+<span class="math display">\[
+\frac{49}{371}=\frac{7}{53}
+\]</span>
+Finalmente, <span class="math inline">\(7\)</span> y <span class="math inline">\(53\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{7}{53}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{7}{53}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{53}{7}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{35}{265}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{49}{371}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R067 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{1640}{2920}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{1640}{2920}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(5\)</span>
+<span class="math display">\[
+\frac{1640}{2920}=\frac{328}{584}
+\]</span></p>
+<p>y también por <span class="math inline">\(8\)</span>
+<span class="math display">\[
+\frac{328}{584}=\frac{41}{73}
+\]</span>
+Finalmente, <span class="math inline">\(41\)</span> y <span class="math inline">\(73\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{41}{73}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{41}{73}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{73}{41}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{205}{365}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{328}{584}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R068 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{176}{496}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{176}{496}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(2\)</span>
+<span class="math display">\[
+\frac{176}{496}=\frac{88}{248}
+\]</span></p>
+<p>y también por <span class="math inline">\(8\)</span>
+<span class="math display">\[
+\frac{88}{248}=\frac{11}{31}
+\]</span>
+Finalmente, <span class="math inline">\(11\)</span> y <span class="math inline">\(31\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{11}{31}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{11}{31}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{31}{11}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{22}{62}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{88}{248}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R069 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{105}{2905}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{105}{2905}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(5\)</span>
+<span class="math display">\[
+\frac{105}{2905}=\frac{21}{581}
+\]</span></p>
+<p>y también por <span class="math inline">\(7\)</span>
+<span class="math display">\[
+\frac{21}{581}=\frac{3}{83}
+\]</span>
+Finalmente, <span class="math inline">\(3\)</span> y <span class="math inline">\(83\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{3}{83}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{3}{83}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{83}{3}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{15}{415}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{21}{581}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R070 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{1098}{738}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{1098}{738}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(3\)</span>
+<span class="math display">\[
+\frac{1098}{738}=\frac{366}{246}
+\]</span></p>
+<p>y también por <span class="math inline">\(6\)</span>
+<span class="math display">\[
+\frac{366}{246}=\frac{61}{41}
+\]</span>
+Finalmente, <span class="math inline">\(61\)</span> y <span class="math inline">\(41\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{61}{41}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{61}{41}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{41}{61}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{183}{123}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{366}{246}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R071 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{790}{590}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{790}{590}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(2\)</span>
+<span class="math display">\[
+\frac{790}{590}=\frac{395}{295}
+\]</span></p>
+<p>y también por <span class="math inline">\(5\)</span>
+<span class="math display">\[
+\frac{395}{295}=\frac{79}{59}
+\]</span>
+Finalmente, <span class="math inline">\(79\)</span> y <span class="math inline">\(59\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{79}{59}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{79}{59}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{59}{79}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{158}{118}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{395}{295}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R072 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{1168}{80}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{1168}{80}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(2\)</span>
+<span class="math display">\[
+\frac{1168}{80}=\frac{584}{40}
+\]</span></p>
+<p>y también por <span class="math inline">\(8\)</span>
+<span class="math display">\[
+\frac{584}{40}=\frac{73}{5}
+\]</span>
+Finalmente, <span class="math inline">\(73\)</span> y <span class="math inline">\(5\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{73}{5}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{73}{5}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{5}{73}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{146}{10}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{584}{40}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R073 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{1953}{315}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{1953}{315}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(7\)</span>
+<span class="math display">\[
+\frac{1953}{315}=\frac{279}{45}
+\]</span></p>
+<p>y también por <span class="math inline">\(9\)</span>
+<span class="math display">\[
+\frac{279}{45}=\frac{31}{5}
+\]</span>
+Finalmente, <span class="math inline">\(31\)</span> y <span class="math inline">\(5\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{31}{5}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{31}{5}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{5}{31}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{217}{35}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{279}{45}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R074 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{868}{1988}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{868}{1988}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(4\)</span>
+<span class="math display">\[
+\frac{868}{1988}=\frac{217}{497}
+\]</span></p>
+<p>y también por <span class="math inline">\(7\)</span>
+<span class="math display">\[
+\frac{217}{497}=\frac{31}{71}
+\]</span>
+Finalmente, <span class="math inline">\(31\)</span> y <span class="math inline">\(71\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{31}{71}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{31}{71}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{71}{31}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{124}{284}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{217}{497}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R075 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{1015}{2135}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{1015}{2135}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(5\)</span>
+<span class="math display">\[
+\frac{1015}{2135}=\frac{203}{427}
+\]</span></p>
+<p>y también por <span class="math inline">\(7\)</span>
+<span class="math display">\[
+\frac{203}{427}=\frac{29}{61}
+\]</span>
+Finalmente, <span class="math inline">\(29\)</span> y <span class="math inline">\(61\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{29}{61}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{29}{61}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{61}{29}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{145}{305}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{203}{427}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R076 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{3160}{2440}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{3160}{2440}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(5\)</span>
+<span class="math display">\[
+\frac{3160}{2440}=\frac{632}{488}
+\]</span></p>
+<p>y también por <span class="math inline">\(8\)</span>
+<span class="math display">\[
+\frac{632}{488}=\frac{79}{61}
+\]</span>
+Finalmente, <span class="math inline">\(79\)</span> y <span class="math inline">\(61\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{79}{61}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{79}{61}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{61}{79}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{395}{305}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{632}{488}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R077 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{1770}{690}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{1770}{690}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(5\)</span>
+<span class="math display">\[
+\frac{1770}{690}=\frac{354}{138}
+\]</span></p>
+<p>y también por <span class="math inline">\(6\)</span>
+<span class="math display">\[
+\frac{354}{138}=\frac{59}{23}
+\]</span>
+Finalmente, <span class="math inline">\(59\)</span> y <span class="math inline">\(23\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{59}{23}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{59}{23}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{23}{59}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{295}{115}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{354}{138}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R078 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{1032}{456}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{1032}{456}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(4\)</span>
+<span class="math display">\[
+\frac{1032}{456}=\frac{258}{114}
+\]</span></p>
+<p>y también por <span class="math inline">\(6\)</span>
+<span class="math display">\[
+\frac{258}{114}=\frac{43}{19}
+\]</span>
+Finalmente, <span class="math inline">\(43\)</span> y <span class="math inline">\(19\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{43}{19}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{43}{19}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{19}{43}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{172}{76}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{258}{114}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R079 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{740}{1220}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{740}{1220}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(4\)</span>
+<span class="math display">\[
+\frac{740}{1220}=\frac{185}{305}
+\]</span></p>
+<p>y también por <span class="math inline">\(5\)</span>
+<span class="math display">\[
+\frac{185}{305}=\frac{37}{61}
+\]</span>
+Finalmente, <span class="math inline">\(37\)</span> y <span class="math inline">\(61\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{37}{61}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{37}{61}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{61}{37}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{148}{244}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{185}{305}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R080 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{1952}{2848}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{1952}{2848}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(4\)</span>
+<span class="math display">\[
+\frac{1952}{2848}=\frac{488}{712}
+\]</span></p>
+<p>y también por <span class="math inline">\(8\)</span>
+<span class="math display">\[
+\frac{488}{712}=\frac{61}{89}
+\]</span>
+Finalmente, <span class="math inline">\(61\)</span> y <span class="math inline">\(89\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{61}{89}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{61}{89}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{89}{61}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{244}{356}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{488}{712}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R081 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{240}{5680}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{240}{5680}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(8\)</span>
+<span class="math display">\[
+\frac{240}{5680}=\frac{30}{710}
+\]</span></p>
+<p>y también por <span class="math inline">\(10\)</span>
+<span class="math display">\[
+\frac{30}{710}=\frac{3}{71}
+\]</span>
+Finalmente, <span class="math inline">\(3\)</span> y <span class="math inline">\(71\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{3}{71}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{3}{71}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{71}{3}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{24}{568}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{30}{710}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R082 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{2538}{162}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{2538}{162}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(6\)</span>
+<span class="math display">\[
+\frac{2538}{162}=\frac{423}{27}
+\]</span></p>
+<p>y también por <span class="math inline">\(9\)</span>
+<span class="math display">\[
+\frac{423}{27}=\frac{47}{3}
+\]</span>
+Finalmente, <span class="math inline">\(47\)</span> y <span class="math inline">\(3\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{47}{3}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{47}{3}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{3}{47}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{282}{18}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{423}{27}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R083 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{5820}{1380}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{5820}{1380}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(6\)</span>
+<span class="math display">\[
+\frac{5820}{1380}=\frac{970}{230}
+\]</span></p>
+<p>y también por <span class="math inline">\(10\)</span>
+<span class="math display">\[
+\frac{970}{230}=\frac{97}{23}
+\]</span>
+Finalmente, <span class="math inline">\(97\)</span> y <span class="math inline">\(23\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{97}{23}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{97}{23}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{23}{97}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{582}{138}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{970}{230}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R084 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{483}{1239}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{483}{1239}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(3\)</span>
+<span class="math display">\[
+\frac{483}{1239}=\frac{161}{413}
+\]</span></p>
+<p>y también por <span class="math inline">\(7\)</span>
+<span class="math display">\[
+\frac{161}{413}=\frac{23}{59}
+\]</span>
+Finalmente, <span class="math inline">\(23\)</span> y <span class="math inline">\(59\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{23}{59}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{23}{59}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{59}{23}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{69}{177}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{161}{413}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R085 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{574}{994}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{574}{994}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(2\)</span>
+<span class="math display">\[
+\frac{574}{994}=\frac{287}{497}
+\]</span></p>
+<p>y también por <span class="math inline">\(7\)</span>
+<span class="math display">\[
+\frac{287}{497}=\frac{41}{71}
+\]</span>
+Finalmente, <span class="math inline">\(41\)</span> y <span class="math inline">\(71\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{41}{71}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{41}{71}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{71}{41}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{82}{142}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{287}{497}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R086 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{186}{258}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{186}{258}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(2\)</span>
+<span class="math display">\[
+\frac{186}{258}=\frac{93}{129}
+\]</span></p>
+<p>y también por <span class="math inline">\(3\)</span>
+<span class="math display">\[
+\frac{93}{129}=\frac{31}{43}
+\]</span>
+Finalmente, <span class="math inline">\(31\)</span> y <span class="math inline">\(43\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{31}{43}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{31}{43}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{43}{31}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{62}{86}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{93}{129}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R087 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{126}{966}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{126}{966}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(6\)</span>
+<span class="math display">\[
+\frac{126}{966}=\frac{21}{161}
+\]</span></p>
+<p>y también por <span class="math inline">\(7\)</span>
+<span class="math display">\[
+\frac{21}{161}=\frac{3}{23}
+\]</span>
+Finalmente, <span class="math inline">\(3\)</span> y <span class="math inline">\(23\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{3}{23}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{3}{23}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{23}{3}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{18}{138}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{21}{161}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R088 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{5340}{2820}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{5340}{2820}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(6\)</span>
+<span class="math display">\[
+\frac{5340}{2820}=\frac{890}{470}
+\]</span></p>
+<p>y también por <span class="math inline">\(10\)</span>
+<span class="math display">\[
+\frac{890}{470}=\frac{89}{47}
+\]</span>
+Finalmente, <span class="math inline">\(89\)</span> y <span class="math inline">\(47\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{89}{47}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{89}{47}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{47}{89}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{534}{282}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{890}{470}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R089 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{273}{861}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{273}{861}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(3\)</span>
+<span class="math display">\[
+\frac{273}{861}=\frac{91}{287}
+\]</span></p>
+<p>y también por <span class="math inline">\(7\)</span>
+<span class="math display">\[
+\frac{91}{287}=\frac{13}{41}
+\]</span>
+Finalmente, <span class="math inline">\(13\)</span> y <span class="math inline">\(41\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{13}{41}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{13}{41}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{41}{13}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{39}{123}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{91}{287}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R090 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{270}{6390}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{270}{6390}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(9\)</span>
+<span class="math display">\[
+\frac{270}{6390}=\frac{30}{710}
+\]</span></p>
+<p>y también por <span class="math inline">\(10\)</span>
+<span class="math display">\[
+\frac{30}{710}=\frac{3}{71}
+\]</span>
+Finalmente, <span class="math inline">\(3\)</span> y <span class="math inline">\(71\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{3}{71}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{3}{71}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{71}{3}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{27}{639}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{30}{710}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R091 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{6408}{2232}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{6408}{2232}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(8\)</span>
+<span class="math display">\[
+\frac{6408}{2232}=\frac{801}{279}
+\]</span></p>
+<p>y también por <span class="math inline">\(9\)</span>
+<span class="math display">\[
+\frac{801}{279}=\frac{89}{31}
+\]</span>
+Finalmente, <span class="math inline">\(89\)</span> y <span class="math inline">\(31\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{89}{31}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{89}{31}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{31}{89}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{712}{248}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{801}{279}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R092 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{6111}{3339}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{6111}{3339}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(7\)</span>
+<span class="math display">\[
+\frac{6111}{3339}=\frac{873}{477}
+\]</span></p>
+<p>y también por <span class="math inline">\(9\)</span>
+<span class="math display">\[
+\frac{873}{477}=\frac{97}{53}
+\]</span>
+Finalmente, <span class="math inline">\(97\)</span> y <span class="math inline">\(53\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{97}{53}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{97}{53}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{53}{97}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{679}{371}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{873}{477}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R093 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{621}{297}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{621}{297}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(3\)</span>
+<span class="math display">\[
+\frac{621}{297}=\frac{207}{99}
+\]</span></p>
+<p>y también por <span class="math inline">\(9\)</span>
+<span class="math display">\[
+\frac{207}{99}=\frac{23}{11}
+\]</span>
+Finalmente, <span class="math inline">\(23\)</span> y <span class="math inline">\(11\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{23}{11}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{23}{11}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{11}{23}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{69}{33}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{207}{99}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R094 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{1407}{483}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{1407}{483}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(3\)</span>
+<span class="math display">\[
+\frac{1407}{483}=\frac{469}{161}
+\]</span></p>
+<p>y también por <span class="math inline">\(7\)</span>
+<span class="math display">\[
+\frac{469}{161}=\frac{67}{23}
+\]</span>
+Finalmente, <span class="math inline">\(67\)</span> y <span class="math inline">\(23\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{67}{23}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{67}{23}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{23}{67}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{201}{69}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{469}{161}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R095 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{1005}{645}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{1005}{645}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(3\)</span>
+<span class="math display">\[
+\frac{1005}{645}=\frac{335}{215}
+\]</span></p>
+<p>y también por <span class="math inline">\(5\)</span>
+<span class="math display">\[
+\frac{335}{215}=\frac{67}{43}
+\]</span>
+Finalmente, <span class="math inline">\(67\)</span> y <span class="math inline">\(43\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{67}{43}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{67}{43}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{43}{67}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{201}{129}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{335}{215}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R096 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{4150}{3350}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{4150}{3350}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(5\)</span>
+<span class="math display">\[
+\frac{4150}{3350}=\frac{830}{670}
+\]</span></p>
+<p>y también por <span class="math inline">\(10\)</span>
+<span class="math display">\[
+\frac{830}{670}=\frac{83}{67}
+\]</span>
+Finalmente, <span class="math inline">\(83\)</span> y <span class="math inline">\(67\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{83}{67}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{83}{67}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{67}{83}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{415}{335}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{830}{670}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R097 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{1780}{1420}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{1780}{1420}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(2\)</span>
+<span class="math display">\[
+\frac{1780}{1420}=\frac{890}{710}
+\]</span></p>
+<p>y también por <span class="math inline">\(10\)</span>
+<span class="math display">\[
+\frac{890}{710}=\frac{89}{71}
+\]</span>
+Finalmente, <span class="math inline">\(89\)</span> y <span class="math inline">\(71\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{89}{71}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{89}{71}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{71}{89}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{178}{142}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{890}{710}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R098 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{4272}{528}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{4272}{528}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(6\)</span>
+<span class="math display">\[
+\frac{4272}{528}=\frac{712}{88}
+\]</span></p>
+<p>y también por <span class="math inline">\(8\)</span>
+<span class="math display">\[
+\frac{712}{88}=\frac{89}{11}
+\]</span>
+Finalmente, <span class="math inline">\(89\)</span> y <span class="math inline">\(11\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{89}{11}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{89}{11}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{11}{89}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{534}{66}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{712}{88}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R099 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{830}{610}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{830}{610}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(2\)</span>
+<span class="math display">\[
+\frac{830}{610}=\frac{415}{305}
+\]</span></p>
+<p>y también por <span class="math inline">\(5\)</span>
+<span class="math display">\[
+\frac{415}{305}=\frac{83}{61}
+\]</span>
+Finalmente, <span class="math inline">\(83\)</span> y <span class="math inline">\(61\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{83}{61}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{83}{61}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{61}{83}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{166}{122}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{415}{305}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R100 Q1 : RN_SimplifFrac </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_SimplificacionFracciones]</strong></p>
+<p>Elegir del listado la <strong>única fracción equivalente irreducible</strong> igual a <span class="math inline">\(\frac{2190}{1770}\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La fracción <span class="math inline">\(\frac{2190}{1770}\)</span> puede ser simplificada, por ejemplo, por <span class="math inline">\(5\)</span>
+<span class="math display">\[
+\frac{2190}{1770}=\frac{438}{354}
+\]</span></p>
+<p>y también por <span class="math inline">\(6\)</span>
+<span class="math display">\[
+\frac{438}{354}=\frac{73}{59}
+\]</span>
+Finalmente, <span class="math inline">\(73\)</span> y <span class="math inline">\(59\)</span> son coprimos, con lo cual <span class="math inline">\(\frac{73}{59}\)</span> es una fracción irreducible.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{73}{59}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{59}{73}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{365}{295}\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\frac{438}{354}\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

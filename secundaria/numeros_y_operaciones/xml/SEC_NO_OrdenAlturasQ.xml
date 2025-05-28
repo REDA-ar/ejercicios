@@ -1,0 +1,3111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/SEC_NO_OrdenAlturasQ/SEC_NO_OrdenAlturasQ</text>
+</category>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R001 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Bernardo: 1.556}\)</span>,</li>
+<li><span class="math inline">\(\text{Valentino: 1.619}\)</span>,</li>
+<li><span class="math inline">\(\text{Cora: 1.747}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucía: 1.696}\)</span>,</li>
+<li><span class="math inline">\(\text{Soledad: 1.218}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Valentino}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Cora}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Soledad}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R002 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Lucas: 1.692}\)</span>,</li>
+<li><span class="math inline">\(\text{Ana: 1.561}\)</span>,</li>
+<li><span class="math inline">\(\text{Bernardo: 1.671}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 1.613}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisca: 1.17}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Ana}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Francisca}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R003 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Lucas: 1.591}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 1.507}\)</span>,</li>
+<li><span class="math inline">\(\text{León: 1.163}\)</span>,</li>
+<li><span class="math inline">\(\text{Ana: 1.488}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 1.504}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{León}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Ana}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R004 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Irina: 1.132}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 1.551}\)</span>,</li>
+<li><span class="math inline">\(\text{Cora: 1.615}\)</span>,</li>
+<li><span class="math inline">\(\text{Bernardo: 1.904}\)</span>,</li>
+<li><span class="math inline">\(\text{Soledad: 1.266}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Irina}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Cora}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Soledad}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R005 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Soledad: 1.192}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 1.696}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 1.78}\)</span>,</li>
+<li><span class="math inline">\(\text{Cora: 1.644}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 1.785}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Soledad}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Cora}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R006 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Bernardo: 1.591}\)</span>,</li>
+<li><span class="math inline">\(\text{León: 1.059}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucía: 1.641}\)</span>,</li>
+<li><span class="math inline">\(\text{Valentino: 1.658}\)</span>,</li>
+<li><span class="math inline">\(\text{Irina: 1.375}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{León}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Valentino}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Irina}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R007 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Nicanor: 1.087}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 1.708}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucía: 1.74}\)</span>,</li>
+<li><span class="math inline">\(\text{Ana: 1.819}\)</span>,</li>
+<li><span class="math inline">\(\text{Pedro: 1.674}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Ana}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R008 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Francisco: 1.376}\)</span>,</li>
+<li><span class="math inline">\(\text{Pedro: 1.383}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisca: 1.071}\)</span>,</li>
+<li><span class="math inline">\(\text{León: 1.069}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucas: 1.571}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Francisca}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{León}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R009 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Mateo: 1.806}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisca: 1.194}\)</span>,</li>
+<li><span class="math inline">\(\text{Valentino: 1.622}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 1.664}\)</span>,</li>
+<li><span class="math inline">\(\text{León: 1.218}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Francisca}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Valentino}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{León}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R010 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Máximo: 1.421}\)</span>,</li>
+<li><span class="math inline">\(\text{Irina: 1.196}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucas: 1.705}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 1.493}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisca: 1.249}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Irina}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Francisca}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R011 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Francisca: 1.216}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucía: 1.497}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 1.524}\)</span>,</li>
+<li><span class="math inline">\(\text{Valentino: 1.462}\)</span>,</li>
+<li><span class="math inline">\(\text{Soledad: 1.266}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Francisca}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Valentino}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Soledad}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R012 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Lucas: 1.782}\)</span>,</li>
+<li><span class="math inline">\(\text{Ana: 1.705}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 1.717}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 1.603}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 1.598}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Ana}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R013 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Máximo: 1.689}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucas: 1.623}\)</span>,</li>
+<li><span class="math inline">\(\text{Irina: 1.16}\)</span>,</li>
+<li><span class="math inline">\(\text{Ana: 1.653}\)</span>,</li>
+<li><span class="math inline">\(\text{Soledad: 1.288}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Irina}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Ana}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Soledad}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R014 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Valentino: 1.657}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 1.335}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 1.018}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 1.744}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucía: 1.614}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Valentino}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R015 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Soledad: 1.28}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 1.44}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 1.646}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 1.209}\)</span>,</li>
+<li><span class="math inline">\(\text{Pedro: 1.506}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Soledad}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R016 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Nicanor: 1.107}\)</span>,</li>
+<li><span class="math inline">\(\text{Cora: 1.63}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisca: 1.229}\)</span>,</li>
+<li><span class="math inline">\(\text{Soledad: 1.215}\)</span>,</li>
+<li><span class="math inline">\(\text{Ana: 1.325}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Cora}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Francisca}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Soledad}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Ana}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R017 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Ana: 1.812}\)</span>,</li>
+<li><span class="math inline">\(\text{Valentino: 1.725}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 1.524}\)</span>,</li>
+<li><span class="math inline">\(\text{Cora: 1.557}\)</span>,</li>
+<li><span class="math inline">\(\text{León: 1.019}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Ana}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Valentino}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Cora}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{León}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R018 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Bernardo: 1.443}\)</span>,</li>
+<li><span class="math inline">\(\text{Irina: 1.36}\)</span>,</li>
+<li><span class="math inline">\(\text{Pedro: 1.445}\)</span>,</li>
+<li><span class="math inline">\(\text{Soledad: 1.381}\)</span>,</li>
+<li><span class="math inline">\(\text{Cora: 1.6}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Irina}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Soledad}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Cora}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R019 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Valentino: 1.714}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 1.306}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisca: 1.2}\)</span>,</li>
+<li><span class="math inline">\(\text{Irina: 1.108}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 1.408}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Valentino}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Francisca}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Irina}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R020 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Soledad: 1.311}\)</span>,</li>
+<li><span class="math inline">\(\text{Ana: 1.75}\)</span>,</li>
+<li><span class="math inline">\(\text{Valentino: 1.87}\)</span>,</li>
+<li><span class="math inline">\(\text{León: 1.189}\)</span>,</li>
+<li><span class="math inline">\(\text{Irina: 1.117}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Soledad}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Ana}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Valentino}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{León}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Irina}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R021 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Soledad: 1.247}\)</span>,</li>
+<li><span class="math inline">\(\text{Irina: 1.24}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 1.846}\)</span>,</li>
+<li><span class="math inline">\(\text{Bernardo: 1.384}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisca: 1.111}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Soledad}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Irina}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Francisca}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R022 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Irina: 1.114}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 1.606}\)</span>,</li>
+<li><span class="math inline">\(\text{Ana: 1.559}\)</span>,</li>
+<li><span class="math inline">\(\text{Valentino: 1.685}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 1.314}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Irina}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Ana}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Valentino}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R023 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Cora: 1.319}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 1.52}\)</span>,</li>
+<li><span class="math inline">\(\text{León: 1.202}\)</span>,</li>
+<li><span class="math inline">\(\text{Pedro: 1.805}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucas: 1.62}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Cora}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{León}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R024 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Nicanor: 1.197}\)</span>,</li>
+<li><span class="math inline">\(\text{Ana: 1.494}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucía: 1.353}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucas: 1.639}\)</span>,</li>
+<li><span class="math inline">\(\text{Irina: 0.99}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Ana}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Irina}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R025 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Bernardo: 1.422}\)</span>,</li>
+<li><span class="math inline">\(\text{Valentino: 1.684}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisca: 1.08}\)</span>,</li>
+<li><span class="math inline">\(\text{Cora: 1.543}\)</span>,</li>
+<li><span class="math inline">\(\text{Soledad: 1.108}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Valentino}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Francisca}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Cora}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Soledad}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R026 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Ana: 1.61}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucía: 1.433}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 1.752}\)</span>,</li>
+<li><span class="math inline">\(\text{León: 1.3}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 1.123}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Ana}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{León}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R027 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Irina: 1.272}\)</span>,</li>
+<li><span class="math inline">\(\text{León: 1.301}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 1.193}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 1.231}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 1.683}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Irina}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{León}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R028 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Valentino: 1.672}\)</span>,</li>
+<li><span class="math inline">\(\text{León: 1.384}\)</span>,</li>
+<li><span class="math inline">\(\text{Irina: 1.291}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 1.071}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 1.396}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Valentino}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{León}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Irina}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R029 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Nicanor: 1.123}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 1.674}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucas: 1.608}\)</span>,</li>
+<li><span class="math inline">\(\text{Bernardo: 1.811}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 1.589}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R030 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Bernardo: 1.449}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucía: 1.378}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 1.456}\)</span>,</li>
+<li><span class="math inline">\(\text{Soledad: 1.2}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 1.732}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Soledad}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R031 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Lucía: 1.628}\)</span>,</li>
+<li><span class="math inline">\(\text{Valentino: 1.624}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 1.692}\)</span>,</li>
+<li><span class="math inline">\(\text{Irina: 1.183}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 1.173}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Valentino}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Irina}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R032 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Lucas: 1.763}\)</span>,</li>
+<li><span class="math inline">\(\text{Soledad: 1.239}\)</span>,</li>
+<li><span class="math inline">\(\text{Irina: 1.018}\)</span>,</li>
+<li><span class="math inline">\(\text{León: 1.22}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 1.555}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Soledad}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Irina}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{León}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R033 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Soledad: 1.186}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 1.162}\)</span>,</li>
+<li><span class="math inline">\(\text{Bernardo: 1.657}\)</span>,</li>
+<li><span class="math inline">\(\text{Cora: 1.523}\)</span>,</li>
+<li><span class="math inline">\(\text{Irina: 1.331}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Soledad}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Cora}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Irina}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R034 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Mateo: 1.52}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 1.244}\)</span>,</li>
+<li><span class="math inline">\(\text{Valentino: 1.69}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucía: 1.776}\)</span>,</li>
+<li><span class="math inline">\(\text{Pedro: 1.465}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Valentino}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R035 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Nicanor: 1.265}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 1.376}\)</span>,</li>
+<li><span class="math inline">\(\text{Bernardo: 1.539}\)</span>,</li>
+<li><span class="math inline">\(\text{Irina: 1.244}\)</span>,</li>
+<li><span class="math inline">\(\text{Soledad: 1.106}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Irina}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Soledad}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R036 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{León: 1.122}\)</span>,</li>
+<li><span class="math inline">\(\text{Soledad: 1.205}\)</span>,</li>
+<li><span class="math inline">\(\text{Pedro: 1.465}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucía: 1.648}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 1.538}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{León}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Soledad}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R037 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{León: 1.26}\)</span>,</li>
+<li><span class="math inline">\(\text{Bernardo: 1.77}\)</span>,</li>
+<li><span class="math inline">\(\text{Soledad: 1.332}\)</span>,</li>
+<li><span class="math inline">\(\text{Ana: 1.678}\)</span>,</li>
+<li><span class="math inline">\(\text{Valentino: 1.515}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{León}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Soledad}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Ana}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Valentino}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R038 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Soledad: 1.239}\)</span>,</li>
+<li><span class="math inline">\(\text{Bernardo: 1.625}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 1.647}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 1.62}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucas: 1.393}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Soledad}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R039 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Irina: 1.169}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 1.025}\)</span>,</li>
+<li><span class="math inline">\(\text{Bernardo: 1.538}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisca: 1.227}\)</span>,</li>
+<li><span class="math inline">\(\text{Cora: 1.758}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Irina}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Francisca}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Cora}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R040 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Lucía: 1.408}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisca: 1.276}\)</span>,</li>
+<li><span class="math inline">\(\text{Irina: 1.325}\)</span>,</li>
+<li><span class="math inline">\(\text{Pedro: 1.556}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 1.323}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Francisca}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Irina}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R041 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Máximo: 1.433}\)</span>,</li>
+<li><span class="math inline">\(\text{Valentino: 1.56}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 1.318}\)</span>,</li>
+<li><span class="math inline">\(\text{Cora: 1.479}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisca: 1.152}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Valentino}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Cora}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Francisca}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R042 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Francisco: 1.62}\)</span>,</li>
+<li><span class="math inline">\(\text{Bernardo: 1.661}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 1.015}\)</span>,</li>
+<li><span class="math inline">\(\text{Irina: 1.163}\)</span>,</li>
+<li><span class="math inline">\(\text{Soledad: 1.157}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Irina}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Soledad}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R043 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Lucía: 1.603}\)</span>,</li>
+<li><span class="math inline">\(\text{Irina: 1.144}\)</span>,</li>
+<li><span class="math inline">\(\text{León: 1.243}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisca: 1.09}\)</span>,</li>
+<li><span class="math inline">\(\text{Bernardo: 1.517}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Irina}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{León}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Francisca}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R044 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Ana: 1.645}\)</span>,</li>
+<li><span class="math inline">\(\text{Irina: 1.214}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucía: 1.699}\)</span>,</li>
+<li><span class="math inline">\(\text{León: 1.235}\)</span>,</li>
+<li><span class="math inline">\(\text{Pedro: 1.541}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Ana}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Irina}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{León}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R045 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Francisca: 1.234}\)</span>,</li>
+<li><span class="math inline">\(\text{Soledad: 1.215}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucas: 1.346}\)</span>,</li>
+<li><span class="math inline">\(\text{Valentino: 1.435}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucía: 1.708}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Francisca}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Soledad}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Valentino}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R046 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Máximo: 1.577}\)</span>,</li>
+<li><span class="math inline">\(\text{Valentino: 1.529}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucas: 1.486}\)</span>,</li>
+<li><span class="math inline">\(\text{Irina: 1.27}\)</span>,</li>
+<li><span class="math inline">\(\text{Pedro: 1.813}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Valentino}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Irina}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R047 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Lucas: 1.712}\)</span>,</li>
+<li><span class="math inline">\(\text{Pedro: 1.244}\)</span>,</li>
+<li><span class="math inline">\(\text{Valentino: 1.509}\)</span>,</li>
+<li><span class="math inline">\(\text{León: 1.069}\)</span>,</li>
+<li><span class="math inline">\(\text{Bernardo: 1.704}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Valentino}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{León}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R048 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Valentino: 1.747}\)</span>,</li>
+<li><span class="math inline">\(\text{Soledad: 1.285}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucía: 1.853}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 1.218}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucas: 1.554}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Valentino}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Soledad}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R049 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Pedro: 1.788}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 1.528}\)</span>,</li>
+<li><span class="math inline">\(\text{Cora: 1.579}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucía: 1.65}\)</span>,</li>
+<li><span class="math inline">\(\text{Bernardo: 1.66}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Cora}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R050 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Máximo: 1.423}\)</span>,</li>
+<li><span class="math inline">\(\text{León: 1.232}\)</span>,</li>
+<li><span class="math inline">\(\text{Valentino: 1.816}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucía: 1.676}\)</span>,</li>
+<li><span class="math inline">\(\text{Ana: 1.853}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{León}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Valentino}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Ana}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R051 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Nicanor: 1.229}\)</span>,</li>
+<li><span class="math inline">\(\text{Ana: 1.409}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucía: 1.874}\)</span>,</li>
+<li><span class="math inline">\(\text{Soledad: 1.127}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisca: 1.329}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Ana}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Soledad}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Francisca}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R052 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Máximo: 1.384}\)</span>,</li>
+<li><span class="math inline">\(\text{Valentino: 1.705}\)</span>,</li>
+<li><span class="math inline">\(\text{Pedro: 1.706}\)</span>,</li>
+<li><span class="math inline">\(\text{León: 1.3}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 1.613}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Valentino}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{León}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R053 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Mateo: 1.635}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 1.233}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisca: 1.135}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 1.409}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucía: 1.502}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Francisca}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R054 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Ana: 1.549}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 1.277}\)</span>,</li>
+<li><span class="math inline">\(\text{Bernardo: 1.831}\)</span>,</li>
+<li><span class="math inline">\(\text{León: 1.27}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucía: 1.336}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Ana}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{León}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R055 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{León: 1.28}\)</span>,</li>
+<li><span class="math inline">\(\text{Ana: 1.81}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisca: 1.338}\)</span>,</li>
+<li><span class="math inline">\(\text{Irina: 1.318}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 1.701}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{León}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Ana}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Francisca}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Irina}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R056 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Nicanor: 1.158}\)</span>,</li>
+<li><span class="math inline">\(\text{Valentino: 1.365}\)</span>,</li>
+<li><span class="math inline">\(\text{Bernardo: 1.421}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucas: 1.442}\)</span>,</li>
+<li><span class="math inline">\(\text{Pedro: 1.814}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Valentino}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R057 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Bernardo: 1.595}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 1.727}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisca: 1.174}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 1.246}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 1.604}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Francisca}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R058 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Máximo: 1.516}\)</span>,</li>
+<li><span class="math inline">\(\text{Pedro: 1.681}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 1.604}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 1.18}\)</span>,</li>
+<li><span class="math inline">\(\text{Irina: 1.073}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Irina}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R059 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Máximo: 1.497}\)</span>,</li>
+<li><span class="math inline">\(\text{Pedro: 1.716}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 1.281}\)</span>,</li>
+<li><span class="math inline">\(\text{León: 1.035}\)</span>,</li>
+<li><span class="math inline">\(\text{Valentino: 1.402}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{León}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Valentino}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R060 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Francisco: 1.562}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucas: 1.465}\)</span>,</li>
+<li><span class="math inline">\(\text{Irina: 1.41}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 1.298}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucía: 1.515}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Irina}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R061 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Irina: 1.282}\)</span>,</li>
+<li><span class="math inline">\(\text{Valentino: 1.584}\)</span>,</li>
+<li><span class="math inline">\(\text{Ana: 1.534}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 1.493}\)</span>,</li>
+<li><span class="math inline">\(\text{Bernardo: 1.378}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Irina}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Valentino}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Ana}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R062 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Francisco: 1.395}\)</span>,</li>
+<li><span class="math inline">\(\text{Ana: 1.655}\)</span>,</li>
+<li><span class="math inline">\(\text{Soledad: 1.24}\)</span>,</li>
+<li><span class="math inline">\(\text{Valentino: 1.659}\)</span>,</li>
+<li><span class="math inline">\(\text{Irina: 1.123}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Ana}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Soledad}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Valentino}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Irina}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R063 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Cora: 1.375}\)</span>,</li>
+<li><span class="math inline">\(\text{Ana: 1.486}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 1.257}\)</span>,</li>
+<li><span class="math inline">\(\text{Irina: 1.332}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucía: 1.507}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Cora}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Ana}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Irina}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R064 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Irina: 1.105}\)</span>,</li>
+<li><span class="math inline">\(\text{Cora: 1.723}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucía: 1.639}\)</span>,</li>
+<li><span class="math inline">\(\text{Soledad: 1.232}\)</span>,</li>
+<li><span class="math inline">\(\text{Bernardo: 1.688}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Irina}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Cora}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Soledad}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R065 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Lucas: 1.551}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 1.466}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisca: 1.299}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 1.29}\)</span>,</li>
+<li><span class="math inline">\(\text{Bernardo: 1.592}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Francisca}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R066 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Máximo: 1.827}\)</span>,</li>
+<li><span class="math inline">\(\text{Cora: 1.817}\)</span>,</li>
+<li><span class="math inline">\(\text{Ana: 1.357}\)</span>,</li>
+<li><span class="math inline">\(\text{Irina: 1.123}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 1.617}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Cora}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Ana}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Irina}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R067 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Cora: 1.703}\)</span>,</li>
+<li><span class="math inline">\(\text{León: 1.241}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 1.429}\)</span>,</li>
+<li><span class="math inline">\(\text{Valentino: 1.629}\)</span>,</li>
+<li><span class="math inline">\(\text{Irina: 1.167}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Cora}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{León}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Valentino}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Irina}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R068 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Francisca: 1.174}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucía: 1.516}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucas: 1.531}\)</span>,</li>
+<li><span class="math inline">\(\text{León: 1.301}\)</span>,</li>
+<li><span class="math inline">\(\text{Valentino: 1.881}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Francisca}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{León}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Valentino}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R069 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Francisco: 1.432}\)</span>,</li>
+<li><span class="math inline">\(\text{Valentino: 1.809}\)</span>,</li>
+<li><span class="math inline">\(\text{Bernardo: 1.706}\)</span>,</li>
+<li><span class="math inline">\(\text{Soledad: 1.215}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 1.176}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Valentino}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Soledad}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R070 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Lucía: 1.802}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisca: 1.151}\)</span>,</li>
+<li><span class="math inline">\(\text{León: 1.034}\)</span>,</li>
+<li><span class="math inline">\(\text{Valentino: 1.875}\)</span>,</li>
+<li><span class="math inline">\(\text{Pedro: 1.339}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Francisca}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{León}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Valentino}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R071 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Cora: 1.78}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 1.589}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisca: 1.137}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 1.575}\)</span>,</li>
+<li><span class="math inline">\(\text{Soledad: 1.337}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Cora}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Francisca}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Soledad}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R072 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Francisca: 1.26}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 1.172}\)</span>,</li>
+<li><span class="math inline">\(\text{Valentino: 1.394}\)</span>,</li>
+<li><span class="math inline">\(\text{León: 1.114}\)</span>,</li>
+<li><span class="math inline">\(\text{Pedro: 1.692}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Francisca}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Valentino}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{León}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R073 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Francisco: 1.817}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 1.333}\)</span>,</li>
+<li><span class="math inline">\(\text{León: 1.154}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 1.18}\)</span>,</li>
+<li><span class="math inline">\(\text{Bernardo: 1.732}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{León}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R074 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Soledad: 1.128}\)</span>,</li>
+<li><span class="math inline">\(\text{León: 1.256}\)</span>,</li>
+<li><span class="math inline">\(\text{Pedro: 1.473}\)</span>,</li>
+<li><span class="math inline">\(\text{Cora: 1.628}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 1.695}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Soledad}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{León}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Cora}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R075 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{León: 1.312}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 1.698}\)</span>,</li>
+<li><span class="math inline">\(\text{Soledad: 1.405}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 1.812}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucía: 1.505}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{León}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Soledad}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R076 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Bernardo: 1.785}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 1.496}\)</span>,</li>
+<li><span class="math inline">\(\text{Irina: 1.168}\)</span>,</li>
+<li><span class="math inline">\(\text{Soledad: 1.157}\)</span>,</li>
+<li><span class="math inline">\(\text{Valentino: 1.756}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Irina}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Soledad}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Valentino}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R077 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Mateo: 1.374}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 1.589}\)</span>,</li>
+<li><span class="math inline">\(\text{León: 1.073}\)</span>,</li>
+<li><span class="math inline">\(\text{Valentino: 1.47}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 1.605}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{León}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Valentino}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R078 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Lucía: 1.646}\)</span>,</li>
+<li><span class="math inline">\(\text{Soledad: 1.228}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 1.48}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 1.733}\)</span>,</li>
+<li><span class="math inline">\(\text{Ana: 1.7}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Soledad}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Ana}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R079 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Cora: 1.554}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisca: 1.09}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucía: 1.677}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 1.644}\)</span>,</li>
+<li><span class="math inline">\(\text{Ana: 1.779}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Cora}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Francisca}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Ana}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R080 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Valentino: 1.667}\)</span>,</li>
+<li><span class="math inline">\(\text{Irina: 1.206}\)</span>,</li>
+<li><span class="math inline">\(\text{Soledad: 1.287}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 1.532}\)</span>,</li>
+<li><span class="math inline">\(\text{Bernardo: 1.665}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Valentino}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Irina}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Soledad}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R081 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Nicanor: 1.316}\)</span>,</li>
+<li><span class="math inline">\(\text{León: 1.055}\)</span>,</li>
+<li><span class="math inline">\(\text{Soledad: 1.221}\)</span>,</li>
+<li><span class="math inline">\(\text{Pedro: 1.638}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 1.747}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{León}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Soledad}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R082 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Francisco: 1.467}\)</span>,</li>
+<li><span class="math inline">\(\text{Valentino: 1.692}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucas: 1.654}\)</span>,</li>
+<li><span class="math inline">\(\text{Soledad: 1.166}\)</span>,</li>
+<li><span class="math inline">\(\text{Irina: 0.963}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Valentino}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Soledad}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Irina}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R083 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Valentino: 1.733}\)</span>,</li>
+<li><span class="math inline">\(\text{León: 1.293}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisca: 1.012}\)</span>,</li>
+<li><span class="math inline">\(\text{Bernardo: 1.452}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 1.53}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Valentino}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{León}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Francisca}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R084 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Pedro: 1.904}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucía: 1.532}\)</span>,</li>
+<li><span class="math inline">\(\text{Soledad: 1.296}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 1.648}\)</span>,</li>
+<li><span class="math inline">\(\text{Ana: 1.566}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Soledad}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Ana}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R085 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Soledad: 1.111}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisca: 1.116}\)</span>,</li>
+<li><span class="math inline">\(\text{Irina: 1.274}\)</span>,</li>
+<li><span class="math inline">\(\text{Cora: 2.045}\)</span>,</li>
+<li><span class="math inline">\(\text{Pedro: 1.568}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Soledad}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Francisca}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Irina}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Cora}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R086 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Pedro: 1.73}\)</span>,</li>
+<li><span class="math inline">\(\text{Ana: 1.587}\)</span>,</li>
+<li><span class="math inline">\(\text{Soledad: 0.937}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 1.208}\)</span>,</li>
+<li><span class="math inline">\(\text{Valentino: 1.642}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Ana}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Soledad}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Valentino}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R087 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Mateo: 1.515}\)</span>,</li>
+<li><span class="math inline">\(\text{Pedro: 1.358}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucas: 1.658}\)</span>,</li>
+<li><span class="math inline">\(\text{Ana: 1.389}\)</span>,</li>
+<li><span class="math inline">\(\text{Soledad: 1.272}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Ana}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Soledad}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R088 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Cora: 1.453}\)</span>,</li>
+<li><span class="math inline">\(\text{León: 1.145}\)</span>,</li>
+<li><span class="math inline">\(\text{Soledad: 1.279}\)</span>,</li>
+<li><span class="math inline">\(\text{Ana: 1.616}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 1.583}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Cora}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{León}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Soledad}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Ana}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R089 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Lucas: 1.752}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisca: 1.097}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 1.718}\)</span>,</li>
+<li><span class="math inline">\(\text{Soledad: 1.149}\)</span>,</li>
+<li><span class="math inline">\(\text{Cora: 1.839}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Francisca}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Soledad}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Cora}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R090 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Mateo: 1.571}\)</span>,</li>
+<li><span class="math inline">\(\text{Irina: 1.313}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 0.984}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucas: 1.697}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 1.572}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Irina}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R091 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Nicanor: 1.235}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 1.687}\)</span>,</li>
+<li><span class="math inline">\(\text{Soledad: 1.144}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 1.581}\)</span>,</li>
+<li><span class="math inline">\(\text{Ana: 1.444}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Soledad}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Ana}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R092 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Mateo: 1.43}\)</span>,</li>
+<li><span class="math inline">\(\text{Bernardo: 1.512}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 1.348}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 1.12}\)</span>,</li>
+<li><span class="math inline">\(\text{Irina: 1.381}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Irina}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R093 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Cora: 1.48}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 1.768}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 1.692}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucía: 1.66}\)</span>,</li>
+<li><span class="math inline">\(\text{Ana: 1.324}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Cora}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Ana}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R094 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Francisco: 1.251}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisca: 1.089}\)</span>,</li>
+<li><span class="math inline">\(\text{Irina: 1.317}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 1.771}\)</span>,</li>
+<li><span class="math inline">\(\text{Pedro: 1.399}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Francisca}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Irina}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R095 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Nicanor: 1.101}\)</span>,</li>
+<li><span class="math inline">\(\text{Irina: 1.179}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 1.594}\)</span>,</li>
+<li><span class="math inline">\(\text{Valentino: 1.562}\)</span>,</li>
+<li><span class="math inline">\(\text{León: 1.163}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Irina}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Valentino}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{León}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R096 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Bernardo: 1.704}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 1.646}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucía: 1.743}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 1.063}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucas: 1.71}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R097 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Lucía: 1.596}\)</span>,</li>
+<li><span class="math inline">\(\text{Ana: 1.663}\)</span>,</li>
+<li><span class="math inline">\(\text{León: 1.18}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 1.073}\)</span>,</li>
+<li><span class="math inline">\(\text{Pedro: 1.308}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Ana}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{León}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R098 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Máximo: 1.619}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucas: 1.727}\)</span>,</li>
+<li><span class="math inline">\(\text{Cora: 1.435}\)</span>,</li>
+<li><span class="math inline">\(\text{León: 1.227}\)</span>,</li>
+<li><span class="math inline">\(\text{Soledad: 1.148}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Cora}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{León}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Soledad}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R099 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Nicanor: 1.166}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 1.26}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucas: 1.377}\)</span>,</li>
+<li><span class="math inline">\(\text{León: 1.245}\)</span>,</li>
+<li><span class="math inline">\(\text{Bernardo: 1.65}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{León}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R100 Q1 : RN_ordenQ-altura </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenAlturasQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró la altura (en metros y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Máximo: 1.315}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisca: 1.445}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucas: 1.491}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucía: 1.544}\)</span>,</li>
+<li><span class="math inline">\(\text{Valentino: 1.428}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su altura y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Francisca}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Valentino}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+</quiz>

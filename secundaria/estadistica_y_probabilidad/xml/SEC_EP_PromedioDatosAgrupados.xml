@@ -1,0 +1,6311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/SEC_EP_PromedioDatosAgrupados/SEC_EP_PromedioDatosAgrupados</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R001 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(3146\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+194          &amp; 371 \\
+195.6    &amp; 639 \\
+197.2  &amp; 1034 \\
+198.8  &amp; 717 \\
+200.4  &amp; 385 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R002 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2806\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+199.1          &amp; 374 \\
+201.5    &amp; 581 \\
+203.9  &amp; 772 \\
+206.3  &amp; 823 \\
+208.7  &amp; 256 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R003 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(3086\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+194          &amp; 388 \\
+195.6    &amp; 600 \\
+197.2  &amp; 961 \\
+198.8  &amp; 713 \\
+200.4  &amp; 424 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R004 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2999\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+197.7          &amp; 378 \\
+199.6    &amp; 530 \\
+201.5  &amp; 845 \\
+203.4  &amp; 829 \\
+205.3  &amp; 417 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R005 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(3129\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+190.3          &amp; 390 \\
+192.4    &amp; 631 \\
+194.5  &amp; 964 \\
+196.6  &amp; 703 \\
+198.7  &amp; 441 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R006 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2926\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+191.2          &amp; 388 \\
+192.7    &amp; 525 \\
+194.2  &amp; 1012 \\
+195.7  &amp; 745 \\
+197.2  &amp; 256 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R007 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2806\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+197.9          &amp; 389 \\
+200.3    &amp; 536 \\
+202.7  &amp; 899 \\
+205.1  &amp; 701 \\
+207.5  &amp; 281 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R008 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(3060\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+193.8          &amp; 410 \\
+195.4    &amp; 543 \\
+197  &amp; 997 \\
+198.6  &amp; 801 \\
+200.2  &amp; 309 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R009 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(3018\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+194.6          &amp; 397 \\
+196.6    &amp; 576 \\
+198.6  &amp; 1028 \\
+200.6  &amp; 732 \\
+202.6  &amp; 285 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R010 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2805\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+199.5          &amp; 378 \\
+201.9    &amp; 584 \\
+204.3  &amp; 720 \\
+206.7  &amp; 737 \\
+209.1  &amp; 386 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R011 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2688\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+192.1          &amp; 374 \\
+193.7    &amp; 520 \\
+195.3  &amp; 655 \\
+196.9  &amp; 703 \\
+198.5  &amp; 436 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R012 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(3047\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+193.8          &amp; 407 \\
+196.1    &amp; 597 \\
+198.4  &amp; 816 \\
+200.7  &amp; 814 \\
+203  &amp; 413 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R013 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2869\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+190.4          &amp; 385 \\
+192.1    &amp; 528 \\
+193.8  &amp; 860 \\
+195.5  &amp; 717 \\
+197.2  &amp; 379 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R014 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(3159\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+198.1          &amp; 410 \\
+199.8    &amp; 599 \\
+201.5  &amp; 875 \\
+203.2  &amp; 817 \\
+204.9  &amp; 458 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R015 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2807\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+197.9          &amp; 385 \\
+199.4    &amp; 521 \\
+200.9  &amp; 704 \\
+202.4  &amp; 804 \\
+203.9  &amp; 393 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R016 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(3187\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+199.1          &amp; 402 \\
+200.7    &amp; 602 \\
+202.3  &amp; 1067 \\
+203.9  &amp; 755 \\
+205.5  &amp; 361 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R017 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2892\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+196.3          &amp; 406 \\
+198.6    &amp; 560 \\
+200.9  &amp; 928 \\
+203.2  &amp; 716 \\
+205.5  &amp; 282 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R018 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2960\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+195.9          &amp; 386 \\
+197.4    &amp; 549 \\
+198.9  &amp; 863 \\
+200.4  &amp; 768 \\
+201.9  &amp; 394 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R019 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(3029\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+198          &amp; 372 \\
+200.5    &amp; 572 \\
+203  &amp; 1009 \\
+205.5  &amp; 736 \\
+208  &amp; 340 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R020 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(3051\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+199.4          &amp; 403 \\
+201.7    &amp; 569 \\
+204  &amp; 1028 \\
+206.3  &amp; 717 \\
+208.6  &amp; 334 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R021 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(3003\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+193.4          &amp; 399 \\
+195.4    &amp; 571 \\
+197.4  &amp; 828 \\
+199.4  &amp; 749 \\
+201.4  &amp; 456 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R022 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(3070\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+193.1          &amp; 388 \\
+195    &amp; 598 \\
+196.9  &amp; 843 \\
+198.8  &amp; 806 \\
+200.7  &amp; 435 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R023 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2989\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+192.1          &amp; 385 \\
+194.6    &amp; 631 \\
+197.1  &amp; 752 \\
+199.6  &amp; 794 \\
+202.1  &amp; 427 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R024 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2851\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+192.3          &amp; 393 \\
+193.8    &amp; 545 \\
+195.3  &amp; 749 \\
+196.8  &amp; 748 \\
+198.3  &amp; 416 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R025 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2967\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+199.8          &amp; 380 \\
+201.7    &amp; 573 \\
+203.6  &amp; 811 \\
+205.5  &amp; 816 \\
+207.4  &amp; 387 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R026 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2779\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+197.4          &amp; 406 \\
+199.7    &amp; 588 \\
+202  &amp; 681 \\
+204.3  &amp; 703 \\
+206.6  &amp; 401 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R027 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(3042\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+194.6          &amp; 382 \\
+196.2    &amp; 591 \\
+197.8  &amp; 938 \\
+199.4  &amp; 751 \\
+201  &amp; 380 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R028 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2947\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+199.6          &amp; 398 \\
+201.2    &amp; 526 \\
+202.8  &amp; 820 \\
+204.4  &amp; 790 \\
+206  &amp; 413 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R029 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(3025\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+190.1          &amp; 397 \\
+192.4    &amp; 616 \\
+194.7  &amp; 746 \\
+197  &amp; 800 \\
+199.3  &amp; 466 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R030 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(3187\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+194.1          &amp; 406 \\
+196    &amp; 607 \\
+197.9  &amp; 977 \\
+199.8  &amp; 760 \\
+201.7  &amp; 437 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R031 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2677\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+193.4          &amp; 389 \\
+194.9    &amp; 552 \\
+196.4  &amp; 660 \\
+197.9  &amp; 702 \\
+199.4  &amp; 374 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R032 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2833\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+190.3          &amp; 402 \\
+192.8    &amp; 525 \\
+195.3  &amp; 690 \\
+197.8  &amp; 782 \\
+200.3  &amp; 434 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R033 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(3026\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+196.7          &amp; 400 \\
+198.3    &amp; 556 \\
+199.9  &amp; 796 \\
+201.5  &amp; 818 \\
+203.1  &amp; 456 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R034 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2913\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+193.9          &amp; 392 \\
+195.4    &amp; 544 \\
+196.9  &amp; 909 \\
+198.4  &amp; 775 \\
+199.9  &amp; 293 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R035 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(3060\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+195.2          &amp; 384 \\
+197    &amp; 589 \\
+198.8  &amp; 1020 \\
+200.6  &amp; 709 \\
+202.4  &amp; 358 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R036 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(3066\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+190.8          &amp; 379 \\
+193    &amp; 548 \\
+195.2  &amp; 898 \\
+197.4  &amp; 765 \\
+199.6  &amp; 476 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R037 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(3108\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+197.9          &amp; 383 \\
+199.5    &amp; 546 \\
+201.1  &amp; 1058 \\
+202.7  &amp; 725 \\
+204.3  &amp; 396 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R038 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(3010\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+193.6          &amp; 377 \\
+195.3    &amp; 571 \\
+197  &amp; 975 \\
+198.7  &amp; 705 \\
+200.4  &amp; 382 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R039 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2827\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+198.4          &amp; 402 \\
+200.6    &amp; 622 \\
+202.8  &amp; 763 \\
+205  &amp; 710 \\
+207.2  &amp; 330 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R040 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(3001\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+198.1          &amp; 400 \\
+200.6    &amp; 632 \\
+203.1  &amp; 861 \\
+205.6  &amp; 733 \\
+208.1  &amp; 375 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R041 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(3086\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+194.3          &amp; 402 \\
+196.3    &amp; 605 \\
+198.3  &amp; 779 \\
+200.3  &amp; 823 \\
+202.3  &amp; 477 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R042 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2716\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+194.1          &amp; 406 \\
+196.6    &amp; 605 \\
+199.1  &amp; 608 \\
+201.6  &amp; 781 \\
+204.1  &amp; 316 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R043 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2891\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+190.2          &amp; 409 \\
+192.4    &amp; 546 \\
+194.6  &amp; 933 \\
+196.8  &amp; 719 \\
+199  &amp; 284 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R044 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2832\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+198          &amp; 374 \\
+199.8    &amp; 551 \\
+201.6  &amp; 741 \\
+203.4  &amp; 747 \\
+205.2  &amp; 419 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R045 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(3026\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+198.7          &amp; 372 \\
+200.3    &amp; 564 \\
+201.9  &amp; 851 \\
+203.5  &amp; 814 \\
+205.1  &amp; 425 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R046 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(3101\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+195.7          &amp; 387 \\
+197.3    &amp; 560 \\
+198.9  &amp; 895 \\
+200.5  &amp; 790 \\
+202.1  &amp; 469 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R047 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2885\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+194.1          &amp; 377 \\
+196.5    &amp; 588 \\
+198.9  &amp; 792 \\
+201.3  &amp; 827 \\
+203.7  &amp; 301 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R048 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(3015\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+197.2          &amp; 406 \\
+198.7    &amp; 590 \\
+200.2  &amp; 996 \\
+201.7  &amp; 745 \\
+203.2  &amp; 278 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R049 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2695\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+191.3          &amp; 383 \\
+193.8    &amp; 548 \\
+196.3  &amp; 616 \\
+198.8  &amp; 825 \\
+201.3  &amp; 323 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R050 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2940\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+194.7          &amp; 390 \\
+197    &amp; 524 \\
+199.3  &amp; 875 \\
+201.6  &amp; 786 \\
+203.9  &amp; 365 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R051 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2927\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+196.2          &amp; 374 \\
+198.3    &amp; 530 \\
+200.4  &amp; 919 \\
+202.5  &amp; 794 \\
+204.6  &amp; 310 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R052 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2909\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+196.5          &amp; 377 \\
+198.4    &amp; 547 \\
+200.3  &amp; 1013 \\
+202.2  &amp; 716 \\
+204.1  &amp; 256 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R053 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2893\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+196.7          &amp; 410 \\
+198.8    &amp; 631 \\
+200.9  &amp; 750 \\
+203  &amp; 756 \\
+205.1  &amp; 346 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R054 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2997\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+198.5          &amp; 376 \\
+200.9    &amp; 573 \\
+203.3  &amp; 945 \\
+205.7  &amp; 767 \\
+208.1  &amp; 336 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R055 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(3254\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+197.9          &amp; 389 \\
+200    &amp; 633 \\
+202.1  &amp; 990 \\
+204.2  &amp; 814 \\
+206.3  &amp; 428 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R056 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2906\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+196.8          &amp; 398 \\
+198.4    &amp; 613 \\
+200  &amp; 781 \\
+201.6  &amp; 799 \\
+203.2  &amp; 315 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R057 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2785\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+193.2          &amp; 374 \\
+195.6    &amp; 618 \\
+198  &amp; 662 \\
+200.4  &amp; 753 \\
+202.8  &amp; 378 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R058 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2610\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+198.3          &amp; 374 \\
+200.4    &amp; 552 \\
+202.5  &amp; 605 \\
+204.6  &amp; 825 \\
+206.7  &amp; 254 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R059 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2848\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+195.9          &amp; 399 \\
+198.3    &amp; 631 \\
+200.7  &amp; 622 \\
+203.1  &amp; 712 \\
+205.5  &amp; 484 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R060 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2811\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+191.6          &amp; 390 \\
+193.2    &amp; 583 \\
+194.8  &amp; 638 \\
+196.4  &amp; 820 \\
+198  &amp; 380 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R061 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(3046\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+197.3          &amp; 378 \\
+199.8    &amp; 573 \\
+202.3  &amp; 956 \\
+204.8  &amp; 734 \\
+207.3  &amp; 405 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R062 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2760\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+192          &amp; 378 \\
+193.8    &amp; 525 \\
+195.6  &amp; 633 \\
+197.4  &amp; 822 \\
+199.2  &amp; 402 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R063 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(3130\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+197.6          &amp; 403 \\
+199.7    &amp; 590 \\
+201.8  &amp; 922 \\
+203.9  &amp; 732 \\
+206  &amp; 483 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R064 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2960\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+197.7          &amp; 389 \\
+200    &amp; 625 \\
+202.3  &amp; 844 \\
+204.6  &amp; 707 \\
+206.9  &amp; 395 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R065 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(3020\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+196.9          &amp; 392 \\
+199.2    &amp; 609 \\
+201.5  &amp; 998 \\
+203.8  &amp; 765 \\
+206.1  &amp; 256 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R066 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(3005\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+190.3          &amp; 382 \\
+192.7    &amp; 634 \\
+195.1  &amp; 879 \\
+197.5  &amp; 759 \\
+199.9  &amp; 351 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R067 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(3126\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+198.7          &amp; 385 \\
+201.2    &amp; 557 \\
+203.7  &amp; 1066 \\
+206.2  &amp; 769 \\
+208.7  &amp; 349 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R068 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2787\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+192.4          &amp; 375 \\
+194.3    &amp; 547 \\
+196.2  &amp; 872 \\
+198.1  &amp; 729 \\
+200  &amp; 264 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R069 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2683\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+190.7          &amp; 376 \\
+193    &amp; 523 \\
+195.3  &amp; 612 \\
+197.6  &amp; 727 \\
+199.9  &amp; 445 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R070 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2756\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+194.2          &amp; 384 \\
+195.7    &amp; 603 \\
+197.2  &amp; 703 \\
+198.7  &amp; 796 \\
+200.2  &amp; 270 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R071 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(3022\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+197.9          &amp; 383 \\
+199.6    &amp; 633 \\
+201.3  &amp; 809 \\
+203  &amp; 782 \\
+204.7  &amp; 415 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R072 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(3058\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+193.2          &amp; 401 \\
+194.9    &amp; 618 \\
+196.6  &amp; 935 \\
+198.3  &amp; 795 \\
+200  &amp; 309 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R073 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2964\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+194.2          &amp; 409 \\
+196.2    &amp; 637 \\
+198.2  &amp; 858 \\
+200.2  &amp; 791 \\
+202.2  &amp; 269 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R074 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2604\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+195.4          &amp; 387 \\
+197.6    &amp; 545 \\
+199.8  &amp; 600 \\
+202  &amp; 784 \\
+204.2  &amp; 288 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R075 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2853\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+192          &amp; 405 \\
+194.2    &amp; 541 \\
+196.4  &amp; 873 \\
+198.6  &amp; 728 \\
+200.8  &amp; 306 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R076 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2928\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+191.3          &amp; 377 \\
+193.6    &amp; 565 \\
+195.9  &amp; 939 \\
+198.2  &amp; 721 \\
+200.5  &amp; 326 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R077 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2926\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+199.2          &amp; 383 \\
+201.6    &amp; 580 \\
+204  &amp; 762 \\
+206.4  &amp; 796 \\
+208.8  &amp; 405 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R078 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2922\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+190.5          &amp; 392 \\
+192.3    &amp; 551 \\
+194.1  &amp; 792 \\
+195.9  &amp; 702 \\
+197.7  &amp; 485 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R079 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2805\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+195.1          &amp; 396 \\
+197    &amp; 548 \\
+198.9  &amp; 786 \\
+200.8  &amp; 767 \\
+202.7  &amp; 308 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R080 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(3053\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+196.6          &amp; 389 \\
+198.5    &amp; 621 \\
+200.4  &amp; 893 \\
+202.3  &amp; 792 \\
+204.2  &amp; 358 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R081 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2886\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+191.5          &amp; 387 \\
+193.3    &amp; 635 \\
+195.1  &amp; 625 \\
+196.9  &amp; 814 \\
+198.7  &amp; 425 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R082 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(3019\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+195          &amp; 408 \\
+196.8    &amp; 590 \\
+198.6  &amp; 952 \\
+200.4  &amp; 701 \\
+202.2  &amp; 368 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R083 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2810\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+194.8          &amp; 383 \\
+196.8    &amp; 531 \\
+198.8  &amp; 792 \\
+200.8  &amp; 785 \\
+202.8  &amp; 319 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R084 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(3160\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+193.2          &amp; 380 \\
+195    &amp; 540 \\
+196.8  &amp; 1006 \\
+198.6  &amp; 811 \\
+200.4  &amp; 423 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R085 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2902\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+194          &amp; 382 \\
+195.9    &amp; 567 \\
+197.8  &amp; 856 \\
+199.7  &amp; 737 \\
+201.6  &amp; 360 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R086 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2850\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+198.4          &amp; 406 \\
+200    &amp; 543 \\
+201.6  &amp; 649 \\
+203.2  &amp; 787 \\
+204.8  &amp; 465 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R087 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2925\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+197.2          &amp; 386 \\
+199.7    &amp; 637 \\
+202.2  &amp; 826 \\
+204.7  &amp; 809 \\
+207.2  &amp; 267 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R088 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(3009\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+198.9          &amp; 407 \\
+201.3    &amp; 626 \\
+203.7  &amp; 770 \\
+206.1  &amp; 728 \\
+208.5  &amp; 478 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R089 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2926\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+195.3          &amp; 380 \\
+197    &amp; 532 \\
+198.7  &amp; 906 \\
+200.4  &amp; 768 \\
+202.1  &amp; 340 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R090 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2896\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+194.9          &amp; 403 \\
+197.3    &amp; 608 \\
+199.7  &amp; 757 \\
+202.1  &amp; 761 \\
+204.5  &amp; 367 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R091 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(3038\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+193.5          &amp; 410 \\
+195.2    &amp; 615 \\
+196.9  &amp; 1001 \\
+198.6  &amp; 754 \\
+200.3  &amp; 258 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R092 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2764\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+197.1          &amp; 398 \\
+198.7    &amp; 635 \\
+200.3  &amp; 712 \\
+201.9  &amp; 763 \\
+203.5  &amp; 256 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R093 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2863\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+193.2          &amp; 383 \\
+195.6    &amp; 640 \\
+198  &amp; 824 \\
+200.4  &amp; 731 \\
+202.8  &amp; 285 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R094 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2910\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+193          &amp; 396 \\
+194.9    &amp; 555 \\
+196.8  &amp; 778 \\
+198.7  &amp; 785 \\
+200.6  &amp; 396 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R095 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2757\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+194.8          &amp; 378 \\
+197    &amp; 576 \\
+199.2  &amp; 634 \\
+201.4  &amp; 798 \\
+203.6  &amp; 371 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R096 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2930\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+190.4          &amp; 385 \\
+192.9    &amp; 587 \\
+195.4  &amp; 818 \\
+197.9  &amp; 729 \\
+200.4  &amp; 411 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R097 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(3002\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+192.9          &amp; 370 \\
+195.3    &amp; 586 \\
+197.7  &amp; 902 \\
+200.1  &amp; 805 \\
+202.5  &amp; 339 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R098 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(3043\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+195.5          &amp; 408 \\
+198    &amp; 620 \\
+200.5  &amp; 803 \\
+203  &amp; 827 \\
+205.5  &amp; 385 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R099 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(2941\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+195.5          &amp; 409 \\
+197.4    &amp; 535 \\
+199.3  &amp; 925 \\
+201.2  &amp; 741 \\
+203.1  &amp; 331 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R100 Q1 : RA_promediogrupos-pesos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosAgrupados]</strong></p>
+<p>Una empresa cosmética envasa cremas para el rostro en potes de <span class="math inline">\(200\)</span> gramos. Los pesos (en gramos) de una muestra de <span class="math inline">\(3048\)</span> potes se resumen en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+x =\text{ peso (en gramos)} &amp; \text{Cantidad de potes} \\
+\hline
+194.3          &amp; 370 \\
+196.4    &amp; 592 \\
+198.5  &amp; 956 \\
+200.6  &amp; 822 \\
+202.7  &amp; 308 
+\end{array}
+\]</span></p>
+<p>Si el peso promedio de la muestra es <strong>igual o superior a 200 gramos</strong>, la empresa despachará el envío. Decidir, con estos datos, si se despachará el envío o no.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Sí, despachará el envío.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, no despachará el envío.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

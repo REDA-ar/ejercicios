@@ -1,0 +1,5511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/SEC_EP_PromedioSalariosAgrupados/SEC_EP_PromedioSalariosAgrupados</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R001 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{La Brea}\)</span>, emplea a <span class="math inline">\(337\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1623000          &amp; 37 \\
+B &amp; 1963000    &amp; 52 \\
+C &amp; 2303000  &amp; 85 \\
+D &amp; 2643000  &amp; 74 \\
+E &amp; 2983000  &amp; 37 \\
+F &amp; 3323000  &amp; 52
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2482585</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R002 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Potrerillo}\)</span>, emplea a <span class="math inline">\(357\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1640000          &amp; 39 \\
+B &amp; 1922000    &amp; 64 \\
+C &amp; 2204000  &amp; 72 \\
+D &amp; 2486000  &amp; 71 \\
+E &amp; 2768000  &amp; 45 \\
+F &amp; 3050000  &amp; 66
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2375412</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R003 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{La Brea}\)</span>, emplea a <span class="math inline">\(329\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1653000          &amp; 41 \\
+B &amp; 1987000    &amp; 53 \\
+C &amp; 2321000  &amp; 69 \\
+D &amp; 2655000  &amp; 78 \\
+E &amp; 2989000  &amp; 30 \\
+F &amp; 3323000  &amp; 58
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2500690</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R004 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Soven}\)</span>, emplea a <span class="math inline">\(358\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1722000          &amp; 39 \\
+B &amp; 2002000    &amp; 63 \\
+C &amp; 2282000  &amp; 78 \\
+D &amp; 2562000  &amp; 83 \\
+E &amp; 2842000  &amp; 39 \\
+F &amp; 3122000  &amp; 56
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2429039</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R005 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{La Brea}\)</span>, emplea a <span class="math inline">\(328\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1606000          &amp; 41 \\
+B &amp; 1880000    &amp; 55 \\
+C &amp; 2154000  &amp; 63 \\
+D &amp; 2428000  &amp; 70 \\
+E &amp; 2702000  &amp; 48 \\
+F &amp; 2976000  &amp; 51
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2306037</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R006 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Los Chilcas}\)</span>, emplea a <span class="math inline">\(352\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1820000          &amp; 39 \\
+B &amp; 2096000    &amp; 63 \\
+C &amp; 2372000  &amp; 85 \\
+D &amp; 2648000  &amp; 70 \\
+E &amp; 2924000  &amp; 45 \\
+F &amp; 3200000  &amp; 50
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2504511</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R007 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Chalanta}\)</span>, emplea a <span class="math inline">\(336\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1639000          &amp; 38 \\
+B &amp; 1933000    &amp; 58 \\
+C &amp; 2227000  &amp; 72 \\
+D &amp; 2521000  &amp; 81 \\
+E &amp; 2815000  &amp; 36 \\
+F &amp; 3109000  &amp; 51
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2377500</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R008 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Ranquelcó}\)</span>, emplea a <span class="math inline">\(366\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1538000          &amp; 38 \\
+B &amp; 1804000    &amp; 58 \\
+C &amp; 2070000  &amp; 86 \\
+D &amp; 2336000  &amp; 83 \\
+E &amp; 2602000  &amp; 33 \\
+F &amp; 2868000  &amp; 68
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2229164</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R009 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Potrerillo}\)</span>, emplea a <span class="math inline">\(354\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1676000          &amp; 38 \\
+B &amp; 1998000    &amp; 53 \\
+C &amp; 2320000  &amp; 93 \\
+D &amp; 2642000  &amp; 83 \\
+E &amp; 2964000  &amp; 31 \\
+F &amp; 3286000  &amp; 56
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2487367</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R010 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Chalanta}\)</span>, emplea a <span class="math inline">\(377\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1723000          &amp; 37 \\
+B &amp; 1959000    &amp; 59 \\
+C &amp; 2195000  &amp; 94 \\
+D &amp; 2431000  &amp; 78 \\
+E &amp; 2667000  &amp; 37 \\
+F &amp; 2903000  &amp; 72
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2342109</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R011 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Potrerillo}\)</span>, emplea a <span class="math inline">\(371\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1881000          &amp; 37 \\
+B &amp; 2101000    &amp; 61 \\
+C &amp; 2321000  &amp; 99 \\
+D &amp; 2541000  &amp; 73 \\
+E &amp; 2761000  &amp; 36 \\
+F &amp; 2981000  &amp; 65
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2442563</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R012 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Nogolí}\)</span>, emplea a <span class="math inline">\(357\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1684000          &amp; 38 \\
+B &amp; 1906000    &amp; 59 \\
+C &amp; 2128000  &amp; 90 \\
+D &amp; 2350000  &amp; 80 \\
+E &amp; 2572000  &amp; 25 \\
+F &amp; 2794000  &amp; 65
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2246151</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R013 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Los Chilcas}\)</span>, emplea a <span class="math inline">\(364\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1779000          &amp; 40 \\
+B &amp; 2011000    &amp; 63 \\
+C &amp; 2243000  &amp; 74 \\
+D &amp; 2475000  &amp; 76 \\
+E &amp; 2707000  &amp; 49 \\
+F &amp; 2939000  &amp; 62
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2381308</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R014 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Soven}\)</span>, emplea a <span class="math inline">\(338\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1867000          &amp; 40 \\
+B &amp; 2119000    &amp; 58 \\
+C &amp; 2371000  &amp; 63 \\
+D &amp; 2623000  &amp; 78 \\
+E &amp; 2875000  &amp; 46 \\
+F &amp; 3127000  &amp; 53
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2513402</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R015 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Los Chilcas}\)</span>, emplea a <span class="math inline">\(333\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1843000          &amp; 39 \\
+B &amp; 2157000    &amp; 54 \\
+C &amp; 2471000  &amp; 71 \\
+D &amp; 2785000  &amp; 82 \\
+E &amp; 3099000  &amp; 35 \\
+F &amp; 3413000  &amp; 52
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2636958</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R016 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Ranquelcó}\)</span>, emplea a <span class="math inline">\(350\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1855000          &amp; 39 \\
+B &amp; 2115000    &amp; 57 \\
+C &amp; 2375000  &amp; 69 \\
+D &amp; 2635000  &amp; 82 \\
+E &amp; 2895000  &amp; 38 \\
+F &amp; 3155000  &amp; 65
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2536943</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R017 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Nogolí}\)</span>, emplea a <span class="math inline">\(384\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1701000          &amp; 40 \\
+B &amp; 1929000    &amp; 57 \\
+C &amp; 2157000  &amp; 94 \\
+D &amp; 2385000  &amp; 71 \\
+E &amp; 2613000  &amp; 49 \\
+F &amp; 2841000  &amp; 73
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2306031</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R018 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Las Totoras}\)</span>, emplea a <span class="math inline">\(391\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1600000          &amp; 41 \\
+B &amp; 1870000    &amp; 63 \\
+C &amp; 2140000  &amp; 107 \\
+D &amp; 2410000  &amp; 81 \\
+E &amp; 2680000  &amp; 40 \\
+F &amp; 2950000  &amp; 59
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2273274</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R019 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Los Chilcas}\)</span>, emplea a <span class="math inline">\(386\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1847000          &amp; 37 \\
+B &amp; 2123000    &amp; 60 \\
+C &amp; 2399000  &amp; 98 \\
+D &amp; 2675000  &amp; 70 \\
+E &amp; 2951000  &amp; 49 \\
+F &amp; 3227000  &amp; 72
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2577756</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R020 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Los Chilcas}\)</span>, emplea a <span class="math inline">\(364\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1518000          &amp; 37 \\
+B &amp; 1766000    &amp; 54 \\
+C &amp; 2014000  &amp; 96 \\
+D &amp; 2262000  &amp; 77 \\
+E &amp; 2510000  &amp; 49 \\
+F &amp; 2758000  &amp; 51
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2150264</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R021 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{La Brea}\)</span>, emplea a <span class="math inline">\(320\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1550000          &amp; 39 \\
+B &amp; 1840000    &amp; 62 \\
+C &amp; 2130000  &amp; 65 \\
+D &amp; 2420000  &amp; 74 \\
+E &amp; 2710000  &amp; 29 \\
+F &amp; 3000000  &amp; 51
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2261406</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R022 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Potrerillo}\)</span>, emplea a <span class="math inline">\(376\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1733000          &amp; 39 \\
+B &amp; 1977000    &amp; 56 \\
+C &amp; 2221000  &amp; 96 \\
+D &amp; 2465000  &amp; 72 \\
+E &amp; 2709000  &amp; 48 \\
+F &amp; 2953000  &amp; 65
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2369606</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R023 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Potrerillo}\)</span>, emplea a <span class="math inline">\(329\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1904000          &amp; 37 \\
+B &amp; 2174000    &amp; 56 \\
+C &amp; 2444000  &amp; 69 \\
+D &amp; 2714000  &amp; 70 \\
+E &amp; 2984000  &amp; 29 \\
+F &amp; 3254000  &amp; 68
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2609775</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R024 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Nogolí}\)</span>, emplea a <span class="math inline">\(341\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1504000          &amp; 41 \\
+B &amp; 1778000    &amp; 59 \\
+C &amp; 2052000  &amp; 78 \\
+D &amp; 2326000  &amp; 75 \\
+E &amp; 2600000  &amp; 33 \\
+F &amp; 2874000  &amp; 55
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2184581</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R025 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Ranquelcó}\)</span>, emplea a <span class="math inline">\(369\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1630000          &amp; 41 \\
+B &amp; 1892000    &amp; 64 \\
+C &amp; 2154000  &amp; 77 \\
+D &amp; 2416000  &amp; 73 \\
+E &amp; 2678000  &amp; 45 \\
+F &amp; 2940000  &amp; 69
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2313046</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R026 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{La Brea}\)</span>, emplea a <span class="math inline">\(348\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1905000          &amp; 38 \\
+B &amp; 2217000    &amp; 63 \\
+C &amp; 2529000  &amp; 72 \\
+D &amp; 2841000  &amp; 78 \\
+E &amp; 3153000  &amp; 43 \\
+F &amp; 3465000  &amp; 54
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2696655</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R027 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{La Brea}\)</span>, emplea a <span class="math inline">\(367\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1761000          &amp; 41 \\
+B &amp; 2031000    &amp; 57 \\
+C &amp; 2301000  &amp; 103 \\
+D &amp; 2571000  &amp; 83 \\
+E &amp; 2841000  &amp; 26 \\
+F &amp; 3111000  &amp; 57
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2423861</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R028 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Ranquelcó}\)</span>, emplea a <span class="math inline">\(359\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1764000          &amp; 37 \\
+B &amp; 2016000    &amp; 61 \\
+C &amp; 2268000  &amp; 75 \\
+D &amp; 2520000  &amp; 71 \\
+E &amp; 2772000  &amp; 46 \\
+F &amp; 3024000  &amp; 69
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2432958</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R029 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Potrerillo}\)</span>, emplea a <span class="math inline">\(317\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1704000          &amp; 39 \\
+B &amp; 2036000    &amp; 53 \\
+C &amp; 2368000  &amp; 72 \\
+D &amp; 2700000  &amp; 70 \\
+E &amp; 3032000  &amp; 26 \\
+F &amp; 3364000  &amp; 57
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2537666</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R030 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Potrerillo}\)</span>, emplea a <span class="math inline">\(339\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1800000          &amp; 37 \\
+B &amp; 2146000    &amp; 62 \\
+C &amp; 2492000  &amp; 67 \\
+D &amp; 2838000  &amp; 76 \\
+E &amp; 3184000  &amp; 38 \\
+F &amp; 3530000  &amp; 59
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2688985</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R031 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Los Chilcas}\)</span>, emplea a <span class="math inline">\(361\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1867000          &amp; 41 \\
+B &amp; 2193000    &amp; 52 \\
+C &amp; 2519000  &amp; 100 \\
+D &amp; 2845000  &amp; 71 \\
+E &amp; 3171000  &amp; 25 \\
+F &amp; 3497000  &amp; 72
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2702319</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R032 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Nogolí}\)</span>, emplea a <span class="math inline">\(361\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1937000          &amp; 41 \\
+B &amp; 2173000    &amp; 56 \\
+C &amp; 2409000  &amp; 75 \\
+D &amp; 2645000  &amp; 83 \\
+E &amp; 2881000  &amp; 43 \\
+F &amp; 3117000  &amp; 63
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2552823</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R033 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Potrerillo}\)</span>, emplea a <span class="math inline">\(363\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1535000          &amp; 41 \\
+B &amp; 1763000    &amp; 53 \\
+C &amp; 1991000  &amp; 98 \\
+D &amp; 2219000  &amp; 81 \\
+E &amp; 2447000  &amp; 25 \\
+F &amp; 2675000  &amp; 65
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2110967</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R034 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Nogolí}\)</span>, emplea a <span class="math inline">\(386\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1538000          &amp; 41 \\
+B &amp; 1804000    &amp; 60 \\
+C &amp; 2070000  &amp; 100 \\
+D &amp; 2336000  &amp; 83 \\
+E &amp; 2602000  &amp; 39 \\
+F &amp; 2868000  &amp; 63
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2213337</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R035 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Ranquelcó}\)</span>, emplea a <span class="math inline">\(330\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1531000          &amp; 37 \\
+B &amp; 1805000    &amp; 63 \\
+C &amp; 2079000  &amp; 60 \\
+D &amp; 2353000  &amp; 71 \\
+E &amp; 2627000  &amp; 43 \\
+F &amp; 2901000  &amp; 56
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2235097</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R036 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Ranquelcó}\)</span>, emplea a <span class="math inline">\(343\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1926000          &amp; 41 \\
+B &amp; 2252000    &amp; 52 \\
+C &amp; 2578000  &amp; 93 \\
+D &amp; 2904000  &amp; 72 \\
+E &amp; 3230000  &amp; 27 \\
+F &amp; 3556000  &amp; 58
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2735773</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R037 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Chalanta}\)</span>, emplea a <span class="math inline">\(347\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1647000          &amp; 40 \\
+B &amp; 1879000    &amp; 55 \\
+C &amp; 2111000  &amp; 63 \\
+D &amp; 2343000  &amp; 75 \\
+E &amp; 2575000  &amp; 42 \\
+F &amp; 2807000  &amp; 72
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2271461</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R038 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Chalanta}\)</span>, emplea a <span class="math inline">\(367\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1608000          &amp; 40 \\
+B &amp; 1836000    &amp; 59 \\
+C &amp; 2064000  &amp; 89 \\
+D &amp; 2292000  &amp; 77 \\
+E &amp; 2520000  &amp; 39 \\
+F &amp; 2748000  &amp; 63
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2191357</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R039 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Nogolí}\)</span>, emplea a <span class="math inline">\(353\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1633000          &amp; 38 \\
+B &amp; 1907000    &amp; 59 \\
+C &amp; 2181000  &amp; 83 \\
+D &amp; 2455000  &amp; 83 \\
+E &amp; 2729000  &amp; 30 \\
+F &amp; 3003000  &amp; 60
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2326926</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R040 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Los Chilcas}\)</span>, emplea a <span class="math inline">\(352\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1633000          &amp; 40 \\
+B &amp; 1889000    &amp; 61 \\
+C &amp; 2145000  &amp; 71 \\
+D &amp; 2401000  &amp; 79 \\
+E &amp; 2657000  &amp; 40 \\
+F &amp; 2913000  &amp; 61
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2291182</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R041 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Chalanta}\)</span>, emplea a <span class="math inline">\(323\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1788000          &amp; 39 \\
+B &amp; 2052000    &amp; 56 \\
+C &amp; 2316000  &amp; 68 \\
+D &amp; 2580000  &amp; 74 \\
+E &amp; 2844000  &amp; 34 \\
+F &amp; 3108000  &amp; 52
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2450043</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R042 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Potrerillo}\)</span>, emplea a <span class="math inline">\(361\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1813000          &amp; 37 \\
+B &amp; 2045000    &amp; 59 \\
+C &amp; 2277000  &amp; 69 \\
+D &amp; 2509000  &amp; 78 \\
+E &amp; 2741000  &amp; 47 \\
+F &amp; 2973000  &amp; 71
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2438950</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R043 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Potrerillo}\)</span>, emplea a <span class="math inline">\(371\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1525000          &amp; 38 \\
+B &amp; 1775000    &amp; 56 \\
+C &amp; 2025000  &amp; 101 \\
+D &amp; 2275000  &amp; 73 \\
+E &amp; 2525000  &amp; 42 \\
+F &amp; 2775000  &amp; 61
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2165162</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R044 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Chalanta}\)</span>, emplea a <span class="math inline">\(327\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1900000          &amp; 39 \\
+B &amp; 2224000    &amp; 55 \\
+C &amp; 2548000  &amp; 64 \\
+D &amp; 2872000  &amp; 79 \\
+E &amp; 3196000  &amp; 30 \\
+F &amp; 3520000  &amp; 60
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2732294</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R045 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Potrerillo}\)</span>, emplea a <span class="math inline">\(360\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1795000          &amp; 41 \\
+B &amp; 2043000    &amp; 56 \\
+C &amp; 2291000  &amp; 86 \\
+D &amp; 2539000  &amp; 83 \\
+E &amp; 2787000  &amp; 28 \\
+F &amp; 3035000  &amp; 66
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2428089</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R046 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Las Totoras}\)</span>, emplea a <span class="math inline">\(358\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1804000          &amp; 38 \\
+B &amp; 2092000    &amp; 56 \\
+C &amp; 2380000  &amp; 78 \\
+D &amp; 2668000  &amp; 81 \\
+E &amp; 2956000  &amp; 48 \\
+F &amp; 3244000  &amp; 57
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2553765</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R047 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Ranquelcó}\)</span>, emplea a <span class="math inline">\(366\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1514000          &amp; 40 \\
+B &amp; 1852000    &amp; 55 \\
+C &amp; 2190000  &amp; 98 \\
+D &amp; 2528000  &amp; 70 \\
+E &amp; 2866000  &amp; 48 \\
+F &amp; 3204000  &amp; 55
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2371005</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R048 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{La Brea}\)</span>, emplea a <span class="math inline">\(368\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1508000          &amp; 37 \\
+B &amp; 1762000    &amp; 56 \\
+C &amp; 2016000  &amp; 104 \\
+D &amp; 2270000  &amp; 75 \\
+E &amp; 2524000  &amp; 28 \\
+F &amp; 2778000  &amp; 68
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2157495</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R049 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{La Brea}\)</span>, emplea a <span class="math inline">\(360\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1576000          &amp; 38 \\
+B &amp; 1896000    &amp; 59 \\
+C &amp; 2216000  &amp; 90 \\
+D &amp; 2536000  &amp; 75 \\
+E &amp; 2856000  &amp; 43 \\
+F &amp; 3176000  &amp; 55
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2385778</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R050 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Nogolí}\)</span>, emplea a <span class="math inline">\(402\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1743000          &amp; 41 \\
+B &amp; 2077000    &amp; 61 \\
+C &amp; 2411000  &amp; 106 \\
+D &amp; 2745000  &amp; 83 \\
+E &amp; 3079000  &amp; 48 \\
+F &amp; 3413000  &amp; 63
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2597940</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R051 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Potrerillo}\)</span>, emplea a <span class="math inline">\(372\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1874000          &amp; 39 \\
+B &amp; 2166000    &amp; 62 \\
+C &amp; 2458000  &amp; 82 \\
+D &amp; 2750000  &amp; 82 \\
+E &amp; 3042000  &amp; 49 \\
+F &amp; 3334000  &amp; 58
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2625978</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R052 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Soven}\)</span>, emplea a <span class="math inline">\(358\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1565000          &amp; 40 \\
+B &amp; 1849000    &amp; 57 \\
+C &amp; 2133000  &amp; 93 \\
+D &amp; 2417000  &amp; 82 \\
+E &amp; 2701000  &amp; 26 \\
+F &amp; 2985000  &amp; 60
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2273413</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R053 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{La Brea}\)</span>, emplea a <span class="math inline">\(367\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1941000          &amp; 38 \\
+B &amp; 2267000    &amp; 59 \\
+C &amp; 2593000  &amp; 99 \\
+D &amp; 2919000  &amp; 83 \\
+E &amp; 3245000  &amp; 34 \\
+F &amp; 3571000  &amp; 54
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2751114</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R054 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{La Brea}\)</span>, emplea a <span class="math inline">\(357\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1761000          &amp; 37 \\
+B &amp; 2067000    &amp; 63 \\
+C &amp; 2373000  &amp; 91 \\
+D &amp; 2679000  &amp; 75 \\
+E &amp; 2985000  &amp; 25 \\
+F &amp; 3291000  &amp; 66
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2532429</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R055 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Chalanta}\)</span>, emplea a <span class="math inline">\(357\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1507000          &amp; 38 \\
+B &amp; 1805000    &amp; 62 \\
+C &amp; 2103000  &amp; 82 \\
+D &amp; 2401000  &amp; 74 \\
+E &amp; 2699000  &amp; 42 \\
+F &amp; 2997000  &amp; 59
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2267443</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R056 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Chalanta}\)</span>, emplea a <span class="math inline">\(342\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1891000          &amp; 38 \\
+B &amp; 2197000    &amp; 56 \\
+C &amp; 2503000  &amp; 70 \\
+D &amp; 2809000  &amp; 74 \\
+E &amp; 3115000  &amp; 41 \\
+F &amp; 3421000  &amp; 63
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2693579</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R057 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Soven}\)</span>, emplea a <span class="math inline">\(351\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1617000          &amp; 39 \\
+B &amp; 1901000    &amp; 52 \\
+C &amp; 2185000  &amp; 66 \\
+D &amp; 2469000  &amp; 82 \\
+E &amp; 2753000  &amp; 43 \\
+F &amp; 3037000  &amp; 69
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2383234</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R058 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Soven}\)</span>, emplea a <span class="math inline">\(337\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1724000          &amp; 37 \\
+B &amp; 1952000    &amp; 62 \\
+C &amp; 2180000  &amp; 65 \\
+D &amp; 2408000  &amp; 78 \\
+E &amp; 2636000  &amp; 36 \\
+F &amp; 2864000  &amp; 59
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2309223</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R059 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Chalanta}\)</span>, emplea a <span class="math inline">\(330\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1850000          &amp; 37 \\
+B &amp; 2146000    &amp; 53 \\
+C &amp; 2442000  &amp; 74 \\
+D &amp; 2738000  &amp; 78 \\
+E &amp; 3034000  &amp; 31 \\
+F &amp; 3330000  &amp; 57
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2607042</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R060 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Nogolí}\)</span>, emplea a <span class="math inline">\(381\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1709000          &amp; 41 \\
+B &amp; 2019000    &amp; 63 \\
+C &amp; 2329000  &amp; 102 \\
+D &amp; 2639000  &amp; 77 \\
+E &amp; 2949000  &amp; 34 \\
+F &amp; 3259000  &amp; 64
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2485220</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R061 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{La Brea}\)</span>, emplea a <span class="math inline">\(340\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1937000          &amp; 41 \\
+B &amp; 2161000    &amp; 63 \\
+C &amp; 2385000  &amp; 63 \\
+D &amp; 2609000  &amp; 74 \\
+E &amp; 2833000  &amp; 35 \\
+F &amp; 3057000  &amp; 64
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2510835</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R062 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Los Chilcas}\)</span>, emplea a <span class="math inline">\(346\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1653000          &amp; 41 \\
+B &amp; 1983000    &amp; 56 \\
+C &amp; 2313000  &amp; 78 \\
+D &amp; 2643000  &amp; 71 \\
+E &amp; 2973000  &amp; 32 \\
+F &amp; 3303000  &amp; 68
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2504705</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R063 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{La Brea}\)</span>, emplea a <span class="math inline">\(365\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1872000          &amp; 38 \\
+B &amp; 2204000    &amp; 58 \\
+C &amp; 2536000  &amp; 96 \\
+D &amp; 2868000  &amp; 74 \\
+E &amp; 3200000  &amp; 38 \\
+F &amp; 3532000  &amp; 61
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2717008</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R064 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{La Brea}\)</span>, emplea a <span class="math inline">\(359\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1691000          &amp; 39 \\
+B &amp; 2023000    &amp; 63 \\
+C &amp; 2355000  &amp; 87 \\
+D &amp; 2687000  &amp; 79 \\
+E &amp; 3019000  &amp; 37 \\
+F &amp; 3351000  &amp; 54
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2515914</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R065 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Nogolí}\)</span>, emplea a <span class="math inline">\(385\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1676000          &amp; 40 \\
+B &amp; 1938000    &amp; 61 \\
+C &amp; 2200000  &amp; 106 \\
+D &amp; 2462000  &amp; 74 \\
+E &amp; 2724000  &amp; 32 \\
+F &amp; 2986000  &amp; 72
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2344951</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R066 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Soven}\)</span>, emplea a <span class="math inline">\(367\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1712000          &amp; 40 \\
+B &amp; 2036000    &amp; 63 \\
+C &amp; 2360000  &amp; 101 \\
+D &amp; 2684000  &amp; 73 \\
+E &amp; 3008000  &amp; 35 \\
+F &amp; 3332000  &amp; 55
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2505668</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R067 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Las Totoras}\)</span>, emplea a <span class="math inline">\(343\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1680000          &amp; 38 \\
+B &amp; 1920000    &amp; 54 \\
+C &amp; 2160000  &amp; 65 \\
+D &amp; 2400000  &amp; 82 \\
+E &amp; 2640000  &amp; 32 \\
+F &amp; 2880000  &amp; 72
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2322332</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R068 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Las Totoras}\)</span>, emplea a <span class="math inline">\(366\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1762000          &amp; 40 \\
+B &amp; 2096000    &amp; 58 \\
+C &amp; 2430000  &amp; 88 \\
+D &amp; 2764000  &amp; 81 \\
+E &amp; 3098000  &amp; 49 \\
+F &amp; 3432000  &amp; 50
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2604301</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R069 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Soven}\)</span>, emplea a <span class="math inline">\(370\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1512000          &amp; 41 \\
+B &amp; 1808000    &amp; 60 \\
+C &amp; 2104000  &amp; 82 \\
+D &amp; 2400000  &amp; 83 \\
+E &amp; 2696000  &amp; 37 \\
+F &amp; 2992000  &amp; 67
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2276800</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R070 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{La Brea}\)</span>, emplea a <span class="math inline">\(335\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1637000          &amp; 41 \\
+B &amp; 1939000    &amp; 52 \\
+C &amp; 2241000  &amp; 62 \\
+D &amp; 2543000  &amp; 79 \\
+E &amp; 2845000  &amp; 31 \\
+F &amp; 3147000  &amp; 70
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2436624</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R071 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Ranquelcó}\)</span>, emplea a <span class="math inline">\(352\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1508000          &amp; 39 \\
+B &amp; 1744000    &amp; 57 \\
+C &amp; 1980000  &amp; 83 \\
+D &amp; 2216000  &amp; 82 \\
+E &amp; 2452000  &amp; 39 \\
+F &amp; 2688000  &amp; 52
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2101352</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R072 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Chalanta}\)</span>, emplea a <span class="math inline">\(341\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1865000          &amp; 37 \\
+B &amp; 2115000    &amp; 54 \\
+C &amp; 2365000  &amp; 76 \\
+D &amp; 2615000  &amp; 78 \\
+E &amp; 2865000  &amp; 30 \\
+F &amp; 3115000  &amp; 66
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2517493</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R073 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Soven}\)</span>, emplea a <span class="math inline">\(321\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1937000          &amp; 38 \\
+B &amp; 2277000    &amp; 58 \\
+C &amp; 2617000  &amp; 69 \\
+D &amp; 2957000  &amp; 75 \\
+E &amp; 3297000  &amp; 30 \\
+F &amp; 3637000  &amp; 51
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2780115</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R074 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Soven}\)</span>, emplea a <span class="math inline">\(347\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1927000          &amp; 37 \\
+B &amp; 2211000    &amp; 61 \\
+C &amp; 2495000  &amp; 77 \\
+D &amp; 2779000  &amp; 73 \\
+E &amp; 3063000  &amp; 32 \\
+F &amp; 3347000  &amp; 67
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2661144</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R075 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Ranquelcó}\)</span>, emplea a <span class="math inline">\(381\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1730000          &amp; 39 \\
+B &amp; 2008000    &amp; 63 \\
+C &amp; 2286000  &amp; 107 \\
+D &amp; 2564000  &amp; 72 \\
+E &amp; 2842000  &amp; 49 \\
+F &amp; 3120000  &amp; 51
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2418798</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R076 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{La Brea}\)</span>, emplea a <span class="math inline">\(350\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1853000          &amp; 41 \\
+B &amp; 2097000    &amp; 60 \\
+C &amp; 2341000  &amp; 87 \\
+D &amp; 2585000  &amp; 72 \\
+E &amp; 2829000  &amp; 38 \\
+F &amp; 3073000  &amp; 52
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2453937</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R077 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Chalanta}\)</span>, emplea a <span class="math inline">\(339\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1841000          &amp; 37 \\
+B &amp; 2139000    &amp; 60 \\
+C &amp; 2437000  &amp; 89 \\
+D &amp; 2735000  &amp; 71 \\
+E &amp; 3033000  &amp; 28 \\
+F &amp; 3331000  &amp; 54
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2573254</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R078 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Las Totoras}\)</span>, emplea a <span class="math inline">\(325\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1646000          &amp; 37 \\
+B &amp; 1988000    &amp; 59 \\
+C &amp; 2330000  &amp; 63 \\
+D &amp; 2672000  &amp; 79 \\
+E &amp; 3014000  &amp; 25 \\
+F &amp; 3356000  &amp; 62
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2521520</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R079 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Chalanta}\)</span>, emplea a <span class="math inline">\(365\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1665000          &amp; 38 \\
+B &amp; 1933000    &amp; 57 \\
+C &amp; 2201000  &amp; 96 \\
+D &amp; 2469000  &amp; 81 \\
+E &amp; 2737000  &amp; 38 \\
+F &amp; 3005000  &amp; 55
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2339773</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R080 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Las Totoras}\)</span>, emplea a <span class="math inline">\(336\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1851000          &amp; 41 \\
+B &amp; 2089000    &amp; 57 \\
+C &amp; 2327000  &amp; 78 \\
+D &amp; 2565000  &amp; 77 \\
+E &amp; 2803000  &amp; 29 \\
+F &amp; 3041000  &amp; 54
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2438917</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R081 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Nogolí}\)</span>, emplea a <span class="math inline">\(352\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1921000          &amp; 37 \\
+B &amp; 2219000    &amp; 62 \\
+C &amp; 2517000  &amp; 84 \\
+D &amp; 2815000  &amp; 81 \\
+E &amp; 3113000  &amp; 38 \\
+F &amp; 3411000  &amp; 50
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2661767</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R082 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Chalanta}\)</span>, emplea a <span class="math inline">\(379\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1601000          &amp; 40 \\
+B &amp; 1935000    &amp; 59 \\
+C &amp; 2269000  &amp; 102 \\
+D &amp; 2603000  &amp; 77 \\
+E &amp; 2937000  &amp; 37 \\
+F &amp; 3271000  &amp; 64
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2448778</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R083 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Potrerillo}\)</span>, emplea a <span class="math inline">\(370\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1793000          &amp; 38 \\
+B &amp; 2035000    &amp; 57 \\
+C &amp; 2277000  &amp; 88 \\
+D &amp; 2519000  &amp; 78 \\
+E &amp; 2761000  &amp; 41 \\
+F &amp; 3003000  &amp; 68
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2428086</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R084 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Chalanta}\)</span>, emplea a <span class="math inline">\(360\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1832000          &amp; 40 \\
+B &amp; 2114000    &amp; 55 \\
+C &amp; 2396000  &amp; 84 \\
+D &amp; 2678000  &amp; 78 \\
+E &amp; 2960000  &amp; 42 \\
+F &amp; 3242000  &amp; 61
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2560500</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R085 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Soven}\)</span>, emplea a <span class="math inline">\(329\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1829000          &amp; 37 \\
+B &amp; 2145000    &amp; 57 \\
+C &amp; 2461000  &amp; 62 \\
+D &amp; 2777000  &amp; 79 \\
+E &amp; 3093000  &amp; 32 \\
+F &amp; 3409000  &amp; 62
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2651176</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R086 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Soven}\)</span>, emplea a <span class="math inline">\(389\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1566000          &amp; 37 \\
+B &amp; 1890000    &amp; 63 \\
+C &amp; 2214000  &amp; 98 \\
+D &amp; 2538000  &amp; 80 \\
+E &amp; 2862000  &amp; 46 \\
+F &amp; 3186000  &amp; 65
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2405568</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R087 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Nogolí}\)</span>, emplea a <span class="math inline">\(358\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1507000          &amp; 37 \\
+B &amp; 1813000    &amp; 59 \\
+C &amp; 2119000  &amp; 93 \\
+D &amp; 2425000  &amp; 79 \\
+E &amp; 2731000  &amp; 34 \\
+F &amp; 3037000  &amp; 56
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2274564</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R088 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Las Totoras}\)</span>, emplea a <span class="math inline">\(353\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1860000          &amp; 40 \\
+B &amp; 2084000    &amp; 59 \\
+C &amp; 2308000  &amp; 72 \\
+D &amp; 2532000  &amp; 72 \\
+E &amp; 2756000  &amp; 42 \\
+F &amp; 2980000  &amp; 68
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2448238</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R089 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Ranquelcó}\)</span>, emplea a <span class="math inline">\(370\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1609000          &amp; 37 \\
+B &amp; 1937000    &amp; 54 \\
+C &amp; 2265000  &amp; 100 \\
+D &amp; 2593000  &amp; 79 \\
+E &amp; 2921000  &amp; 39 \\
+F &amp; 3249000  &amp; 61
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2452935</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R090 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Nogolí}\)</span>, emplea a <span class="math inline">\(381\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1817000          &amp; 40 \\
+B &amp; 2055000    &amp; 63 \\
+C &amp; 2293000  &amp; 102 \\
+D &amp; 2531000  &amp; 78 \\
+E &amp; 2769000  &amp; 42 \\
+F &amp; 3007000  &amp; 56
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2409814</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R091 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Ranquelcó}\)</span>, emplea a <span class="math inline">\(382\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1632000          &amp; 39 \\
+B &amp; 1940000    &amp; 62 \\
+C &amp; 2248000  &amp; 104 \\
+D &amp; 2556000  &amp; 74 \\
+E &amp; 2864000  &amp; 40 \\
+F &amp; 3172000  &amp; 63
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2411675</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R092 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Soven}\)</span>, emplea a <span class="math inline">\(343\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1907000          &amp; 39 \\
+B &amp; 2255000    &amp; 58 \\
+C &amp; 2603000  &amp; 80 \\
+D &amp; 2951000  &amp; 83 \\
+E &amp; 3299000  &amp; 30 \\
+F &amp; 3647000  &amp; 53
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2771420</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R093 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Chalanta}\)</span>, emplea a <span class="math inline">\(349\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1641000          &amp; 39 \\
+B &amp; 1941000    &amp; 62 \\
+C &amp; 2241000  &amp; 81 \\
+D &amp; 2541000  &amp; 71 \\
+E &amp; 2841000  &amp; 32 \\
+F &amp; 3141000  &amp; 64
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2401745</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R094 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Chalanta}\)</span>, emplea a <span class="math inline">\(343\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1534000          &amp; 40 \\
+B &amp; 1762000    &amp; 58 \\
+C &amp; 1990000  &amp; 72 \\
+D &amp; 2218000  &amp; 76 \\
+E &amp; 2446000  &amp; 28 \\
+F &amp; 2674000  &amp; 69
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2123609</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R095 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Ranquelcó}\)</span>, emplea a <span class="math inline">\(358\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1948000          &amp; 39 \\
+B &amp; 2250000    &amp; 59 \\
+C &amp; 2552000  &amp; 74 \\
+D &amp; 2854000  &amp; 82 \\
+E &amp; 3156000  &amp; 40 \\
+F &amp; 3458000  &amp; 64
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2735056</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R096 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Ranquelcó}\)</span>, emplea a <span class="math inline">\(353\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1518000          &amp; 38 \\
+B &amp; 1856000    &amp; 60 \\
+C &amp; 2194000  &amp; 86 \\
+D &amp; 2532000  &amp; 76 \\
+E &amp; 2870000  &amp; 37 \\
+F &amp; 3208000  &amp; 56
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2368266</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R097 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Ranquelcó}\)</span>, emplea a <span class="math inline">\(372\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1785000          &amp; 37 \\
+B &amp; 2069000    &amp; 64 \\
+C &amp; 2353000  &amp; 91 \\
+D &amp; 2637000  &amp; 74 \\
+E &amp; 2921000  &amp; 34 \\
+F &amp; 3205000  &amp; 72
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2520957</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R098 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Nogolí}\)</span>, emplea a <span class="math inline">\(339\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1896000          &amp; 40 \\
+B &amp; 2224000    &amp; 57 \\
+C &amp; 2552000  &amp; 69 \\
+D &amp; 2880000  &amp; 72 \\
+E &amp; 3208000  &amp; 41 \\
+F &amp; 3536000  &amp; 60
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2742608</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R099 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Ranquelcó}\)</span>, emplea a <span class="math inline">\(358\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1915000          &amp; 40 \\
+B &amp; 2145000    &amp; 52 \\
+C &amp; 2375000  &amp; 66 \\
+D &amp; 2605000  &amp; 82 \\
+E &amp; 2835000  &amp; 45 \\
+F &amp; 3065000  &amp; 73
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2541397</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R100 Q1 : RA_promediogrupos-sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioSalariosAgrupados]</strong></p>
+<p>Una industria de software de la localidad de <span class="math inline">\(\text{Los Chilcas}\)</span>, emplea a <span class="math inline">\(325\)</span> trabajadores, distribuidos en seis categorías según las tareas que desempeñan. Los salarios brutos por categoría para el mes de marzo de 2025 y la cantidad de trabajadores que los perciben, se muestran en la siguiente tabla.</p>
+<p><span class="math display">\[
+\begin{array}{c|c|c}
+\text{Categoría} &amp; x =\text{ salario (en \$)} &amp; \text{Cantidad de trabajadores} \\
+\hline
+A &amp; 1840000          &amp; 39 \\
+B &amp; 2172000    &amp; 60 \\
+C &amp; 2504000  &amp; 71 \\
+D &amp; 2836000  &amp; 73 \\
+E &amp; 3168000  &amp; 31 \\
+F &amp; 3500000  &amp; 51
+\end{array}
+\]</span></p>
+<p>Según estos datos, calcular el salario mensual promedio (en $) de los trabajadores de esta industria. Responder redondeando al entero más próximo.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2657231</text>
+<tolerance>1</tolerance>
+</answer>
+</question>
+
+</quiz>

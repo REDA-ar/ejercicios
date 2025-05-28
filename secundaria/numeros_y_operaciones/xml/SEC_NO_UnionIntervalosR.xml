@@ -1,0 +1,5011 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/SEC_NO_UnionIntervalosR/SEC_NO_UnionIntervalosR</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R001 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{16}|x|&gt;29\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;16\cdot 29\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;464\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-464 \text{ ó } x&gt;464\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-464)\cup(464;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-464)\cup(464;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-464]\cup[464;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-464;464)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-464;464]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R002 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{13}|x|&gt;17\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;13\cdot 17\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;221\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-221 \text{ ó } x&gt;221\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-221)\cup(221;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-221)\cup(221;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-221]\cup[221;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-221;221)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-221;221]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R003 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{11}|x|&gt;79\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;11\cdot 79\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;869\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-869 \text{ ó } x&gt;869\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-869)\cup(869;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-869)\cup(869;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-869]\cup[869;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-869;869)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-869;869]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R004 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{8}|x|&gt;3\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;8\cdot 3\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;24\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-24 \text{ ó } x&gt;24\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-24)\cup(24;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-24)\cup(24;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-24]\cup[24;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-24;24)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-24;24]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R005 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{12}|x|&gt;97\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;12\cdot 97\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;1164\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-1164 \text{ ó } x&gt;1164\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-1164)\cup(1164;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1164)\cup(1164;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1164]\cup[1164;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-1164;1164)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-1164;1164]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R006 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{14}|x|&gt;53\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;14\cdot 53\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;742\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-742 \text{ ó } x&gt;742\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-742)\cup(742;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-742)\cup(742;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-742]\cup[742;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-742;742)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-742;742]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R007 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{8}|x|&gt;73\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;8\cdot 73\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;584\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-584 \text{ ó } x&gt;584\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-584)\cup(584;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-584)\cup(584;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-584]\cup[584;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-584;584)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-584;584]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R008 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{12}|x|&gt;89\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;12\cdot 89\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;1068\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-1068 \text{ ó } x&gt;1068\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-1068)\cup(1068;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1068)\cup(1068;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1068]\cup[1068;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-1068;1068)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-1068;1068]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R009 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{19}|x|&gt;37\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;19\cdot 37\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;703\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-703 \text{ ó } x&gt;703\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-703)\cup(703;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-703)\cup(703;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-703]\cup[703;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-703;703)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-703;703]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R010 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{9}|x|&gt;83\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;9\cdot 83\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;747\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-747 \text{ ó } x&gt;747\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-747)\cup(747;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-747)\cup(747;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-747]\cup[747;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-747;747)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-747;747]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R011 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{7}|x|&gt;89\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;7\cdot 89\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;623\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-623 \text{ ó } x&gt;623\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-623)\cup(623;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-623)\cup(623;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-623]\cup[623;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-623;623)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-623;623]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R012 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{17}|x|&gt;67\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;17\cdot 67\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;1139\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-1139 \text{ ó } x&gt;1139\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-1139)\cup(1139;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1139)\cup(1139;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1139]\cup[1139;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-1139;1139)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-1139;1139]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R013 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{16}|x|&gt;43\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;16\cdot 43\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;688\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-688 \text{ ó } x&gt;688\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-688)\cup(688;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-688)\cup(688;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-688]\cup[688;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-688;688)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-688;688]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R014 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{13}|x|&gt;37\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;13\cdot 37\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;481\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-481 \text{ ó } x&gt;481\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-481)\cup(481;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-481)\cup(481;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-481]\cup[481;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-481;481)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-481;481]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R015 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{19}|x|&gt;97\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;19\cdot 97\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;1843\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-1843 \text{ ó } x&gt;1843\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-1843)\cup(1843;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1843)\cup(1843;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1843]\cup[1843;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-1843;1843)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-1843;1843]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R016 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{9}|x|&gt;13\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;9\cdot 13\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;117\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-117 \text{ ó } x&gt;117\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-117)\cup(117;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-117)\cup(117;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-117]\cup[117;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-117;117)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-117;117]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R017 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{19}|x|&gt;7\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;19\cdot 7\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;133\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-133 \text{ ó } x&gt;133\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-133)\cup(133;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-133)\cup(133;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-133]\cup[133;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-133;133)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-133;133]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R018 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{13}|x|&gt;59\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;13\cdot 59\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;767\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-767 \text{ ó } x&gt;767\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-767)\cup(767;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-767)\cup(767;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-767]\cup[767;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-767;767)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-767;767]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R019 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{20}|x|&gt;67\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;20\cdot 67\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;1340\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-1340 \text{ ó } x&gt;1340\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-1340)\cup(1340;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1340)\cup(1340;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1340]\cup[1340;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-1340;1340)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-1340;1340]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R020 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{20}|x|&gt;79\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;20\cdot 79\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;1580\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-1580 \text{ ó } x&gt;1580\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-1580)\cup(1580;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1580)\cup(1580;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1580]\cup[1580;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-1580;1580)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-1580;1580]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R021 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{7}|x|&gt;23\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;7\cdot 23\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;161\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-161 \text{ ó } x&gt;161\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-161)\cup(161;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-161)\cup(161;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-161]\cup[161;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-161;161)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-161;161]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R022 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{6}|x|&gt;67\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;6\cdot 67\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;402\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-402 \text{ ó } x&gt;402\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-402)\cup(402;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-402)\cup(402;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-402]\cup[402;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-402;402)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-402;402]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R023 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{18}|x|&gt;53\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;18\cdot 53\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;954\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-954 \text{ ó } x&gt;954\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-954)\cup(954;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-954)\cup(954;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-954]\cup[954;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-954;954)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-954;954]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R024 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{18}|x|&gt;73\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;18\cdot 73\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;1314\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-1314 \text{ ó } x&gt;1314\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-1314)\cup(1314;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1314)\cup(1314;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1314]\cup[1314;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-1314;1314)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-1314;1314]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R025 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{13}|x|&gt;31\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;13\cdot 31\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;403\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-403 \text{ ó } x&gt;403\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-403)\cup(403;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-403)\cup(403;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-403]\cup[403;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-403;403)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-403;403]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R026 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{10}|x|&gt;13\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;10\cdot 13\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;130\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-130 \text{ ó } x&gt;130\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-130)\cup(130;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-130)\cup(130;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-130]\cup[130;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-130;130)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-130;130]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R027 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{17}|x|&gt;11\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;17\cdot 11\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;187\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-187 \text{ ó } x&gt;187\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-187)\cup(187;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-187)\cup(187;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-187]\cup[187;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-187;187)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-187;187]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R028 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{8}|x|&gt;11\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;8\cdot 11\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;88\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-88 \text{ ó } x&gt;88\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-88)\cup(88;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-88)\cup(88;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-88]\cup[88;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-88;88)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-88;88]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R029 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{15}|x|&gt;23\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;15\cdot 23\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;345\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-345 \text{ ó } x&gt;345\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-345)\cup(345;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-345)\cup(345;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-345]\cup[345;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-345;345)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-345;345]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R030 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{16}|x|&gt;19\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;16\cdot 19\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;304\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-304 \text{ ó } x&gt;304\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-304)\cup(304;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-304)\cup(304;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-304]\cup[304;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-304;304)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-304;304]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R031 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{10}|x|&gt;5\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;10\cdot 5\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;50\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-50 \text{ ó } x&gt;50\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-50)\cup(50;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-50)\cup(50;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-50]\cup[50;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-50;50)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-50;50]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R032 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{9}|x|&gt;97\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;9\cdot 97\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;873\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-873 \text{ ó } x&gt;873\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-873)\cup(873;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-873)\cup(873;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-873]\cup[873;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-873;873)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-873;873]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R033 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{16}|x|&gt;73\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;16\cdot 73\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;1168\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-1168 \text{ ó } x&gt;1168\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-1168)\cup(1168;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1168)\cup(1168;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1168]\cup[1168;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-1168;1168)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-1168;1168]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R034 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{15}|x|&gt;29\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;15\cdot 29\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;435\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-435 \text{ ó } x&gt;435\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-435)\cup(435;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-435)\cup(435;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-435]\cup[435;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-435;435)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-435;435]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R035 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{16}|x|&gt;11\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;16\cdot 11\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;176\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-176 \text{ ó } x&gt;176\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-176)\cup(176;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-176)\cup(176;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-176]\cup[176;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-176;176)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-176;176]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R036 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{10}|x|&gt;97\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;10\cdot 97\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;970\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-970 \text{ ó } x&gt;970\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-970)\cup(970;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-970)\cup(970;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-970]\cup[970;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-970;970)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-970;970]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R037 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{7}|x|&gt;13\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;7\cdot 13\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;91\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-91 \text{ ó } x&gt;91\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-91)\cup(91;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-91)\cup(91;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-91]\cup[91;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-91;91)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-91;91]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R038 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{14}|x|&gt;19\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;14\cdot 19\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;266\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-266 \text{ ó } x&gt;266\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-266)\cup(266;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-266)\cup(266;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-266]\cup[266;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-266;266)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-266;266]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R039 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{12}|x|&gt;37\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;12\cdot 37\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;444\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-444 \text{ ó } x&gt;444\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-444)\cup(444;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-444)\cup(444;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-444]\cup[444;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-444;444)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-444;444]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R040 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{8}|x|&gt;83\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;8\cdot 83\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;664\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-664 \text{ ó } x&gt;664\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-664)\cup(664;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-664)\cup(664;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-664]\cup[664;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-664;664)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-664;664]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R041 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{8}|x|&gt;13\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;8\cdot 13\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;104\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-104 \text{ ó } x&gt;104\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-104)\cup(104;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-104)\cup(104;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-104]\cup[104;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-104;104)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-104;104]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R042 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{17}|x|&gt;17\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;17\cdot 17\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;289\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-289 \text{ ó } x&gt;289\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-289)\cup(289;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-289)\cup(289;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-289]\cup[289;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-289;289)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-289;289]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R043 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{19}|x|&gt;5\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;19\cdot 5\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;95\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-95 \text{ ó } x&gt;95\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-95)\cup(95;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-95)\cup(95;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-95]\cup[95;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-95;95)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-95;95]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R044 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{14}|x|&gt;53\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;14\cdot 53\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;742\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-742 \text{ ó } x&gt;742\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-742)\cup(742;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-742)\cup(742;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-742]\cup[742;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-742;742)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-742;742]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R045 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{16}|x|&gt;71\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;16\cdot 71\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;1136\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-1136 \text{ ó } x&gt;1136\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-1136)\cup(1136;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1136)\cup(1136;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1136]\cup[1136;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-1136;1136)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-1136;1136]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R046 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{17}|x|&gt;61\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;17\cdot 61\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;1037\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-1037 \text{ ó } x&gt;1037\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-1037)\cup(1037;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1037)\cup(1037;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1037]\cup[1037;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-1037;1037)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-1037;1037]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R047 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{19}|x|&gt;53\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;19\cdot 53\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;1007\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-1007 \text{ ó } x&gt;1007\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-1007)\cup(1007;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1007)\cup(1007;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1007]\cup[1007;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-1007;1007)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-1007;1007]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R048 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{17}|x|&gt;5\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;17\cdot 5\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;85\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-85 \text{ ó } x&gt;85\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-85)\cup(85;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-85)\cup(85;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-85]\cup[85;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-85;85)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-85;85]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R049 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{11}|x|&gt;5\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;11\cdot 5\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;55\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-55 \text{ ó } x&gt;55\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-55)\cup(55;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-55)\cup(55;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-55]\cup[55;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-55;55)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-55;55]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R050 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{6}|x|&gt;3\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;6\cdot 3\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;18\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-18 \text{ ó } x&gt;18\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-18)\cup(18;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-18)\cup(18;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-18]\cup[18;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-18;18)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-18;18]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R051 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{11}|x|&gt;97\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;11\cdot 97\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;1067\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-1067 \text{ ó } x&gt;1067\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-1067)\cup(1067;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1067)\cup(1067;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1067]\cup[1067;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-1067;1067)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-1067;1067]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R052 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{6}|x|&gt;3\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;6\cdot 3\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;18\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-18 \text{ ó } x&gt;18\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-18)\cup(18;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-18)\cup(18;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-18]\cup[18;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-18;18)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-18;18]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R053 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{7}|x|&gt;59\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;7\cdot 59\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;413\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-413 \text{ ó } x&gt;413\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-413)\cup(413;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-413)\cup(413;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-413]\cup[413;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-413;413)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-413;413]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R054 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{19}|x|&gt;7\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;19\cdot 7\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;133\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-133 \text{ ó } x&gt;133\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-133)\cup(133;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-133)\cup(133;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-133]\cup[133;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-133;133)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-133;133]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R055 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{19}|x|&gt;13\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;19\cdot 13\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;247\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-247 \text{ ó } x&gt;247\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-247)\cup(247;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-247)\cup(247;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-247]\cup[247;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-247;247)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-247;247]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R056 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{16}|x|&gt;73\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;16\cdot 73\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;1168\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-1168 \text{ ó } x&gt;1168\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-1168)\cup(1168;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1168)\cup(1168;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1168]\cup[1168;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-1168;1168)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-1168;1168]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R057 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{19}|x|&gt;31\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;19\cdot 31\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;589\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-589 \text{ ó } x&gt;589\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-589)\cup(589;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-589)\cup(589;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-589]\cup[589;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-589;589)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-589;589]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R058 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{7}|x|&gt;59\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;7\cdot 59\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;413\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-413 \text{ ó } x&gt;413\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-413)\cup(413;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-413)\cup(413;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-413]\cup[413;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-413;413)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-413;413]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R059 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{7}|x|&gt;23\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;7\cdot 23\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;161\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-161 \text{ ó } x&gt;161\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-161)\cup(161;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-161)\cup(161;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-161]\cup[161;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-161;161)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-161;161]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R060 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{19}|x|&gt;67\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;19\cdot 67\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;1273\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-1273 \text{ ó } x&gt;1273\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-1273)\cup(1273;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1273)\cup(1273;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1273]\cup[1273;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-1273;1273)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-1273;1273]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R061 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{14}|x|&gt;61\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;14\cdot 61\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;854\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-854 \text{ ó } x&gt;854\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-854)\cup(854;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-854)\cup(854;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-854]\cup[854;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-854;854)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-854;854]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R062 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{15}|x|&gt;7\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;15\cdot 7\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;105\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-105 \text{ ó } x&gt;105\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-105)\cup(105;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-105)\cup(105;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-105]\cup[105;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-105;105)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-105;105]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R063 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{9}|x|&gt;71\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;9\cdot 71\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;639\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-639 \text{ ó } x&gt;639\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-639)\cup(639;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-639)\cup(639;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-639]\cup[639;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-639;639)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-639;639]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R064 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{19}|x|&gt;13\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;19\cdot 13\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;247\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-247 \text{ ó } x&gt;247\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-247)\cup(247;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-247)\cup(247;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-247]\cup[247;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-247;247)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-247;247]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R065 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{18}|x|&gt;13\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;18\cdot 13\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;234\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-234 \text{ ó } x&gt;234\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-234)\cup(234;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-234)\cup(234;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-234]\cup[234;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-234;234)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-234;234]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R066 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{15}|x|&gt;23\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;15\cdot 23\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;345\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-345 \text{ ó } x&gt;345\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-345)\cup(345;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-345)\cup(345;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-345]\cup[345;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-345;345)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-345;345]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R067 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{15}|x|&gt;13\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;15\cdot 13\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;195\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-195 \text{ ó } x&gt;195\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-195)\cup(195;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-195)\cup(195;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-195]\cup[195;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-195;195)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-195;195]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R068 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{9}|x|&gt;17\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;9\cdot 17\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;153\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-153 \text{ ó } x&gt;153\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-153)\cup(153;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-153)\cup(153;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-153]\cup[153;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-153;153)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-153;153]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R069 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{18}|x|&gt;67\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;18\cdot 67\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;1206\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-1206 \text{ ó } x&gt;1206\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-1206)\cup(1206;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1206)\cup(1206;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1206]\cup[1206;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-1206;1206)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-1206;1206]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R070 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{6}|x|&gt;7\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;6\cdot 7\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;42\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-42 \text{ ó } x&gt;42\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-42)\cup(42;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-42)\cup(42;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-42]\cup[42;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-42;42)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-42;42]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R071 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{15}|x|&gt;73\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;15\cdot 73\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;1095\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-1095 \text{ ó } x&gt;1095\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-1095)\cup(1095;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1095)\cup(1095;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1095]\cup[1095;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-1095;1095)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-1095;1095]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R072 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{12}|x|&gt;79\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;12\cdot 79\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;948\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-948 \text{ ó } x&gt;948\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-948)\cup(948;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-948)\cup(948;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-948]\cup[948;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-948;948)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-948;948]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R073 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{20}|x|&gt;67\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;20\cdot 67\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;1340\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-1340 \text{ ó } x&gt;1340\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-1340)\cup(1340;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1340)\cup(1340;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1340]\cup[1340;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-1340;1340)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-1340;1340]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R074 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{9}|x|&gt;3\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;9\cdot 3\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;27\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-27 \text{ ó } x&gt;27\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-27)\cup(27;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-27)\cup(27;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-27]\cup[27;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-27;27)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-27;27]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R075 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{7}|x|&gt;19\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;7\cdot 19\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;133\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-133 \text{ ó } x&gt;133\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-133)\cup(133;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-133)\cup(133;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-133]\cup[133;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-133;133)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-133;133]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R076 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{16}|x|&gt;17\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;16\cdot 17\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;272\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-272 \text{ ó } x&gt;272\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-272)\cup(272;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-272)\cup(272;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-272]\cup[272;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-272;272)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-272;272]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R077 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{9}|x|&gt;37\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;9\cdot 37\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;333\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-333 \text{ ó } x&gt;333\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-333)\cup(333;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-333)\cup(333;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-333]\cup[333;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-333;333)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-333;333]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R078 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{6}|x|&gt;3\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;6\cdot 3\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;18\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-18 \text{ ó } x&gt;18\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-18)\cup(18;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-18)\cup(18;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-18]\cup[18;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-18;18)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-18;18]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R079 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{16}|x|&gt;67\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;16\cdot 67\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;1072\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-1072 \text{ ó } x&gt;1072\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-1072)\cup(1072;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1072)\cup(1072;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1072]\cup[1072;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-1072;1072)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-1072;1072]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R080 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{19}|x|&gt;53\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;19\cdot 53\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;1007\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-1007 \text{ ó } x&gt;1007\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-1007)\cup(1007;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1007)\cup(1007;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1007]\cup[1007;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-1007;1007)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-1007;1007]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R081 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{12}|x|&gt;53\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;12\cdot 53\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;636\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-636 \text{ ó } x&gt;636\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-636)\cup(636;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-636)\cup(636;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-636]\cup[636;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-636;636)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-636;636]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R082 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{14}|x|&gt;47\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;14\cdot 47\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;658\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-658 \text{ ó } x&gt;658\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-658)\cup(658;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-658)\cup(658;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-658]\cup[658;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-658;658)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-658;658]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R083 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{11}|x|&gt;61\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;11\cdot 61\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;671\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-671 \text{ ó } x&gt;671\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-671)\cup(671;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-671)\cup(671;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-671]\cup[671;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-671;671)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-671;671]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R084 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{19}|x|&gt;67\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;19\cdot 67\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;1273\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-1273 \text{ ó } x&gt;1273\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-1273)\cup(1273;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1273)\cup(1273;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1273]\cup[1273;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-1273;1273)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-1273;1273]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R085 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{17}|x|&gt;43\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;17\cdot 43\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;731\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-731 \text{ ó } x&gt;731\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-731)\cup(731;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-731)\cup(731;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-731]\cup[731;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-731;731)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-731;731]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R086 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{20}|x|&gt;43\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;20\cdot 43\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;860\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-860 \text{ ó } x&gt;860\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-860)\cup(860;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-860)\cup(860;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-860]\cup[860;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-860;860)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-860;860]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R087 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{16}|x|&gt;61\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;16\cdot 61\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;976\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-976 \text{ ó } x&gt;976\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-976)\cup(976;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-976)\cup(976;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-976]\cup[976;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-976;976)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-976;976]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R088 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{20}|x|&gt;43\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;20\cdot 43\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;860\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-860 \text{ ó } x&gt;860\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-860)\cup(860;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-860)\cup(860;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-860]\cup[860;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-860;860)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-860;860]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R089 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{13}|x|&gt;5\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;13\cdot 5\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;65\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-65 \text{ ó } x&gt;65\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-65)\cup(65;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-65)\cup(65;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-65]\cup[65;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-65;65)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-65;65]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R090 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{17}|x|&gt;23\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;17\cdot 23\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;391\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-391 \text{ ó } x&gt;391\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-391)\cup(391;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-391)\cup(391;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-391]\cup[391;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-391;391)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-391;391]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R091 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{19}|x|&gt;97\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;19\cdot 97\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;1843\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-1843 \text{ ó } x&gt;1843\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-1843)\cup(1843;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1843)\cup(1843;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1843]\cup[1843;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-1843;1843)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-1843;1843]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R092 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{18}|x|&gt;5\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;18\cdot 5\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;90\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-90 \text{ ó } x&gt;90\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-90)\cup(90;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-90)\cup(90;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-90]\cup[90;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-90;90)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-90;90]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R093 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{19}|x|&gt;19\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;19\cdot 19\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;361\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-361 \text{ ó } x&gt;361\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-361)\cup(361;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-361)\cup(361;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-361]\cup[361;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-361;361)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-361;361]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R094 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{12}|x|&gt;13\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;12\cdot 13\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;156\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-156 \text{ ó } x&gt;156\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-156)\cup(156;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-156)\cup(156;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-156]\cup[156;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-156;156)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-156;156]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R095 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{18}|x|&gt;13\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;18\cdot 13\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;234\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-234 \text{ ó } x&gt;234\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-234)\cup(234;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-234)\cup(234;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-234]\cup[234;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-234;234)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-234;234]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R096 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{11}|x|&gt;41\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;11\cdot 41\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;451\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-451 \text{ ó } x&gt;451\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-451)\cup(451;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-451)\cup(451;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-451]\cup[451;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-451;451)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-451;451]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R097 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{6}|x|&gt;53\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;6\cdot 53\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;318\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-318 \text{ ó } x&gt;318\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-318)\cup(318;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-318)\cup(318;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-318]\cup[318;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-318;318)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-318;318]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R098 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{15}|x|&gt;67\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;15\cdot 67\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;1005\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-1005 \text{ ó } x&gt;1005\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-1005)\cup(1005;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1005)\cup(1005;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1005]\cup[1005;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-1005;1005)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-1005;1005]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R099 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{18}|x|&gt;73\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;18\cdot 73\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;1314\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-1314 \text{ ó } x&gt;1314\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-1314)\cup(1314;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1314)\cup(1314;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1314]\cup[1314;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-1314;1314)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-1314;1314]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R100 Q1 : RN_Intervalos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_UnionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{14}|x|&gt;13\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;14\cdot 13\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|&gt;182\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:x&lt;-182 \text{ ó } x&gt;182\right\}\]</span>
+lo que conduce a la unión de intervalos dada por
+<span class="math display">\[(-\infty;-182)\cup(182;+\infty)\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-182)\cup(182;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-182]\cup[182;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-182;182)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-182;182]\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

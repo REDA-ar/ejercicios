@@ -1,0 +1,3111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/SEC_NO_OrdenPesosQ/SEC_NO_OrdenPesosQ</text>
+</category>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R001 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Lucas: 63.432}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 86.702}\)</span>,</li>
+<li><span class="math inline">\(\text{Sofía: 31.261}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 60.833}\)</span>,</li>
+<li><span class="math inline">\(\text{Lautaro: 31.619}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Sofía}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Lautaro}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R002 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Lautaro: 36.73}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 33.793}\)</span>,</li>
+<li><span class="math inline">\(\text{Martina: 68.537}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 87.029}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucía: 105.191}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Lautaro}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Martina}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R003 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Cora: 78.557}\)</span>,</li>
+<li><span class="math inline">\(\text{Isabella: 32.946}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucas: 103.156}\)</span>,</li>
+<li><span class="math inline">\(\text{Lautaro: 25.221}\)</span>,</li>
+<li><span class="math inline">\(\text{Laura: 27.786}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Cora}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Isabella}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Lautaro}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Laura}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R004 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Martina: 74.271}\)</span>,</li>
+<li><span class="math inline">\(\text{Pedro: 93.946}\)</span>,</li>
+<li><span class="math inline">\(\text{Isabella: 37.94}\)</span>,</li>
+<li><span class="math inline">\(\text{Laura: 23.628}\)</span>,</li>
+<li><span class="math inline">\(\text{Francesca: 40.156}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Martina}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Isabella}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Laura}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Francesca}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R005 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Isabella: 31.703}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucía: 66.18}\)</span>,</li>
+<li><span class="math inline">\(\text{Lautaro: 39.422}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 46.435}\)</span>,</li>
+<li><span class="math inline">\(\text{Sofía: 46.513}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Isabella}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Lautaro}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Sofía}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R006 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Lautaro: 25.741}\)</span>,</li>
+<li><span class="math inline">\(\text{Sofía: 26.258}\)</span>,</li>
+<li><span class="math inline">\(\text{Cora: 70.321}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 62.738}\)</span>,</li>
+<li><span class="math inline">\(\text{Pedro: 82.696}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Lautaro}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Sofía}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Cora}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R007 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Lucía: 72.56}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucas: 89.557}\)</span>,</li>
+<li><span class="math inline">\(\text{Laura: 29.469}\)</span>,</li>
+<li><span class="math inline">\(\text{Isabella: 20.244}\)</span>,</li>
+<li><span class="math inline">\(\text{Sofía: 32.486}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Laura}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Isabella}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Sofía}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R008 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Francesca: 35.469}\)</span>,</li>
+<li><span class="math inline">\(\text{Bernardo: 73.056}\)</span>,</li>
+<li><span class="math inline">\(\text{Laura: 27.555}\)</span>,</li>
+<li><span class="math inline">\(\text{Sofía: 28.324}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 34.324}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Francesca}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Laura}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Sofía}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R009 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Francisco: 92.157}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 21.403}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucas: 66.337}\)</span>,</li>
+<li><span class="math inline">\(\text{Sofía: 39.051}\)</span>,</li>
+<li><span class="math inline">\(\text{Pedro: 75.803}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Sofía}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R010 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Lucas: 152.383}\)</span>,</li>
+<li><span class="math inline">\(\text{Francesca: 38.821}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 52.47}\)</span>,</li>
+<li><span class="math inline">\(\text{Laura: 22.376}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 43.003}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Francesca}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Laura}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R011 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Sofía: 22.321}\)</span>,</li>
+<li><span class="math inline">\(\text{Pedro: 87.918}\)</span>,</li>
+<li><span class="math inline">\(\text{Francesca: 23.093}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 67.107}\)</span>,</li>
+<li><span class="math inline">\(\text{Bernardo: 68.931}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Sofía}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Francesca}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R012 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Francesca: 29.319}\)</span>,</li>
+<li><span class="math inline">\(\text{Laura: 27.632}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 25.991}\)</span>,</li>
+<li><span class="math inline">\(\text{Lautaro: 31.38}\)</span>,</li>
+<li><span class="math inline">\(\text{Isabella: 28.043}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Francesca}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Laura}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Lautaro}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Isabella}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R013 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Nicanor: 29.98}\)</span>,</li>
+<li><span class="math inline">\(\text{Laura: 27.928}\)</span>,</li>
+<li><span class="math inline">\(\text{Sofía: 33.49}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 58.679}\)</span>,</li>
+<li><span class="math inline">\(\text{Cora: 85.144}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Laura}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Sofía}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Cora}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R014 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Sofía: 28.196}\)</span>,</li>
+<li><span class="math inline">\(\text{Isabella: 27.366}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucas: 77.737}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucía: 65.361}\)</span>,</li>
+<li><span class="math inline">\(\text{Lautaro: 55.949}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Sofía}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Isabella}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Lautaro}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R015 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Isabella: 36.572}\)</span>,</li>
+<li><span class="math inline">\(\text{Francesca: 45.868}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 39.185}\)</span>,</li>
+<li><span class="math inline">\(\text{Cora: 65.624}\)</span>,</li>
+<li><span class="math inline">\(\text{Sofía: 27.328}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Isabella}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Francesca}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Cora}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Sofía}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R016 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Francisco: 52.505}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucas: 97.257}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 22.777}\)</span>,</li>
+<li><span class="math inline">\(\text{Isabella: 27.874}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 75.627}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Isabella}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R017 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Lautaro: 37.934}\)</span>,</li>
+<li><span class="math inline">\(\text{Sofía: 25.788}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 37.166}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 68.953}\)</span>,</li>
+<li><span class="math inline">\(\text{Bernardo: 84.376}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Lautaro}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Sofía}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R018 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Sofía: 22.581}\)</span>,</li>
+<li><span class="math inline">\(\text{Pedro: 88.778}\)</span>,</li>
+<li><span class="math inline">\(\text{Martina: 74.4}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 26.407}\)</span>,</li>
+<li><span class="math inline">\(\text{Lautaro: 26.987}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Sofía}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Martina}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Lautaro}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R019 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Lucas: 82.354}\)</span>,</li>
+<li><span class="math inline">\(\text{Isabella: 27.205}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucía: 92.899}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 74.025}\)</span>,</li>
+<li><span class="math inline">\(\text{Pedro: 71.073}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Isabella}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R020 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Francisco: 71.738}\)</span>,</li>
+<li><span class="math inline">\(\text{Sofía: 28.158}\)</span>,</li>
+<li><span class="math inline">\(\text{Bernardo: 61.377}\)</span>,</li>
+<li><span class="math inline">\(\text{Martina: 78.381}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucía: 79.448}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Sofía}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Martina}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R021 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Lucía: 71.277}\)</span>,</li>
+<li><span class="math inline">\(\text{Lautaro: 28.438}\)</span>,</li>
+<li><span class="math inline">\(\text{Isabella: 29.834}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 70.678}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucas: 80.098}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Lautaro}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Isabella}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R022 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Mateo: 30.959}\)</span>,</li>
+<li><span class="math inline">\(\text{Sofía: 44.986}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 28.664}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 130.298}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucía: 104.477}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Sofía}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R023 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Pedro: 66.637}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 32.389}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 28.686}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucía: 72.725}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 54.048}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R024 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Francisco: 90.461}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 26.344}\)</span>,</li>
+<li><span class="math inline">\(\text{Francesca: 31.044}\)</span>,</li>
+<li><span class="math inline">\(\text{Isabella: 60.237}\)</span>,</li>
+<li><span class="math inline">\(\text{Cora: 64.397}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Francesca}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Isabella}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Cora}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R025 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Máximo: 57.755}\)</span>,</li>
+<li><span class="math inline">\(\text{Isabella: 33.463}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 60.71}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 30.002}\)</span>,</li>
+<li><span class="math inline">\(\text{Sofía: 34.174}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Isabella}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Sofía}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R026 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Mateo: 40.051}\)</span>,</li>
+<li><span class="math inline">\(\text{Martina: 143.591}\)</span>,</li>
+<li><span class="math inline">\(\text{Francesca: 19.216}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 94.862}\)</span>,</li>
+<li><span class="math inline">\(\text{Isabella: 39.219}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Martina}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Francesca}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Isabella}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R027 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Máximo: 86.098}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucía: 68.632}\)</span>,</li>
+<li><span class="math inline">\(\text{Laura: 42.804}\)</span>,</li>
+<li><span class="math inline">\(\text{Cora: 55.087}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucas: 66.098}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Laura}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Cora}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R028 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Laura: 41.619}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 100.091}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 23.978}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 22.475}\)</span>,</li>
+<li><span class="math inline">\(\text{Martina: 93.631}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Laura}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Martina}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R029 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Cora: 58.802}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucía: 62.748}\)</span>,</li>
+<li><span class="math inline">\(\text{Sofía: 26.892}\)</span>,</li>
+<li><span class="math inline">\(\text{Bernardo: 78.129}\)</span>,</li>
+<li><span class="math inline">\(\text{Laura: 28.457}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Cora}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Sofía}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Laura}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R030 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Martina: 56.477}\)</span>,</li>
+<li><span class="math inline">\(\text{Lautaro: 25.271}\)</span>,</li>
+<li><span class="math inline">\(\text{Bernardo: 61.644}\)</span>,</li>
+<li><span class="math inline">\(\text{Laura: 28.05}\)</span>,</li>
+<li><span class="math inline">\(\text{Sofía: 28.213}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Martina}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Lautaro}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Laura}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Sofía}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R031 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Pedro: 64.492}\)</span>,</li>
+<li><span class="math inline">\(\text{Sofía: 34.722}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 29.784}\)</span>,</li>
+<li><span class="math inline">\(\text{Isabella: 25.288}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucía: 100.357}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Sofía}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Isabella}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R032 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Mateo: 25.512}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucas: 64.791}\)</span>,</li>
+<li><span class="math inline">\(\text{Martina: 50.859}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 65.076}\)</span>,</li>
+<li><span class="math inline">\(\text{Laura: 25.792}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Martina}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Laura}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R033 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Laura: 30.523}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 23.928}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 30.063}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucía: 99.267}\)</span>,</li>
+<li><span class="math inline">\(\text{Martina: 86.83}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Laura}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Martina}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R034 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Nicanor: 40.658}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucía: 49.423}\)</span>,</li>
+<li><span class="math inline">\(\text{Laura: 36.5}\)</span>,</li>
+<li><span class="math inline">\(\text{Sofía: 51.052}\)</span>,</li>
+<li><span class="math inline">\(\text{Lautaro: 28.603}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Laura}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Sofía}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Lautaro}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R035 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Pedro: 85.758}\)</span>,</li>
+<li><span class="math inline">\(\text{Isabella: 24.844}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 55.096}\)</span>,</li>
+<li><span class="math inline">\(\text{Lautaro: 28.797}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucas: 75.71}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Isabella}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Lautaro}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R036 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Francisco: 66.173}\)</span>,</li>
+<li><span class="math inline">\(\text{Pedro: 86.197}\)</span>,</li>
+<li><span class="math inline">\(\text{Isabella: 36.505}\)</span>,</li>
+<li><span class="math inline">\(\text{Bernardo: 59.349}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 29.423}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Isabella}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R037 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Sofía: 28.042}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucas: 87.057}\)</span>,</li>
+<li><span class="math inline">\(\text{Bernardo: 56.037}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 32.956}\)</span>,</li>
+<li><span class="math inline">\(\text{Pedro: 69.069}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Sofía}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R038 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Máximo: 68.13}\)</span>,</li>
+<li><span class="math inline">\(\text{Isabella: 30.925}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 37.231}\)</span>,</li>
+<li><span class="math inline">\(\text{Sofía: 38.629}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 35.295}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Isabella}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Sofía}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R039 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Martina: 56.629}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 25.834}\)</span>,</li>
+<li><span class="math inline">\(\text{Isabella: 29.672}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucía: 74.459}\)</span>,</li>
+<li><span class="math inline">\(\text{Cora: 55.71}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Martina}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Isabella}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Cora}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R040 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Nicanor: 34.343}\)</span>,</li>
+<li><span class="math inline">\(\text{Lautaro: 32.276}\)</span>,</li>
+<li><span class="math inline">\(\text{Sofía: 37.19}\)</span>,</li>
+<li><span class="math inline">\(\text{Laura: 29.111}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 91.628}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Lautaro}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Sofía}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Laura}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R041 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Lautaro: 27.059}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 25.625}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 98.957}\)</span>,</li>
+<li><span class="math inline">\(\text{Pedro: 101.225}\)</span>,</li>
+<li><span class="math inline">\(\text{Bernardo: 54.651}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Lautaro}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R042 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Isabella: 34.6}\)</span>,</li>
+<li><span class="math inline">\(\text{Laura: 27.822}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucas: 54.397}\)</span>,</li>
+<li><span class="math inline">\(\text{Martina: 58.92}\)</span>,</li>
+<li><span class="math inline">\(\text{Lautaro: 34.32}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Isabella}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Laura}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Martina}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Lautaro}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R043 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Lautaro: 28.485}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucas: 89.481}\)</span>,</li>
+<li><span class="math inline">\(\text{Sofía: 31.516}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 26.93}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 120.096}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Lautaro}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Sofía}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R044 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Nicanor: 28.293}\)</span>,</li>
+<li><span class="math inline">\(\text{Francesca: 34.923}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 82.253}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucas: 71.485}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 28.399}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Francesca}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R045 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Laura: 38.105}\)</span>,</li>
+<li><span class="math inline">\(\text{Martina: 61.345}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 74.864}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 60.427}\)</span>,</li>
+<li><span class="math inline">\(\text{Bernardo: 93.524}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Laura}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Martina}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R046 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Lucía: 58.114}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 63.958}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 70.749}\)</span>,</li>
+<li><span class="math inline">\(\text{Lautaro: 46.5}\)</span>,</li>
+<li><span class="math inline">\(\text{Francesca: 51.577}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Lautaro}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Francesca}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R047 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Sofía: 27.206}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 82.95}\)</span>,</li>
+<li><span class="math inline">\(\text{Bernardo: 48.669}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucía: 126.253}\)</span>,</li>
+<li><span class="math inline">\(\text{Pedro: 70.248}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Sofía}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R048 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Bernardo: 65.82}\)</span>,</li>
+<li><span class="math inline">\(\text{Lautaro: 23.774}\)</span>,</li>
+<li><span class="math inline">\(\text{Francesca: 29.445}\)</span>,</li>
+<li><span class="math inline">\(\text{Isabella: 30.061}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 62.377}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Lautaro}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Francesca}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Isabella}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R049 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Pedro: 68.192}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 56.106}\)</span>,</li>
+<li><span class="math inline">\(\text{Martina: 76.663}\)</span>,</li>
+<li><span class="math inline">\(\text{Isabella: 29.731}\)</span>,</li>
+<li><span class="math inline">\(\text{Bernardo: 117.625}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Martina}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Isabella}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R050 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Francisco: 85.924}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucía: 87.709}\)</span>,</li>
+<li><span class="math inline">\(\text{Bernardo: 45.562}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 31.135}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 56.249}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R051 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Francesca: 25.762}\)</span>,</li>
+<li><span class="math inline">\(\text{Lautaro: 35.487}\)</span>,</li>
+<li><span class="math inline">\(\text{Bernardo: 63.98}\)</span>,</li>
+<li><span class="math inline">\(\text{Martina: 57.472}\)</span>,</li>
+<li><span class="math inline">\(\text{Isabella: 21.886}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Francesca}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Lautaro}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Martina}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Isabella}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R052 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Bernardo: 93.226}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucía: 53.01}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 36.54}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucas: 66.348}\)</span>,</li>
+<li><span class="math inline">\(\text{Sofía: 37.893}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Sofía}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R053 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Máximo: 86.724}\)</span>,</li>
+<li><span class="math inline">\(\text{Francesca: 30.902}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 30.456}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 75.924}\)</span>,</li>
+<li><span class="math inline">\(\text{Pedro: 51.03}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Francesca}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R054 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Sofía: 44.596}\)</span>,</li>
+<li><span class="math inline">\(\text{Cora: 56.656}\)</span>,</li>
+<li><span class="math inline">\(\text{Pedro: 90.316}\)</span>,</li>
+<li><span class="math inline">\(\text{Francesca: 26.829}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 92.043}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Sofía}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Cora}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Francesca}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R055 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Nicanor: 36.931}\)</span>,</li>
+<li><span class="math inline">\(\text{Martina: 56.807}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucas: 48.263}\)</span>,</li>
+<li><span class="math inline">\(\text{Pedro: 57.142}\)</span>,</li>
+<li><span class="math inline">\(\text{Sofía: 27.959}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Martina}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Sofía}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R056 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Pedro: 63.748}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 26.377}\)</span>,</li>
+<li><span class="math inline">\(\text{Bernardo: 63.422}\)</span>,</li>
+<li><span class="math inline">\(\text{Martina: 92.792}\)</span>,</li>
+<li><span class="math inline">\(\text{Francesca: 36.568}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Martina}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Francesca}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R057 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Laura: 56.992}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 40.722}\)</span>,</li>
+<li><span class="math inline">\(\text{Francesca: 22.614}\)</span>,</li>
+<li><span class="math inline">\(\text{Sofía: 31.155}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucas: 76.241}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Laura}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Francesca}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Sofía}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R058 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Laura: 31.506}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 64.744}\)</span>,</li>
+<li><span class="math inline">\(\text{Martina: 88.301}\)</span>,</li>
+<li><span class="math inline">\(\text{Sofía: 34.407}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucía: 50.475}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Laura}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Martina}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Sofía}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R059 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Laura: 54.105}\)</span>,</li>
+<li><span class="math inline">\(\text{Isabella: 27.983}\)</span>,</li>
+<li><span class="math inline">\(\text{Francesca: 32.065}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 84.896}\)</span>,</li>
+<li><span class="math inline">\(\text{Bernardo: 93.603}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Laura}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Isabella}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Francesca}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R060 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Lucía: 81.319}\)</span>,</li>
+<li><span class="math inline">\(\text{Sofía: 24.658}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 43.298}\)</span>,</li>
+<li><span class="math inline">\(\text{Lautaro: 24.867}\)</span>,</li>
+<li><span class="math inline">\(\text{Isabella: 37.412}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Sofía}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Lautaro}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Isabella}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R061 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Bernardo: 118.319}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 89.857}\)</span>,</li>
+<li><span class="math inline">\(\text{Francesca: 32.774}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 69.994}\)</span>,</li>
+<li><span class="math inline">\(\text{Pedro: 77.13}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Francesca}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R062 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Bernardo: 61.932}\)</span>,</li>
+<li><span class="math inline">\(\text{Laura: 50.333}\)</span>,</li>
+<li><span class="math inline">\(\text{Sofía: 31.153}\)</span>,</li>
+<li><span class="math inline">\(\text{Isabella: 40.963}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 99.891}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Laura}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Sofía}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Isabella}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R063 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Bernardo: 106.179}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 27.074}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 95.035}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucas: 75.936}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 86.444}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R064 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Francesca: 27.857}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 70.966}\)</span>,</li>
+<li><span class="math inline">\(\text{Laura: 28.544}\)</span>,</li>
+<li><span class="math inline">\(\text{Martina: 74.197}\)</span>,</li>
+<li><span class="math inline">\(\text{Cora: 58.247}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Francesca}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Laura}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Martina}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Cora}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R065 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Lucas: 79.953}\)</span>,</li>
+<li><span class="math inline">\(\text{Lautaro: 50.28}\)</span>,</li>
+<li><span class="math inline">\(\text{Martina: 79.424}\)</span>,</li>
+<li><span class="math inline">\(\text{Laura: 33.652}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 30.711}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Lautaro}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Martina}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Laura}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R066 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Martina: 66.442}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 92.747}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 32.042}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 58.962}\)</span>,</li>
+<li><span class="math inline">\(\text{Sofía: 29.263}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Martina}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Sofía}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R067 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Laura: 48.296}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 89.617}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucas: 62.121}\)</span>,</li>
+<li><span class="math inline">\(\text{Cora: 71.803}\)</span>,</li>
+<li><span class="math inline">\(\text{Martina: 93.292}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Laura}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Cora}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Martina}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R068 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Lucas: 58.587}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 39.492}\)</span>,</li>
+<li><span class="math inline">\(\text{Lautaro: 27.408}\)</span>,</li>
+<li><span class="math inline">\(\text{Laura: 28.367}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 24.1}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Lautaro}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Laura}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R069 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Bernardo: 66.985}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 103.74}\)</span>,</li>
+<li><span class="math inline">\(\text{Martina: 82.149}\)</span>,</li>
+<li><span class="math inline">\(\text{Francesca: 26.984}\)</span>,</li>
+<li><span class="math inline">\(\text{Lautaro: 41.502}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Martina}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Francesca}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Lautaro}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R070 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Nicanor: 25.712}\)</span>,</li>
+<li><span class="math inline">\(\text{Cora: 99.5}\)</span>,</li>
+<li><span class="math inline">\(\text{Laura: 26.087}\)</span>,</li>
+<li><span class="math inline">\(\text{Martina: 52.004}\)</span>,</li>
+<li><span class="math inline">\(\text{Isabella: 27.448}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Cora}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Laura}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Martina}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Isabella}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R071 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Lucía: 65.308}\)</span>,</li>
+<li><span class="math inline">\(\text{Bernardo: 47.393}\)</span>,</li>
+<li><span class="math inline">\(\text{Cora: 68.086}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 43.282}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucas: 114.961}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Cora}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R072 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Lucía: 84.801}\)</span>,</li>
+<li><span class="math inline">\(\text{Cora: 59.816}\)</span>,</li>
+<li><span class="math inline">\(\text{Pedro: 79.019}\)</span>,</li>
+<li><span class="math inline">\(\text{Francesca: 34.97}\)</span>,</li>
+<li><span class="math inline">\(\text{Martina: 59.911}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Cora}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Francesca}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Martina}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R073 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Lautaro: 47.835}\)</span>,</li>
+<li><span class="math inline">\(\text{Pedro: 71.375}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 47.438}\)</span>,</li>
+<li><span class="math inline">\(\text{Cora: 45.352}\)</span>,</li>
+<li><span class="math inline">\(\text{Sofía: 38.77}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Lautaro}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Cora}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Sofía}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R074 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Pedro: 55.513}\)</span>,</li>
+<li><span class="math inline">\(\text{Isabella: 27.142}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 81.899}\)</span>,</li>
+<li><span class="math inline">\(\text{Martina: 88.697}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucas: 54.239}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Isabella}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Martina}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R075 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Laura: 24.291}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 39.744}\)</span>,</li>
+<li><span class="math inline">\(\text{Pedro: 68.146}\)</span>,</li>
+<li><span class="math inline">\(\text{Lautaro: 46.199}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucía: 74.306}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Laura}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Lautaro}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R076 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Lucía: 68.644}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 74.245}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 64.523}\)</span>,</li>
+<li><span class="math inline">\(\text{Lautaro: 25.274}\)</span>,</li>
+<li><span class="math inline">\(\text{Cora: 78.689}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Lautaro}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Cora}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R077 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Laura: 28.899}\)</span>,</li>
+<li><span class="math inline">\(\text{Cora: 70.232}\)</span>,</li>
+<li><span class="math inline">\(\text{Sofía: 36.643}\)</span>,</li>
+<li><span class="math inline">\(\text{Lautaro: 28.175}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucas: 78.362}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Laura}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Cora}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Sofía}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Lautaro}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R078 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Martina: 71.667}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 36.162}\)</span>,</li>
+<li><span class="math inline">\(\text{Lautaro: 38.154}\)</span>,</li>
+<li><span class="math inline">\(\text{Laura: 32.504}\)</span>,</li>
+<li><span class="math inline">\(\text{Sofía: 17.508}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Martina}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Lautaro}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Laura}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Sofía}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R079 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Nicanor: 33.902}\)</span>,</li>
+<li><span class="math inline">\(\text{Isabella: 50.015}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 73.996}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucas: 77.324}\)</span>,</li>
+<li><span class="math inline">\(\text{Pedro: 126.023}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Isabella}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R080 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Isabella: 30}\)</span>,</li>
+<li><span class="math inline">\(\text{Bernardo: 98.722}\)</span>,</li>
+<li><span class="math inline">\(\text{Lautaro: 31.001}\)</span>,</li>
+<li><span class="math inline">\(\text{Sofía: 35.875}\)</span>,</li>
+<li><span class="math inline">\(\text{Laura: 38.083}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Isabella}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Lautaro}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Sofía}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Laura}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R081 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Francisco: 62.387}\)</span>,</li>
+<li><span class="math inline">\(\text{Sofía: 35.593}\)</span>,</li>
+<li><span class="math inline">\(\text{Martina: 69.884}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 24.108}\)</span>,</li>
+<li><span class="math inline">\(\text{Bernardo: 101.037}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Sofía}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Martina}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R082 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Bernardo: 58.957}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucía: 75.233}\)</span>,</li>
+<li><span class="math inline">\(\text{Sofía: 39.511}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 28.752}\)</span>,</li>
+<li><span class="math inline">\(\text{Isabella: 21.128}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Sofía}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Isabella}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R083 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Lucía: 74.26}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 61.816}\)</span>,</li>
+<li><span class="math inline">\(\text{Laura: 31.295}\)</span>,</li>
+<li><span class="math inline">\(\text{Martina: 99.509}\)</span>,</li>
+<li><span class="math inline">\(\text{Bernardo: 74.827}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Laura}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Martina}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R084 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Lucas: 61.113}\)</span>,</li>
+<li><span class="math inline">\(\text{Martina: 93.075}\)</span>,</li>
+<li><span class="math inline">\(\text{Francesca: 39.337}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 23.234}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 75.123}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Martina}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Francesca}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R085 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Isabella: 26.049}\)</span>,</li>
+<li><span class="math inline">\(\text{Lautaro: 26.169}\)</span>,</li>
+<li><span class="math inline">\(\text{Nicanor: 29.384}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 62.159}\)</span>,</li>
+<li><span class="math inline">\(\text{Francesca: 27.914}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Isabella}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Lautaro}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Francesca}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R086 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Martina: 69.726}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 31.731}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 58.825}\)</span>,</li>
+<li><span class="math inline">\(\text{Sofía: 42.958}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 66.457}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Martina}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Sofía}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R087 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Martina: 57.546}\)</span>,</li>
+<li><span class="math inline">\(\text{Bernardo: 67.309}\)</span>,</li>
+<li><span class="math inline">\(\text{Lautaro: 24.494}\)</span>,</li>
+<li><span class="math inline">\(\text{Laura: 53.931}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 74.544}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Martina}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Lautaro}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Laura}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R088 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Mateo: 31.649}\)</span>,</li>
+<li><span class="math inline">\(\text{Martina: 63.665}\)</span>,</li>
+<li><span class="math inline">\(\text{Laura: 23.302}\)</span>,</li>
+<li><span class="math inline">\(\text{Pedro: 80.871}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucas: 54.113}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Martina}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Laura}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R089 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Lucas: 57.054}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 38.381}\)</span>,</li>
+<li><span class="math inline">\(\text{Pedro: 87.153}\)</span>,</li>
+<li><span class="math inline">\(\text{Francesca: 36.245}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 63.698}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Francesca}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R090 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Nicanor: 48.112}\)</span>,</li>
+<li><span class="math inline">\(\text{Cora: 62.421}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 65.71}\)</span>,</li>
+<li><span class="math inline">\(\text{Sofía: 32.856}\)</span>,</li>
+<li><span class="math inline">\(\text{Laura: 26.366}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Cora}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Sofía}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Laura}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R091 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Isabella: 46.034}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucas: 68.123}\)</span>,</li>
+<li><span class="math inline">\(\text{Pedro: 76.218}\)</span>,</li>
+<li><span class="math inline">\(\text{Francesca: 45.332}\)</span>,</li>
+<li><span class="math inline">\(\text{Cora: 95.563}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Isabella}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Francesca}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Cora}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R092 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Mateo: 30.046}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucía: 56.906}\)</span>,</li>
+<li><span class="math inline">\(\text{Laura: 35.866}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 48.393}\)</span>,</li>
+<li><span class="math inline">\(\text{Martina: 60.086}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Laura}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Martina}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R093 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Isabella: 26.397}\)</span>,</li>
+<li><span class="math inline">\(\text{Francesca: 34.969}\)</span>,</li>
+<li><span class="math inline">\(\text{Sofía: 24.277}\)</span>,</li>
+<li><span class="math inline">\(\text{Martina: 91.654}\)</span>,</li>
+<li><span class="math inline">\(\text{Pedro: 68.074}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Isabella}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Francesca}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Sofía}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Martina}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R094 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Pedro: 130.996}\)</span>,</li>
+<li><span class="math inline">\(\text{Bernardo: 75.223}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 55.537}\)</span>,</li>
+<li><span class="math inline">\(\text{Cora: 53.178}\)</span>,</li>
+<li><span class="math inline">\(\text{Francesca: 29.107}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Pedro}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Cora}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Francesca}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R095 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Martina: 81.427}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucía: 66.434}\)</span>,</li>
+<li><span class="math inline">\(\text{Laura: 23.643}\)</span>,</li>
+<li><span class="math inline">\(\text{Cora: 83.277}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 24.11}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Martina}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Lucía}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Laura}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Cora}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R096 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Lucas: 72.17}\)</span>,</li>
+<li><span class="math inline">\(\text{Laura: 29.887}\)</span>,</li>
+<li><span class="math inline">\(\text{Isabella: 26.745}\)</span>,</li>
+<li><span class="math inline">\(\text{Sofía: 25.678}\)</span>,</li>
+<li><span class="math inline">\(\text{Mateo: 30.579}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Laura}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Isabella}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Sofía}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R097 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Laura: 33.185}\)</span>,</li>
+<li><span class="math inline">\(\text{Isabella: 26.647}\)</span>,</li>
+<li><span class="math inline">\(\text{Bernardo: 100.133}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 97.071}\)</span>,</li>
+<li><span class="math inline">\(\text{Lautaro: 27.091}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Laura}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Isabella}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Lautaro}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R098 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Máximo: 63.703}\)</span>,</li>
+<li><span class="math inline">\(\text{Lautaro: 37.754}\)</span>,</li>
+<li><span class="math inline">\(\text{Laura: 46.311}\)</span>,</li>
+<li><span class="math inline">\(\text{Bernardo: 90.144}\)</span>,</li>
+<li><span class="math inline">\(\text{Sofía: 26.732}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Lautaro}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Laura}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Sofía}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R099 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Nicanor: 29.561}\)</span>,</li>
+<li><span class="math inline">\(\text{Isabella: 26.43}\)</span>,</li>
+<li><span class="math inline">\(\text{Martina: 64.36}\)</span>,</li>
+<li><span class="math inline">\(\text{Sofía: 24.732}\)</span>,</li>
+<li><span class="math inline">\(\text{Francisco: 58.819}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Nicanor}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Isabella}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Martina}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Sofía}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Francisco}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R100 Q1 : RN_ordenQ-peso </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenPesosQ]</strong></p>
+<p>En un Centro de Salud y Atención Comunitaria, se registró el peso (en kilogramos y con precisión de hasta 3 decimales) de las personas que asistieron a consulta. Este listado corresponde al peso de las últimas 5 personas evaluadas:</p>
+<ul>
+<li><span class="math inline">\(\text{Mateo: 32.59}\)</span>,</li>
+<li><span class="math inline">\(\text{Máximo: 76.412}\)</span>,</li>
+<li><span class="math inline">\(\text{Bernardo: 56.772}\)</span>,</li>
+<li><span class="math inline">\(\text{Laura: 38.745}\)</span>,</li>
+<li><span class="math inline">\(\text{Lucas: 62.487}\)</span>.</li>
+</ul>
+<p>Ordenarlos del 1 al 5 de forma <strong>creciente</strong> según su peso y responder indicando el número de orden de cada persona. [Los datos no son reales, sino simulados por computadora.]</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Mateo}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Máximo}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Bernardo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Laura}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Lucas}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+</quiz>

@@ -1,0 +1,3111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/SEC_NO_OrdenZTemperaturas/SEC_NO_OrdenZTemperaturas</text>
+</category>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R001 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Moscú: 10 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Buenos Aires: 21 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Chicago: 6 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Moscú}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Sudáfrica}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Buenos Aires}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Helsinki}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Chicago}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R002 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Toronto: 2 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Madrid: 3 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Nueva York: 3 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Phuket: 24 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Toronto}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Madrid}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Nueva York}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Helsinki}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Phuket}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R003 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Madrid: 3 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Estocolmo: 4 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Buenos Aires: 21 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{México DF: 5 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Madrid}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Helsinki}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Estocolmo}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Buenos Aires}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{México DF}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R004 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Chicago: 6 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Moscú: 10 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Phuket: 24 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Madrid: 3 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{San Petersburgo: 9 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Chicago}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Moscú}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Phuket}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Madrid}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{San Petersburgo}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R005 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Phuket: 24 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{México DF: 5 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Madrid: 3 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Helsinki}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Phuket}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{México DF}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Madrid}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Sudáfrica}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R006 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Buenos Aires: 21 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{San Petersburgo: 9 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Madrid: 3 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Phuket: 24 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Buenos Aires}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{San Petersburgo}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Sudáfrica}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Madrid}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Phuket}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R007 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{México DF: 5 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Moscú: 10 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Phuket: 24 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Estocolmo: 4 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Nueva Delhi: 8 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{México DF}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Moscú}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Phuket}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Estocolmo}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Nueva Delhi}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R008 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{México DF: 5 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Los Ángeles: 9 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Moscú: 10 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Madrid: 3 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Nueva Delhi: 8 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{México DF}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Los Ángeles}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Moscú}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Madrid}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Nueva Delhi}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R009 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{México DF: 5 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Phuket: 24 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Nueva York: 3 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Medellín: 17 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{México DF}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Phuket}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Sudáfrica}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Nueva York}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Medellín}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R010 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{México DF: 5 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{San Petersburgo: 9 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Medellín: 17 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Buenos Aires: 21 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Moscú: 10 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{México DF}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{San Petersburgo}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Medellín}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Buenos Aires}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Moscú}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R011 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Los Ángeles: 9 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Madrid: 3 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Nueva Delhi: 8 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Nueva York: 3 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Toronto: 2 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Los Ángeles}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Madrid}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Nueva Delhi}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Nueva York}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Toronto}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R012 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Medellín: 17 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Nueva York: 3 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{México DF: 5 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Madrid: 3 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Estocolmo: 4 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Medellín}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Nueva York}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{México DF}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Madrid}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Estocolmo}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R013 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Madrid: 3 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Los Ángeles: 9 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Toronto: 2 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{México DF: 5 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Madrid}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Los Ángeles}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Toronto}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Sudáfrica}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{México DF}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R014 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Nueva Delhi: 8 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Buenos Aires: 21 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Nueva York: 3 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{México DF: 5 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Nueva Delhi}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Buenos Aires}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Sudáfrica}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Nueva York}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{México DF}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R015 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Chicago: 6 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Medellín: 17 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Estocolmo: 4 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Los Ángeles: 9 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Chicago}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Medellín}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Estocolmo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Helsinki}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Los Ángeles}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R016 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Medellín: 17 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Phuket: 24 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Chicago: 6 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Toronto: 2 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Medellín}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Phuket}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Helsinki}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Chicago}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Toronto}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R017 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Nueva York: 3 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Phuket: 24 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Medellín: 17 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Buenos Aires: 21 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Nueva York}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Phuket}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Medellín}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Buenos Aires}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Helsinki}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R018 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Buenos Aires: 21 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{San Petersburgo: 9 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Chicago: 6 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Buenos Aires}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Sudáfrica}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Helsinki}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{San Petersburgo}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Chicago}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R019 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Phuket: 24 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Madrid: 3 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Chicago: 6 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Phuket}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Madrid}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Chicago}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Helsinki}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Sudáfrica}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R020 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{San Petersburgo: 9 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Moscú: 10 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{México DF: 5 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Buenos Aires: 21 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Sudáfrica}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{San Petersburgo}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Moscú}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{México DF}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Buenos Aires}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R021 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Nueva York: 3 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Los Ángeles: 9 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Medellín: 17 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Nueva York}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Los Ángeles}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Sudáfrica}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Medellín}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Helsinki}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R022 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Los Ángeles: 9 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Medellín: 17 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Nueva York: 3 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Phuket: 24 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Los Ángeles}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Helsinki}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Medellín}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Nueva York}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Phuket}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R023 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Phuket: 24 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{San Petersburgo: 9 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Medellín: 17 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Estocolmo: 4 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Phuket}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{San Petersburgo}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Medellín}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Estocolmo}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Sudáfrica}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R024 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Los Ángeles: 9 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Nueva York: 3 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Estocolmo: 4 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Madrid: 3 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Buenos Aires: 21 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Los Ángeles}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Nueva York}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Estocolmo}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Madrid}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Buenos Aires}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R025 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Estocolmo: 4 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Chicago: 6 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Nueva Delhi: 8 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Toronto: 2 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{San Petersburgo: 9 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Estocolmo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Chicago}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Nueva Delhi}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Toronto}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{San Petersburgo}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R026 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Los Ángeles: 9 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Medellín: 17 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Buenos Aires: 21 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Phuket: 24 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Los Ángeles}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Medellín}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Buenos Aires}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Sudáfrica}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Phuket}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R027 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Madrid: 3 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Nueva York: 3 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Buenos Aires: 21 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Madrid}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Nueva York}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Buenos Aires}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Sudáfrica}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Helsinki}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R028 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Chicago: 6 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Medellín: 17 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{San Petersburgo: 9 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Los Ángeles: 9 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Madrid: 3 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Chicago}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Medellín}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{San Petersburgo}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Los Ángeles}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Madrid}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R029 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Phuket: 24 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Nueva York: 3 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Moscú: 10 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Chicago: 6 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Helsinki}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Phuket}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Nueva York}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Moscú}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Chicago}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R030 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Toronto: 2 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Estocolmo: 4 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{México DF: 5 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Chicago: 6 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Toronto}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Estocolmo}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{México DF}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Chicago}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Sudáfrica}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R031 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Phuket: 24 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Chicago: 6 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Buenos Aires: 21 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{México DF: 5 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Phuket}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Chicago}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Buenos Aires}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Helsinki}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{México DF}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R032 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{México DF: 5 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Moscú: 10 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Chicago: 6 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Nueva York: 3 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Nueva Delhi: 8 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{México DF}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Moscú}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Chicago}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Nueva York}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Nueva Delhi}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R033 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Nueva Delhi: 8 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Moscú: 10 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Estocolmo: 4 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Buenos Aires: 21 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Los Ángeles: 9 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Nueva Delhi}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Moscú}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Estocolmo}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Buenos Aires}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Los Ángeles}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R034 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{San Petersburgo: 9 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Los Ángeles: 9 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Medellín: 17 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Chicago: 6 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{San Petersburgo}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Helsinki}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Los Ángeles}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Medellín}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Chicago}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R035 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Madrid: 3 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Medellín: 17 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Nueva Delhi: 8 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Los Ángeles: 9 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Madrid}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Medellín}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Nueva Delhi}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Los Ángeles}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Helsinki}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R036 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Estocolmo: 4 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Chicago: 6 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Medellín: 17 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{San Petersburgo: 9 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Estocolmo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Chicago}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Sudáfrica}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Medellín}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{San Petersburgo}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R037 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{San Petersburgo: 9 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Madrid: 3 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Moscú: 10 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Buenos Aires: 21 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Phuket: 24 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{San Petersburgo}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Madrid}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Moscú}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Buenos Aires}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Phuket}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R038 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{San Petersburgo: 9 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Estocolmo: 4 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{México DF: 5 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Chicago: 6 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Madrid: 3 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{San Petersburgo}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Estocolmo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{México DF}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Chicago}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Madrid}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R039 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Nueva York: 3 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Toronto: 2 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Phuket: 24 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Buenos Aires: 21 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{San Petersburgo: 9 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Nueva York}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Toronto}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Phuket}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Buenos Aires}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{San Petersburgo}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R040 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Buenos Aires: 21 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Estocolmo: 4 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Los Ángeles: 9 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{México DF: 5 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{San Petersburgo: 9 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Buenos Aires}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Estocolmo}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Los Ángeles}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{México DF}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{San Petersburgo}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R041 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Estocolmo: 4 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{México DF: 5 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Toronto: 2 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Estocolmo}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Sudáfrica}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Helsinki}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{México DF}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Toronto}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R042 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Toronto: 2 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Moscú: 10 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Nueva Delhi: 8 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Chicago: 6 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{México DF: 5 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Toronto}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Moscú}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Nueva Delhi}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Chicago}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{México DF}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R043 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{San Petersburgo: 9 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Moscú: 10 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Estocolmo: 4 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Madrid: 3 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{México DF: 5 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{San Petersburgo}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Moscú}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Estocolmo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Madrid}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{México DF}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R044 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Phuket: 24 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Madrid: 3 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Toronto: 2 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{San Petersburgo: 9 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Phuket}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Madrid}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Toronto}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Helsinki}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{San Petersburgo}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R045 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Estocolmo: 4 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Phuket: 24 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Medellín: 17 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Nueva Delhi: 8 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Estocolmo}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Helsinki}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Phuket}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Medellín}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Nueva Delhi}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R046 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Phuket: 24 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Estocolmo: 4 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Buenos Aires: 21 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Los Ángeles: 9 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Phuket}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Estocolmo}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Helsinki}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Buenos Aires}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Los Ángeles}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R047 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Buenos Aires: 21 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Phuket: 24 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Moscú: 10 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{México DF: 5 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Nueva York: 3 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Buenos Aires}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Phuket}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Moscú}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{México DF}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Nueva York}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R048 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Phuket: 24 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{San Petersburgo: 9 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Nueva Delhi: 8 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Toronto: 2 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Nueva York: 3 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Phuket}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{San Petersburgo}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Nueva Delhi}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Toronto}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Nueva York}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R049 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Madrid: 3 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Chicago: 6 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Estocolmo: 4 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{México DF: 5 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Madrid}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Chicago}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Sudáfrica}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Estocolmo}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{México DF}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R050 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{México DF: 5 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Toronto: 2 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Nueva York: 3 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{México DF}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Toronto}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Helsinki}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Nueva York}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Sudáfrica}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R051 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Medellín: 17 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Phuket: 24 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Toronto: 2 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{México DF: 5 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Chicago: 6 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Medellín}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Phuket}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Toronto}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{México DF}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Chicago}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R052 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Toronto: 2 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Los Ángeles: 9 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Nueva Delhi: 8 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Moscú: 10 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Toronto}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Los Ángeles}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Nueva Delhi}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Moscú}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Helsinki}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R053 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Nueva York: 3 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{México DF: 5 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Los Ángeles: 9 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Medellín: 17 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Phuket: 24 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Nueva York}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{México DF}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Los Ángeles}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Medellín}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Phuket}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R054 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Moscú: 10 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Toronto: 2 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Phuket: 24 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{San Petersburgo: 9 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Nueva Delhi: 8 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Moscú}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Toronto}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Phuket}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{San Petersburgo}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Nueva Delhi}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R055 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{México DF: 5 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Madrid: 3 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Nueva Delhi: 8 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Buenos Aires: 21 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{San Petersburgo: 9 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{México DF}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Madrid}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Nueva Delhi}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Buenos Aires}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{San Petersburgo}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R056 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Nueva York: 3 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Madrid: 3 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Buenos Aires: 21 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Toronto: 2 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Phuket: 24 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Nueva York}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Madrid}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Buenos Aires}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Toronto}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Phuket}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R057 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Chicago: 6 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Medellín: 17 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Phuket: 24 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Madrid: 3 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Helsinki}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Chicago}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Medellín}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Phuket}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Madrid}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R058 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Buenos Aires: 21 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Estocolmo: 4 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Phuket: 24 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{San Petersburgo: 9 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Buenos Aires}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Estocolmo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Helsinki}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Phuket}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{San Petersburgo}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R059 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Medellín: 17 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Nueva York: 3 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Los Ángeles: 9 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Nueva Delhi: 8 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{México DF: 5 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Medellín}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Nueva York}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Los Ángeles}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Nueva Delhi}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{México DF}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R060 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Nueva York: 3 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Buenos Aires: 21 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Los Ángeles: 9 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Medellín: 17 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Nueva York}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Sudáfrica}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Buenos Aires}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Los Ángeles}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Medellín}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R061 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Madrid: 3 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Phuket: 24 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Medellín: 17 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Los Ángeles: 9 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Madrid}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Phuket}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Medellín}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Los Ángeles}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Helsinki}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R062 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Medellín: 17 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Nueva Delhi: 8 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Estocolmo: 4 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Nueva York: 3 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Medellín}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Nueva Delhi}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Sudáfrica}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Estocolmo}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Nueva York}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R063 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Phuket: 24 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Toronto: 2 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Chicago: 6 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Madrid: 3 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Nueva York: 3 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Phuket}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Toronto}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Chicago}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Madrid}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Nueva York}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R064 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Toronto: 2 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{San Petersburgo: 9 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Los Ángeles: 9 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Helsinki}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Sudáfrica}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Toronto}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{San Petersburgo}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Los Ángeles}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R065 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Moscú: 10 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Phuket: 24 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Madrid: 3 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Nueva Delhi: 8 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{México DF: 5 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Moscú}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Phuket}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Madrid}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Nueva Delhi}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{México DF}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R066 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Buenos Aires: 21 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Madrid: 3 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Toronto: 2 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Estocolmo: 4 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Buenos Aires}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Helsinki}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Madrid}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Toronto}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Estocolmo}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R067 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Moscú: 10 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Madrid: 3 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Estocolmo: 4 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Chicago: 6 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Buenos Aires: 21 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Moscú}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Madrid}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Estocolmo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Chicago}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Buenos Aires}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R068 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Medellín: 17 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Los Ángeles: 9 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Madrid: 3 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Medellín}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Los Ángeles}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Madrid}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Helsinki}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Sudáfrica}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R069 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Buenos Aires: 21 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Los Ángeles: 9 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Chicago: 6 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Sudáfrica}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Buenos Aires}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Los Ángeles}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Helsinki}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Chicago}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R070 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Phuket: 24 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Moscú: 10 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Estocolmo: 4 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{San Petersburgo: 9 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Phuket}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Sudáfrica}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Moscú}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Estocolmo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{San Petersburgo}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R071 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Phuket: 24 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Moscú: 10 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{San Petersburgo: 9 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Nueva Delhi: 8 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Phuket}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Moscú}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{San Petersburgo}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Nueva Delhi}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Helsinki}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R072 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Nueva York: 3 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Toronto: 2 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Los Ángeles: 9 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Phuket: 24 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Buenos Aires: 21 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Nueva York}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Toronto}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Los Ángeles}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Phuket}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Buenos Aires}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R073 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{San Petersburgo: 9 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Madrid: 3 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Buenos Aires: 21 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Phuket: 24 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Estocolmo: 4 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{San Petersburgo}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Madrid}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Buenos Aires}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Phuket}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Estocolmo}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R074 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Toronto: 2 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{San Petersburgo: 9 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Chicago: 6 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Toronto}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Sudáfrica}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{San Petersburgo}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Chicago}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Helsinki}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R075 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{San Petersburgo: 9 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Madrid: 3 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{México DF: 5 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Nueva York: 3 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{San Petersburgo}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Madrid}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Helsinki}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{México DF}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Nueva York}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R076 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Los Ángeles: 9 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Chicago: 6 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Madrid: 3 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Nueva Delhi: 8 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Los Ángeles}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Chicago}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Madrid}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Nueva Delhi}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Sudáfrica}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R077 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Toronto: 2 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Chicago: 6 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Los Ángeles: 9 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Estocolmo: 4 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Toronto}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Chicago}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Los Ángeles}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Estocolmo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Helsinki}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R078 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Medellín: 17 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Chicago: 6 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Madrid: 3 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Buenos Aires: 21 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Helsinki}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Medellín}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Chicago}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Madrid}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Buenos Aires}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R079 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{San Petersburgo: 9 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Medellín: 17 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Nueva York: 3 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Madrid: 3 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Estocolmo: 4 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{San Petersburgo}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Medellín}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Nueva York}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Madrid}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Estocolmo}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R080 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Madrid: 3 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Moscú: 10 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Chicago: 6 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Sudáfrica}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Madrid}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Moscú}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Chicago}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Helsinki}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R081 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Los Ángeles: 9 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Nueva York: 3 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Moscú: 10 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{México DF: 5 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Los Ángeles}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Nueva York}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Sudáfrica}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Moscú}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{México DF}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R082 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{San Petersburgo: 9 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Phuket: 24 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Nueva York: 3 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Los Ángeles: 9 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{San Petersburgo}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Phuket}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Nueva York}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Los Ángeles}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Helsinki}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R083 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{San Petersburgo: 9 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Phuket: 24 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Los Ángeles: 9 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Estocolmo: 4 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{México DF: 5 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{San Petersburgo}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Phuket}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Los Ángeles}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Estocolmo}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{México DF}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R084 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{México DF: 5 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Nueva York: 3 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Toronto: 2 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Los Ángeles: 9 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{México DF}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Helsinki}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Nueva York}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Toronto}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Los Ángeles}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R085 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Nueva Delhi: 8 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Estocolmo: 4 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Buenos Aires: 21 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Nueva York: 3 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Nueva Delhi}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Estocolmo}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Buenos Aires}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Nueva York}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Helsinki}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R086 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Phuket: 24 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Toronto: 2 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Estocolmo: 4 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Medellín: 17 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Moscú: 10 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Phuket}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Toronto}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Estocolmo}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Medellín}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Moscú}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R087 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Los Ángeles: 9 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Estocolmo: 4 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Phuket: 24 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Chicago: 6 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Los Ángeles}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Helsinki}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Estocolmo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Phuket}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Chicago}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R088 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{San Petersburgo: 9 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Toronto: 2 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Chicago: 6 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{San Petersburgo}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Toronto}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Chicago}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Helsinki}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Sudáfrica}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R089 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Moscú: 10 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Nueva York: 3 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Medellín: 17 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{San Petersburgo: 9 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Moscú}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Nueva York}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Medellín}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Helsinki}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{San Petersburgo}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R090 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Nueva York: 3 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Medellín: 17 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Estocolmo: 4 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{México DF: 5 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Helsinki}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Nueva York}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Medellín}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Estocolmo}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{México DF}\)</span> {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R091 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Estocolmo: 4 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Moscú: 10 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{México DF: 5 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Toronto: 2 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Estocolmo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Moscú}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{México DF}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Toronto}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Helsinki}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R092 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Toronto: 2 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Nueva York: 3 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{San Petersburgo: 9 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Estocolmo: 4 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Moscú: 10 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Toronto}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Nueva York}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{San Petersburgo}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Estocolmo}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Moscú}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R093 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Phuket: 24 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Nueva York: 3 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Chicago: 6 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Sudáfrica}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Phuket}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Nueva York}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Helsinki}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Chicago}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R094 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{San Petersburgo: 9 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{México DF: 5 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Moscú: 10 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Medellín: 17 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Nueva York: 3 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{San Petersburgo}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{México DF}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Moscú}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Medellín}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Nueva York}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R095 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{México DF: 5 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Estocolmo: 4 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Chicago: 6 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Medellín: 17 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{México DF}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Sudáfrica}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Estocolmo}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Chicago}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Medellín}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R096 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Phuket: 24 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Moscú: 10 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Buenos Aires: 21 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Nueva Delhi: 8 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Estocolmo: 4 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Phuket}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Moscú}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Buenos Aires}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Nueva Delhi}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Estocolmo}\)</span> {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R097 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Los Ángeles: 9 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Nueva Delhi: 8 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Toronto: 2 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{San Petersburgo: 9 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Los Ángeles}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Sudáfrica}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Nueva Delhi}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Toronto}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{San Petersburgo}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R098 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Chicago: 6 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{México DF: 5 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Helsinki: 7 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Nueva York: 3 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Los Ángeles: 9 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Chicago}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{México DF}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Helsinki}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Nueva York}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Los Ángeles}\)</span> {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R099 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Nueva York: 3 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{México DF: 5 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Buenos Aires: 21 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Chicago: 6 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Madrid: 3 grados}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Nueva York}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{México DF}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Buenos Aires}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Chicago}\)</span> {1:NUMERICAL:=1:0} </li>
+<li> <span class="math inline">\(\text{Madrid}\)</span> {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R100 Q1 : RN_ordenZ-temp </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_OrdenZTemperaturas]</strong></p>
+<p>Estas son las temperaturas mínimas promedio (en grados centígrados) de algunas ciudades durante el mes de enero:</p>
+<ul>
+<li><span class="math inline">\(\text{Sudáfrica: 15 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Nueva Delhi: 8 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Madrid: 3 grados}\)</span>,</li>
+<li><span class="math inline">\(\text{Toronto: 2 grados bajo cero}\)</span>,</li>
+<li><span class="math inline">\(\text{Moscú: 10 grados bajo cero}\)</span>.</li>
+</ul>
+<p>Ordenarlas del 1 al 5 de forma <strong>creciente</strong> según su temperatura mínima promedio y responder indicando el número de orden de cada ciudad.</p>
+<ol type = "a">
+<li> <span class="math inline">\(\text{Sudáfrica}\)</span> {1:NUMERICAL:=5:0} </li>
+<li> <span class="math inline">\(\text{Nueva Delhi}\)</span> {1:NUMERICAL:=4:0} </li>
+<li> <span class="math inline">\(\text{Madrid}\)</span> {1:NUMERICAL:=3:0} </li>
+<li> <span class="math inline">\(\text{Toronto}\)</span> {1:NUMERICAL:=2:0} </li>
+<li> <span class="math inline">\(\text{Moscú}\)</span> {1:NUMERICAL:=1:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+</quiz>

@@ -1,0 +1,5411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/SEC_EP_PromedioDatosSinagrupar/SEC_EP_PromedioDatosSinagrupar</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R001 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(5\)</span> notas de las materias <span class="math inline">\(\text{Matemática I}\)</span> y <span class="math inline">\(\text{Introducción a la Hotelería}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Matemática I: 4.63, 5.96, 4.6, 6.47, 6.78}\)</span></p>
+<p><span class="math inline">\(\text{Introducción a la Hotelería: 7.32, 4.77, 7.54, 5.42, 5.22}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Matemática I
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Introducción a la Hotelería
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R002 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(6\)</span> notas de las materias <span class="math inline">\(\text{Robótica}\)</span> y <span class="math inline">\(\text{Marketing Empresarial}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Robótica: 4.32, 5.27, 7.64, 9.31, 4.75, 4.03}\)</span></p>
+<p><span class="math inline">\(\text{Marketing Empresarial: 5.9, 4.16, 9.61, 4.91, 4.13, 4.83}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Robótica
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Marketing Empresarial
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R003 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(5\)</span> notas de las materias <span class="math inline">\(\text{Computación}\)</span> y <span class="math inline">\(\text{Electrotecnia}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Computación: 8.11, 8.52, 6.37, 4.01, 7.85}\)</span></p>
+<p><span class="math inline">\(\text{Electrotecnia: 7.46, 5.26, 8.64, 9.02, 9.03}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Computación
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Electrotecnia
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R004 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(6\)</span> notas de las materias <span class="math inline">\(\text{Matemática I}\)</span> y <span class="math inline">\(\text{Álgebra}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Matemática I: 6.64, 9.95, 7.37, 6.02, 9.04, 7.86}\)</span></p>
+<p><span class="math inline">\(\text{Álgebra: 5.31, 9.52, 6.01, 6.8, 6.13, 7.35}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Matemática I
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Álgebra
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R005 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(5\)</span> notas de las materias <span class="math inline">\(\text{Electrotecnia}\)</span> y <span class="math inline">\(\text{Matemática I}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Electrotecnia: 5.55, 4.19, 7.09, 6.54, 7.33}\)</span></p>
+<p><span class="math inline">\(\text{Matemática I: 5.21, 8.46, 4.36, 8.84, 9.73}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Electrotecnia
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Matemática I
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R006 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(5\)</span> notas de las materias <span class="math inline">\(\text{Marketing Empresarial}\)</span> y <span class="math inline">\(\text{Introducción a la Hotelería}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Marketing Empresarial: 9.46, 4.68, 8.68, 5.96, 7.94}\)</span></p>
+<p><span class="math inline">\(\text{Introducción a la Hotelería: 5.58, 9.45, 5.93, 7.32, 9.19}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Marketing Empresarial
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Introducción a la Hotelería
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R007 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(6\)</span> notas de las materias <span class="math inline">\(\text{Comunicación Social}\)</span> y <span class="math inline">\(\text{Matemática I}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Comunicación Social: 4.27, 4.16, 7.72, 5.72, 9.79, 4.81}\)</span></p>
+<p><span class="math inline">\(\text{Matemática I: 9.04, 8, 8.6, 5.16, 7.06, 4.34}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Comunicación Social
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Matemática I
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R008 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(6\)</span> notas de las materias <span class="math inline">\(\text{Matemática I}\)</span> y <span class="math inline">\(\text{Electrotecnia}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Matemática I: 5.57, 9.79, 9.72, 4.28, 8.92, 7.6}\)</span></p>
+<p><span class="math inline">\(\text{Electrotecnia: 7.05, 7.93, 5.74, 7.78, 9.77, 9.21}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Matemática I
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Electrotecnia
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R009 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(6\)</span> notas de las materias <span class="math inline">\(\text{Administración I}\)</span> y <span class="math inline">\(\text{Tecnologías de la Información}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Administración I: 5.87, 7.92, 6.39, 9.89, 7.97, 4.1}\)</span></p>
+<p><span class="math inline">\(\text{Tecnologías de la Información: 8.7, 7.34, 9.93, 5.41, 7.5, 7.82}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Administración I
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Tecnologías de la Información
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R010 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(5\)</span> notas de las materias <span class="math inline">\(\text{Electrotecnia}\)</span> y <span class="math inline">\(\text{Administración I}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Electrotecnia: 9.16, 7.7, 4.53, 5.47, 4.93}\)</span></p>
+<p><span class="math inline">\(\text{Administración I: 7.14, 8.6, 6.08, 9.21, 7.79}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Electrotecnia
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Administración I
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R011 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(7\)</span> notas de las materias <span class="math inline">\(\text{Administración I}\)</span> y <span class="math inline">\(\text{Tecnologías de la Información}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Administración I: 9.36, 4.25, 7.17, 4.88, 9.98, 8.15, 4.57}\)</span></p>
+<p><span class="math inline">\(\text{Tecnologías de la Información: 5.05, 8.67, 4.55, 7.36, 8.28, 9.75, 5.98}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Administración I
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Tecnologías de la Información
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R012 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(6\)</span> notas de las materias <span class="math inline">\(\text{Informática}\)</span> y <span class="math inline">\(\text{Álgebra}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Informática: 8.51, 8.2, 7.85, 9.26, 4.86, 7.07}\)</span></p>
+<p><span class="math inline">\(\text{Álgebra: 4.27, 9.68, 4.81, 6.59, 7.78, 5.35}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Informática
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Álgebra
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R013 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(5\)</span> notas de las materias <span class="math inline">\(\text{Álgebra}\)</span> y <span class="math inline">\(\text{Matemática Financiera}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Álgebra: 9.03, 7, 6.09, 9.61, 7.15}\)</span></p>
+<p><span class="math inline">\(\text{Matemática Financiera: 7.96, 5.21, 5.44, 5.51, 5.74}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Álgebra
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Matemática Financiera
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R014 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(7\)</span> notas de las materias <span class="math inline">\(\text{Electrotecnia}\)</span> y <span class="math inline">\(\text{Introducción a la Hotelería}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Electrotecnia: 8.88, 8.55, 6.38, 7.56, 4.48, 4.37, 4.66}\)</span></p>
+<p><span class="math inline">\(\text{Introducción a la Hotelería: 6.28, 5.27, 5.61, 8.03, 8.02, 5.14, 5.34}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Electrotecnia
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Introducción a la Hotelería
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R015 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(7\)</span> notas de las materias <span class="math inline">\(\text{Administración I}\)</span> y <span class="math inline">\(\text{Marketing Empresarial}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Administración I: 4.24, 8.19, 4.7, 9.45, 4.44, 6.07, 6.64}\)</span></p>
+<p><span class="math inline">\(\text{Marketing Empresarial: 5.29, 9.41, 5.57, 6.92, 5.14, 6.47, 5.65}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Administración I
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Marketing Empresarial
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R016 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(6\)</span> notas de las materias <span class="math inline">\(\text{Contabilidad}\)</span> y <span class="math inline">\(\text{Tecnologías de la Información}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Contabilidad: 6.77, 4.14, 9.55, 7.28, 4.58, 9.85}\)</span></p>
+<p><span class="math inline">\(\text{Tecnologías de la Información: 5.1, 9.13, 7.45, 5.02, 9.95, 8.02}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Contabilidad
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Tecnologías de la Información
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R017 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(6\)</span> notas de las materias <span class="math inline">\(\text{Introducción a la Hotelería}\)</span> y <span class="math inline">\(\text{Robótica}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Introducción a la Hotelería: 5.23, 4.05, 8.95, 9.93, 9.09, 4.53}\)</span></p>
+<p><span class="math inline">\(\text{Robótica: 8.57, 8.53, 4.46, 4.45, 9.65, 6.4}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Introducción a la Hotelería
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Robótica
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R018 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(6\)</span> notas de las materias <span class="math inline">\(\text{Administración I}\)</span> y <span class="math inline">\(\text{Introducción al Turismo}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Administración I: 5.05, 7.31, 5.02, 8.81, 8.15, 9.6}\)</span></p>
+<p><span class="math inline">\(\text{Introducción al Turismo: 9.57, 9.84, 9.52, 9.52, 8.24, 7.44}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Administración I
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Introducción al Turismo
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R019 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(5\)</span> notas de las materias <span class="math inline">\(\text{Robótica}\)</span> y <span class="math inline">\(\text{Introducción al Turismo}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Robótica: 4.85, 6.93, 6.27, 5.1, 9.02}\)</span></p>
+<p><span class="math inline">\(\text{Introducción al Turismo: 5.48, 9.68, 9.71, 6.83, 8.67}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Robótica
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Introducción al Turismo
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R020 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(6\)</span> notas de las materias <span class="math inline">\(\text{Robótica}\)</span> y <span class="math inline">\(\text{Marketing Empresarial}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Robótica: 7.75, 9.85, 7.29, 8.28, 5.04, 9.94}\)</span></p>
+<p><span class="math inline">\(\text{Marketing Empresarial: 7.06, 8.9, 7.61, 7.8, 5.42, 8.47}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Robótica
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Marketing Empresarial
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R021 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(7\)</span> notas de las materias <span class="math inline">\(\text{Introducción al Turismo}\)</span> y <span class="math inline">\(\text{Introducción a la Hotelería}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Introducción al Turismo: 4.41, 9.72, 5.82, 5.18, 6.8, 4.8, 8.09}\)</span></p>
+<p><span class="math inline">\(\text{Introducción a la Hotelería: 9.72, 7.46, 7.99, 6.8, 9.7, 6.93, 4.6}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Introducción al Turismo
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Introducción a la Hotelería
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R022 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(5\)</span> notas de las materias <span class="math inline">\(\text{Comunicación Social}\)</span> y <span class="math inline">\(\text{Introducción a la Hotelería}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Comunicación Social: 5.73, 6.66, 7.07, 7.78, 4.43}\)</span></p>
+<p><span class="math inline">\(\text{Introducción a la Hotelería: 7.93, 7.37, 7.93, 6.34, 5.9}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Comunicación Social
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Introducción a la Hotelería
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R023 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(7\)</span> notas de las materias <span class="math inline">\(\text{Álgebra}\)</span> y <span class="math inline">\(\text{Tecnologías de la Información}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Álgebra: 4.14, 7.78, 5.46, 5.83, 4.4, 6.18, 8.96}\)</span></p>
+<p><span class="math inline">\(\text{Tecnologías de la Información: 9.96, 5.85, 5.66, 4.62, 7.76, 7.01, 9.22}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Álgebra
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Tecnologías de la Información
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R024 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(6\)</span> notas de las materias <span class="math inline">\(\text{Informática}\)</span> y <span class="math inline">\(\text{Contabilidad}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Informática: 7.32, 5.91, 5.06, 9.55, 9.22, 5.52}\)</span></p>
+<p><span class="math inline">\(\text{Contabilidad: 9.72, 5.43, 9.45, 8.16, 9.24, 4.39}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Informática
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Contabilidad
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R025 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(6\)</span> notas de las materias <span class="math inline">\(\text{Comunicación Social}\)</span> y <span class="math inline">\(\text{Contabilidad}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Comunicación Social: 6.88, 7.28, 6.25, 6.98, 8.57, 7.52}\)</span></p>
+<p><span class="math inline">\(\text{Contabilidad: 6.37, 4.64, 5.4, 9.92, 6.61, 6.98}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Comunicación Social
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Contabilidad
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R026 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(5\)</span> notas de las materias <span class="math inline">\(\text{Introducción a la Hotelería}\)</span> y <span class="math inline">\(\text{Administración I}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Introducción a la Hotelería: 7.69, 8.01, 6.48, 7.32, 4.61}\)</span></p>
+<p><span class="math inline">\(\text{Administración I: 9.88, 4.32, 4.66, 4.07, 6.79}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Introducción a la Hotelería
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Administración I
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R027 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(7\)</span> notas de las materias <span class="math inline">\(\text{Marketing Empresarial}\)</span> y <span class="math inline">\(\text{Matemática I}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Marketing Empresarial: 8.07, 9.8, 7.9, 9.86, 4.48, 4.7, 6.07}\)</span></p>
+<p><span class="math inline">\(\text{Matemática I: 7.9, 8.65, 6.74, 5.66, 7.87, 6.12, 4.12}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Marketing Empresarial
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Matemática I
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R028 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(6\)</span> notas de las materias <span class="math inline">\(\text{Marketing Empresarial}\)</span> y <span class="math inline">\(\text{Computación}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Marketing Empresarial: 10, 9.32, 8.23, 9.04, 9.49, 5.27}\)</span></p>
+<p><span class="math inline">\(\text{Computación: 8.54, 7.21, 7.88, 7.13, 5.72, 9.67}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Marketing Empresarial
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Computación
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R029 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(5\)</span> notas de las materias <span class="math inline">\(\text{Computación}\)</span> y <span class="math inline">\(\text{Informática}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Computación: 8.56, 5.19, 4.39, 7.32, 8.92}\)</span></p>
+<p><span class="math inline">\(\text{Informática: 6.87, 6.66, 9.22, 4.45, 4.75}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Computación
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Informática
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R030 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(6\)</span> notas de las materias <span class="math inline">\(\text{Introducción al Turismo}\)</span> y <span class="math inline">\(\text{Álgebra}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Introducción al Turismo: 6.94, 7.84, 5.14, 9.6, 8.08, 6.7}\)</span></p>
+<p><span class="math inline">\(\text{Álgebra: 5.91, 9.43, 8.84, 8.77, 5.55, 5.17}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Introducción al Turismo
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Álgebra
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R031 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(6\)</span> notas de las materias <span class="math inline">\(\text{Introducción al Turismo}\)</span> y <span class="math inline">\(\text{Matemática I}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Introducción al Turismo: 7.55, 5.7, 8.18, 4.05, 8.37, 5.8}\)</span></p>
+<p><span class="math inline">\(\text{Matemática I: 8.02, 4.6, 9.03, 4.46, 4.86, 5.83}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Introducción al Turismo
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Matemática I
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R032 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(7\)</span> notas de las materias <span class="math inline">\(\text{Tecnologías de la Información}\)</span> y <span class="math inline">\(\text{Álgebra}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Tecnologías de la Información: 4.02, 4.61, 5.88, 8.36, 8.58, 5.45, 9.07}\)</span></p>
+<p><span class="math inline">\(\text{Álgebra: 4.98, 5.52, 4.31, 9.18, 8.07, 6.14, 9.27}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Tecnologías de la Información
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Álgebra
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R033 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(5\)</span> notas de las materias <span class="math inline">\(\text{Robótica}\)</span> y <span class="math inline">\(\text{Computación}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Robótica: 9.96, 4.8, 5.85, 6.19, 6.98}\)</span></p>
+<p><span class="math inline">\(\text{Computación: 6.27, 8.25, 9.47, 8.73, 9.33}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Robótica
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Computación
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R034 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(6\)</span> notas de las materias <span class="math inline">\(\text{Introducción a la Hotelería}\)</span> y <span class="math inline">\(\text{Marketing Empresarial}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Introducción a la Hotelería: 8.4, 9.63, 7.57, 6.01, 7.02, 9.3}\)</span></p>
+<p><span class="math inline">\(\text{Marketing Empresarial: 4.92, 8.77, 7.16, 6.69, 4.95, 6.19}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Introducción a la Hotelería
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Marketing Empresarial
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R035 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(6\)</span> notas de las materias <span class="math inline">\(\text{Álgebra}\)</span> y <span class="math inline">\(\text{Computación}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Álgebra: 9.29, 7.35, 9.49, 9.53, 8.73, 4.15}\)</span></p>
+<p><span class="math inline">\(\text{Computación: 5.74, 7.57, 5.52, 7.05, 9.51, 9.14}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Álgebra
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Computación
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R036 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(5\)</span> notas de las materias <span class="math inline">\(\text{Introducción al Turismo}\)</span> y <span class="math inline">\(\text{Comunicación Social}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Introducción al Turismo: 4.32, 4.89, 6.16, 9.61, 8.92}\)</span></p>
+<p><span class="math inline">\(\text{Comunicación Social: 6.79, 9.4, 5.95, 8.54, 5.21}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Introducción al Turismo
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Comunicación Social
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R037 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(7\)</span> notas de las materias <span class="math inline">\(\text{Matemática I}\)</span> y <span class="math inline">\(\text{Introducción al Turismo}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Matemática I: 9.68, 7.3, 8.87, 6.41, 7.76, 7.01, 8.77}\)</span></p>
+<p><span class="math inline">\(\text{Introducción al Turismo: 8.93, 8.88, 8.18, 4.78, 6.02, 9.63, 6.9}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Matemática I
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Introducción al Turismo
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R038 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(7\)</span> notas de las materias <span class="math inline">\(\text{Introducción a la Hotelería}\)</span> y <span class="math inline">\(\text{Comunicación Social}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Introducción a la Hotelería: 9.37, 4.35, 7.24, 9.54, 5.94, 4.34, 7.52}\)</span></p>
+<p><span class="math inline">\(\text{Comunicación Social: 4.86, 9.27, 4.7, 4.36, 5.63, 4.25, 6.86}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Introducción a la Hotelería
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Comunicación Social
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R039 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(5\)</span> notas de las materias <span class="math inline">\(\text{Contabilidad}\)</span> y <span class="math inline">\(\text{Matemática I}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Contabilidad: 8.54, 4.82, 4.21, 6.77, 4.19}\)</span></p>
+<p><span class="math inline">\(\text{Matemática I: 8.65, 7.51, 6.34, 4.73, 5.82}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Contabilidad
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Matemática I
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R040 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(5\)</span> notas de las materias <span class="math inline">\(\text{Álgebra}\)</span> y <span class="math inline">\(\text{Comunicación Social}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Álgebra: 6.17, 7.06, 7.05, 4.01, 8.35}\)</span></p>
+<p><span class="math inline">\(\text{Comunicación Social: 9.55, 7.68, 6.93, 8.22, 6.15}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Álgebra
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Comunicación Social
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R041 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(6\)</span> notas de las materias <span class="math inline">\(\text{Robótica}\)</span> y <span class="math inline">\(\text{Administración I}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Robótica: 8.19, 4.58, 6.93, 8.44, 8.81, 5.48}\)</span></p>
+<p><span class="math inline">\(\text{Administración I: 9.38, 7.98, 8.79, 8.11, 7.19, 8.01}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Robótica
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Administración I
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R042 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(6\)</span> notas de las materias <span class="math inline">\(\text{Introducción a la Hotelería}\)</span> y <span class="math inline">\(\text{Matemática I}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Introducción a la Hotelería: 7.61, 7.84, 4.61, 7.72, 8.49, 8.91}\)</span></p>
+<p><span class="math inline">\(\text{Matemática I: 9.1, 4.03, 6.52, 9.59, 4.01, 6.11}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Introducción a la Hotelería
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Matemática I
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R043 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(7\)</span> notas de las materias <span class="math inline">\(\text{Computación}\)</span> y <span class="math inline">\(\text{Robótica}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Computación: 9.52, 5.91, 8.23, 6.54, 5.62, 5.7, 6.99}\)</span></p>
+<p><span class="math inline">\(\text{Robótica: 5.2, 5.72, 6.51, 5.73, 4.53, 7.06, 4.77}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Computación
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Robótica
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R044 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(6\)</span> notas de las materias <span class="math inline">\(\text{Introducción a la Hotelería}\)</span> y <span class="math inline">\(\text{Tecnologías de la Información}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Introducción a la Hotelería: 4.85, 4.63, 7.45, 4.24, 7.9, 4.84}\)</span></p>
+<p><span class="math inline">\(\text{Tecnologías de la Información: 5.93, 6.55, 4.3, 4.93, 8.75, 6.77}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Introducción a la Hotelería
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Tecnologías de la Información
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R045 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(7\)</span> notas de las materias <span class="math inline">\(\text{Matemática Financiera}\)</span> y <span class="math inline">\(\text{Tecnologías de la Información}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Matemática Financiera: 4.56, 5.17, 8.69, 5.11, 9.19, 4.36, 9.97}\)</span></p>
+<p><span class="math inline">\(\text{Tecnologías de la Información: 7.87, 4.43, 9.49, 5.48, 7.74, 8.71, 5.17}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Matemática Financiera
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Tecnologías de la Información
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R046 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(7\)</span> notas de las materias <span class="math inline">\(\text{Introducción a la Hotelería}\)</span> y <span class="math inline">\(\text{Tecnologías de la Información}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Introducción a la Hotelería: 8.19, 7.79, 6.72, 5.95, 6.19, 5.88, 9.89}\)</span></p>
+<p><span class="math inline">\(\text{Tecnologías de la Información: 6.19, 5.78, 5.47, 6.93, 8.63, 9.02, 7.45}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Introducción a la Hotelería
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Tecnologías de la Información
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R047 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(7\)</span> notas de las materias <span class="math inline">\(\text{Álgebra}\)</span> y <span class="math inline">\(\text{Marketing Empresarial}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Álgebra: 5.1, 8.98, 5.54, 7.69, 6.58, 6.05, 7.88}\)</span></p>
+<p><span class="math inline">\(\text{Marketing Empresarial: 5.08, 5.71, 5.39, 5, 8.39, 8.86, 6.14}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Álgebra
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Marketing Empresarial
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R048 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(7\)</span> notas de las materias <span class="math inline">\(\text{Contabilidad}\)</span> y <span class="math inline">\(\text{Robótica}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Contabilidad: 4.82, 8.96, 4.67, 7.62, 4.29, 9.08, 8.76}\)</span></p>
+<p><span class="math inline">\(\text{Robótica: 4.12, 7.81, 7.51, 5.81, 9.29, 9.01, 4.7}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Contabilidad
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Robótica
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R049 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(5\)</span> notas de las materias <span class="math inline">\(\text{Electrotecnia}\)</span> y <span class="math inline">\(\text{Matemática I}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Electrotecnia: 9.02, 9.07, 6.33, 6.75, 6.97}\)</span></p>
+<p><span class="math inline">\(\text{Matemática I: 6.19, 7.44, 9.3, 6.4, 6.79}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Electrotecnia
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Matemática I
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R050 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(6\)</span> notas de las materias <span class="math inline">\(\text{Álgebra}\)</span> y <span class="math inline">\(\text{Contabilidad}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Álgebra: 9.93, 9.97, 5.43, 5.19, 8.96, 4.79}\)</span></p>
+<p><span class="math inline">\(\text{Contabilidad: 4.88, 5.88, 8.97, 7.92, 4.88, 5.32}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Álgebra
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Contabilidad
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R051 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(7\)</span> notas de las materias <span class="math inline">\(\text{Introducción al Turismo}\)</span> y <span class="math inline">\(\text{Robótica}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Introducción al Turismo: 7.87, 8.95, 4.57, 7.45, 7.96, 6.02, 7.86}\)</span></p>
+<p><span class="math inline">\(\text{Robótica: 8.73, 7.7, 5.71, 7.92, 7.42, 8.71, 9.86}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Introducción al Turismo
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Robótica
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R052 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(5\)</span> notas de las materias <span class="math inline">\(\text{Marketing Empresarial}\)</span> y <span class="math inline">\(\text{Contabilidad}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Marketing Empresarial: 9.36, 7.08, 7.02, 9.5, 8.34}\)</span></p>
+<p><span class="math inline">\(\text{Contabilidad: 4.51, 6.8, 9.21, 6.05, 4.88}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Marketing Empresarial
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Contabilidad
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R053 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(7\)</span> notas de las materias <span class="math inline">\(\text{Electrotecnia}\)</span> y <span class="math inline">\(\text{Contabilidad}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Electrotecnia: 9.44, 5.03, 9.97, 7.6, 5.29, 8.26, 5.83}\)</span></p>
+<p><span class="math inline">\(\text{Contabilidad: 8.15, 6.63, 7.2, 5.34, 9.89, 6.92, 4.95}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Electrotecnia
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Contabilidad
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R054 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(5\)</span> notas de las materias <span class="math inline">\(\text{Computación}\)</span> y <span class="math inline">\(\text{Electrotecnia}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Computación: 9.27, 4.4, 7.73, 5.6, 5.26}\)</span></p>
+<p><span class="math inline">\(\text{Electrotecnia: 9.69, 9.34, 4.07, 8.58, 4.66}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Computación
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Electrotecnia
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R055 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(7\)</span> notas de las materias <span class="math inline">\(\text{Informática}\)</span> y <span class="math inline">\(\text{Introducción a la Hotelería}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Informática: 5.82, 4, 7.32, 7.76, 8.59, 5.02, 9}\)</span></p>
+<p><span class="math inline">\(\text{Introducción a la Hotelería: 4.36, 5.28, 7.4, 5.22, 9.28, 8.68, 9.74}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Informática
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Introducción a la Hotelería
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R056 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(5\)</span> notas de las materias <span class="math inline">\(\text{Contabilidad}\)</span> y <span class="math inline">\(\text{Robótica}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Contabilidad: 7.99, 6.07, 9.75, 8, 6.64}\)</span></p>
+<p><span class="math inline">\(\text{Robótica: 8.76, 5.71, 7.62, 6.49, 8.33}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Contabilidad
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Robótica
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R057 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(6\)</span> notas de las materias <span class="math inline">\(\text{Informática}\)</span> y <span class="math inline">\(\text{Tecnologías de la Información}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Informática: 7.2, 8.05, 4.82, 7.78, 9.75, 4.52}\)</span></p>
+<p><span class="math inline">\(\text{Tecnologías de la Información: 8.67, 4.76, 5.59, 5.93, 8.79, 9.03}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Informática
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Tecnologías de la Información
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R058 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(7\)</span> notas de las materias <span class="math inline">\(\text{Matemática I}\)</span> y <span class="math inline">\(\text{Introducción a la Hotelería}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Matemática I: 8.9, 8.46, 5.11, 7.19, 5.27, 7.86, 6.23}\)</span></p>
+<p><span class="math inline">\(\text{Introducción a la Hotelería: 6.14, 7.52, 4.54, 7.48, 9.68, 9.29, 8.51}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Matemática I
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Introducción a la Hotelería
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R059 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(7\)</span> notas de las materias <span class="math inline">\(\text{Informática}\)</span> y <span class="math inline">\(\text{Computación}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Informática: 7.1, 4.11, 8.59, 5.45, 7.06, 6.51, 7.3}\)</span></p>
+<p><span class="math inline">\(\text{Computación: 6.19, 4.01, 4.87, 5.8, 6.62, 9.91, 5.33}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Informática
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Computación
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R060 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(6\)</span> notas de las materias <span class="math inline">\(\text{Marketing Empresarial}\)</span> y <span class="math inline">\(\text{Administración I}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Marketing Empresarial: 5.15, 9.71, 6.66, 8.58, 4.31, 5.03}\)</span></p>
+<p><span class="math inline">\(\text{Administración I: 7.33, 6.14, 4.69, 8.72, 7.84, 7.9}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Marketing Empresarial
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Administración I
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R061 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(7\)</span> notas de las materias <span class="math inline">\(\text{Marketing Empresarial}\)</span> y <span class="math inline">\(\text{Comunicación Social}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Marketing Empresarial: 9.87, 5.95, 8.45, 9.61, 9.64, 7.27, 6.36}\)</span></p>
+<p><span class="math inline">\(\text{Comunicación Social: 7.1, 7.04, 5.44, 8.57, 9.11, 4.32, 7.5}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Marketing Empresarial
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Comunicación Social
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R062 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(5\)</span> notas de las materias <span class="math inline">\(\text{Informática}\)</span> y <span class="math inline">\(\text{Álgebra}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Informática: 4.08, 5.57, 7.39, 7.96, 6.52}\)</span></p>
+<p><span class="math inline">\(\text{Álgebra: 7.91, 7.51, 4.34, 8.51, 8.1}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Informática
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Álgebra
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R063 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(7\)</span> notas de las materias <span class="math inline">\(\text{Electrotecnia}\)</span> y <span class="math inline">\(\text{Contabilidad}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Electrotecnia: 4.38, 5.55, 8.53, 9.87, 5.52, 5.57, 5.51}\)</span></p>
+<p><span class="math inline">\(\text{Contabilidad: 9.32, 4.76, 7.7, 9.49, 6.59, 7.25, 8.7}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Electrotecnia
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Contabilidad
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R064 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(6\)</span> notas de las materias <span class="math inline">\(\text{Álgebra}\)</span> y <span class="math inline">\(\text{Electrotecnia}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Álgebra: 8.64, 7.56, 8.45, 5.8, 6.39, 7.64}\)</span></p>
+<p><span class="math inline">\(\text{Electrotecnia: 9.06, 6.29, 6.05, 5.87, 8.67, 8.96}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Álgebra
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Electrotecnia
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R065 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(6\)</span> notas de las materias <span class="math inline">\(\text{Matemática I}\)</span> y <span class="math inline">\(\text{Electrotecnia}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Matemática I: 9.95, 4.15, 8.2, 8.52, 5.73, 5.11}\)</span></p>
+<p><span class="math inline">\(\text{Electrotecnia: 7.77, 4.08, 8.39, 9.35, 9.31, 8.61}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Matemática I
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Electrotecnia
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R066 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(7\)</span> notas de las materias <span class="math inline">\(\text{Marketing Empresarial}\)</span> y <span class="math inline">\(\text{Robótica}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Marketing Empresarial: 7.74, 8.29, 7.76, 5.21, 7.36, 4.44, 4.88}\)</span></p>
+<p><span class="math inline">\(\text{Robótica: 8.79, 4.89, 4.06, 6.6, 8.53, 6.43, 4.59}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Marketing Empresarial
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Robótica
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R067 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(7\)</span> notas de las materias <span class="math inline">\(\text{Introducción al Turismo}\)</span> y <span class="math inline">\(\text{Robótica}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Introducción al Turismo: 6.37, 5.36, 5.62, 9.51, 5.82, 5.54, 9.79}\)</span></p>
+<p><span class="math inline">\(\text{Robótica: 9.2, 7.09, 9.39, 7.54, 8.56, 9.3, 6.64}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Introducción al Turismo
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Robótica
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R068 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(5\)</span> notas de las materias <span class="math inline">\(\text{Álgebra}\)</span> y <span class="math inline">\(\text{Electrotecnia}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Álgebra: 6.66, 9.06, 4.27, 4.68, 8.69}\)</span></p>
+<p><span class="math inline">\(\text{Electrotecnia: 9.89, 5.86, 8.98, 4.29, 6.87}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Álgebra
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Electrotecnia
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R069 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(7\)</span> notas de las materias <span class="math inline">\(\text{Matemática Financiera}\)</span> y <span class="math inline">\(\text{Administración I}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Matemática Financiera: 9.13, 8.19, 7.14, 5.77, 9.72, 9.8, 9.99}\)</span></p>
+<p><span class="math inline">\(\text{Administración I: 4.24, 7.47, 4.44, 5.55, 9.47, 5.87, 8.72}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Matemática Financiera
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Administración I
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R070 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(6\)</span> notas de las materias <span class="math inline">\(\text{Tecnologías de la Información}\)</span> y <span class="math inline">\(\text{Introducción a la Hotelería}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Tecnologías de la Información: 5.46, 7.37, 6.64, 7.72, 7.15, 6.1}\)</span></p>
+<p><span class="math inline">\(\text{Introducción a la Hotelería: 9.47, 5.18, 8.78, 9.49, 6.59, 7.08}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Tecnologías de la Información
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Introducción a la Hotelería
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R071 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(7\)</span> notas de las materias <span class="math inline">\(\text{Tecnologías de la Información}\)</span> y <span class="math inline">\(\text{Marketing Empresarial}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Tecnologías de la Información: 6.55, 8.81, 4.03, 9.12, 7.7, 9.32, 8.87}\)</span></p>
+<p><span class="math inline">\(\text{Marketing Empresarial: 7.59, 7.75, 6.43, 8.06, 8.29, 7.38, 9.31}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Tecnologías de la Información
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Marketing Empresarial
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R072 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(6\)</span> notas de las materias <span class="math inline">\(\text{Introducción a la Hotelería}\)</span> y <span class="math inline">\(\text{Matemática Financiera}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Introducción a la Hotelería: 6.16, 7.71, 6.6, 6.29, 6.82, 7.23}\)</span></p>
+<p><span class="math inline">\(\text{Matemática Financiera: 4.38, 9.67, 7.74, 8.78, 7.51, 8.29}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Introducción a la Hotelería
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Matemática Financiera
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R073 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(6\)</span> notas de las materias <span class="math inline">\(\text{Administración I}\)</span> y <span class="math inline">\(\text{Marketing Empresarial}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Administración I: 9.78, 9.42, 8.36, 8.98, 5.17, 7.3}\)</span></p>
+<p><span class="math inline">\(\text{Marketing Empresarial: 6.33, 5.71, 4.22, 5.33, 5.09, 6.41}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Administración I
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Marketing Empresarial
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R074 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(6\)</span> notas de las materias <span class="math inline">\(\text{Marketing Empresarial}\)</span> y <span class="math inline">\(\text{Robótica}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Marketing Empresarial: 5.03, 8.39, 7.69, 9.67, 7.94, 8.18}\)</span></p>
+<p><span class="math inline">\(\text{Robótica: 9.22, 6.73, 5.28, 4.63, 6.99, 9.61}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Marketing Empresarial
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Robótica
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R075 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(5\)</span> notas de las materias <span class="math inline">\(\text{Robótica}\)</span> y <span class="math inline">\(\text{Marketing Empresarial}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Robótica: 4.78, 6.85, 4.12, 5.94, 9.96}\)</span></p>
+<p><span class="math inline">\(\text{Marketing Empresarial: 6.04, 6.84, 4.09, 6.94, 4.11}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Robótica
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Marketing Empresarial
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R076 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(6\)</span> notas de las materias <span class="math inline">\(\text{Robótica}\)</span> y <span class="math inline">\(\text{Administración I}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Robótica: 5.93, 5.76, 6.52, 4.7, 4.22, 8.71}\)</span></p>
+<p><span class="math inline">\(\text{Administración I: 5.52, 7.2, 4.92, 7.79, 6.78, 8.3}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Robótica
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Administración I
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R077 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(7\)</span> notas de las materias <span class="math inline">\(\text{Informática}\)</span> y <span class="math inline">\(\text{Matemática I}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Informática: 4.1, 8.74, 8.87, 4.05, 9.47, 8.85, 9.56}\)</span></p>
+<p><span class="math inline">\(\text{Matemática I: 4.08, 4.87, 8.2, 6.74, 4.14, 6.97, 5.42}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Informática
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Matemática I
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R078 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(6\)</span> notas de las materias <span class="math inline">\(\text{Introducción a la Hotelería}\)</span> y <span class="math inline">\(\text{Tecnologías de la Información}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Introducción a la Hotelería: 8.33, 8.27, 8.26, 7.6, 5.35, 8.37}\)</span></p>
+<p><span class="math inline">\(\text{Tecnologías de la Información: 6.49, 7.94, 6.14, 5.72, 8.72, 5.14}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Introducción a la Hotelería
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Tecnologías de la Información
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R079 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(7\)</span> notas de las materias <span class="math inline">\(\text{Robótica}\)</span> y <span class="math inline">\(\text{Electrotecnia}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Robótica: 9.1, 4.23, 7.6, 9.61, 9.38, 8.42, 7.35}\)</span></p>
+<p><span class="math inline">\(\text{Electrotecnia: 7.17, 9.83, 4.91, 7.75, 7.43, 4.63, 9.01}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Robótica
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Electrotecnia
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R080 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(7\)</span> notas de las materias <span class="math inline">\(\text{Comunicación Social}\)</span> y <span class="math inline">\(\text{Álgebra}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Comunicación Social: 9.22, 9.11, 9.74, 6.57, 8.64, 9.21, 5.11}\)</span></p>
+<p><span class="math inline">\(\text{Álgebra: 6.07, 4.85, 8.46, 4.49, 8.73, 7.63, 4.98}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Comunicación Social
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Álgebra
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R081 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(5\)</span> notas de las materias <span class="math inline">\(\text{Tecnologías de la Información}\)</span> y <span class="math inline">\(\text{Matemática Financiera}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Tecnologías de la Información: 5.2, 6.75, 6.46, 5.57, 5.67}\)</span></p>
+<p><span class="math inline">\(\text{Matemática Financiera: 5.68, 6.32, 6.14, 7.58, 9.53}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Tecnologías de la Información
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Matemática Financiera
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R082 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(6\)</span> notas de las materias <span class="math inline">\(\text{Matemática Financiera}\)</span> y <span class="math inline">\(\text{Álgebra}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Matemática Financiera: 8.43, 9.75, 9.08, 9.63, 4.86, 8.12}\)</span></p>
+<p><span class="math inline">\(\text{Álgebra: 5.29, 6.01, 7.24, 6.25, 7.2, 6.29}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Matemática Financiera
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Álgebra
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R083 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(7\)</span> notas de las materias <span class="math inline">\(\text{Introducción a la Hotelería}\)</span> y <span class="math inline">\(\text{Tecnologías de la Información}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Introducción a la Hotelería: 9.23, 7.61, 9.06, 9.78, 9.96, 9.06, 5.47}\)</span></p>
+<p><span class="math inline">\(\text{Tecnologías de la Información: 7.3, 9.1, 6.35, 7.77, 6.95, 6.28, 9.35}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Introducción a la Hotelería
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Tecnologías de la Información
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R084 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(7\)</span> notas de las materias <span class="math inline">\(\text{Tecnologías de la Información}\)</span> y <span class="math inline">\(\text{Introducción a la Hotelería}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Tecnologías de la Información: 6.38, 5.63, 5.63, 5.11, 6.49, 8.93, 4.31}\)</span></p>
+<p><span class="math inline">\(\text{Introducción a la Hotelería: 9.23, 5.95, 8.3, 5.88, 4.2, 8.33, 4.55}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Tecnologías de la Información
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Introducción a la Hotelería
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R085 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(6\)</span> notas de las materias <span class="math inline">\(\text{Comunicación Social}\)</span> y <span class="math inline">\(\text{Matemática I}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Comunicación Social: 4.76, 7.5, 7.03, 4.9, 5.16, 5.83}\)</span></p>
+<p><span class="math inline">\(\text{Matemática I: 5.36, 7.43, 4.84, 9.32, 4.2, 7.55}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Comunicación Social
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Matemática I
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R086 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(5\)</span> notas de las materias <span class="math inline">\(\text{Introducción al Turismo}\)</span> y <span class="math inline">\(\text{Administración I}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Introducción al Turismo: 6.82, 5.85, 6.76, 8.9, 5.43}\)</span></p>
+<p><span class="math inline">\(\text{Administración I: 5.79, 5.42, 5.87, 7.71, 8.15}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Introducción al Turismo
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Administración I
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R087 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(7\)</span> notas de las materias <span class="math inline">\(\text{Computación}\)</span> y <span class="math inline">\(\text{Informática}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Computación: 4.35, 9.19, 4.72, 9.68, 5.28, 8.57, 8.48}\)</span></p>
+<p><span class="math inline">\(\text{Informática: 4.89, 8.81, 7.52, 4.37, 4.76, 9.06, 8.22}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Computación
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Informática
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R088 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(6\)</span> notas de las materias <span class="math inline">\(\text{Introducción a la Hotelería}\)</span> y <span class="math inline">\(\text{Contabilidad}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Introducción a la Hotelería: 4.33, 4.77, 9.55, 8.87, 7.88, 7.85}\)</span></p>
+<p><span class="math inline">\(\text{Contabilidad: 4.11, 4.4, 4.67, 6.79, 7.62, 5.11}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Introducción a la Hotelería
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Contabilidad
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R089 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(7\)</span> notas de las materias <span class="math inline">\(\text{Matemática Financiera}\)</span> y <span class="math inline">\(\text{Contabilidad}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Matemática Financiera: 9.17, 6.76, 4.81, 5.48, 4.73, 5.4, 5.71}\)</span></p>
+<p><span class="math inline">\(\text{Contabilidad: 7.59, 9.53, 5.6, 9.3, 7.51, 5.19, 6.58}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Matemática Financiera
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Contabilidad
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R090 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(5\)</span> notas de las materias <span class="math inline">\(\text{Álgebra}\)</span> y <span class="math inline">\(\text{Comunicación Social}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Álgebra: 6.28, 5.83, 8.18, 4.47, 8.66}\)</span></p>
+<p><span class="math inline">\(\text{Comunicación Social: 9.75, 7.42, 6.08, 7.68, 5.49}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Álgebra
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Comunicación Social
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R091 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(7\)</span> notas de las materias <span class="math inline">\(\text{Informática}\)</span> y <span class="math inline">\(\text{Marketing Empresarial}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Informática: 8.07, 8.84, 8.91, 7.14, 6.12, 4.73, 8.93}\)</span></p>
+<p><span class="math inline">\(\text{Marketing Empresarial: 8.7, 8.71, 5.35, 7.17, 5.95, 4.49, 8.31}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Informática
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Marketing Empresarial
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R092 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(5\)</span> notas de las materias <span class="math inline">\(\text{Computación}\)</span> y <span class="math inline">\(\text{Matemática I}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Computación: 8.04, 6.56, 6.95, 4.49, 5.64}\)</span></p>
+<p><span class="math inline">\(\text{Matemática I: 7.56, 5.73, 6.3, 8.01, 4.72}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Computación
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Matemática I
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R093 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(6\)</span> notas de las materias <span class="math inline">\(\text{Administración I}\)</span> y <span class="math inline">\(\text{Tecnologías de la Información}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Administración I: 6.85, 7.23, 5.96, 8.91, 9.23, 5.66}\)</span></p>
+<p><span class="math inline">\(\text{Tecnologías de la Información: 7.5, 5.99, 6.5, 7.9, 8.85, 5.25}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Administración I
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Tecnologías de la Información
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R094 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(7\)</span> notas de las materias <span class="math inline">\(\text{Tecnologías de la Información}\)</span> y <span class="math inline">\(\text{Informática}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Tecnologías de la Información: 5.95, 5.79, 5.08, 7.01, 4.56, 5.05, 7.26}\)</span></p>
+<p><span class="math inline">\(\text{Informática: 7.6, 7.57, 6.82, 5.44, 7.87, 5.71, 4.49}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Tecnologías de la Información
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Informática
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R095 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(5\)</span> notas de las materias <span class="math inline">\(\text{Matemática I}\)</span> y <span class="math inline">\(\text{Introducción al Turismo}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Matemática I: 6.73, 5.73, 4.78, 9.27, 9.62}\)</span></p>
+<p><span class="math inline">\(\text{Introducción al Turismo: 6.02, 4.49, 4.06, 6.21, 6.82}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Matemática I
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Introducción al Turismo
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R096 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(6\)</span> notas de las materias <span class="math inline">\(\text{Computación}\)</span> y <span class="math inline">\(\text{Robótica}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Computación: 5.93, 8.91, 9.07, 4.13, 7.14, 7.54}\)</span></p>
+<p><span class="math inline">\(\text{Robótica: 8.48, 7.95, 7.85, 4.53, 8.38, 4.95}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Computación
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Robótica
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R097 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(5\)</span> notas de las materias <span class="math inline">\(\text{Informática}\)</span> y <span class="math inline">\(\text{Marketing Empresarial}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Informática: 6.31, 8.63, 5.15, 7.6, 4.02}\)</span></p>
+<p><span class="math inline">\(\text{Marketing Empresarial: 7.89, 9.23, 5.13, 4.35, 7.48}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Informática
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Marketing Empresarial
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R098 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(5\)</span> notas de las materias <span class="math inline">\(\text{Electrotecnia}\)</span> y <span class="math inline">\(\text{Introducción al Turismo}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Electrotecnia: 6.9, 6.12, 6.02, 4.64, 9.3}\)</span></p>
+<p><span class="math inline">\(\text{Introducción al Turismo: 7.33, 4.18, 4.39, 8.95, 5.81}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Electrotecnia
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Introducción al Turismo
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R099 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(6\)</span> notas de las materias <span class="math inline">\(\text{Contabilidad}\)</span> y <span class="math inline">\(\text{Introducción a la Hotelería}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Contabilidad: 6.4, 4.16, 8.88, 5.11, 7.27, 8.24}\)</span></p>
+<p><span class="math inline">\(\text{Introducción a la Hotelería: 5.66, 4.01, 8.29, 5.27, 4.97, 4.92}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Contabilidad
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Introducción a la Hotelería
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R100 Q1 : RA_media-notas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: SEC_EP_PromedioDatosSinagrupar]</strong></p>
+<p>En un instituto de educación superior, se tomó una muestra de <span class="math inline">\(5\)</span> notas de las materias <span class="math inline">\(\text{Tecnologías de la Información}\)</span> y <span class="math inline">\(\text{Robótica}\)</span>. Las notas de cada muestra son:</p>
+<p><span class="math inline">\(\text{Tecnologías de la Información: 8.94, 6.39, 8.62, 8.07, 4.86}\)</span></p>
+<p><span class="math inline">\(\text{Robótica: 7.47, 9, 5.67, 8.09, 5.04}\)</span></p>
+<p>¿En cuál de las dos materias la <strong>nota promedio</strong> de la muestra es <strong>mayor</strong>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Tecnologías de la Información
+</p>]]></text>
+</answer>
+<answer fraction="-100" format="html">
+<text><![CDATA[<p>
+Robótica
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

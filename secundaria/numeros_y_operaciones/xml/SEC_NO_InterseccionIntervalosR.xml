@@ -1,0 +1,5011 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/SEC_NO_InterseccionIntervalosR/SEC_NO_InterseccionIntervalosR</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R001 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{12}|x|\leq79\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq12\cdot 79\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq948\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-948\leq x \leq 948\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-948;948]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-948;948]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-948;948)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-948)\cup(948;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-948]\cup[948;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R002 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{7}|x|\leq83\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq7\cdot 83\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq581\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-581\leq x \leq 581\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-581;581]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-581;581]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-581;581)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-581)\cup(581;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-581]\cup[581;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R003 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{8}|x|\leq89\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq8\cdot 89\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq712\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-712\leq x \leq 712\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-712;712]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-712;712]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-712;712)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-712)\cup(712;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-712]\cup[712;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R004 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{8}|x|\leq37\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq8\cdot 37\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq296\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-296\leq x \leq 296\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-296;296]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-296;296]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-296;296)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-296)\cup(296;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-296]\cup[296;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R005 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{10}|x|\leq31\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq10\cdot 31\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq310\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-310\leq x \leq 310\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-310;310]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-310;310]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-310;310)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-310)\cup(310;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-310]\cup[310;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R006 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{20}|x|\leq3\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq20\cdot 3\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq60\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-60\leq x \leq 60\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-60;60]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-60;60]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-60;60)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-60)\cup(60;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-60]\cup[60;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R007 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{18}|x|\leq97\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq18\cdot 97\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq1746\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-1746\leq x \leq 1746\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-1746;1746]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-1746;1746]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-1746;1746)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1746)\cup(1746;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1746]\cup[1746;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R008 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{14}|x|\leq43\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq14\cdot 43\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq602\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-602\leq x \leq 602\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-602;602]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-602;602]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-602;602)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-602)\cup(602;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-602]\cup[602;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R009 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{12}|x|\leq13\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq12\cdot 13\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq156\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-156\leq x \leq 156\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-156;156]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-156;156]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-156;156)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-156)\cup(156;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-156]\cup[156;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R010 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{10}|x|\leq43\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq10\cdot 43\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq430\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-430\leq x \leq 430\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-430;430]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-430;430]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-430;430)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-430)\cup(430;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-430]\cup[430;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R011 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{11}|x|\leq13\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq11\cdot 13\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq143\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-143\leq x \leq 143\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-143;143]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-143;143]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-143;143)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-143)\cup(143;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-143]\cup[143;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R012 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{20}|x|\leq23\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq20\cdot 23\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq460\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-460\leq x \leq 460\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-460;460]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-460;460]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-460;460)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-460)\cup(460;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-460]\cup[460;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R013 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{10}|x|\leq17\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq10\cdot 17\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq170\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-170\leq x \leq 170\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-170;170]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-170;170]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-170;170)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-170)\cup(170;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-170]\cup[170;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R014 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{9}|x|\leq67\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq9\cdot 67\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq603\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-603\leq x \leq 603\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-603;603]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-603;603]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-603;603)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-603)\cup(603;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-603]\cup[603;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R015 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{18}|x|\leq3\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq18\cdot 3\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq54\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-54\leq x \leq 54\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-54;54]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-54;54]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-54;54)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-54)\cup(54;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-54]\cup[54;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R016 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{16}|x|\leq37\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq16\cdot 37\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq592\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-592\leq x \leq 592\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-592;592]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-592;592]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-592;592)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-592)\cup(592;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-592]\cup[592;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R017 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{9}|x|\leq53\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq9\cdot 53\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq477\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-477\leq x \leq 477\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-477;477]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-477;477]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-477;477)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-477)\cup(477;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-477]\cup[477;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R018 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{13}|x|\leq43\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq13\cdot 43\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq559\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-559\leq x \leq 559\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-559;559]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-559;559]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-559;559)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-559)\cup(559;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-559]\cup[559;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R019 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{10}|x|\leq71\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq10\cdot 71\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq710\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-710\leq x \leq 710\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-710;710]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-710;710]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-710;710)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-710)\cup(710;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-710]\cup[710;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R020 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{11}|x|\leq47\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq11\cdot 47\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq517\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-517\leq x \leq 517\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-517;517]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-517;517]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-517;517)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-517)\cup(517;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-517]\cup[517;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R021 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{11}|x|\leq89\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq11\cdot 89\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq979\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-979\leq x \leq 979\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-979;979]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-979;979]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-979;979)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-979)\cup(979;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-979]\cup[979;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R022 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{11}|x|\leq47\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq11\cdot 47\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq517\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-517\leq x \leq 517\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-517;517]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-517;517]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-517;517)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-517)\cup(517;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-517]\cup[517;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R023 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{9}|x|\leq31\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq9\cdot 31\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq279\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-279\leq x \leq 279\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-279;279]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-279;279]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-279;279)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-279)\cup(279;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-279]\cup[279;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R024 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{14}|x|\leq47\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq14\cdot 47\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq658\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-658\leq x \leq 658\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-658;658]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-658;658]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-658;658)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-658)\cup(658;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-658]\cup[658;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R025 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{10}|x|\leq37\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq10\cdot 37\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq370\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-370\leq x \leq 370\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-370;370]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-370;370]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-370;370)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-370)\cup(370;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-370]\cup[370;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R026 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{18}|x|\leq5\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq18\cdot 5\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq90\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-90\leq x \leq 90\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-90;90]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-90;90]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-90;90)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-90)\cup(90;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-90]\cup[90;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R027 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{11}|x|\leq79\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq11\cdot 79\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq869\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-869\leq x \leq 869\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-869;869]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-869;869]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-869;869)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-869)\cup(869;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-869]\cup[869;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R028 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{12}|x|\leq89\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq12\cdot 89\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq1068\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-1068\leq x \leq 1068\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-1068;1068]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-1068;1068]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-1068;1068)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1068)\cup(1068;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1068]\cup[1068;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R029 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{20}|x|\leq19\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq20\cdot 19\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq380\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-380\leq x \leq 380\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-380;380]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-380;380]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-380;380)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-380)\cup(380;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-380]\cup[380;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R030 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{14}|x|\leq29\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq14\cdot 29\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq406\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-406\leq x \leq 406\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-406;406]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-406;406]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-406;406)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-406)\cup(406;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-406]\cup[406;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R031 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{9}|x|\leq29\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq9\cdot 29\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq261\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-261\leq x \leq 261\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-261;261]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-261;261]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-261;261)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-261)\cup(261;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-261]\cup[261;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R032 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{19}|x|\leq5\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq19\cdot 5\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq95\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-95\leq x \leq 95\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-95;95]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-95;95]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-95;95)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-95)\cup(95;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-95]\cup[95;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R033 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{7}|x|\leq23\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq7\cdot 23\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq161\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-161\leq x \leq 161\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-161;161]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-161;161]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-161;161)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-161)\cup(161;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-161]\cup[161;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R034 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{18}|x|\leq3\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq18\cdot 3\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq54\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-54\leq x \leq 54\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-54;54]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-54;54]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-54;54)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-54)\cup(54;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-54]\cup[54;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R035 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{12}|x|\leq5\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq12\cdot 5\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq60\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-60\leq x \leq 60\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-60;60]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-60;60]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-60;60)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-60)\cup(60;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-60]\cup[60;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R036 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{19}|x|\leq73\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq19\cdot 73\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq1387\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-1387\leq x \leq 1387\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-1387;1387]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-1387;1387]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-1387;1387)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1387)\cup(1387;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1387]\cup[1387;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R037 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{17}|x|\leq59\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq17\cdot 59\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq1003\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-1003\leq x \leq 1003\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-1003;1003]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-1003;1003]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-1003;1003)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1003)\cup(1003;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1003]\cup[1003;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R038 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{15}|x|\leq67\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq15\cdot 67\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq1005\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-1005\leq x \leq 1005\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-1005;1005]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-1005;1005]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-1005;1005)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1005)\cup(1005;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1005]\cup[1005;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R039 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{10}|x|\leq59\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq10\cdot 59\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq590\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-590\leq x \leq 590\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-590;590]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-590;590]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-590;590)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-590)\cup(590;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-590]\cup[590;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R040 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{15}|x|\leq47\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq15\cdot 47\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq705\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-705\leq x \leq 705\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-705;705]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-705;705]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-705;705)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-705)\cup(705;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-705]\cup[705;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R041 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{17}|x|\leq43\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq17\cdot 43\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq731\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-731\leq x \leq 731\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-731;731]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-731;731]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-731;731)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-731)\cup(731;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-731]\cup[731;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R042 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{9}|x|\leq13\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq9\cdot 13\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq117\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-117\leq x \leq 117\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-117;117]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-117;117]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-117;117)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-117)\cup(117;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-117]\cup[117;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R043 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{14}|x|\leq11\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq14\cdot 11\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq154\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-154\leq x \leq 154\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-154;154]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-154;154]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-154;154)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-154)\cup(154;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-154]\cup[154;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R044 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{12}|x|\leq89\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq12\cdot 89\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq1068\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-1068\leq x \leq 1068\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-1068;1068]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-1068;1068]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-1068;1068)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1068)\cup(1068;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1068]\cup[1068;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R045 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{7}|x|\leq89\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq7\cdot 89\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq623\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-623\leq x \leq 623\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-623;623]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-623;623]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-623;623)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-623)\cup(623;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-623]\cup[623;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R046 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{9}|x|\leq61\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq9\cdot 61\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq549\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-549\leq x \leq 549\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-549;549]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-549;549]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-549;549)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-549)\cup(549;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-549]\cup[549;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R047 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{17}|x|\leq89\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq17\cdot 89\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq1513\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-1513\leq x \leq 1513\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-1513;1513]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-1513;1513]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-1513;1513)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1513)\cup(1513;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1513]\cup[1513;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R048 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{18}|x|\leq61\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq18\cdot 61\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq1098\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-1098\leq x \leq 1098\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-1098;1098]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-1098;1098]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-1098;1098)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1098)\cup(1098;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1098]\cup[1098;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R049 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{16}|x|\leq17\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq16\cdot 17\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq272\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-272\leq x \leq 272\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-272;272]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-272;272]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-272;272)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-272)\cup(272;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-272]\cup[272;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R050 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{18}|x|\leq7\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq18\cdot 7\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq126\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-126\leq x \leq 126\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-126;126]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-126;126]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-126;126)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-126)\cup(126;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-126]\cup[126;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R051 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{12}|x|\leq11\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq12\cdot 11\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq132\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-132\leq x \leq 132\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-132;132]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-132;132]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-132;132)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-132)\cup(132;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-132]\cup[132;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R052 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{11}|x|\leq17\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq11\cdot 17\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq187\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-187\leq x \leq 187\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-187;187]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-187;187]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-187;187)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-187)\cup(187;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-187]\cup[187;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R053 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{8}|x|\leq79\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq8\cdot 79\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq632\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-632\leq x \leq 632\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-632;632]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-632;632]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-632;632)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-632)\cup(632;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-632]\cup[632;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R054 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{10}|x|\leq43\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq10\cdot 43\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq430\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-430\leq x \leq 430\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-430;430]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-430;430]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-430;430)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-430)\cup(430;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-430]\cup[430;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R055 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{16}|x|\leq73\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq16\cdot 73\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq1168\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-1168\leq x \leq 1168\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-1168;1168]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-1168;1168]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-1168;1168)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1168)\cup(1168;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1168]\cup[1168;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R056 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{6}|x|\leq5\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq6\cdot 5\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq30\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-30\leq x \leq 30\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-30;30]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-30;30]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-30;30)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-30)\cup(30;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-30]\cup[30;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R057 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{6}|x|\leq37\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq6\cdot 37\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq222\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-222\leq x \leq 222\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-222;222]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-222;222]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-222;222)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-222)\cup(222;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-222]\cup[222;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R058 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{13}|x|\leq97\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq13\cdot 97\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq1261\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-1261\leq x \leq 1261\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-1261;1261]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-1261;1261]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-1261;1261)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1261)\cup(1261;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1261]\cup[1261;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R059 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{16}|x|\leq3\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq16\cdot 3\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq48\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-48\leq x \leq 48\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-48;48]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-48;48]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-48;48)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-48)\cup(48;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-48]\cup[48;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R060 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{18}|x|\leq61\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq18\cdot 61\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq1098\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-1098\leq x \leq 1098\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-1098;1098]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-1098;1098]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-1098;1098)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1098)\cup(1098;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1098]\cup[1098;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R061 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{9}|x|\leq71\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq9\cdot 71\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq639\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-639\leq x \leq 639\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-639;639]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-639;639]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-639;639)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-639)\cup(639;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-639]\cup[639;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R062 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{13}|x|\leq53\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq13\cdot 53\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq689\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-689\leq x \leq 689\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-689;689]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-689;689]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-689;689)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-689)\cup(689;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-689]\cup[689;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R063 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{6}|x|\leq31\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq6\cdot 31\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq186\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-186\leq x \leq 186\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-186;186]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-186;186]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-186;186)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-186)\cup(186;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-186]\cup[186;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R064 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{15}|x|\leq19\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq15\cdot 19\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq285\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-285\leq x \leq 285\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-285;285]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-285;285]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-285;285)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-285)\cup(285;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-285]\cup[285;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R065 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{6}|x|\leq89\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq6\cdot 89\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq534\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-534\leq x \leq 534\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-534;534]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-534;534]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-534;534)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-534)\cup(534;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-534]\cup[534;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R066 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{6}|x|\leq97\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq6\cdot 97\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq582\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-582\leq x \leq 582\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-582;582]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-582;582]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-582;582)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-582)\cup(582;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-582]\cup[582;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R067 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{20}|x|\leq73\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq20\cdot 73\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq1460\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-1460\leq x \leq 1460\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-1460;1460]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-1460;1460]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-1460;1460)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1460)\cup(1460;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1460]\cup[1460;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R068 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{17}|x|\leq31\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq17\cdot 31\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq527\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-527\leq x \leq 527\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-527;527]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-527;527]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-527;527)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-527)\cup(527;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-527]\cup[527;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R069 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{20}|x|\leq73\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq20\cdot 73\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq1460\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-1460\leq x \leq 1460\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-1460;1460]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-1460;1460]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-1460;1460)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1460)\cup(1460;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1460]\cup[1460;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R070 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{17}|x|\leq61\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq17\cdot 61\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq1037\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-1037\leq x \leq 1037\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-1037;1037]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-1037;1037]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-1037;1037)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1037)\cup(1037;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1037]\cup[1037;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R071 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{8}|x|\leq59\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq8\cdot 59\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq472\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-472\leq x \leq 472\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-472;472]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-472;472]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-472;472)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-472)\cup(472;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-472]\cup[472;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R072 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{7}|x|\leq73\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq7\cdot 73\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq511\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-511\leq x \leq 511\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-511;511]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-511;511]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-511;511)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-511)\cup(511;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-511]\cup[511;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R073 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{19}|x|\leq19\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq19\cdot 19\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq361\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-361\leq x \leq 361\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-361;361]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-361;361]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-361;361)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-361)\cup(361;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-361]\cup[361;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R074 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{10}|x|\leq83\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq10\cdot 83\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq830\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-830\leq x \leq 830\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-830;830]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-830;830]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-830;830)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-830)\cup(830;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-830]\cup[830;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R075 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{12}|x|\leq19\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq12\cdot 19\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq228\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-228\leq x \leq 228\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-228;228]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-228;228]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-228;228)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-228)\cup(228;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-228]\cup[228;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R076 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{13}|x|\leq17\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq13\cdot 17\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq221\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-221\leq x \leq 221\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-221;221]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-221;221]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-221;221)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-221)\cup(221;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-221]\cup[221;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R077 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{14}|x|\leq37\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq14\cdot 37\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq518\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-518\leq x \leq 518\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-518;518]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-518;518]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-518;518)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-518)\cup(518;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-518]\cup[518;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R078 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{20}|x|\leq23\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq20\cdot 23\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq460\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-460\leq x \leq 460\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-460;460]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-460;460]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-460;460)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-460)\cup(460;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-460]\cup[460;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R079 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{12}|x|\leq59\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq12\cdot 59\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq708\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-708\leq x \leq 708\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-708;708]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-708;708]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-708;708)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-708)\cup(708;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-708]\cup[708;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R080 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{19}|x|\leq59\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq19\cdot 59\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq1121\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-1121\leq x \leq 1121\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-1121;1121]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-1121;1121]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-1121;1121)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1121)\cup(1121;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1121]\cup[1121;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R081 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{16}|x|\leq19\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq16\cdot 19\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq304\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-304\leq x \leq 304\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-304;304]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-304;304]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-304;304)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-304)\cup(304;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-304]\cup[304;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R082 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{14}|x|\leq43\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq14\cdot 43\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq602\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-602\leq x \leq 602\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-602;602]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-602;602]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-602;602)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-602)\cup(602;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-602]\cup[602;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R083 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{6}|x|\leq43\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq6\cdot 43\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq258\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-258\leq x \leq 258\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-258;258]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-258;258]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-258;258)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-258)\cup(258;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-258]\cup[258;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R084 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{20}|x|\leq29\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq20\cdot 29\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq580\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-580\leq x \leq 580\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-580;580]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-580;580]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-580;580)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-580)\cup(580;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-580]\cup[580;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R085 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{19}|x|\leq59\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq19\cdot 59\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq1121\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-1121\leq x \leq 1121\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-1121;1121]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-1121;1121]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-1121;1121)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1121)\cup(1121;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1121]\cup[1121;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R086 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{20}|x|\leq23\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq20\cdot 23\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq460\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-460\leq x \leq 460\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-460;460]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-460;460]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-460;460)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-460)\cup(460;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-460]\cup[460;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R087 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{13}|x|\leq17\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq13\cdot 17\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq221\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-221\leq x \leq 221\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-221;221]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-221;221]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-221;221)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-221)\cup(221;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-221]\cup[221;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R088 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{6}|x|\leq31\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq6\cdot 31\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq186\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-186\leq x \leq 186\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-186;186]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-186;186]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-186;186)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-186)\cup(186;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-186]\cup[186;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R089 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{16}|x|\leq59\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq16\cdot 59\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq944\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-944\leq x \leq 944\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-944;944]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-944;944]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-944;944)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-944)\cup(944;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-944]\cup[944;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R090 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{13}|x|\leq89\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq13\cdot 89\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq1157\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-1157\leq x \leq 1157\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-1157;1157]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-1157;1157]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-1157;1157)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1157)\cup(1157;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1157]\cup[1157;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R091 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{11}|x|\leq19\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq11\cdot 19\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq209\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-209\leq x \leq 209\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-209;209]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-209;209]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-209;209)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-209)\cup(209;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-209]\cup[209;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R092 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{16}|x|\leq43\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq16\cdot 43\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq688\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-688\leq x \leq 688\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-688;688]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-688;688]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-688;688)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-688)\cup(688;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-688]\cup[688;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R093 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{16}|x|\leq97\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq16\cdot 97\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq1552\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-1552\leq x \leq 1552\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-1552;1552]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-1552;1552]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-1552;1552)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1552)\cup(1552;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1552]\cup[1552;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R094 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{6}|x|\leq83\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq6\cdot 83\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq498\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-498\leq x \leq 498\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-498;498]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-498;498]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-498;498)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-498)\cup(498;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-498]\cup[498;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R095 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{16}|x|\leq43\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq16\cdot 43\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq688\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-688\leq x \leq 688\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-688;688]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-688;688]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-688;688)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-688)\cup(688;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-688]\cup[688;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R096 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{19}|x|\leq31\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq19\cdot 31\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq589\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-589\leq x \leq 589\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-589;589]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-589;589]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-589;589)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-589)\cup(589;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-589]\cup[589;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R097 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{17}|x|\leq71\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq17\cdot 71\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq1207\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-1207\leq x \leq 1207\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-1207;1207]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-1207;1207]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-1207;1207)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1207)\cup(1207;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-1207]\cup[1207;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R098 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{6}|x|\leq11\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq6\cdot 11\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq66\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-66\leq x \leq 66\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-66;66]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-66;66]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-66;66)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-66)\cup(66;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-66]\cup[66;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R099 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{16}|x|\leq59\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq16\cdot 59\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq944\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-944\leq x \leq 944\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-944;944]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-944;944]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-944;944)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-944)\cup(944;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-944]\cup[944;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R100 Q1 : RN_Intervalos2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<p>
+<p><strong>[Referencia: SEC_NO_InterseccionIntervalosR]</strong></p>
+<p>Elegir del listado el <strong>único intervalo o unión de intervalos</strong> de la recta real que resulta del conjunto <span class="math display">\[S=\left\{x\in\mathbb{R}:\frac{1}{10}|x|\leq3\right\}.\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Es posible reexpresar el conjunto como se ve a continuación.
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq10\cdot 3\right\}\]</span>
+<span class="math display">\[S=\left\{x\in\mathbb{R}:|x|\leq30\right\}\]</span>
+Finalmente, por propiedades del valor absoluto sabemos que
+<span class="math display">\[S=\left\{x\in\mathbb{R}:-30\leq x \leq 30\right\}\]</span>
+lo que conduce al intervalo dado por
+<span class="math display">\[[-30;30]\]</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>true</shuffleanswers>
+<single>true</single>
+<answernumbering>none</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\([-30;30]\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-30;30)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-30)\cup(30;+\infty)\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\((-\infty;-30]\cup[30;+\infty)\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>
