@@ -1,0 +1,4311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/UPR_VAD_EsperanzaVarianzaPropiedades/UPR_VAD_EsperanzaVarianzaPropiedades</text>
+</category>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R001 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 4\)</span> y <span class="math inline">\(V(Y ) = 36\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=52:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=22:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=144:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 4)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-4)/\sqrt{36})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R002 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 7\)</span> y <span class="math inline">\(V(Y ) = 81\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=130:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=31:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=324:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 7)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-7)/\sqrt{81})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R003 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 3\)</span> y <span class="math inline">\(V(Y ) = 4\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=13:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=19:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=16:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 3)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-3)/\sqrt{4})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R004 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 3\)</span> y <span class="math inline">\(V(Y ) = 4\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=13:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=19:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=16:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 3)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-3)/\sqrt{4})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R005 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 6\)</span> y <span class="math inline">\(V(Y ) = 25\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=61:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=28:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=100:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 6)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-6)/\sqrt{25})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R006 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 4\)</span> y <span class="math inline">\(V(Y ) = 9\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=25:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=22:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=36:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 4)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-4)/\sqrt{9})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R007 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 6\)</span> y <span class="math inline">\(V(Y ) = 64\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=100:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=28:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=256:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 6)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-6)/\sqrt{64})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R008 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 8\)</span> y <span class="math inline">\(V(Y ) = 49\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=113:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=34:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=196:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 8)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-8)/\sqrt{49})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R009 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 3\)</span> y <span class="math inline">\(V(Y ) = 4\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=13:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=19:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=16:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 3)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-3)/\sqrt{4})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R010 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 10\)</span> y <span class="math inline">\(V(Y ) = 81\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=181:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=40:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=324:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 10)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-10)/\sqrt{81})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R011 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 9\)</span> y <span class="math inline">\(V(Y ) = 121\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=202:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=37:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=484:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 9)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-9)/\sqrt{121})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R012 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 5\)</span> y <span class="math inline">\(V(Y ) = 16\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=41:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=25:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=64:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 5)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-5)/\sqrt{16})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R013 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 5\)</span> y <span class="math inline">\(V(Y ) = 49\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=74:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=25:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=196:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 5)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-5)/\sqrt{49})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R014 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 8\)</span> y <span class="math inline">\(V(Y ) = 49\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=113:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=34:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=196:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 8)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-8)/\sqrt{49})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R015 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 2\)</span> y <span class="math inline">\(V(Y ) = 1\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=5:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=16:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=4:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 2)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-2)/\sqrt{1})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R016 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 10\)</span> y <span class="math inline">\(V(Y ) = 81\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=181:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=40:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=324:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 10)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-10)/\sqrt{81})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R017 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 7\)</span> y <span class="math inline">\(V(Y ) = 36\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=85:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=31:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=144:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 7)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-7)/\sqrt{36})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R018 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 6\)</span> y <span class="math inline">\(V(Y ) = 64\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=100:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=28:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=256:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 6)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-6)/\sqrt{64})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R019 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 10\)</span> y <span class="math inline">\(V(Y ) = 81\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=181:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=40:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=324:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 10)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-10)/\sqrt{81})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R020 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 2\)</span> y <span class="math inline">\(V(Y ) = 1\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=5:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=16:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=4:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 2)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-2)/\sqrt{1})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R021 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 5\)</span> y <span class="math inline">\(V(Y ) = 16\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=41:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=25:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=64:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 5)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-5)/\sqrt{16})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R022 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 8\)</span> y <span class="math inline">\(V(Y ) = 100\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=164:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=34:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=400:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 8)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-8)/\sqrt{100})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R023 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 3\)</span> y <span class="math inline">\(V(Y ) = 25\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=34:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=19:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=100:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 3)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-3)/\sqrt{25})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R024 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 8\)</span> y <span class="math inline">\(V(Y ) = 100\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=164:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=34:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=400:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 8)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-8)/\sqrt{100})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R025 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 10\)</span> y <span class="math inline">\(V(Y ) = 81\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=181:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=40:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=324:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 10)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-10)/\sqrt{81})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R026 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 10\)</span> y <span class="math inline">\(V(Y ) = 144\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=244:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=40:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=576:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 10)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-10)/\sqrt{144})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R027 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 8\)</span> y <span class="math inline">\(V(Y ) = 49\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=113:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=34:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=196:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 8)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-8)/\sqrt{49})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R028 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 9\)</span> y <span class="math inline">\(V(Y ) = 121\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=202:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=37:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=484:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 9)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-9)/\sqrt{121})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R029 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 4\)</span> y <span class="math inline">\(V(Y ) = 9\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=25:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=22:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=36:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 4)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-4)/\sqrt{9})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R030 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 3\)</span> y <span class="math inline">\(V(Y ) = 4\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=13:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=19:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=16:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 3)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-3)/\sqrt{4})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R031 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 8\)</span> y <span class="math inline">\(V(Y ) = 49\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=113:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=34:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=196:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 8)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-8)/\sqrt{49})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R032 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 7\)</span> y <span class="math inline">\(V(Y ) = 36\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=85:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=31:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=144:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 7)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-7)/\sqrt{36})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R033 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 5\)</span> y <span class="math inline">\(V(Y ) = 16\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=41:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=25:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=64:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 5)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-5)/\sqrt{16})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R034 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 10\)</span> y <span class="math inline">\(V(Y ) = 81\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=181:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=40:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=324:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 10)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-10)/\sqrt{81})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R035 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 10\)</span> y <span class="math inline">\(V(Y ) = 144\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=244:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=40:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=576:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 10)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-10)/\sqrt{144})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R036 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 9\)</span> y <span class="math inline">\(V(Y ) = 64\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=145:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=37:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=256:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 9)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-9)/\sqrt{64})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R037 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 10\)</span> y <span class="math inline">\(V(Y ) = 144\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=244:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=40:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=576:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 10)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-10)/\sqrt{144})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R038 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 9\)</span> y <span class="math inline">\(V(Y ) = 121\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=202:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=37:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=484:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 9)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-9)/\sqrt{121})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R039 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 4\)</span> y <span class="math inline">\(V(Y ) = 9\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=25:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=22:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=36:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 4)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-4)/\sqrt{9})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R040 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 8\)</span> y <span class="math inline">\(V(Y ) = 49\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=113:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=34:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=196:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 8)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-8)/\sqrt{49})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R041 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 5\)</span> y <span class="math inline">\(V(Y ) = 49\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=74:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=25:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=196:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 5)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-5)/\sqrt{49})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R042 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 3\)</span> y <span class="math inline">\(V(Y ) = 25\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=34:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=19:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=100:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 3)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-3)/\sqrt{25})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R043 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 8\)</span> y <span class="math inline">\(V(Y ) = 49\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=113:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=34:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=196:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 8)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-8)/\sqrt{49})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R044 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 2\)</span> y <span class="math inline">\(V(Y ) = 1\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=5:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=16:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=4:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 2)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-2)/\sqrt{1})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R045 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 3\)</span> y <span class="math inline">\(V(Y ) = 4\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=13:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=19:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=16:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 3)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-3)/\sqrt{4})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R046 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 7\)</span> y <span class="math inline">\(V(Y ) = 36\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=85:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=31:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=144:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 7)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-7)/\sqrt{36})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R047 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 3\)</span> y <span class="math inline">\(V(Y ) = 25\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=34:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=19:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=100:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 3)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-3)/\sqrt{25})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R048 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 6\)</span> y <span class="math inline">\(V(Y ) = 64\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=100:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=28:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=256:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 6)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-6)/\sqrt{64})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R049 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 3\)</span> y <span class="math inline">\(V(Y ) = 4\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=13:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=19:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=16:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 3)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-3)/\sqrt{4})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R050 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 10\)</span> y <span class="math inline">\(V(Y ) = 81\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=181:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=40:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=324:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 10)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-10)/\sqrt{81})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R051 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 4\)</span> y <span class="math inline">\(V(Y ) = 36\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=52:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=22:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=144:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 4)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-4)/\sqrt{36})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R052 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 4\)</span> y <span class="math inline">\(V(Y ) = 9\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=25:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=22:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=36:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 4)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-4)/\sqrt{9})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R053 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 5\)</span> y <span class="math inline">\(V(Y ) = 16\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=41:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=25:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=64:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 5)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-5)/\sqrt{16})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R054 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 6\)</span> y <span class="math inline">\(V(Y ) = 25\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=61:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=28:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=100:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 6)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-6)/\sqrt{25})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R055 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 3\)</span> y <span class="math inline">\(V(Y ) = 4\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=13:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=19:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=16:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 3)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-3)/\sqrt{4})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R056 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 3\)</span> y <span class="math inline">\(V(Y ) = 25\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=34:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=19:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=100:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 3)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-3)/\sqrt{25})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R057 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 10\)</span> y <span class="math inline">\(V(Y ) = 81\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=181:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=40:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=324:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 10)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-10)/\sqrt{81})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R058 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 2\)</span> y <span class="math inline">\(V(Y ) = 1\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=5:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=16:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=4:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 2)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-2)/\sqrt{1})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R059 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 9\)</span> y <span class="math inline">\(V(Y ) = 64\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=145:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=37:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=256:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 9)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-9)/\sqrt{64})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R060 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 3\)</span> y <span class="math inline">\(V(Y ) = 25\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=34:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=19:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=100:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 3)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-3)/\sqrt{25})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R061 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 8\)</span> y <span class="math inline">\(V(Y ) = 49\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=113:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=34:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=196:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 8)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-8)/\sqrt{49})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R062 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 10\)</span> y <span class="math inline">\(V(Y ) = 81\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=181:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=40:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=324:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 10)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-10)/\sqrt{81})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R063 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 8\)</span> y <span class="math inline">\(V(Y ) = 49\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=113:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=34:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=196:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 8)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-8)/\sqrt{49})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R064 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 5\)</span> y <span class="math inline">\(V(Y ) = 16\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=41:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=25:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=64:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 5)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-5)/\sqrt{16})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R065 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 2\)</span> y <span class="math inline">\(V(Y ) = 1\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=5:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=16:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=4:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 2)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-2)/\sqrt{1})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R066 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 8\)</span> y <span class="math inline">\(V(Y ) = 49\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=113:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=34:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=196:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 8)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-8)/\sqrt{49})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R067 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 10\)</span> y <span class="math inline">\(V(Y ) = 144\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=244:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=40:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=576:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 10)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-10)/\sqrt{144})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R068 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 10\)</span> y <span class="math inline">\(V(Y ) = 81\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=181:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=40:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=324:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 10)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-10)/\sqrt{81})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R069 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 3\)</span> y <span class="math inline">\(V(Y ) = 25\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=34:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=19:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=100:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 3)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-3)/\sqrt{25})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R070 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 10\)</span> y <span class="math inline">\(V(Y ) = 81\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=181:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=40:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=324:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 10)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-10)/\sqrt{81})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R071 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 5\)</span> y <span class="math inline">\(V(Y ) = 49\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=74:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=25:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=196:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 5)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-5)/\sqrt{49})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R072 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 7\)</span> y <span class="math inline">\(V(Y ) = 81\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=130:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=31:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=324:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 7)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-7)/\sqrt{81})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R073 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 7\)</span> y <span class="math inline">\(V(Y ) = 81\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=130:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=31:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=324:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 7)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-7)/\sqrt{81})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R074 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 8\)</span> y <span class="math inline">\(V(Y ) = 100\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=164:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=34:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=400:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 8)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-8)/\sqrt{100})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R075 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 9\)</span> y <span class="math inline">\(V(Y ) = 121\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=202:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=37:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=484:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 9)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-9)/\sqrt{121})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R076 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 7\)</span> y <span class="math inline">\(V(Y ) = 36\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=85:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=31:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=144:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 7)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-7)/\sqrt{36})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R077 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 9\)</span> y <span class="math inline">\(V(Y ) = 121\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=202:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=37:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=484:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 9)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-9)/\sqrt{121})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R078 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 3\)</span> y <span class="math inline">\(V(Y ) = 25\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=34:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=19:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=100:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 3)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-3)/\sqrt{25})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R079 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 5\)</span> y <span class="math inline">\(V(Y ) = 16\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=41:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=25:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=64:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 5)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-5)/\sqrt{16})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R080 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 4\)</span> y <span class="math inline">\(V(Y ) = 9\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=25:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=22:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=36:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 4)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-4)/\sqrt{9})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R081 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 8\)</span> y <span class="math inline">\(V(Y ) = 49\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=113:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=34:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=196:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 8)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-8)/\sqrt{49})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R082 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 8\)</span> y <span class="math inline">\(V(Y ) = 49\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=113:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=34:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=196:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 8)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-8)/\sqrt{49})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R083 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 10\)</span> y <span class="math inline">\(V(Y ) = 81\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=181:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=40:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=324:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 10)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-10)/\sqrt{81})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R084 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 5\)</span> y <span class="math inline">\(V(Y ) = 16\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=41:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=25:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=64:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 5)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-5)/\sqrt{16})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R085 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 4\)</span> y <span class="math inline">\(V(Y ) = 9\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=25:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=22:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=36:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 4)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-4)/\sqrt{9})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R086 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 3\)</span> y <span class="math inline">\(V(Y ) = 25\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=34:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=19:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=100:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 3)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-3)/\sqrt{25})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R087 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 6\)</span> y <span class="math inline">\(V(Y ) = 64\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=100:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=28:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=256:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 6)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-6)/\sqrt{64})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R088 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 8\)</span> y <span class="math inline">\(V(Y ) = 49\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=113:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=34:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=196:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 8)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-8)/\sqrt{49})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R089 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 4\)</span> y <span class="math inline">\(V(Y ) = 9\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=25:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=22:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=36:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 4)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-4)/\sqrt{9})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R090 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 10\)</span> y <span class="math inline">\(V(Y ) = 144\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=244:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=40:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=576:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 10)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-10)/\sqrt{144})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R091 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 5\)</span> y <span class="math inline">\(V(Y ) = 16\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=41:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=25:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=64:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 5)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-5)/\sqrt{16})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R092 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 4\)</span> y <span class="math inline">\(V(Y ) = 36\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=52:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=22:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=144:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 4)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-4)/\sqrt{36})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R093 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 8\)</span> y <span class="math inline">\(V(Y ) = 49\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=113:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=34:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=196:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 8)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-8)/\sqrt{49})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R094 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 10\)</span> y <span class="math inline">\(V(Y ) = 81\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=181:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=40:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=324:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 10)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-10)/\sqrt{81})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R095 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 3\)</span> y <span class="math inline">\(V(Y ) = 25\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=34:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=19:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=100:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 3)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-3)/\sqrt{25})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R096 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 7\)</span> y <span class="math inline">\(V(Y ) = 81\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=130:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=31:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=324:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 7)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-7)/\sqrt{81})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R097 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 9\)</span> y <span class="math inline">\(V(Y ) = 64\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=145:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=37:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=256:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 9)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-9)/\sqrt{64})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R098 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 6\)</span> y <span class="math inline">\(V(Y ) = 64\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=100:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=28:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=256:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 6)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-6)/\sqrt{64})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R099 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 5\)</span> y <span class="math inline">\(V(Y ) = 16\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=41:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=25:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=64:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 5)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-5)/\sqrt{16})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R100 Q1 : 12_espVarPropiedades </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaPropiedades]</strong></p>
+<p>Sea <span class="math inline">\(Y\)</span> una variable aleatoria tal que <span class="math inline">\(\mathbb E(Y ) = 6\)</span> y <span class="math inline">\(V(Y ) = 64\)</span>. Calcular</p>
+<p><span class="math inline">\(\mathbb E(Y^2)\)</span>. {1:NUMERICAL:=100:0}</p>
+<p><span class="math inline">\(\mathbb E(3Y+10)\)</span>- {1:NUMERICAL:=28:0}</p>
+<p><span class="math inline">\(V(-2Y+100)\)</span> {1:NUMERICAL:=256:0}</p>
+<p><span class="math inline">\(\mathbb E(Y - 6)\)</span>. {1:NUMERICAL:=0:0}</p>
+<p><span class="math inline">\(V ((Y-6)/\sqrt{64})\)</span> {1:NUMERICAL:=1:0}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+</quiz>

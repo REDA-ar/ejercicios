@@ -1,0 +1,4011 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/UPR_VAD_PoissonParticulasAlfa/UPR_VAD_PoissonParticulasAlfa</text>
+</category>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R001 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {7}/{10}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(3\)</span> partículas. {1:NUMERICAL:=0.9659:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(5\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(4\)</span> de ellas se emitan menos de <span class="math inline">\(3\)</span> partículas? {1:NUMERICAL:=0.1484:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R002 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {6}/{9}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(3\)</span> partículas. {1:NUMERICAL:=0.9698:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(6\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(5\)</span> de ellas se emitan menos de <span class="math inline">\(3\)</span> partículas? {1:NUMERICAL:=0.1554:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R003 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {6}/{9}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8557:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(5\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(4\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.3868:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R004 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {4}/{7}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8874:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(4\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(3\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.3147:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R005 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {4}/{7}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(3\)</span> partículas. {1:NUMERICAL:=0.9796:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(6\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(5\)</span> de ellas se emitan menos de <span class="math inline">\(3\)</span> partículas? {1:NUMERICAL:=0.1104:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R006 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {5}/{8}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8698:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(5\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(4\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.3726:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R007 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {7}/{10}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8442:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(6\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(5\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.4008:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R008 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {6}/{9}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(3\)</span> partículas. {1:NUMERICAL:=0.9698:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(4\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(3\)</span> de ellas se emitan menos de <span class="math inline">\(3\)</span> partículas? {1:NUMERICAL:=0.1102:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R009 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {5}/{8}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(3\)</span> partículas. {1:NUMERICAL:=0.9743:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(5\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(4\)</span> de ellas se emitan menos de <span class="math inline">\(3\)</span> partículas? {1:NUMERICAL:=0.1158:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R010 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {5}/{8}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8698:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(6\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(5\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.3889:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R011 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {7}/{10}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(3\)</span> partículas. {1:NUMERICAL:=0.9659:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(5\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(4\)</span> de ellas se emitan menos de <span class="math inline">\(3\)</span> partículas? {1:NUMERICAL:=0.1484:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R012 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {7}/{10}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8442:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(5\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(4\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.3957:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R013 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {6}/{9}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8557:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(4\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(3\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.3617:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R014 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {5}/{8}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(3\)</span> partículas. {1:NUMERICAL:=0.9743:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(6\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(5\)</span> de ellas se emitan menos de <span class="math inline">\(3\)</span> partículas? {1:NUMERICAL:=0.1354:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R015 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {5}/{8}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8698:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(4\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(3\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.3427:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R016 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {7}/{10}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8442:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(4\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(3\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.3749:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R017 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {6}/{9}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8557:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(6\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(5\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.3972:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R018 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {6}/{9}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(3\)</span> partículas. {1:NUMERICAL:=0.9698:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(6\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(5\)</span> de ellas se emitan menos de <span class="math inline">\(3\)</span> partículas? {1:NUMERICAL:=0.1554:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R019 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {4}/{7}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8874:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(5\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(4\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.3491:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R020 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {5}/{8}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(3\)</span> partículas. {1:NUMERICAL:=0.9743:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(6\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(5\)</span> de ellas se emitan menos de <span class="math inline">\(3\)</span> partículas? {1:NUMERICAL:=0.1354:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R021 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {5}/{8}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(3\)</span> partículas. {1:NUMERICAL:=0.9743:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(6\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(5\)</span> de ellas se emitan menos de <span class="math inline">\(3\)</span> partículas? {1:NUMERICAL:=0.1354:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R022 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {4}/{7}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8874:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(5\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(4\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.3491:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R023 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {6}/{9}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(3\)</span> partículas. {1:NUMERICAL:=0.9698:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(6\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(5\)</span> de ellas se emitan menos de <span class="math inline">\(3\)</span> partículas? {1:NUMERICAL:=0.1554:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R024 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {4}/{7}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8874:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(5\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(4\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.3491:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R025 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {7}/{10}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8442:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(6\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(5\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.4008:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R026 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {6}/{9}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(3\)</span> partículas. {1:NUMERICAL:=0.9698:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(4\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(3\)</span> de ellas se emitan menos de <span class="math inline">\(3\)</span> partículas? {1:NUMERICAL:=0.1102:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R027 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {6}/{9}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(3\)</span> partículas. {1:NUMERICAL:=0.9698:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(6\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(5\)</span> de ellas se emitan menos de <span class="math inline">\(3\)</span> partículas? {1:NUMERICAL:=0.1554:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R028 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {5}/{8}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8698:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(4\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(3\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.3427:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R029 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {6}/{9}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8557:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(4\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(3\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.3617:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R030 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {6}/{9}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(3\)</span> partículas. {1:NUMERICAL:=0.9698:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(6\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(5\)</span> de ellas se emitan menos de <span class="math inline">\(3\)</span> partículas? {1:NUMERICAL:=0.1554:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R031 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {5}/{8}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8698:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(5\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(4\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.3726:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R032 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {5}/{8}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(3\)</span> partículas. {1:NUMERICAL:=0.9743:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(5\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(4\)</span> de ellas se emitan menos de <span class="math inline">\(3\)</span> partículas? {1:NUMERICAL:=0.1158:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R033 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {7}/{10}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(3\)</span> partículas. {1:NUMERICAL:=0.9659:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(5\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(4\)</span> de ellas se emitan menos de <span class="math inline">\(3\)</span> partículas? {1:NUMERICAL:=0.1484:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R034 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {7}/{10}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8442:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(5\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(4\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.3957:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R035 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {6}/{9}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(3\)</span> partículas. {1:NUMERICAL:=0.9698:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(4\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(3\)</span> de ellas se emitan menos de <span class="math inline">\(3\)</span> partículas? {1:NUMERICAL:=0.1102:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R036 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {7}/{10}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8442:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(5\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(4\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.3957:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R037 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {4}/{7}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8874:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(4\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(3\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.3147:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R038 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {5}/{8}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(3\)</span> partículas. {1:NUMERICAL:=0.9743:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(4\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(3\)</span> de ellas se emitan menos de <span class="math inline">\(3\)</span> partículas? {1:NUMERICAL:=0.0951:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R039 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {7}/{10}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(3\)</span> partículas. {1:NUMERICAL:=0.9659:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(6\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(5\)</span> de ellas se emitan menos de <span class="math inline">\(3\)</span> partículas? {1:NUMERICAL:=0.172:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R040 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {4}/{7}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8874:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(6\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(5\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.3718:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R041 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {7}/{10}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8442:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(6\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(5\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.4008:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R042 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {5}/{8}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8698:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(5\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(4\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.3726:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R043 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {5}/{8}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8698:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(4\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(3\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.3427:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R044 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {7}/{10}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(3\)</span> partículas. {1:NUMERICAL:=0.9659:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(4\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(3\)</span> de ellas se emitan menos de <span class="math inline">\(3\)</span> partículas? {1:NUMERICAL:=0.1229:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R045 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {6}/{9}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8557:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(6\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(5\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.3972:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R046 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {5}/{8}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(3\)</span> partículas. {1:NUMERICAL:=0.9743:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(6\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(5\)</span> de ellas se emitan menos de <span class="math inline">\(3\)</span> partículas? {1:NUMERICAL:=0.1354:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R047 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {7}/{10}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8442:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(5\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(4\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.3957:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R048 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {7}/{10}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8442:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(4\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(3\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.3749:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R049 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {7}/{10}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8442:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(4\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(3\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.3749:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R050 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {7}/{10}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(3\)</span> partículas. {1:NUMERICAL:=0.9659:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(4\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(3\)</span> de ellas se emitan menos de <span class="math inline">\(3\)</span> partículas? {1:NUMERICAL:=0.1229:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R051 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {5}/{8}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(3\)</span> partículas. {1:NUMERICAL:=0.9743:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(4\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(3\)</span> de ellas se emitan menos de <span class="math inline">\(3\)</span> partículas? {1:NUMERICAL:=0.0951:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R052 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {4}/{7}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8874:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(5\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(4\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.3491:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R053 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {6}/{9}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(3\)</span> partículas. {1:NUMERICAL:=0.9698:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(6\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(5\)</span> de ellas se emitan menos de <span class="math inline">\(3\)</span> partículas? {1:NUMERICAL:=0.1554:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R054 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {4}/{7}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8874:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(6\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(5\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.3718:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R055 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {5}/{8}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(3\)</span> partículas. {1:NUMERICAL:=0.9743:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(6\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(5\)</span> de ellas se emitan menos de <span class="math inline">\(3\)</span> partículas? {1:NUMERICAL:=0.1354:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R056 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {4}/{7}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8874:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(5\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(4\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.3491:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R057 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {4}/{7}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8874:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(6\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(5\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.3718:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R058 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {4}/{7}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8874:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(5\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(4\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.3491:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R059 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {5}/{8}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(3\)</span> partículas. {1:NUMERICAL:=0.9743:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(5\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(4\)</span> de ellas se emitan menos de <span class="math inline">\(3\)</span> partículas? {1:NUMERICAL:=0.1158:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R060 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {5}/{8}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8698:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(6\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(5\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.3889:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R061 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {6}/{9}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(3\)</span> partículas. {1:NUMERICAL:=0.9698:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(4\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(3\)</span> de ellas se emitan menos de <span class="math inline">\(3\)</span> partículas? {1:NUMERICAL:=0.1102:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R062 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {6}/{9}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(3\)</span> partículas. {1:NUMERICAL:=0.9698:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(4\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(3\)</span> de ellas se emitan menos de <span class="math inline">\(3\)</span> partículas? {1:NUMERICAL:=0.1102:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R063 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {5}/{8}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8698:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(6\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(5\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.3889:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R064 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {6}/{9}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(3\)</span> partículas. {1:NUMERICAL:=0.9698:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(4\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(3\)</span> de ellas se emitan menos de <span class="math inline">\(3\)</span> partículas? {1:NUMERICAL:=0.1102:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R065 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {5}/{8}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8698:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(6\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(5\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.3889:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R066 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {5}/{8}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8698:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(6\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(5\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.3889:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R067 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {5}/{8}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(3\)</span> partículas. {1:NUMERICAL:=0.9743:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(5\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(4\)</span> de ellas se emitan menos de <span class="math inline">\(3\)</span> partículas? {1:NUMERICAL:=0.1158:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R068 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {6}/{9}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(3\)</span> partículas. {1:NUMERICAL:=0.9698:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(5\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(4\)</span> de ellas se emitan menos de <span class="math inline">\(3\)</span> partículas? {1:NUMERICAL:=0.1336:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R069 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {4}/{7}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(3\)</span> partículas. {1:NUMERICAL:=0.9796:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(4\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(3\)</span> de ellas se emitan menos de <span class="math inline">\(3\)</span> partículas? {1:NUMERICAL:=0.0767:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R070 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {6}/{9}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8557:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(6\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(5\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.3972:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R071 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {6}/{9}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(3\)</span> partículas. {1:NUMERICAL:=0.9698:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(6\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(5\)</span> de ellas se emitan menos de <span class="math inline">\(3\)</span> partículas? {1:NUMERICAL:=0.1554:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R072 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {5}/{8}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8698:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(6\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(5\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.3889:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R073 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {6}/{9}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(3\)</span> partículas. {1:NUMERICAL:=0.9698:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(5\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(4\)</span> de ellas se emitan menos de <span class="math inline">\(3\)</span> partículas? {1:NUMERICAL:=0.1336:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R074 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {5}/{8}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8698:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(4\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(3\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.3427:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R075 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {5}/{8}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8698:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(5\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(4\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.3726:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R076 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {7}/{10}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(3\)</span> partículas. {1:NUMERICAL:=0.9659:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(6\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(5\)</span> de ellas se emitan menos de <span class="math inline">\(3\)</span> partículas? {1:NUMERICAL:=0.172:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R077 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {7}/{10}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8442:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(4\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(3\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.3749:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R078 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {6}/{9}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8557:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(4\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(3\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.3617:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R079 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {4}/{7}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(3\)</span> partículas. {1:NUMERICAL:=0.9796:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(5\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(4\)</span> de ellas se emitan menos de <span class="math inline">\(3\)</span> partículas? {1:NUMERICAL:=0.0939:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R080 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {5}/{8}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8698:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(6\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(5\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.3889:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R081 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {5}/{8}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8698:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(6\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(5\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.3889:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R082 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {7}/{10}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(3\)</span> partículas. {1:NUMERICAL:=0.9659:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(6\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(5\)</span> de ellas se emitan menos de <span class="math inline">\(3\)</span> partículas? {1:NUMERICAL:=0.172:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R083 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {4}/{7}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8874:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(5\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(4\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.3491:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R084 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {7}/{10}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8442:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(6\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(5\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.4008:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R085 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {4}/{7}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8874:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(5\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(4\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.3491:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R086 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {6}/{9}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(3\)</span> partículas. {1:NUMERICAL:=0.9698:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(5\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(4\)</span> de ellas se emitan menos de <span class="math inline">\(3\)</span> partículas? {1:NUMERICAL:=0.1336:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R087 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {6}/{9}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8557:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(6\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(5\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.3972:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R088 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {6}/{9}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8557:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(5\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(4\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.3868:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R089 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {4}/{7}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(3\)</span> partículas. {1:NUMERICAL:=0.9796:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(6\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(5\)</span> de ellas se emitan menos de <span class="math inline">\(3\)</span> partículas? {1:NUMERICAL:=0.1104:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R090 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {4}/{7}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(3\)</span> partículas. {1:NUMERICAL:=0.9796:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(5\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(4\)</span> de ellas se emitan menos de <span class="math inline">\(3\)</span> partículas? {1:NUMERICAL:=0.0939:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R091 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {7}/{10}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8442:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(5\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(4\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.3957:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R092 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {7}/{10}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8442:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(6\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(5\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.4008:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R093 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {6}/{9}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8557:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(5\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(4\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.3868:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R094 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {4}/{7}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(3\)</span> partículas. {1:NUMERICAL:=0.9796:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(4\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(3\)</span> de ellas se emitan menos de <span class="math inline">\(3\)</span> partículas? {1:NUMERICAL:=0.0767:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R095 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {5}/{8}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(3\)</span> partículas. {1:NUMERICAL:=0.9743:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(4\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(3\)</span> de ellas se emitan menos de <span class="math inline">\(3\)</span> partículas? {1:NUMERICAL:=0.0951:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R096 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {6}/{9}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(3\)</span> partículas. {1:NUMERICAL:=0.9698:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(5\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(4\)</span> de ellas se emitan menos de <span class="math inline">\(3\)</span> partículas? {1:NUMERICAL:=0.1336:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R097 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {7}/{10}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(2\)</span> partículas. {1:NUMERICAL:=0.8442:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(5\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(4\)</span> de ellas se emitan menos de <span class="math inline">\(2\)</span> partículas? {1:NUMERICAL:=0.3957:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R098 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {6}/{9}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(3\)</span> partículas. {1:NUMERICAL:=0.9698:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(6\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(5\)</span> de ellas se emitan menos de <span class="math inline">\(3\)</span> partículas? {1:NUMERICAL:=0.1554:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R099 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {5}/{8}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(3\)</span> partículas. {1:NUMERICAL:=0.9743:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(6\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(5\)</span> de ellas se emitan menos de <span class="math inline">\(3\)</span> partículas? {1:NUMERICAL:=0.1354:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R100 Q1 : 6_poisson_y_binomial_particulas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_PoissonParticulasAlfa]</strong></p>
+<p>La cantidad de partículas alfa emitidas (por segundo) por una fuente de polonio es una variable aleatoria con distribución Poisson de parámetro <span class="math inline">\(\lambda= {6}/{9}\)</span>.</p>
+<p>Calcular la probabilidad de que en un segundo la fuente emita menos de <span class="math inline">\(3\)</span> partículas. {1:NUMERICAL:=0.9698:0.01}</p>
+<p>Si ahora se miden en forma independiente <span class="math inline">\(4\)</span> muestras de un segundo cada una, ¿cuál es la probabilidad de que en exactamente <span class="math inline">\(3\)</span> de ellas se emitan menos de <span class="math inline">\(3\)</span> partículas? {1:NUMERICAL:=0.1102:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+</quiz>

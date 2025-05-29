@@ -1,0 +1,4611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/UPR_VAD_EsperanzaVarianzaUrna/UPR_VAD_EsperanzaVarianzaUrna</text>
+</category>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R001 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 3 rojas y 5 blancas.</p>
+<p>Urna B: 6 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(0)\)</span>. {1:NUMERICAL:=0.1190476:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.3928571:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.4766156:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R002 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 5 rojas y 3 blancas.</p>
+<p>Urna B: 2 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(2)\)</span>. {1:NUMERICAL:=0.3412698:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.3055556:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.2836199:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R003 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 4 rojas y 4 blancas.</p>
+<p>Urna B: 3 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(0)\)</span>. {1:NUMERICAL:=0.0714286:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.3333333:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.3650794:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R004 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 5 rojas y 5 blancas.</p>
+<p>Urna B: 5 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(0)\)</span>. {1:NUMERICAL:=0.0740741:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.4444444:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.3950617:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R005 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 4 rojas y 5 blancas.</p>
+<p>Urna B: 4 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(2)\)</span>. {1:NUMERICAL:=0.4555556:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.362963:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.416406:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R006 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 6 rojas y 4 blancas.</p>
+<p>Urna B: 5 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(2)\)</span>. {1:NUMERICAL:=0.5555556:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.5111111:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.3387654:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R007 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 2 rojas y 2 blancas.</p>
+<p>Urna B: 6 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(1)\)</span>. {1:NUMERICAL:=0.4126984:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.4761905:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.3605442:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R008 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 3 rojas y 2 blancas.</p>
+<p>Urna B: 3 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(1)\)</span>. {1:NUMERICAL:=0.5333333:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.4:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.3066667:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R009 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 3 rojas y 4 blancas.</p>
+<p>Urna B: 4 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(0)\)</span>. {1:NUMERICAL:=0.0952381:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.352381:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.4186848:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R010 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 6 rojas y 6 blancas.</p>
+<p>Urna B: 5 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(1)\)</span>. {1:NUMERICAL:=0.4040404:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.4444444:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.3984287:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R011 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 2 rojas y 4 blancas.</p>
+<p>Urna B: 2 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(0)\)</span>. {1:NUMERICAL:=0.1333333:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.1111111:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.3654321:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R012 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 2 rojas y 2 blancas.</p>
+<p>Urna B: 2 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(0)\)</span>. {1:NUMERICAL:=0.0555556:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.2222222:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.2839506:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R013 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 6 rojas y 3 blancas.</p>
+<p>Urna B: 5 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(0)\)</span>. {1:NUMERICAL:=0.0277778:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.5555556:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.3024691:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R014 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 2 rojas y 6 blancas.</p>
+<p>Urna B: 3 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(2)\)</span>. {1:NUMERICAL:=0.3452381:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.1666667:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.4960317:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R015 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 5 rojas y 3 blancas.</p>
+<p>Urna B: 5 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(1)\)</span>. {1:NUMERICAL:=0.4007937:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.5277778:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.320657:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R016 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 5 rojas y 3 blancas.</p>
+<p>Urna B: 5 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(2)\)</span>. {1:NUMERICAL:=0.5634921:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.5277778:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.320657:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R017 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 3 rojas y 4 blancas.</p>
+<p>Urna B: 6 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(1)\)</span>. {1:NUMERICAL:=0.3809524:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.4285714:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.4353741:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R018 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 6 rojas y 3 blancas.</p>
+<p>Urna B: 6 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(2)\)</span>. {1:NUMERICAL:=0.6150794:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.5873016:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.297934:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R019 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 5 rojas y 5 blancas.</p>
+<p>Urna B: 3 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(2)\)</span>. {1:NUMERICAL:=0.4074074:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.3333333:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.3703704:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R020 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 2 rojas y 6 blancas.</p>
+<p>Urna B: 3 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(2)\)</span>. {1:NUMERICAL:=0.3452381:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.1666667:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.4960317:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R021 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 4 rojas y 6 blancas.</p>
+<p>Urna B: 3 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(0)\)</span>. {1:NUMERICAL:=0.1111111:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.2666667:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.4177778:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R022 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 6 rojas y 2 blancas.</p>
+<p>Urna B: 6 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(1)\)</span>. {1:NUMERICAL:=0.3333333:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.6428571:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.2534014:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R023 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 5 rojas y 2 blancas.</p>
+<p>Urna B: 2 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(2)\)</span>. {1:NUMERICAL:=0.3809524:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.3650794:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.2635425:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R024 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 5 rojas y 3 blancas.</p>
+<p>Urna B: 6 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(0)\)</span>. {1:NUMERICAL:=0.0357143:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.5595238:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.3178855:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R025 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 5 rojas y 6 blancas.</p>
+<p>Urna B: 2 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(2)\)</span>. {1:NUMERICAL:=0.2828283:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.1919192:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.3369044:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R026 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 3 rojas y 5 blancas.</p>
+<p>Urna B: 5 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(2)\)</span>. {1:NUMERICAL:=0.4801587:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.3611111:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.4688051:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R027 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 3 rojas y 3 blancas.</p>
+<p>Urna B: 2 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(0)\)</span>. {1:NUMERICAL:=0.0666667:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.2222222:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.3061728:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R028 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 3 rojas y 6 blancas.</p>
+<p>Urna B: 4 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(1)\)</span>. {1:NUMERICAL:=0.4333333:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.2888889:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.4832099:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R029 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 4 rojas y 3 blancas.</p>
+<p>Urna B: 4 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(2)\)</span>. {1:NUMERICAL:=0.4952381:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.447619:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.3424943:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R030 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 2 rojas y 5 blancas.</p>
+<p>Urna B: 2 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(1)\)</span>. {1:NUMERICAL:=0.6031746:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.0793651:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.3905266:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R031 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 4 rojas y 5 blancas.</p>
+<p>Urna B: 4 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(2)\)</span>. {1:NUMERICAL:=0.4555556:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.362963:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.416406:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R032 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 4 rojas y 2 blancas.</p>
+<p>Urna B: 4 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(2)\)</span>. {1:NUMERICAL:=0.5333333:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.5111111:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.294321:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R033 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 4 rojas y 2 blancas.</p>
+<p>Urna B: 3 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(2)\)</span>. {1:NUMERICAL:=0.4666667:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.4444444:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.291358:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R034 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 4 rojas y 6 blancas.</p>
+<p>Urna B: 6 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(0)\)</span>. {1:NUMERICAL:=0.1111111:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.4095238:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.4640363:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R035 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 4 rojas y 3 blancas.</p>
+<p>Urna B: 6 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(1)\)</span>. {1:NUMERICAL:=0.3809524:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.5238095:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.3446712:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R036 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 6 rojas y 5 blancas.</p>
+<p>Urna B: 2 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(2)\)</span>. {1:NUMERICAL:=0.3131313:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.2525253:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.3099684:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R037 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 3 rojas y 6 blancas.</p>
+<p>Urna B: 5 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(1)\)</span>. {1:NUMERICAL:=0.3888889:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.3333333:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.5:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R038 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 4 rojas y 3 blancas.</p>
+<p>Urna B: 4 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(2)\)</span>. {1:NUMERICAL:=0.4952381:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.447619:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.3424943:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R039 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 6 rojas y 6 blancas.</p>
+<p>Urna B: 5 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(2)\)</span>. {1:NUMERICAL:=0.520202:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.4444444:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.3984287:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R040 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 2 rojas y 5 blancas.</p>
+<p>Urna B: 4 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(1)\)</span>. {1:NUMERICAL:=0.4253968:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.2571429:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.5084807:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R041 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 5 rojas y 6 blancas.</p>
+<p>Urna B: 2 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(1)\)</span>. {1:NUMERICAL:=0.6262626:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.1919192:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.3369044:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R042 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 4 rojas y 3 blancas.</p>
+<p>Urna B: 2 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(0)\)</span>. {1:NUMERICAL:=0.047619:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.2698413:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.2922651:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R043 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 3 rojas y 4 blancas.</p>
+<p>Urna B: 6 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(2)\)</span>. {1:NUMERICAL:=0.5238095:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.4285714:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.4353741:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R044 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 2 rojas y 6 blancas.</p>
+<p>Urna B: 3 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(1)\)</span>. {1:NUMERICAL:=0.4761905:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.1666667:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.4960317:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R045 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 3 rojas y 2 blancas.</p>
+<p>Urna B: 3 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(1)\)</span>. {1:NUMERICAL:=0.5333333:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.4:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.3066667:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R046 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 4 rojas y 5 blancas.</p>
+<p>Urna B: 4 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(0)\)</span>. {1:NUMERICAL:=0.0925926:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.362963:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.416406:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R047 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 4 rojas y 2 blancas.</p>
+<p>Urna B: 5 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(0)\)</span>. {1:NUMERICAL:=0.0222222:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.5555556:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.291358:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R048 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 4 rojas y 2 blancas.</p>
+<p>Urna B: 2 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(0)\)</span>. {1:NUMERICAL:=0.0222222:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.3333333:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.2666667:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R049 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 3 rojas y 2 blancas.</p>
+<p>Urna B: 6 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(1)\)</span>. {1:NUMERICAL:=0.3904762:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.5428571:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.3148299:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R050 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 3 rojas y 6 blancas.</p>
+<p>Urna B: 4 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(2)\)</span>. {1:NUMERICAL:=0.4277778:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.2888889:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.4832099:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R051 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 2 rojas y 3 blancas.</p>
+<p>Urna B: 2 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(2)\)</span>. {1:NUMERICAL:=0.2555556:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.1555556:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.331358:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R052 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 2 rojas y 2 blancas.</p>
+<p>Urna B: 3 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(1)\)</span>. {1:NUMERICAL:=0.5555556:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.3333333:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.3333333:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R053 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 3 rojas y 6 blancas.</p>
+<p>Urna B: 2 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(0)\)</span>. {1:NUMERICAL:=0.1388889:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.1111111:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.3765432:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R054 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 3 rojas y 3 blancas.</p>
+<p>Urna B: 3 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(2)\)</span>. {1:NUMERICAL:=0.4:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.3333333:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.3555556:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R055 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 5 rojas y 2 blancas.</p>
+<p>Urna B: 6 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(0)\)</span>. {1:NUMERICAL:=0.015873:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.6190476:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.2675737:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R056 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 3 rojas y 5 blancas.</p>
+<p>Urna B: 2 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(2)\)</span>. {1:NUMERICAL:=0.2579365:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.1388889:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.357694:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R057 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 3 rojas y 5 blancas.</p>
+<p>Urna B: 2 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(0)\)</span>. {1:NUMERICAL:=0.1190476:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.1388889:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.357694:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R058 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 2 rojas y 6 blancas.</p>
+<p>Urna B: 6 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(2)\)</span>. {1:NUMERICAL:=0.4880952:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.3095238:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.5708617:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R059 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 2 rojas y 3 blancas.</p>
+<p>Urna B: 4 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(2)\)</span>. {1:NUMERICAL:=0.4333333:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.3333333:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.4222222:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R060 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 5 rojas y 4 blancas.</p>
+<p>Urna B: 4 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(0)\)</span>. {1:NUMERICAL:=0.0555556:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.437037:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.3571468:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R061 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 6 rojas y 4 blancas.</p>
+<p>Urna B: 3 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(1)\)</span>. {1:NUMERICAL:=0.5111111:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.4:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.3288889:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R062 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 2 rojas y 2 blancas.</p>
+<p>Urna B: 2 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(1)\)</span>. {1:NUMERICAL:=0.6666667:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.2222222:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.2839506:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R063 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 2 rojas y 6 blancas.</p>
+<p>Urna B: 4 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(2)\)</span>. {1:NUMERICAL:=0.4119048:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.2333333:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.5360317:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R064 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 2 rojas y 4 blancas.</p>
+<p>Urna B: 2 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(1)\)</span>. {1:NUMERICAL:=0.6222222:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.1111111:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.3654321:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R065 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 5 rojas y 2 blancas.</p>
+<p>Urna B: 5 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(1)\)</span>. {1:NUMERICAL:=0.3809524:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.5873016:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.2741245:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R066 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 4 rojas y 3 blancas.</p>
+<p>Urna B: 4 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(0)\)</span>. {1:NUMERICAL:=0.047619:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.447619:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.3424943:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R067 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 3 rojas y 6 blancas.</p>
+<p>Urna B: 4 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(0)\)</span>. {1:NUMERICAL:=0.1388889:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.2888889:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.4832099:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R068 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 5 rojas y 2 blancas.</p>
+<p>Urna B: 6 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(2)\)</span>. {1:NUMERICAL:=0.6349206:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.6190476:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.2675737:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R069 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 2 rojas y 5 blancas.</p>
+<p>Urna B: 5 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(2)\)</span>. {1:NUMERICAL:=0.4603175:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.3015873:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.5280927:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R070 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 5 rojas y 2 blancas.</p>
+<p>Urna B: 3 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(2)\)</span>. {1:NUMERICAL:=0.4920635:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.4761905:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.2811791:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R071 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 5 rojas y 2 blancas.</p>
+<p>Urna B: 3 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(1)\)</span>. {1:NUMERICAL:=0.4920635:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.4761905:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.2811791:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R072 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 6 rojas y 4 blancas.</p>
+<p>Urna B: 3 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(2)\)</span>. {1:NUMERICAL:=0.4444444:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.4:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.3288889:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R073 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 5 rojas y 3 blancas.</p>
+<p>Urna B: 4 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(2)\)</span>. {1:NUMERICAL:=0.5190476:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.4833333:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.3211508:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R074 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 3 rojas y 6 blancas.</p>
+<p>Urna B: 3 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(2)\)</span>. {1:NUMERICAL:=0.3611111:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.2222222:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.4506173:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R075 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 3 rojas y 6 blancas.</p>
+<p>Urna B: 4 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(0)\)</span>. {1:NUMERICAL:=0.1388889:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.2888889:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.4832099:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R076 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 6 rojas y 6 blancas.</p>
+<p>Urna B: 4 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(1)\)</span>. {1:NUMERICAL:=0.4484848:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.4:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.3915152:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R077 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 6 rojas y 5 blancas.</p>
+<p>Urna B: 4 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(2)\)</span>. {1:NUMERICAL:=0.4909091:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.430303:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.3663545:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R078 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 3 rojas y 5 blancas.</p>
+<p>Urna B: 6 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(0)\)</span>. {1:NUMERICAL:=0.1190476:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.3928571:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.4766156:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R079 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 5 rojas y 4 blancas.</p>
+<p>Urna B: 3 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(2)\)</span>. {1:NUMERICAL:=0.4259259:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.3703704:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.3443073:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R080 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 4 rojas y 6 blancas.</p>
+<p>Urna B: 6 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(2)\)</span>. {1:NUMERICAL:=0.5206349:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.4095238:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.4640363:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R081 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 5 rojas y 3 blancas.</p>
+<p>Urna B: 2 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(0)\)</span>. {1:NUMERICAL:=0.0357143:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.3055556:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.2836199:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R082 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 6 rojas y 5 blancas.</p>
+<p>Urna B: 2 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(2)\)</span>. {1:NUMERICAL:=0.3131313:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.2525253:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.3099684:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R083 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 2 rojas y 2 blancas.</p>
+<p>Urna B: 4 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(1)\)</span>. {1:NUMERICAL:=0.4888889:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.4:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.3511111:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R084 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 3 rojas y 6 blancas.</p>
+<p>Urna B: 5 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(2)\)</span>. {1:NUMERICAL:=0.4722222:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.3333333:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.5:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R085 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 4 rojas y 5 blancas.</p>
+<p>Urna B: 6 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(2)\)</span>. {1:NUMERICAL:=0.531746:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.4391534:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.4314829:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R086 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 4 rojas y 6 blancas.</p>
+<p>Urna B: 5 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(0)\)</span>. {1:NUMERICAL:=0.1111111:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.3777778:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.457284:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R087 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 4 rojas y 2 blancas.</p>
+<p>Urna B: 5 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(0)\)</span>. {1:NUMERICAL:=0.0222222:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.5555556:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.291358:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R088 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 4 rojas y 3 blancas.</p>
+<p>Urna B: 6 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(0)\)</span>. {1:NUMERICAL:=0.047619:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.5238095:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.3446712:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R089 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 4 rojas y 2 blancas.</p>
+<p>Urna B: 4 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(2)\)</span>. {1:NUMERICAL:=0.5333333:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.5111111:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.294321:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R090 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 5 rojas y 3 blancas.</p>
+<p>Urna B: 3 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(0)\)</span>. {1:NUMERICAL:=0.0357143:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.4166667:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.3144841:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R091 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 6 rojas y 6 blancas.</p>
+<p>Urna B: 2 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(2)\)</span>. {1:NUMERICAL:=0.2979798:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.2222222:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.3243547:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R092 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 3 rojas y 3 blancas.</p>
+<p>Urna B: 3 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(0)\)</span>. {1:NUMERICAL:=0.0666667:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.3333333:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.3555556:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R093 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 6 rojas y 2 blancas.</p>
+<p>Urna B: 3 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(1)\)</span>. {1:NUMERICAL:=0.4761905:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.5:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.2738095:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R094 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 4 rojas y 4 blancas.</p>
+<p>Urna B: 4 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(0)\)</span>. {1:NUMERICAL:=0.0714286:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.4:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.3828571:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R095 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 4 rojas y 2 blancas.</p>
+<p>Urna B: 4 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(2)\)</span>. {1:NUMERICAL:=0.5333333:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.5111111:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.294321:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R096 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 2 rojas y 5 blancas.</p>
+<p>Urna B: 2 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(1)\)</span>. {1:NUMERICAL:=0.6031746:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.0793651:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.3905266:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R097 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 6 rojas y 5 blancas.</p>
+<p>Urna B: 4 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(1)\)</span>. {1:NUMERICAL:=0.4484848:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.430303:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.3663545:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R098 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 5 rojas y 2 blancas.</p>
+<p>Urna B: 5 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(1)\)</span>. {1:NUMERICAL:=0.3809524:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.5873016:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.2741245:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R099 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 5 rojas y 5 blancas.</p>
+<p>Urna B: 4 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(1)\)</span>. {1:NUMERICAL:=0.4518519:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.4:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.3881481:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R100 Q1 : 13_urna_esperanza </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_EsperanzaVarianzaUrna]</strong></p>
+<p>Se tienen dos urnas con bolitas blancas y rojas.</p>
+<p>Urna A: 3 rojas y 3 blancas.</p>
+<p>Urna B: 6 rojas y 1 blancas.</p>
+<p>Se lanza un dado equilibrado de seis caras. Si sale un número múltiplo de tres, se extraen dos bolitas
+sin reposición de la Urna A y si no, se extraen dos bolitas sin reposición de la Urna B. Considerar la
+variable X definida como “cantidad de bolitas rojas extraı́das”.</p>
+<p>Calcular la <span class="math inline">\(p_X(1)\)</span>. {1:NUMERICAL:=0.3904762:0.01}</p>
+<p>Calcular la esperanza de <span class="math inline">\(X\)</span>: <span class="math inline">\(\mathbb E(X)\)</span>. {1:NUMERICAL:=1.4761905:0.01}</p>
+<p>Calcular la varianza de <span class="math inline">\(X\)</span>: <span class="math inline">\(V(X)\)</span>. {1:NUMERICAL:=0.3827664:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+</quiz>

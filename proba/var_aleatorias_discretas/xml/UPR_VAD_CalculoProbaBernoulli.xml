@@ -1,0 +1,4611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/UPR_VAD_CalculoProbaBernoulli/UPR_VAD_CalculoProbaBernoulli</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R001 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.41\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.59\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(0, 1, 1, 0, 0, 0, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0084</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R002 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.76\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.24\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 0, 1, 1, 1, 1, 0, 1, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0084</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R003 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.75\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.25\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(0, 1, 0, 1, 1, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0198</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R004 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.32\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.68\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 1, 0, 0, 1, 1, 0, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0033</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R005 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.67\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.33\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 1, 1, 0, 0, 1, 1, 0, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0033</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R006 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.48\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.52\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(0, 0, 1, 1, 0, 1, 0, 0, 0, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0022</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R007 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.69\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.31\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 1, 1, 1, 1, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.1079</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R008 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.32\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.68\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 0, 0, 0, 0, 0, 0, 1, 0, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0069</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R009 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.78\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.22\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 1, 1, 1, 1, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.2252</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R010 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.56\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.44\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(0, 0, 0, 1, 1, 1, 0, 0, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0029</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R011 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.49\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.51\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(0, 0, 1, 1, 0, 1, 1, 1, 0, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0019</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R012 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.64\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.36\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 0, 1, 1, 0, 1, 1, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0089</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R013 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.77\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.23\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 1, 1, 1, 1, 1, 0, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0479</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R014 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.33\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.67\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(0, 0, 0, 0, 1, 0, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0446</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R015 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.39\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.61\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(0, 1, 1, 1, 0, 0, 1, 0, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0032</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R016 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.33\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.67\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(0, 0, 0, 1, 0, 0, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0446</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R017 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.7\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.3\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 1, 1, 1, 0, 1, 1, 1, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0173</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R018 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.53\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.47\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(0, 1, 0, 0, 0, 1, 1, 0, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0034</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R019 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.51\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.49\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(0, 0, 0, 0, 0, 0, 1, 0, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0035</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R020 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.54\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.46\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 0, 1, 1, 1, 1, 0, 0, 0, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0021</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R021 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.49\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.51\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 0, 0, 1, 0, 0, 1, 1, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0019</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R022 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.4\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.6\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(0, 0, 1, 0, 1, 1, 0, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0033</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R023 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.43\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.57\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 1, 0, 0, 0, 0, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0084</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R024 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.69\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.31\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 0, 1, 1, 1, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0485</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R025 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.35\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.65\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(0, 1, 1, 0, 0, 0, 0, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0142</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R026 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.65\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.35\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 1, 1, 1, 0, 1, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0264</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R027 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.45\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.55\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(0, 1, 0, 1, 0, 0, 0, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0102</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R028 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.64\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.36\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(0, 1, 1, 1, 0, 1, 1, 0, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0032</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R029 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.57\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.43\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(0, 1, 1, 0, 0, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0147</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R030 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.69\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.31\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(0, 1, 1, 0, 1, 0, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0098</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R031 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.52\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.48\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 0, 0, 1, 1, 0, 1, 0, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.002</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R032 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.43\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.57\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(0, 0, 1, 0, 1, 0, 1, 0, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0048</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R033 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.47\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.53\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(0, 1, 1, 0, 0, 1, 1, 0, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0039</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R034 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.74\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.26\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 1, 0, 1, 1, 1, 0, 1, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0082</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R035 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.66\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.34\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 1, 1, 1, 1, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0827</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R036 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.6\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.4\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 1, 1, 1, 0, 1, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0187</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R037 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.6\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.4\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(0, 0, 1, 1, 1, 1, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0124</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R038 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.37\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.63\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(0, 0, 1, 1, 0, 0, 1, 0, 0, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0032</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R039 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.71\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.29\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 1, 1, 1, 1, 1, 0, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0371</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R040 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.37\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.63\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 0, 0, 1, 0, 0, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0216</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R041 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.66\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.34\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(0, 1, 0, 1, 1, 1, 1, 0, 0, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0017</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R042 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.63\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.37\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 1, 1, 1, 1, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0625</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R043 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.73\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.27\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 1, 1, 1, 1, 1, 1, 0, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0218</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R044 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.68\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.32\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 1, 0, 0, 1, 0, 1, 0, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0022</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R045 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.58\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.42\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(0, 0, 1, 0, 0, 1, 0, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0025</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R046 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.4\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.6\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 1, 0, 1, 0, 0, 1, 0, 0, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.002</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R047 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.58\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.42\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 1, 0, 1, 1, 0, 0, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0084</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R048 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.78\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.22\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(0, 0, 1, 0, 1, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0051</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R049 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.45\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.55\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(0, 1, 0, 0, 1, 0, 0, 0, 0, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0031</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R050 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.67\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.33\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 1, 0, 0, 0, 1, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0072</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R051 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.56\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.44\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 0, 1, 1, 0, 0, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0084</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R052 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.7\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.3\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 1, 1, 1, 0, 1, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0353</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R053 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.36\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.64\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(0, 0, 1, 0, 1, 0, 0, 0, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0089</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R054 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.4\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.6\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 0, 1, 0, 0, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0138</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R055 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.65\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.35\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 1, 0, 1, 1, 1, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0264</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R056 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.67\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.33\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 1, 1, 1, 0, 0, 0, 1, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0033</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R057 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.36\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.64\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(0, 0, 0, 0, 0, 0, 1, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0089</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R058 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.67\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.33\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 1, 1, 0, 0, 0, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0072</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R059 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.67\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.33\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 1, 1, 1, 0, 0, 1, 0, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0033</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R060 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.78\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.22\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 1, 1, 1, 1, 1, 1, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.137</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R061 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.79\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.21\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(0, 1, 1, 1, 0, 1, 1, 1, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0085</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R062 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.33\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.67\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 0, 0, 1, 1, 0, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0108</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R063 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.31\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.69\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(0, 1, 0, 0, 0, 0, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0485</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R064 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.44\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.56\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(0, 0, 1, 0, 0, 0, 0, 0, 0, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0043</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R065 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.77\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.23\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 1, 1, 1, 1, 1, 1, 1, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0952</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R066 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.51\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.49\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(0, 0, 0, 0, 0, 1, 0, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0071</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R067 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.68\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.32\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 1, 0, 0, 1, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0219</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R068 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.3\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.7\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(0, 1, 0, 1, 0, 0, 0, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0151</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R069 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.56\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.44\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(0, 1, 1, 1, 0, 0, 0, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0066</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R070 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.69\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.31\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 1, 1, 0, 1, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0485</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R071 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.56\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.44\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 1, 0, 0, 1, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.019</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R072 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.63\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.37\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 0, 0, 0, 1, 0, 1, 1, 0, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0011</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R073 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.49\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.51\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(0, 0, 1, 1, 0, 1, 0, 1, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0019</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R074 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.74\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.26\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(0, 1, 0, 1, 1, 0, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0053</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R075 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.49\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.51\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 1, 1, 0, 1, 0, 0, 0, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0019</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R076 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.63\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.37\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 0, 1, 0, 1, 0, 1, 1, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0032</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R077 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.53\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.47\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 0, 0, 1, 1, 0, 0, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0073</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R078 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.48\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.52\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 0, 0, 0, 0, 0, 0, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0095</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R079 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.58\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.42\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(0, 0, 1, 1, 1, 1, 0, 0, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.002</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R080 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.65\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.35\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 1, 0, 1, 1, 1, 0, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0092</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R081 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.32\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.68\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 0, 0, 0, 1, 0, 1, 0, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0015</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R082 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.69\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.31\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 1, 1, 0, 1, 1, 1, 0, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0104</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R083 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.73\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.27\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 1, 1, 1, 1, 1, 1, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0806</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R084 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.77\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.23\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 1, 1, 0, 0, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0186</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R085 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.34\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.66\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 0, 0, 0, 1, 0, 0, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0145</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R086 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.54\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.46\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 1, 0, 0, 1, 1, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0097</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R087 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.52\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.48\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(0, 1, 1, 1, 0, 1, 0, 1, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0022</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R088 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.74\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.26\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 1, 1, 1, 1, 1, 1, 1, 0, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0234</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R089 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.34\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.66\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(0, 1, 0, 0, 0, 1, 0, 0, 0, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0063</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R090 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.56\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.44\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 0, 0, 1, 1, 1, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0107</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R091 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.63\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.37\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(0, 1, 1, 1, 0, 0, 1, 0, 0, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0011</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R092 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.37\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.63\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(0, 0, 0, 1, 0, 0, 0, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0231</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R093 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.65\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.35\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(0, 0, 0, 0, 0, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0034</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R094 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.67\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.33\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 0, 1, 1, 0, 1, 1, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0099</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R095 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.34\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.66\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 1, 0, 0, 0, 0, 0, 0, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0096</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R096 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.45\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.55\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(0, 0, 0, 1, 1, 1, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0152</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R097 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.61\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.39\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(0, 1, 1, 1, 1, 1, 1, 1, 0, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0048</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R098 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.58\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.42\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(0, 1, 1, 1, 1, 0, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.02</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R099 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.43\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.57\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(1, 0, 1, 1, 0, 1, 1, 0, 0, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0016</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R100 Q1 : 2_tira_bernoulli </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAD_CalculoProbaBernoulli]</strong></p>
+<p>Consideremos una sucesión de repeticiones independientes de un
+experimento con dos posibles resultados: éxito, con probabilidad
+<span class="math inline">\(p=0.56\)</span> y fracaso con probabilidad <span class="math inline">\(1-p=0.44\)</span>.
+Utilizaremos el número <span class="math inline">\(1\)</span> para representar los éxitos y el <span class="math inline">\(0\)</span> para los fracasos.</p>
+<p>La probabilidad de observar los resultados <span class="math inline">\(0, 0, 1, 0, 1, 1, 0, 0\)</span> es</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0066</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+</quiz>
