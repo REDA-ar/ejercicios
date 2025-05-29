@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/UPR_VA_BinomialCondicionalCalculos/UPR_VA_BinomialCondicionalCalculos</text>
+</category>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R01 Q1 : 1_binomial_condicional </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VA_BinomialCondicionalCalculos]</strong></p>
+<p>Sean <span class="math inline">\(X\sim U(0, 5)\)</span>, <span class="math inline">\(Y|X=x \sim B(8, x/6)\)</span>.</p>
+<p>Calcular <span class="math inline">\(\mathbb{P}(Y= 5 |X=4.6)\)</span>. {1:NUMERICAL:=0.1884305:0.001}</p>
+<p>Calcular <span class="math inline">\(E(Y)\)</span>. {1:NUMERICAL:=3.3333333:0.001}</p>
+<p>Calcular <span class="math inline">\(V(Y)\)</span>. {1:NUMERICAL:=5.1851852:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R02 Q1 : 1_binomial_condicional </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VA_BinomialCondicionalCalculos]</strong></p>
+<p>Sean <span class="math inline">\(X\sim U(0, 2)\)</span>, <span class="math inline">\(Y|X=x \sim B(12, x/3)\)</span>.</p>
+<p>Calcular <span class="math inline">\(\mathbb{P}(Y= 7 |X=1.5)\)</span>. {1:NUMERICAL:=0.1933594:0.001}</p>
+<p>Calcular <span class="math inline">\(E(Y)\)</span>. {1:NUMERICAL:=4:0.001}</p>
+<p>Calcular <span class="math inline">\(V(Y)\)</span>. {1:NUMERICAL:=7.5555556:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R03 Q1 : 1_binomial_condicional </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VA_BinomialCondicionalCalculos]</strong></p>
+<p>Sean <span class="math inline">\(X\sim U(0, 8)\)</span>, <span class="math inline">\(Y|X=x \sim B(7, x/9)\)</span>.</p>
+<p>Calcular <span class="math inline">\(\mathbb{P}(Y= 4 |X=7.4)\)</span>. {1:NUMERICAL:=0.0898788:0.001}</p>
+<p>Calcular <span class="math inline">\(E(Y)\)</span>. {1:NUMERICAL:=3.1111111:0.001}</p>
+<p>Calcular <span class="math inline">\(V(Y)\)</span>. {1:NUMERICAL:=4.4938272:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R04 Q1 : 1_binomial_condicional </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VA_BinomialCondicionalCalculos]</strong></p>
+<p>Sean <span class="math inline">\(X\sim U(0, 4)\)</span>, <span class="math inline">\(Y|X=x \sim B(8, x/5)\)</span>.</p>
+<p>Calcular <span class="math inline">\(\mathbb{P}(Y= 4 |X=2.6)\)</span>. {1:NUMERICAL:=0.2716917:0.001}</p>
+<p>Calcular <span class="math inline">\(E(Y)\)</span>. {1:NUMERICAL:=3.2:0.001}</p>
+<p>Calcular <span class="math inline">\(V(Y)\)</span>. {1:NUMERICAL:=4.9066667:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R05 Q1 : 1_binomial_condicional </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VA_BinomialCondicionalCalculos]</strong></p>
+<p>Sean <span class="math inline">\(X\sim U(0, 7)\)</span>, <span class="math inline">\(Y|X=x \sim B(6, x/8)\)</span>.</p>
+<p>Calcular <span class="math inline">\(\mathbb{P}(Y= 3 |X=2.4)\)</span>. {1:NUMERICAL:=0.18522:0.001}</p>
+<p>Calcular <span class="math inline">\(E(Y)\)</span>. {1:NUMERICAL:=2.625:0.001}</p>
+<p>Calcular <span class="math inline">\(V(Y)\)</span>. {1:NUMERICAL:=3.390625:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R06 Q1 : 1_binomial_condicional </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VA_BinomialCondicionalCalculos]</strong></p>
+<p>Sean <span class="math inline">\(X\sim U(0, 5)\)</span>, <span class="math inline">\(Y|X=x \sim B(6, x/6)\)</span>.</p>
+<p>Calcular <span class="math inline">\(\mathbb{P}(Y= 3 |X=2)\)</span>. {1:NUMERICAL:=0.2194787:0.001}</p>
+<p>Calcular <span class="math inline">\(E(Y)\)</span>. {1:NUMERICAL:=2.5:0.001}</p>
+<p>Calcular <span class="math inline">\(V(Y)\)</span>. {1:NUMERICAL:=3.1944444:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R07 Q1 : 1_binomial_condicional </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VA_BinomialCondicionalCalculos]</strong></p>
+<p>Sean <span class="math inline">\(X\sim U(0, 6)\)</span>, <span class="math inline">\(Y|X=x \sim B(11, x/7)\)</span>.</p>
+<p>Calcular <span class="math inline">\(\mathbb{P}(Y= 7 |X=5.8)\)</span>. {1:NUMERICAL:=0.0764111:0.001}</p>
+<p>Calcular <span class="math inline">\(E(Y)\)</span>. {1:NUMERICAL:=4.7142857:0.001}</p>
+<p>Calcular <span class="math inline">\(V(Y)\)</span>. {1:NUMERICAL:=9.4285714:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R08 Q1 : 1_binomial_condicional </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VA_BinomialCondicionalCalculos]</strong></p>
+<p>Sean <span class="math inline">\(X\sim U(0, 5)\)</span>, <span class="math inline">\(Y|X=x \sim B(6, x/6)\)</span>.</p>
+<p>Calcular <span class="math inline">\(\mathbb{P}(Y= 3 |X=1.6)\)</span>. {1:NUMERICAL:=0.1495686:0.001}</p>
+<p>Calcular <span class="math inline">\(E(Y)\)</span>. {1:NUMERICAL:=2.5:0.001}</p>
+<p>Calcular <span class="math inline">\(V(Y)\)</span>. {1:NUMERICAL:=3.1944444:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R09 Q1 : 1_binomial_condicional </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VA_BinomialCondicionalCalculos]</strong></p>
+<p>Sean <span class="math inline">\(X\sim U(0, 8)\)</span>, <span class="math inline">\(Y|X=x \sim B(5, x/9)\)</span>.</p>
+<p>Calcular <span class="math inline">\(\mathbb{P}(Y= 3 |X=7.8)\)</span>. {1:NUMERICAL:=0.1157267:0.001}</p>
+<p>Calcular <span class="math inline">\(E(Y)\)</span>. {1:NUMERICAL:=2.2222222:0.001}</p>
+<p>Calcular <span class="math inline">\(V(Y)\)</span>. {1:NUMERICAL:=2.5514403:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R10 Q1 : 1_binomial_condicional </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VA_BinomialCondicionalCalculos]</strong></p>
+<p>Sean <span class="math inline">\(X\sim U(0, 3)\)</span>, <span class="math inline">\(Y|X=x \sim B(9, x/4)\)</span>.</p>
+<p>Calcular <span class="math inline">\(\mathbb{P}(Y= 5 |X=2.1)\)</span>. {1:NUMERICAL:=0.2558241:0.001}</p>
+<p>Calcular <span class="math inline">\(E(Y)\)</span>. {1:NUMERICAL:=3.375:0.001}</p>
+<p>Calcular <span class="math inline">\(V(Y)\)</span>. {1:NUMERICAL:=5.484375:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+</quiz>
