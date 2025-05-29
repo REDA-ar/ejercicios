@@ -1,0 +1,4411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/UPR_VAC_TiroAlBlanco/UPR_VAC_TiroAlBlanco</text>
+</category>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R001 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/400\)</span>, para <span class="math inline">\(t\in (0,20)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(5\)</span> cm. del blanco. {1:NUMERICAL:=0.0625:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(5\)</span> y <span class="math inline">\(19\)</span> unidades del blanco. {1:NUMERICAL:=0.84:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=13.3333:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=22.2231:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.85\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=18.4391:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R002 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/225\)</span>, para <span class="math inline">\(t\in (0,15)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(3\)</span> cm. del blanco. {1:NUMERICAL:=0.04:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(3\)</span> y <span class="math inline">\(14\)</span> unidades del blanco. {1:NUMERICAL:=0.8311:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=10:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=12.5:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.8\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=13.4164:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R003 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/289\)</span>, para <span class="math inline">\(t\in (0,17)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(1\)</span> cm. del blanco. {1:NUMERICAL:=0.0035:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(1\)</span> y <span class="math inline">\(16\)</span> unidades del blanco. {1:NUMERICAL:=0.8824:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=11.3333:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=16.0563:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.85\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=15.6732:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R004 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/400\)</span>, para <span class="math inline">\(t\in (0,20)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(8\)</span> cm. del blanco. {1:NUMERICAL:=0.16:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(8\)</span> y <span class="math inline">\(19\)</span> unidades del blanco. {1:NUMERICAL:=0.7425:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=13.3333:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=22.2231:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.9\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=18.9737:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R005 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/169\)</span>, para <span class="math inline">\(t\in (0,13)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(8\)</span> cm. del blanco. {1:NUMERICAL:=0.3787:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(8\)</span> y <span class="math inline">\(12\)</span> unidades del blanco. {1:NUMERICAL:=0.4734:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=8.6667:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=9.3883:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.9\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=12.3329:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R006 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/121\)</span>, para <span class="math inline">\(t\in (0,11)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(3\)</span> cm. del blanco. {1:NUMERICAL:=0.0744:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(3\)</span> y <span class="math inline">\(10\)</span> unidades del blanco. {1:NUMERICAL:=0.7521:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=7.3333:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=6.7227:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.8\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=9.8387:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R007 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/256\)</span>, para <span class="math inline">\(t\in (0,16)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(8\)</span> cm. del blanco. {1:NUMERICAL:=0.25:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(8\)</span> y <span class="math inline">\(15\)</span> unidades del blanco. {1:NUMERICAL:=0.6289:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=10.6667:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=14.2215:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.9\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=15.1789:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R008 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/324\)</span>, para <span class="math inline">\(t\in (0,18)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(5\)</span> cm. del blanco. {1:NUMERICAL:=0.0772:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(5\)</span> y <span class="math inline">\(17\)</span> unidades del blanco. {1:NUMERICAL:=0.8148:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=12:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=18:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.8\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=16.0997:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R009 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/169\)</span>, para <span class="math inline">\(t\in (0,13)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(3\)</span> cm. del blanco. {1:NUMERICAL:=0.0533:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(3\)</span> y <span class="math inline">\(12\)</span> unidades del blanco. {1:NUMERICAL:=0.7988:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=8.6667:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=9.3883:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.8\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=11.6276:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R010 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/100\)</span>, para <span class="math inline">\(t\in (0,10)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(8\)</span> cm. del blanco. {1:NUMERICAL:=0.64:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(8\)</span> y <span class="math inline">\(9\)</span> unidades del blanco. {1:NUMERICAL:=0.17:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=6.6667:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=5.5551:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.8\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=8.9443:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R011 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/361\)</span>, para <span class="math inline">\(t\in (0,19)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(4\)</span> cm. del blanco. {1:NUMERICAL:=0.0443:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(4\)</span> y <span class="math inline">\(18\)</span> unidades del blanco. {1:NUMERICAL:=0.8532:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=12.6667:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=20.0547:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.75\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=16.4545:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R012 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/289\)</span>, para <span class="math inline">\(t\in (0,17)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(8\)</span> cm. del blanco. {1:NUMERICAL:=0.2215:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(8\)</span> y <span class="math inline">\(16\)</span> unidades del blanco. {1:NUMERICAL:=0.6644:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=11.3333:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=16.0563:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.75\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=14.7224:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R013 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/100\)</span>, para <span class="math inline">\(t\in (0,10)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(7\)</span> cm. del blanco. {1:NUMERICAL:=0.49:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(7\)</span> y <span class="math inline">\(9\)</span> unidades del blanco. {1:NUMERICAL:=0.32:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=6.6667:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=5.5551:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.75\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=8.6603:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R014 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/169\)</span>, para <span class="math inline">\(t\in (0,13)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(1\)</span> cm. del blanco. {1:NUMERICAL:=0.0059:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(1\)</span> y <span class="math inline">\(12\)</span> unidades del blanco. {1:NUMERICAL:=0.8462:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=8.6667:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=9.3883:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.8\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=11.6276:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R015 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/225\)</span>, para <span class="math inline">\(t\in (0,15)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(6\)</span> cm. del blanco. {1:NUMERICAL:=0.16:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(6\)</span> y <span class="math inline">\(14\)</span> unidades del blanco. {1:NUMERICAL:=0.7111:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=10:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=12.5:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.75\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=12.9904:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R016 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/324\)</span>, para <span class="math inline">\(t\in (0,18)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(3\)</span> cm. del blanco. {1:NUMERICAL:=0.0278:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(3\)</span> y <span class="math inline">\(17\)</span> unidades del blanco. {1:NUMERICAL:=0.8642:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=12:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=18:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.8\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=16.0997:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R017 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/289\)</span>, para <span class="math inline">\(t\in (0,17)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(2\)</span> cm. del blanco. {1:NUMERICAL:=0.0138:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(2\)</span> y <span class="math inline">\(16\)</span> unidades del blanco. {1:NUMERICAL:=0.872:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=11.3333:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=16.0563:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.85\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=15.6732:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R018 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/361\)</span>, para <span class="math inline">\(t\in (0,19)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(5\)</span> cm. del blanco. {1:NUMERICAL:=0.0693:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(5\)</span> y <span class="math inline">\(18\)</span> unidades del blanco. {1:NUMERICAL:=0.8283:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=12.6667:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=20.0547:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.7\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=15.8965:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R019 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/256\)</span>, para <span class="math inline">\(t\in (0,16)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(4\)</span> cm. del blanco. {1:NUMERICAL:=0.0625:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(4\)</span> y <span class="math inline">\(15\)</span> unidades del blanco. {1:NUMERICAL:=0.8164:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=10.6667:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=14.2215:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.9\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=15.1789:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R020 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/100\)</span>, para <span class="math inline">\(t\in (0,10)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(3\)</span> cm. del blanco. {1:NUMERICAL:=0.09:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(3\)</span> y <span class="math inline">\(9\)</span> unidades del blanco. {1:NUMERICAL:=0.72:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=6.6667:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=5.5551:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.75\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=8.6603:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R021 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/256\)</span>, para <span class="math inline">\(t\in (0,16)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(4\)</span> cm. del blanco. {1:NUMERICAL:=0.0625:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(4\)</span> y <span class="math inline">\(15\)</span> unidades del blanco. {1:NUMERICAL:=0.8164:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=10.6667:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=14.2215:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.9\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=15.1789:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R022 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/324\)</span>, para <span class="math inline">\(t\in (0,18)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(7\)</span> cm. del blanco. {1:NUMERICAL:=0.1512:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(7\)</span> y <span class="math inline">\(17\)</span> unidades del blanco. {1:NUMERICAL:=0.7407:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=12:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=18:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.7\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=15.0599:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R023 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/144\)</span>, para <span class="math inline">\(t\in (0,12)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(6\)</span> cm. del blanco. {1:NUMERICAL:=0.25:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(6\)</span> y <span class="math inline">\(11\)</span> unidades del blanco. {1:NUMERICAL:=0.5903:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=8:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=8:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.9\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=11.3842:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R024 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/256\)</span>, para <span class="math inline">\(t\in (0,16)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(5\)</span> cm. del blanco. {1:NUMERICAL:=0.0977:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(5\)</span> y <span class="math inline">\(15\)</span> unidades del blanco. {1:NUMERICAL:=0.7812:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=10.6667:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=14.2215:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.8\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=14.3108:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R025 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/169\)</span>, para <span class="math inline">\(t\in (0,13)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(6\)</span> cm. del blanco. {1:NUMERICAL:=0.213:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(6\)</span> y <span class="math inline">\(12\)</span> unidades del blanco. {1:NUMERICAL:=0.6391:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=8.6667:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=9.3883:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.7\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=10.8766:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R026 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/100\)</span>, para <span class="math inline">\(t\in (0,10)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(8\)</span> cm. del blanco. {1:NUMERICAL:=0.64:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(8\)</span> y <span class="math inline">\(9\)</span> unidades del blanco. {1:NUMERICAL:=0.17:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=6.6667:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=5.5551:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.7\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=8.3666:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R027 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/144\)</span>, para <span class="math inline">\(t\in (0,12)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(1\)</span> cm. del blanco. {1:NUMERICAL:=0.0069:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(1\)</span> y <span class="math inline">\(11\)</span> unidades del blanco. {1:NUMERICAL:=0.8333:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=8:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=8:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.8\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=10.7331:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R028 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/400\)</span>, para <span class="math inline">\(t\in (0,20)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(4\)</span> cm. del blanco. {1:NUMERICAL:=0.04:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(4\)</span> y <span class="math inline">\(19\)</span> unidades del blanco. {1:NUMERICAL:=0.8625:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=13.3333:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=22.2231:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.75\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=17.3205:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R029 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/144\)</span>, para <span class="math inline">\(t\in (0,12)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(8\)</span> cm. del blanco. {1:NUMERICAL:=0.4444:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(8\)</span> y <span class="math inline">\(11\)</span> unidades del blanco. {1:NUMERICAL:=0.3958:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=8:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=8:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.8\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=10.7331:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R030 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/361\)</span>, para <span class="math inline">\(t\in (0,19)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(7\)</span> cm. del blanco. {1:NUMERICAL:=0.1357:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(7\)</span> y <span class="math inline">\(18\)</span> unidades del blanco. {1:NUMERICAL:=0.7618:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=12.6667:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=20.0547:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.9\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=18.025:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R031 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/169\)</span>, para <span class="math inline">\(t\in (0,13)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(8\)</span> cm. del blanco. {1:NUMERICAL:=0.3787:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(8\)</span> y <span class="math inline">\(12\)</span> unidades del blanco. {1:NUMERICAL:=0.4734:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=8.6667:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=9.3883:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.75\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=11.2583:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R032 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/144\)</span>, para <span class="math inline">\(t\in (0,12)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(4\)</span> cm. del blanco. {1:NUMERICAL:=0.1111:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(4\)</span> y <span class="math inline">\(11\)</span> unidades del blanco. {1:NUMERICAL:=0.7292:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=8:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=8:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.85\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=11.0635:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R033 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/256\)</span>, para <span class="math inline">\(t\in (0,16)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(1\)</span> cm. del blanco. {1:NUMERICAL:=0.0039:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(1\)</span> y <span class="math inline">\(15\)</span> unidades del blanco. {1:NUMERICAL:=0.875:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=10.6667:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=14.2215:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.8\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=14.3108:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R034 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/256\)</span>, para <span class="math inline">\(t\in (0,16)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(2\)</span> cm. del blanco. {1:NUMERICAL:=0.0156:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(2\)</span> y <span class="math inline">\(15\)</span> unidades del blanco. {1:NUMERICAL:=0.8633:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=10.6667:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=14.2215:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.75\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=13.8564:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R035 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/400\)</span>, para <span class="math inline">\(t\in (0,20)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(2\)</span> cm. del blanco. {1:NUMERICAL:=0.01:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(2\)</span> y <span class="math inline">\(19\)</span> unidades del blanco. {1:NUMERICAL:=0.8925:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=13.3333:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=22.2231:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.8\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=17.8885:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R036 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/169\)</span>, para <span class="math inline">\(t\in (0,13)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(6\)</span> cm. del blanco. {1:NUMERICAL:=0.213:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(6\)</span> y <span class="math inline">\(12\)</span> unidades del blanco. {1:NUMERICAL:=0.6391:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=8.6667:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=9.3883:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.8\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=11.6276:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R037 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/361\)</span>, para <span class="math inline">\(t\in (0,19)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(8\)</span> cm. del blanco. {1:NUMERICAL:=0.1773:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(8\)</span> y <span class="math inline">\(18\)</span> unidades del blanco. {1:NUMERICAL:=0.7202:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=12.6667:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=20.0547:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.8\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=16.9941:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R038 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/196\)</span>, para <span class="math inline">\(t\in (0,14)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(8\)</span> cm. del blanco. {1:NUMERICAL:=0.3265:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(8\)</span> y <span class="math inline">\(13\)</span> unidades del blanco. {1:NUMERICAL:=0.5357:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=9.3333:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=10.8895:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.8\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=12.522:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R039 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/361\)</span>, para <span class="math inline">\(t\in (0,19)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(6\)</span> cm. del blanco. {1:NUMERICAL:=0.0997:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(6\)</span> y <span class="math inline">\(18\)</span> unidades del blanco. {1:NUMERICAL:=0.7978:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=12.6667:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=20.0547:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.9\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=18.025:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R040 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/196\)</span>, para <span class="math inline">\(t\in (0,14)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(8\)</span> cm. del blanco. {1:NUMERICAL:=0.3265:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(8\)</span> y <span class="math inline">\(13\)</span> unidades del blanco. {1:NUMERICAL:=0.5357:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=9.3333:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=10.8895:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.85\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=12.9074:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R041 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/361\)</span>, para <span class="math inline">\(t\in (0,19)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(1\)</span> cm. del blanco. {1:NUMERICAL:=0.0028:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(1\)</span> y <span class="math inline">\(18\)</span> unidades del blanco. {1:NUMERICAL:=0.8947:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=12.6667:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=20.0547:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.75\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=16.4545:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R042 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/196\)</span>, para <span class="math inline">\(t\in (0,14)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(3\)</span> cm. del blanco. {1:NUMERICAL:=0.0459:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(3\)</span> y <span class="math inline">\(13\)</span> unidades del blanco. {1:NUMERICAL:=0.8163:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=9.3333:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=10.8895:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.9\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=13.2816:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R043 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/196\)</span>, para <span class="math inline">\(t\in (0,14)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(3\)</span> cm. del blanco. {1:NUMERICAL:=0.0459:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(3\)</span> y <span class="math inline">\(13\)</span> unidades del blanco. {1:NUMERICAL:=0.8163:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=9.3333:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=10.8895:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.7\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=11.7132:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R044 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/169\)</span>, para <span class="math inline">\(t\in (0,13)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(3\)</span> cm. del blanco. {1:NUMERICAL:=0.0533:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(3\)</span> y <span class="math inline">\(12\)</span> unidades del blanco. {1:NUMERICAL:=0.7988:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=8.6667:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=9.3883:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.75\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=11.2583:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R045 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/196\)</span>, para <span class="math inline">\(t\in (0,14)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(8\)</span> cm. del blanco. {1:NUMERICAL:=0.3265:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(8\)</span> y <span class="math inline">\(13\)</span> unidades del blanco. {1:NUMERICAL:=0.5357:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=9.3333:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=10.8895:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.9\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=13.2816:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R046 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/100\)</span>, para <span class="math inline">\(t\in (0,10)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(3\)</span> cm. del blanco. {1:NUMERICAL:=0.09:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(3\)</span> y <span class="math inline">\(9\)</span> unidades del blanco. {1:NUMERICAL:=0.72:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=6.6667:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=5.5551:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.7\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=8.3666:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R047 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/121\)</span>, para <span class="math inline">\(t\in (0,11)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(5\)</span> cm. del blanco. {1:NUMERICAL:=0.2066:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(5\)</span> y <span class="math inline">\(10\)</span> unidades del blanco. {1:NUMERICAL:=0.6198:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=7.3333:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=6.7227:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.85\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=10.1415:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R048 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/121\)</span>, para <span class="math inline">\(t\in (0,11)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(4\)</span> cm. del blanco. {1:NUMERICAL:=0.1322:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(4\)</span> y <span class="math inline">\(10\)</span> unidades del blanco. {1:NUMERICAL:=0.6942:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=7.3333:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=6.7227:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.9\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=10.4355:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R049 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/144\)</span>, para <span class="math inline">\(t\in (0,12)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(8\)</span> cm. del blanco. {1:NUMERICAL:=0.4444:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(8\)</span> y <span class="math inline">\(11\)</span> unidades del blanco. {1:NUMERICAL:=0.3958:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=8:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=8:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.85\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=11.0635:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R050 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/196\)</span>, para <span class="math inline">\(t\in (0,14)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(6\)</span> cm. del blanco. {1:NUMERICAL:=0.1837:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(6\)</span> y <span class="math inline">\(13\)</span> unidades del blanco. {1:NUMERICAL:=0.6786:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=9.3333:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=10.8895:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.8\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=12.522:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R051 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/144\)</span>, para <span class="math inline">\(t\in (0,12)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(1\)</span> cm. del blanco. {1:NUMERICAL:=0.0069:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(1\)</span> y <span class="math inline">\(11\)</span> unidades del blanco. {1:NUMERICAL:=0.8333:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=8:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=8:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.75\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=10.3923:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R052 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/324\)</span>, para <span class="math inline">\(t\in (0,18)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(6\)</span> cm. del blanco. {1:NUMERICAL:=0.1111:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(6\)</span> y <span class="math inline">\(17\)</span> unidades del blanco. {1:NUMERICAL:=0.7809:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=12:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=18:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.85\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=16.5952:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R053 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/289\)</span>, para <span class="math inline">\(t\in (0,17)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(4\)</span> cm. del blanco. {1:NUMERICAL:=0.0554:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(4\)</span> y <span class="math inline">\(16\)</span> unidades del blanco. {1:NUMERICAL:=0.8304:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=11.3333:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=16.0563:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.85\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=15.6732:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R054 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/169\)</span>, para <span class="math inline">\(t\in (0,13)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(1\)</span> cm. del blanco. {1:NUMERICAL:=0.0059:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(1\)</span> y <span class="math inline">\(12\)</span> unidades del blanco. {1:NUMERICAL:=0.8462:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=8.6667:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=9.3883:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.8\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=11.6276:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R055 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/361\)</span>, para <span class="math inline">\(t\in (0,19)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(1\)</span> cm. del blanco. {1:NUMERICAL:=0.0028:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(1\)</span> y <span class="math inline">\(18\)</span> unidades del blanco. {1:NUMERICAL:=0.8947:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=12.6667:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=20.0547:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.7\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=15.8965:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R056 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/256\)</span>, para <span class="math inline">\(t\in (0,16)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(1\)</span> cm. del blanco. {1:NUMERICAL:=0.0039:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(1\)</span> y <span class="math inline">\(15\)</span> unidades del blanco. {1:NUMERICAL:=0.875:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=10.6667:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=14.2215:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.9\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=15.1789:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R057 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/361\)</span>, para <span class="math inline">\(t\in (0,19)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(5\)</span> cm. del blanco. {1:NUMERICAL:=0.0693:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(5\)</span> y <span class="math inline">\(18\)</span> unidades del blanco. {1:NUMERICAL:=0.8283:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=12.6667:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=20.0547:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.75\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=16.4545:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R058 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/121\)</span>, para <span class="math inline">\(t\in (0,11)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(3\)</span> cm. del blanco. {1:NUMERICAL:=0.0744:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(3\)</span> y <span class="math inline">\(10\)</span> unidades del blanco. {1:NUMERICAL:=0.7521:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=7.3333:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=6.7227:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.75\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=9.5263:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R059 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/100\)</span>, para <span class="math inline">\(t\in (0,10)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(7\)</span> cm. del blanco. {1:NUMERICAL:=0.49:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(7\)</span> y <span class="math inline">\(9\)</span> unidades del blanco. {1:NUMERICAL:=0.32:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=6.6667:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=5.5551:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.7\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=8.3666:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R060 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/289\)</span>, para <span class="math inline">\(t\in (0,17)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(3\)</span> cm. del blanco. {1:NUMERICAL:=0.0311:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(3\)</span> y <span class="math inline">\(16\)</span> unidades del blanco. {1:NUMERICAL:=0.8547:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=11.3333:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=16.0563:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.9\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=16.1276:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R061 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/256\)</span>, para <span class="math inline">\(t\in (0,16)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(1\)</span> cm. del blanco. {1:NUMERICAL:=0.0039:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(1\)</span> y <span class="math inline">\(15\)</span> unidades del blanco. {1:NUMERICAL:=0.875:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=10.6667:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=14.2215:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.9\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=15.1789:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R062 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/100\)</span>, para <span class="math inline">\(t\in (0,10)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(7\)</span> cm. del blanco. {1:NUMERICAL:=0.49:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(7\)</span> y <span class="math inline">\(9\)</span> unidades del blanco. {1:NUMERICAL:=0.32:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=6.6667:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=5.5551:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.9\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=9.4868:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R063 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/100\)</span>, para <span class="math inline">\(t\in (0,10)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(5\)</span> cm. del blanco. {1:NUMERICAL:=0.25:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(5\)</span> y <span class="math inline">\(9\)</span> unidades del blanco. {1:NUMERICAL:=0.56:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=6.6667:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=5.5551:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.9\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=9.4868:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R064 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/144\)</span>, para <span class="math inline">\(t\in (0,12)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(5\)</span> cm. del blanco. {1:NUMERICAL:=0.1736:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(5\)</span> y <span class="math inline">\(11\)</span> unidades del blanco. {1:NUMERICAL:=0.6667:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=8:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=8:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.7\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=10.0399:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R065 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/121\)</span>, para <span class="math inline">\(t\in (0,11)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(5\)</span> cm. del blanco. {1:NUMERICAL:=0.2066:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(5\)</span> y <span class="math inline">\(10\)</span> unidades del blanco. {1:NUMERICAL:=0.6198:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=7.3333:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=6.7227:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.85\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=10.1415:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R066 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/121\)</span>, para <span class="math inline">\(t\in (0,11)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(2\)</span> cm. del blanco. {1:NUMERICAL:=0.0331:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(2\)</span> y <span class="math inline">\(10\)</span> unidades del blanco. {1:NUMERICAL:=0.7934:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=7.3333:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=6.7227:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.85\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=10.1415:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R067 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/324\)</span>, para <span class="math inline">\(t\in (0,18)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(6\)</span> cm. del blanco. {1:NUMERICAL:=0.1111:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(6\)</span> y <span class="math inline">\(17\)</span> unidades del blanco. {1:NUMERICAL:=0.7809:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=12:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=18:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.7\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=15.0599:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R068 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/225\)</span>, para <span class="math inline">\(t\in (0,15)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(5\)</span> cm. del blanco. {1:NUMERICAL:=0.1111:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(5\)</span> y <span class="math inline">\(14\)</span> unidades del blanco. {1:NUMERICAL:=0.76:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=10:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=12.5:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.9\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=14.2302:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R069 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/121\)</span>, para <span class="math inline">\(t\in (0,11)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(3\)</span> cm. del blanco. {1:NUMERICAL:=0.0744:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(3\)</span> y <span class="math inline">\(10\)</span> unidades del blanco. {1:NUMERICAL:=0.7521:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=7.3333:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=6.7227:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.9\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=10.4355:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R070 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/400\)</span>, para <span class="math inline">\(t\in (0,20)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(8\)</span> cm. del blanco. {1:NUMERICAL:=0.16:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(8\)</span> y <span class="math inline">\(19\)</span> unidades del blanco. {1:NUMERICAL:=0.7425:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=13.3333:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=22.2231:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.8\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=17.8885:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R071 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/225\)</span>, para <span class="math inline">\(t\in (0,15)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(4\)</span> cm. del blanco. {1:NUMERICAL:=0.0711:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(4\)</span> y <span class="math inline">\(14\)</span> unidades del blanco. {1:NUMERICAL:=0.8:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=10:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=12.5:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.9\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=14.2302:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R072 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/324\)</span>, para <span class="math inline">\(t\in (0,18)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(8\)</span> cm. del blanco. {1:NUMERICAL:=0.1975:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(8\)</span> y <span class="math inline">\(17\)</span> unidades del blanco. {1:NUMERICAL:=0.6944:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=12:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=18:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.7\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=15.0599:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R073 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/324\)</span>, para <span class="math inline">\(t\in (0,18)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(3\)</span> cm. del blanco. {1:NUMERICAL:=0.0278:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(3\)</span> y <span class="math inline">\(17\)</span> unidades del blanco. {1:NUMERICAL:=0.8642:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=12:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=18:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.7\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=15.0599:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R074 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/361\)</span>, para <span class="math inline">\(t\in (0,19)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(7\)</span> cm. del blanco. {1:NUMERICAL:=0.1357:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(7\)</span> y <span class="math inline">\(18\)</span> unidades del blanco. {1:NUMERICAL:=0.7618:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=12.6667:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=20.0547:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.75\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=16.4545:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R075 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/169\)</span>, para <span class="math inline">\(t\in (0,13)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(8\)</span> cm. del blanco. {1:NUMERICAL:=0.3787:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(8\)</span> y <span class="math inline">\(12\)</span> unidades del blanco. {1:NUMERICAL:=0.4734:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=8.6667:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=9.3883:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.85\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=11.9854:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R076 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/196\)</span>, para <span class="math inline">\(t\in (0,14)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(4\)</span> cm. del blanco. {1:NUMERICAL:=0.0816:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(4\)</span> y <span class="math inline">\(13\)</span> unidades del blanco. {1:NUMERICAL:=0.7806:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=9.3333:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=10.8895:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.75\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=12.1244:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R077 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/225\)</span>, para <span class="math inline">\(t\in (0,15)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(6\)</span> cm. del blanco. {1:NUMERICAL:=0.16:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(6\)</span> y <span class="math inline">\(14\)</span> unidades del blanco. {1:NUMERICAL:=0.7111:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=10:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=12.5:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.9\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=14.2302:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R078 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/256\)</span>, para <span class="math inline">\(t\in (0,16)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(8\)</span> cm. del blanco. {1:NUMERICAL:=0.25:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(8\)</span> y <span class="math inline">\(15\)</span> unidades del blanco. {1:NUMERICAL:=0.6289:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=10.6667:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=14.2215:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.75\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=13.8564:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R079 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/361\)</span>, para <span class="math inline">\(t\in (0,19)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(1\)</span> cm. del blanco. {1:NUMERICAL:=0.0028:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(1\)</span> y <span class="math inline">\(18\)</span> unidades del blanco. {1:NUMERICAL:=0.8947:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=12.6667:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=20.0547:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.75\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=16.4545:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R080 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/121\)</span>, para <span class="math inline">\(t\in (0,11)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(4\)</span> cm. del blanco. {1:NUMERICAL:=0.1322:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(4\)</span> y <span class="math inline">\(10\)</span> unidades del blanco. {1:NUMERICAL:=0.6942:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=7.3333:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=6.7227:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.75\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=9.5263:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R081 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/121\)</span>, para <span class="math inline">\(t\in (0,11)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(6\)</span> cm. del blanco. {1:NUMERICAL:=0.2975:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(6\)</span> y <span class="math inline">\(10\)</span> unidades del blanco. {1:NUMERICAL:=0.5289:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=7.3333:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=6.7227:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.7\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=9.2033:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R082 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/169\)</span>, para <span class="math inline">\(t\in (0,13)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(5\)</span> cm. del blanco. {1:NUMERICAL:=0.1479:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(5\)</span> y <span class="math inline">\(12\)</span> unidades del blanco. {1:NUMERICAL:=0.7041:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=8.6667:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=9.3883:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.85\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=11.9854:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R083 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/361\)</span>, para <span class="math inline">\(t\in (0,19)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(1\)</span> cm. del blanco. {1:NUMERICAL:=0.0028:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(1\)</span> y <span class="math inline">\(18\)</span> unidades del blanco. {1:NUMERICAL:=0.8947:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=12.6667:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=20.0547:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.8\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=16.9941:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R084 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/121\)</span>, para <span class="math inline">\(t\in (0,11)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(2\)</span> cm. del blanco. {1:NUMERICAL:=0.0331:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(2\)</span> y <span class="math inline">\(10\)</span> unidades del blanco. {1:NUMERICAL:=0.7934:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=7.3333:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=6.7227:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.9\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=10.4355:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R085 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/196\)</span>, para <span class="math inline">\(t\in (0,14)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(5\)</span> cm. del blanco. {1:NUMERICAL:=0.1276:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(5\)</span> y <span class="math inline">\(13\)</span> unidades del blanco. {1:NUMERICAL:=0.7347:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=9.3333:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=10.8895:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.9\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=13.2816:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R086 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/196\)</span>, para <span class="math inline">\(t\in (0,14)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(6\)</span> cm. del blanco. {1:NUMERICAL:=0.1837:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(6\)</span> y <span class="math inline">\(13\)</span> unidades del blanco. {1:NUMERICAL:=0.6786:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=9.3333:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=10.8895:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.9\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=13.2816:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R087 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/100\)</span>, para <span class="math inline">\(t\in (0,10)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(3\)</span> cm. del blanco. {1:NUMERICAL:=0.09:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(3\)</span> y <span class="math inline">\(9\)</span> unidades del blanco. {1:NUMERICAL:=0.72:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=6.6667:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=5.5551:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.9\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=9.4868:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R088 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/196\)</span>, para <span class="math inline">\(t\in (0,14)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(2\)</span> cm. del blanco. {1:NUMERICAL:=0.0204:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(2\)</span> y <span class="math inline">\(13\)</span> unidades del blanco. {1:NUMERICAL:=0.8418:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=9.3333:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=10.8895:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.9\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=13.2816:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R089 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/289\)</span>, para <span class="math inline">\(t\in (0,17)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(8\)</span> cm. del blanco. {1:NUMERICAL:=0.2215:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(8\)</span> y <span class="math inline">\(16\)</span> unidades del blanco. {1:NUMERICAL:=0.6644:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=11.3333:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=16.0563:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.7\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=14.2232:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R090 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/256\)</span>, para <span class="math inline">\(t\in (0,16)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(1\)</span> cm. del blanco. {1:NUMERICAL:=0.0039:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(1\)</span> y <span class="math inline">\(15\)</span> unidades del blanco. {1:NUMERICAL:=0.875:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=10.6667:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=14.2215:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.85\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=14.7513:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R091 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/225\)</span>, para <span class="math inline">\(t\in (0,15)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(2\)</span> cm. del blanco. {1:NUMERICAL:=0.0178:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(2\)</span> y <span class="math inline">\(14\)</span> unidades del blanco. {1:NUMERICAL:=0.8533:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=10:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=12.5:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.7\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=12.5499:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R092 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/100\)</span>, para <span class="math inline">\(t\in (0,10)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(7\)</span> cm. del blanco. {1:NUMERICAL:=0.49:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(7\)</span> y <span class="math inline">\(9\)</span> unidades del blanco. {1:NUMERICAL:=0.32:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=6.6667:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=5.5551:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.7\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=8.3666:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R093 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/169\)</span>, para <span class="math inline">\(t\in (0,13)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(4\)</span> cm. del blanco. {1:NUMERICAL:=0.0947:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(4\)</span> y <span class="math inline">\(12\)</span> unidades del blanco. {1:NUMERICAL:=0.7574:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=8.6667:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=9.3883:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.8\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=11.6276:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R094 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/256\)</span>, para <span class="math inline">\(t\in (0,16)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(6\)</span> cm. del blanco. {1:NUMERICAL:=0.1406:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(6\)</span> y <span class="math inline">\(15\)</span> unidades del blanco. {1:NUMERICAL:=0.7383:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=10.6667:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=14.2215:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.8\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=14.3108:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R095 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/256\)</span>, para <span class="math inline">\(t\in (0,16)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(2\)</span> cm. del blanco. {1:NUMERICAL:=0.0156:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(2\)</span> y <span class="math inline">\(15\)</span> unidades del blanco. {1:NUMERICAL:=0.8633:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=10.6667:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=14.2215:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.9\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=15.1789:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R096 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/196\)</span>, para <span class="math inline">\(t\in (0,14)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(5\)</span> cm. del blanco. {1:NUMERICAL:=0.1276:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(5\)</span> y <span class="math inline">\(13\)</span> unidades del blanco. {1:NUMERICAL:=0.7347:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=9.3333:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=10.8895:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.85\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=12.9074:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R097 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/324\)</span>, para <span class="math inline">\(t\in (0,18)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(1\)</span> cm. del blanco. {1:NUMERICAL:=0.0031:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(1\)</span> y <span class="math inline">\(17\)</span> unidades del blanco. {1:NUMERICAL:=0.8889:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=12:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=18:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.9\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=17.0763:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R098 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/289\)</span>, para <span class="math inline">\(t\in (0,17)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(2\)</span> cm. del blanco. {1:NUMERICAL:=0.0138:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(2\)</span> y <span class="math inline">\(16\)</span> unidades del blanco. {1:NUMERICAL:=0.872:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=11.3333:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=16.0563:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.85\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=15.6732:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R099 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/169\)</span>, para <span class="math inline">\(t\in (0,13)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(6\)</span> cm. del blanco. {1:NUMERICAL:=0.213:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(6\)</span> y <span class="math inline">\(12\)</span> unidades del blanco. {1:NUMERICAL:=0.6391:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=8.6667:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=9.3883:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.9\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=12.3329:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R100 Q1 : 4_tiro_al_blanco </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_VAC_TiroAlBlanco]</strong></p>
+<p>En un juego de tiro al blanco, la distancia al centro (en cm.) que obtiene Juan se considera una variable aleatoria <span class="math inline">\(X\)</span> con la siguiente
+función de distribución acumulada toma el valor <span class="math inline">\(t^2/400\)</span>, para <span class="math inline">\(t\in (0,20)\)</span></p>
+<p>Hallar la probabilidad de que un tiro de Juan diste menos de <span class="math inline">\(8\)</span> cm. del blanco. {1:NUMERICAL:=0.16:0.01}</p>
+<p>Hallar la probabilidad de que un tiro de Juan diste ente <span class="math inline">\(8\)</span> y <span class="math inline">\(19\)</span> unidades del blanco. {1:NUMERICAL:=0.7425:0.01}</p>
+<p>Calcular <span class="math inline">\(\mathbb E(X)\)</span> {1:NUMERICAL:=13.3333:0.01}</p>
+<p>Calcular <span class="math inline">\(V(X)\)</span> {1:NUMERICAL:=22.2231:0.01}</p>
+<p>Hallar el percentil (o cuantil) <span class="math inline">\(0.7\)</span> de la distribución de <span class="math inline">\(X\)</span>. {1:NUMERICAL:=16.7332:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+</quiz>
