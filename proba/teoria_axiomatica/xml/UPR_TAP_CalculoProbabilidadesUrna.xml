@@ -1,0 +1,4211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/UPR_TAP_CalculoProbabilidadesUrna/UPR_TAP_CalculoProbabilidadesUrna</text>
+</category>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R001 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 9 bolas rojas, 8 azules, 4 verdes y 7 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0546:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3871:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0751:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3466:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R002 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 7 bolas rojas, 6 azules, 8 verdes y 5 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0465:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.41:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.068:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3639:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R003 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 10 bolas rojas, 4 azules, 8 verdes y 9 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0587:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3755:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0774:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.34:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R004 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 5 bolas rojas, 4 azules, 10 verdes y 8 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.065:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3692:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0864:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3292:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R005 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 5 bolas rojas, 7 azules, 10 verdes y 8 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0544:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3916:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0733:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3533:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R006 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 5 bolas rojas, 7 azules, 10 verdes y 8 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0544:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3916:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0733:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3533:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R007 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 10 bolas rojas, 9 azules, 6 verdes y 7 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0522:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3968:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0698:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3604:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R008 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 10 bolas rojas, 5 azules, 7 verdes y 8 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0544:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3916:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0733:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3533:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R009 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 9 bolas rojas, 6 azules, 10 verdes y 5 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0576:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3842:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0767:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3467:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R010 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 7 bolas rojas, 5 azules, 8 verdes y 6 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0465:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.41:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.068:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3639:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R011 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 5 bolas rojas, 8 azules, 10 verdes y 9 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0544:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3891:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0722:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3534:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R012 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 6 bolas rojas, 9 azules, 5 verdes y 10 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0576:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3842:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0767:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3467:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R013 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 10 bolas rojas, 7 azules, 8 verdes y 6 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0514:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3996:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0695:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3617:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R014 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 5 bolas rojas, 6 azules, 7 verdes y 8 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0465:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.41:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.068:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3639:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R015 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 6 bolas rojas, 4 azules, 5 verdes y 7 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0448:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.4143:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0702:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3595:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R016 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 9 bolas rojas, 4 azules, 7 verdes y 5 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0578:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3857:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0807:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3406:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R017 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 10 bolas rojas, 5 azules, 8 verdes y 9 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0544:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3891:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0722:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3534:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R018 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 7 bolas rojas, 8 azules, 4 verdes y 10 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0588:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3788:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0787:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3405:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R019 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 6 bolas rojas, 7 azules, 8 verdes y 5 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0465:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.41:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.068:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3639:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R020 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 7 bolas rojas, 10 azules, 4 verdes y 6 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0612:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3788:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0825:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3378:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R021 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 10 bolas rojas, 7 azules, 5 verdes y 9 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0554:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3882:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0737:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3514:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R022 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 5 bolas rojas, 4 azules, 7 verdes y 6 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0448:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.4143:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0702:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3595:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R023 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 6 bolas rojas, 9 azules, 5 verdes y 10 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0576:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3842:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0767:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3467:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R024 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 8 bolas rojas, 7 azules, 4 verdes y 10 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0588:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3788:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0787:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3405:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R025 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 6 bolas rojas, 10 azules, 9 verdes y 7 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0522:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3968:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0698:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3604:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R026 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 10 bolas rojas, 9 azules, 8 verdes y 7 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0493:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.4034:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0657:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3685:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R027 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 6 bolas rojas, 8 azules, 4 verdes y 7 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.05:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.4:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0726:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3533:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R028 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 8 bolas rojas, 10 azules, 4 verdes y 6 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0611:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3761:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0816:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3367:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R029 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 5 bolas rojas, 8 azules, 4 verdes y 6 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0508:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.402:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0754:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3511:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R030 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 6 bolas rojas, 9 azules, 10 verdes y 4 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0624:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3711:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0824:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3336:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R031 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 6 bolas rojas, 10 azules, 4 verdes y 5 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.067:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3739:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0899:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3302:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R032 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 9 bolas rojas, 4 azules, 7 verdes y 6 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.055:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.39:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0769:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3462:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R033 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 9 bolas rojas, 6 azules, 4 verdes y 5 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0583:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3883:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.082:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3411:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R034 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 7 bolas rojas, 5 azules, 4 verdes y 8 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0519:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3972:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0755:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.349:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R035 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 4 bolas rojas, 7 azules, 6 verdes y 9 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.055:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.39:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0769:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3462:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R036 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 6 bolas rojas, 5 azules, 4 verdes y 8 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0508:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.402:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0754:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3511:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R037 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 9 bolas rojas, 6 azules, 4 verdes y 5 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0583:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3883:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.082:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3411:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R038 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 6 bolas rojas, 7 azules, 4 verdes y 8 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.05:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.4:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0726:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3533:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R039 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 8 bolas rojas, 10 azules, 6 verdes y 4 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0611:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3761:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0816:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3367:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R040 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 4 bolas rojas, 10 azules, 7 verdes y 8 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0588:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3788:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0787:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3405:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R041 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 7 bolas rojas, 6 azules, 8 verdes y 4 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.05:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.4:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0726:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3533:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R042 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 5 bolas rojas, 9 azules, 4 verdes y 10 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0665:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3632:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0874:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3253:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R043 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 9 bolas rojas, 4 azules, 5 verdes y 7 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0578:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3857:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0807:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3406:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R044 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 4 bolas rojas, 10 azules, 8 verdes y 7 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0588:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3788:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0787:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3405:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R045 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 5 bolas rojas, 9 azules, 8 verdes y 4 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0592:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.38:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0814:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3373:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R046 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 10 bolas rojas, 9 azules, 4 verdes y 7 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0599:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3749:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0791:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3382:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R047 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 9 bolas rojas, 4 azules, 5 verdes y 10 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0665:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3632:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0874:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3253:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R048 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 7 bolas rojas, 8 azules, 4 verdes y 10 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0588:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3788:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0787:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3405:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R049 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 10 bolas rojas, 6 azules, 9 verdes y 4 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0624:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3711:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0824:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3336:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R050 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 5 bolas rojas, 7 azules, 10 verdes y 9 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0554:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3882:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0737:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3514:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R051 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 5 bolas rojas, 7 azules, 10 verdes y 8 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0544:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3916:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0733:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3533:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R052 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 8 bolas rojas, 7 azules, 10 verdes y 6 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0514:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3996:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0695:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3617:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R053 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 10 bolas rojas, 6 azules, 4 verdes y 9 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0624:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3711:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0824:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3336:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R054 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 10 bolas rojas, 4 azules, 8 verdes y 5 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.065:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3692:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0864:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3292:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R055 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 5 bolas rojas, 7 azules, 10 verdes y 4 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.065:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3731:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0872:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3311:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R056 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 6 bolas rojas, 7 azules, 4 verdes y 9 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.055:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.39:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0769:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3462:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R057 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 7 bolas rojas, 5 azules, 8 verdes y 9 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0506:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3993:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0701:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3589:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R058 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 10 bolas rojas, 7 azules, 4 verdes y 8 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0588:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3788:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0787:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3405:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R059 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 4 bolas rojas, 7 azules, 8 verdes y 5 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0519:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3972:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0755:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.349:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R060 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 5 bolas rojas, 7 azules, 9 verdes y 6 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0509:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.401:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0718:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3576:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R061 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 8 bolas rojas, 9 azules, 10 verdes y 6 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0513:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3981:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0684:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3626:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R062 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 8 bolas rojas, 6 azules, 5 verdes y 7 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0465:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.41:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.068:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3639:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R063 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 5 bolas rojas, 7 azules, 8 verdes y 10 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0544:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3916:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0733:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3533:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R064 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 9 bolas rojas, 5 azules, 8 verdes y 6 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0519:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3974:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0721:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3559:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R065 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 6 bolas rojas, 9 azules, 8 verdes y 4 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0561:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3856:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0773:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3439:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R066 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 5 bolas rojas, 8 azules, 6 verdes y 9 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0519:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3974:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0721:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3559:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R067 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 10 bolas rojas, 6 azules, 9 verdes y 7 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0522:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3968:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0698:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3604:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R068 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 9 bolas rojas, 8 azules, 6 verdes y 7 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.048:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.4064:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0667:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3667:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R069 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 6 bolas rojas, 8 azules, 10 verdes y 5 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0564:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3886:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.076:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3493:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R070 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 6 bolas rojas, 9 azules, 7 verdes y 5 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0509:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.401:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0718:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3576:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R071 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 5 bolas rojas, 4 azules, 6 verdes y 7 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0448:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.4143:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0702:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3595:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R072 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 9 bolas rojas, 4 azules, 10 verdes y 5 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0665:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3632:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0874:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3253:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R073 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 6 bolas rojas, 8 azules, 7 verdes y 4 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.05:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.4:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0726:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3533:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R074 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 7 bolas rojas, 6 azules, 10 verdes y 8 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0514:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3996:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0695:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3617:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R075 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 6 bolas rojas, 8 azules, 7 verdes y 9 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.048:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.4064:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0667:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3667:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R076 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 9 bolas rojas, 6 azules, 10 verdes y 7 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0522:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3968:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0698:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3604:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R077 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 4 bolas rojas, 7 azules, 6 verdes y 9 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.055:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.39:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0769:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3462:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R078 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 8 bolas rojas, 10 azules, 7 verdes y 9 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0493:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.4034:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0657:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3685:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R079 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 8 bolas rojas, 5 azules, 6 verdes y 10 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0564:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3886:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.076:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3493:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R080 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 10 bolas rojas, 8 azules, 4 verdes y 9 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0587:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3755:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0774:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.34:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R081 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 10 bolas rojas, 6 azules, 7 verdes y 9 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0522:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3968:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0698:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3604:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R082 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 6 bolas rojas, 4 azules, 10 verdes y 5 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.067:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3739:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0899:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3302:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R083 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 5 bolas rojas, 7 azules, 10 verdes y 9 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0554:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3882:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0737:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3514:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R084 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 5 bolas rojas, 4 azules, 10 verdes y 9 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0665:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3632:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0874:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3253:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R085 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 7 bolas rojas, 4 azules, 6 verdes y 5 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0448:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.4143:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0702:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3595:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R086 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 9 bolas rojas, 5 azules, 4 verdes y 6 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0583:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3883:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.082:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3411:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R087 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 6 bolas rojas, 7 azules, 5 verdes y 9 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0509:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.401:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0718:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3576:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R088 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 5 bolas rojas, 8 azules, 4 verdes y 6 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0508:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.402:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0754:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3511:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R089 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 7 bolas rojas, 8 azules, 4 verdes y 6 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.05:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.4:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0726:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3533:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R090 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 5 bolas rojas, 7 azules, 8 verdes y 4 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0519:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3972:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0755:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.349:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R091 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 10 bolas rojas, 9 azules, 4 verdes y 7 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0599:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3749:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0791:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3382:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R092 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 6 bolas rojas, 9 azules, 8 verdes y 10 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0513:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3981:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0684:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3626:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R093 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 8 bolas rojas, 6 azules, 7 verdes y 5 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0465:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.41:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.068:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3639:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R094 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 4 bolas rojas, 10 azules, 9 verdes y 6 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0624:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3711:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0824:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3336:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R095 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 6 bolas rojas, 4 azules, 10 verdes y 8 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0611:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3761:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0816:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3367:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R096 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 7 bolas rojas, 5 azules, 6 verdes y 10 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0565:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.3907:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0767:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3499:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R097 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 6 bolas rojas, 8 azules, 7 verdes y 5 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0465:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.41:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.068:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3639:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R098 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 10 bolas rojas, 8 azules, 7 verdes y 9 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0493:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.4034:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0657:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3685:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R099 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 5 bolas rojas, 8 azules, 6 verdes y 7 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.0465:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.41:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.068:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3639:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R100 Q1 : 3_urna </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadesUrna]</strong></p>
+<p>Una urna contiene 7 bolas rojas, 4 azules, 6 verdes y 8 negras. Se eligen tres bolas al azar. ¿Cuál es la probabilidad de que todas sean</p>
+<p>del mismo color, si se selecciona sin reposición? {1:NUMERICAL:=0.05:0.01}</p>
+<p>de colores diferentes, si se selecciona sin reposición? {1:NUMERICAL:=0.4:0.01}</p>
+<p>del mismo color, si se selecciona con reposición? {1:NUMERICAL:=0.0726:0.01}</p>
+<p>de colores diferentes, si se selecciona con reposición? {1:NUMERICAL:=0.3533:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+</quiz>

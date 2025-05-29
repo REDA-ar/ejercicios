@@ -1,0 +1,4311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/UPR_TAP_CalculoProbabilidadHijos/UPR_TAP_CalculoProbabilidadHijos</text>
+</category>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R001 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 55 familias, 13
+de las cuales tiene un/a único/a
+hijo/a, 15 familias tienen dos hijas/os, 14 familias tienen tres hijas/os, 2 tienen cuatro hijas/os y 11 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 4 hijas/os? {1:NUMERICAL:=0.0364:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 4 hijas/os? {1:NUMERICAL:=0.2364:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 4 hijas/os? {1:NUMERICAL:=0.0541:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R002 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 30 familias, 4
+de las cuales tiene un/a único/a
+hijo/a, 5 familias tienen dos hijas/os, 11 familias tienen tres hijas/os, 7 tienen cuatro hijas/os y 3 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 4 hijas/os? {1:NUMERICAL:=0.2333:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 3 hijas/os? {1:NUMERICAL:=0.7:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 4 hijas/os? {1:NUMERICAL:=0.3111:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R003 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 44 familias, 3
+de las cuales tiene un/a único/a
+hijo/a, 6 familias tienen dos hijas/os, 8 familias tienen tres hijas/os, 12 tienen cuatro hijas/os y 15 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 2 hijas/os? {1:NUMERICAL:=0.1364:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 4 hijas/os? {1:NUMERICAL:=0.6136:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 2 hijas/os? {1:NUMERICAL:=0.0741:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R004 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 35 familias, 10
+de las cuales tiene un/a único/a
+hijo/a, 12 familias tienen dos hijas/os, 3 familias tienen tres hijas/os, 4 tienen cuatro hijas/os y 6 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 3 hijas/os? {1:NUMERICAL:=0.0857:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 4 hijas/os? {1:NUMERICAL:=0.2857:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 3 hijas/os? {1:NUMERICAL:=0.1011:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R005 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 33 familias, 8
+de las cuales tiene un/a único/a
+hijo/a, 2 familias tienen dos hijas/os, 5 familias tienen tres hijas/os, 3 tienen cuatro hijas/os y 15 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 4 hijas/os? {1:NUMERICAL:=0.0909:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 2 hijas/os? {1:NUMERICAL:=0.7576:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 4 hijas/os? {1:NUMERICAL:=0.1053:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R006 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 40 familias, 4
+de las cuales tiene un/a único/a
+hijo/a, 14 familias tienen dos hijas/os, 9 familias tienen tres hijas/os, 2 tienen cuatro hijas/os y 11 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 4 hijas/os? {1:NUMERICAL:=0.05:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 2 hijas/os? {1:NUMERICAL:=0.9:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 4 hijas/os? {1:NUMERICAL:=0.0656:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R007 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 42 familias, 6
+de las cuales tiene un/a único/a
+hijo/a, 12 familias tienen dos hijas/os, 2 familias tienen tres hijas/os, 9 tienen cuatro hijas/os y 13 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 2 hijas/os? {1:NUMERICAL:=0.2857:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 4 hijas/os? {1:NUMERICAL:=0.5238:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 2 hijas/os? {1:NUMERICAL:=0.1752:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R008 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 41 familias, 13
+de las cuales tiene un/a único/a
+hijo/a, 4 familias tienen dos hijas/os, 6 familias tienen tres hijas/os, 10 tienen cuatro hijas/os y 8 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 3 hijas/os? {1:NUMERICAL:=0.1463:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 2 hijas/os? {1:NUMERICAL:=0.6829:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 3 hijas/os? {1:NUMERICAL:=0.1513:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R009 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 34 familias, 3
+de las cuales tiene un/a único/a
+hijo/a, 6 familias tienen dos hijas/os, 4 familias tienen tres hijas/os, 9 tienen cuatro hijas/os y 12 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 3 hijas/os? {1:NUMERICAL:=0.1176:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 4 hijas/os? {1:NUMERICAL:=0.6176:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 3 hijas/os? {1:NUMERICAL:=0.0976:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R010 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 23 familias, 8
+de las cuales tiene un/a único/a
+hijo/a, 3 familias tienen dos hijas/os, 6 familias tienen tres hijas/os, 4 tienen cuatro hijas/os y 2 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 4 hijas/os? {1:NUMERICAL:=0.1739:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 4 hijas/os? {1:NUMERICAL:=0.2609:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 4 hijas/os? {1:NUMERICAL:=0.2759:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R011 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 49 familias, 15
+de las cuales tiene un/a único/a
+hijo/a, 9 familias tienen dos hijas/os, 7 familias tienen tres hijas/os, 8 tienen cuatro hijas/os y 10 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 4 hijas/os? {1:NUMERICAL:=0.1633:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 3 hijas/os? {1:NUMERICAL:=0.5102:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 4 hijas/os? {1:NUMERICAL:=0.2353:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R012 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 32 familias, 6
+de las cuales tiene un/a único/a
+hijo/a, 13 familias tienen dos hijas/os, 3 familias tienen tres hijas/os, 8 tienen cuatro hijas/os y 2 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 2 hijas/os? {1:NUMERICAL:=0.4062:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 2 hijas/os? {1:NUMERICAL:=0.8125:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 2 hijas/os? {1:NUMERICAL:=0.3133:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R013 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 41 familias, 8
+de las cuales tiene un/a único/a
+hijo/a, 12 familias tienen dos hijas/os, 5 familias tienen tres hijas/os, 13 tienen cuatro hijas/os y 3 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 5 hijas/os? {1:NUMERICAL:=0.0732:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 2 hijas/os? {1:NUMERICAL:=0.8049:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 5 hijas/os? {1:NUMERICAL:=0.1316:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R014 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 39 familias, 11
+de las cuales tiene un/a único/a
+hijo/a, 5 familias tienen dos hijas/os, 8 familias tienen tres hijas/os, 2 tienen cuatro hijas/os y 13 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 3 hijas/os? {1:NUMERICAL:=0.2051:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 4 hijas/os? {1:NUMERICAL:=0.3846:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 3 hijas/os? {1:NUMERICAL:=0.2034:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R015 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 57 familias, 14
+de las cuales tiene un/a único/a
+hijo/a, 4 familias tienen dos hijas/os, 15 familias tienen tres hijas/os, 11 tienen cuatro hijas/os y 13 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 3 hijas/os? {1:NUMERICAL:=0.2632:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 4 hijas/os? {1:NUMERICAL:=0.4211:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 3 hijas/os? {1:NUMERICAL:=0.2557:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R016 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 36 familias, 12
+de las cuales tiene un/a único/a
+hijo/a, 6 familias tienen dos hijas/os, 9 familias tienen tres hijas/os, 7 tienen cuatro hijas/os y 2 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 2 hijas/os? {1:NUMERICAL:=0.1667:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 3 hijas/os? {1:NUMERICAL:=0.5:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 2 hijas/os? {1:NUMERICAL:=0.1348:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R017 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 46 familias, 14
+de las cuales tiene un/a único/a
+hijo/a, 7 familias tienen dos hijas/os, 11 familias tienen tres hijas/os, 4 tienen cuatro hijas/os y 10 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 3 hijas/os? {1:NUMERICAL:=0.2391:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 3 hijas/os? {1:NUMERICAL:=0.5435:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 3 hijas/os? {1:NUMERICAL:=0.2598:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R018 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 36 familias, 14
+de las cuales tiene un/a único/a
+hijo/a, 3 familias tienen dos hijas/os, 8 familias tienen tres hijas/os, 9 tienen cuatro hijas/os y 2 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 3 hijas/os? {1:NUMERICAL:=0.2222:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 2 hijas/os? {1:NUMERICAL:=0.6111:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 3 hijas/os? {1:NUMERICAL:=0.2667:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R019 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 49 familias, 4
+de las cuales tiene un/a único/a
+hijo/a, 6 familias tienen dos hijas/os, 13 familias tienen tres hijas/os, 14 tienen cuatro hijas/os y 12 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 2 hijas/os? {1:NUMERICAL:=0.1224:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 4 hijas/os? {1:NUMERICAL:=0.5306:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 2 hijas/os? {1:NUMERICAL:=0.0702:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R020 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 51 familias, 14
+de las cuales tiene un/a único/a
+hijo/a, 3 familias tienen dos hijas/os, 15 familias tienen tres hijas/os, 11 tienen cuatro hijas/os y 8 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 5 hijas/os? {1:NUMERICAL:=0.1569:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 3 hijas/os? {1:NUMERICAL:=0.6667:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 5 hijas/os? {1:NUMERICAL:=0.2685:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R021 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 49 familias, 7
+de las cuales tiene un/a único/a
+hijo/a, 13 familias tienen dos hijas/os, 15 familias tienen tres hijas/os, 5 tienen cuatro hijas/os y 9 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 2 hijas/os? {1:NUMERICAL:=0.2653:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 4 hijas/os? {1:NUMERICAL:=0.2857:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 2 hijas/os? {1:NUMERICAL:=0.1818:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R022 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 47 familias, 13
+de las cuales tiene un/a único/a
+hijo/a, 5 familias tienen dos hijas/os, 15 familias tienen tres hijas/os, 2 tienen cuatro hijas/os y 12 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 3 hijas/os? {1:NUMERICAL:=0.3191:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 2 hijas/os? {1:NUMERICAL:=0.7234:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 3 hijas/os? {1:NUMERICAL:=0.3309:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R023 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 31 familias, 3
+de las cuales tiene un/a único/a
+hijo/a, 9 familias tienen dos hijas/os, 10 familias tienen tres hijas/os, 4 tienen cuatro hijas/os y 5 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 4 hijas/os? {1:NUMERICAL:=0.129:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 3 hijas/os? {1:NUMERICAL:=0.6129:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 4 hijas/os? {1:NUMERICAL:=0.1739:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R024 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 44 familias, 11
+de las cuales tiene un/a único/a
+hijo/a, 12 familias tienen dos hijas/os, 9 familias tienen tres hijas/os, 7 tienen cuatro hijas/os y 5 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 4 hijas/os? {1:NUMERICAL:=0.1591:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 2 hijas/os? {1:NUMERICAL:=0.75:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 4 hijas/os? {1:NUMERICAL:=0.2435:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R025 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 38 familias, 2
+de las cuales tiene un/a único/a
+hijo/a, 9 familias tienen dos hijas/os, 8 familias tienen tres hijas/os, 4 tienen cuatro hijas/os y 15 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 2 hijas/os? {1:NUMERICAL:=0.2368:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 2 hijas/os? {1:NUMERICAL:=0.9474:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 2 hijas/os? {1:NUMERICAL:=0.1333:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R026 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 51 familias, 14
+de las cuales tiene un/a único/a
+hijo/a, 11 familias tienen dos hijas/os, 12 familias tienen tres hijas/os, 10 tienen cuatro hijas/os y 4 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 5 hijas/os? {1:NUMERICAL:=0.0784:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 4 hijas/os? {1:NUMERICAL:=0.2745:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 5 hijas/os? {1:NUMERICAL:=0.1515:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R027 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 36 familias, 7
+de las cuales tiene un/a único/a
+hijo/a, 3 familias tienen dos hijas/os, 2 familias tienen tres hijas/os, 13 tienen cuatro hijas/os y 11 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 3 hijas/os? {1:NUMERICAL:=0.0556:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 4 hijas/os? {1:NUMERICAL:=0.6667:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 3 hijas/os? {1:NUMERICAL:=0.0476:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R028 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 39 familias, 3
+de las cuales tiene un/a único/a
+hijo/a, 10 familias tienen dos hijas/os, 8 familias tienen tres hijas/os, 11 tienen cuatro hijas/os y 7 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 3 hijas/os? {1:NUMERICAL:=0.2051:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 3 hijas/os? {1:NUMERICAL:=0.6667:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 3 hijas/os? {1:NUMERICAL:=0.1905:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R029 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 34 familias, 3
+de las cuales tiene un/a único/a
+hijo/a, 9 familias tienen dos hijas/os, 11 familias tienen tres hijas/os, 7 tienen cuatro hijas/os y 4 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 2 hijas/os? {1:NUMERICAL:=0.2647:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 2 hijas/os? {1:NUMERICAL:=0.9118:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 2 hijas/os? {1:NUMERICAL:=0.1765:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R030 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 37 familias, 13
+de las cuales tiene un/a único/a
+hijo/a, 12 familias tienen dos hijas/os, 2 familias tienen tres hijas/os, 6 tienen cuatro hijas/os y 4 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 5 hijas/os? {1:NUMERICAL:=0.1081:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 4 hijas/os? {1:NUMERICAL:=0.2703:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 5 hijas/os? {1:NUMERICAL:=0.2299:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R031 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 42 familias, 6
+de las cuales tiene un/a único/a
+hijo/a, 2 familias tienen dos hijas/os, 15 familias tienen tres hijas/os, 10 tienen cuatro hijas/os y 9 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 3 hijas/os? {1:NUMERICAL:=0.3571:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 2 hijas/os? {1:NUMERICAL:=0.8571:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 3 hijas/os? {1:NUMERICAL:=0.3214:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R032 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 50 familias, 4
+de las cuales tiene un/a único/a
+hijo/a, 14 familias tienen dos hijas/os, 7 familias tienen tres hijas/os, 12 tienen cuatro hijas/os y 13 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 2 hijas/os? {1:NUMERICAL:=0.28:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 3 hijas/os? {1:NUMERICAL:=0.64:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 2 hijas/os? {1:NUMERICAL:=0.1687:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R033 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 30 familias, 12
+de las cuales tiene un/a único/a
+hijo/a, 4 familias tienen dos hijas/os, 5 familias tienen tres hijas/os, 3 tienen cuatro hijas/os y 6 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 2 hijas/os? {1:NUMERICAL:=0.1333:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 4 hijas/os? {1:NUMERICAL:=0.3:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 2 hijas/os? {1:NUMERICAL:=0.1039:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R034 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 39 familias, 2
+de las cuales tiene un/a único/a
+hijo/a, 9 familias tienen dos hijas/os, 4 familias tienen tres hijas/os, 11 tienen cuatro hijas/os y 13 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 3 hijas/os? {1:NUMERICAL:=0.1026:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 3 hijas/os? {1:NUMERICAL:=0.7179:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 3 hijas/os? {1:NUMERICAL:=0.0851:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R035 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 38 familias, 10
+de las cuales tiene un/a único/a
+hijo/a, 13 familias tienen dos hijas/os, 8 familias tienen tres hijas/os, 3 tienen cuatro hijas/os y 4 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 4 hijas/os? {1:NUMERICAL:=0.0789:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 4 hijas/os? {1:NUMERICAL:=0.1842:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 4 hijas/os? {1:NUMERICAL:=0.1304:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R036 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 49 familias, 13
+de las cuales tiene un/a único/a
+hijo/a, 8 familias tienen dos hijas/os, 2 familias tienen tres hijas/os, 11 tienen cuatro hijas/os y 15 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 3 hijas/os? {1:NUMERICAL:=0.0408:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 2 hijas/os? {1:NUMERICAL:=0.7347:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 3 hijas/os? {1:NUMERICAL:=0.039:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R037 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 40 familias, 10
+de las cuales tiene un/a único/a
+hijo/a, 6 familias tienen dos hijas/os, 12 familias tienen tres hijas/os, 4 tienen cuatro hijas/os y 8 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 2 hijas/os? {1:NUMERICAL:=0.15:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 4 hijas/os? {1:NUMERICAL:=0.3:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 2 hijas/os? {1:NUMERICAL:=0.1053:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R038 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 55 familias, 15
+de las cuales tiene un/a único/a
+hijo/a, 9 familias tienen dos hijas/os, 12 familias tienen tres hijas/os, 5 tienen cuatro hijas/os y 14 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 4 hijas/os? {1:NUMERICAL:=0.0909:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 3 hijas/os? {1:NUMERICAL:=0.5636:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 4 hijas/os? {1:NUMERICAL:=0.1258:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R039 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 51 familias, 7
+de las cuales tiene un/a único/a
+hijo/a, 6 familias tienen dos hijas/os, 13 familias tienen tres hijas/os, 10 tienen cuatro hijas/os y 15 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 3 hijas/os? {1:NUMERICAL:=0.2549:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 4 hijas/os? {1:NUMERICAL:=0.4902:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 3 hijas/os? {1:NUMERICAL:=0.2254:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R040 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 41 familias, 11
+de las cuales tiene un/a único/a
+hijo/a, 3 familias tienen dos hijas/os, 12 familias tienen tres hijas/os, 8 tienen cuatro hijas/os y 7 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 5 hijas/os? {1:NUMERICAL:=0.1707:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 2 hijas/os? {1:NUMERICAL:=0.7317:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 5 hijas/os? {1:NUMERICAL:=0.2917:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R041 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 52 familias, 11
+de las cuales tiene un/a único/a
+hijo/a, 9 familias tienen dos hijas/os, 10 familias tienen tres hijas/os, 14 tienen cuatro hijas/os y 8 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 3 hijas/os? {1:NUMERICAL:=0.1923:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 3 hijas/os? {1:NUMERICAL:=0.6154:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 3 hijas/os? {1:NUMERICAL:=0.1935:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R042 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 46 familias, 2
+de las cuales tiene un/a único/a
+hijo/a, 13 familias tienen dos hijas/os, 12 familias tienen tres hijas/os, 9 tienen cuatro hijas/os y 10 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 5 hijas/os? {1:NUMERICAL:=0.2174:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 4 hijas/os? {1:NUMERICAL:=0.413:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 5 hijas/os? {1:NUMERICAL:=0.3333:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R043 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 38 familias, 9
+de las cuales tiene un/a único/a
+hijo/a, 10 familias tienen dos hijas/os, 3 familias tienen tres hijas/os, 12 tienen cuatro hijas/os y 4 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 5 hijas/os? {1:NUMERICAL:=0.1053:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 4 hijas/os? {1:NUMERICAL:=0.4211:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 5 hijas/os? {1:NUMERICAL:=0.1887:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R044 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 27 familias, 7
+de las cuales tiene un/a único/a
+hijo/a, 11 familias tienen dos hijas/os, 2 familias tienen tres hijas/os, 3 tienen cuatro hijas/os y 4 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 5 hijas/os? {1:NUMERICAL:=0.1481:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 2 hijas/os? {1:NUMERICAL:=0.7407:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 5 hijas/os? {1:NUMERICAL:=0.2985:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R045 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 41 familias, 10
+de las cuales tiene un/a único/a
+hijo/a, 9 familias tienen dos hijas/os, 15 familias tienen tres hijas/os, 5 tienen cuatro hijas/os y 2 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 3 hijas/os? {1:NUMERICAL:=0.3659:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 2 hijas/os? {1:NUMERICAL:=0.7561:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 3 hijas/os? {1:NUMERICAL:=0.4369:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R046 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 40 familias, 2
+de las cuales tiene un/a único/a
+hijo/a, 3 familias tienen dos hijas/os, 10 familias tienen tres hijas/os, 14 tienen cuatro hijas/os y 11 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 4 hijas/os? {1:NUMERICAL:=0.35:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 3 hijas/os? {1:NUMERICAL:=0.875:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 4 hijas/os? {1:NUMERICAL:=0.3758:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R047 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 53 familias, 15
+de las cuales tiene un/a único/a
+hijo/a, 9 familias tienen dos hijas/os, 4 familias tienen tres hijas/os, 11 tienen cuatro hijas/os y 14 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 4 hijas/os? {1:NUMERICAL:=0.2075:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 4 hijas/os? {1:NUMERICAL:=0.4717:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 4 hijas/os? {1:NUMERICAL:=0.2767:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R048 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 50 familias, 5
+de las cuales tiene un/a único/a
+hijo/a, 8 familias tienen dos hijas/os, 12 familias tienen tres hijas/os, 15 tienen cuatro hijas/os y 10 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 3 hijas/os? {1:NUMERICAL:=0.24:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 4 hijas/os? {1:NUMERICAL:=0.5:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 3 hijas/os? {1:NUMERICAL:=0.2156:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R049 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 47 familias, 9
+de las cuales tiene un/a único/a
+hijo/a, 5 familias tienen dos hijas/os, 8 familias tienen tres hijas/os, 12 tienen cuatro hijas/os y 13 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 2 hijas/os? {1:NUMERICAL:=0.1064:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 2 hijas/os? {1:NUMERICAL:=0.8085:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 2 hijas/os? {1:NUMERICAL:=0.0641:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R050 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 48 familias, 7
+de las cuales tiene un/a único/a
+hijo/a, 12 familias tienen dos hijas/os, 4 familias tienen tres hijas/os, 11 tienen cuatro hijas/os y 14 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 3 hijas/os? {1:NUMERICAL:=0.0833:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 4 hijas/os? {1:NUMERICAL:=0.5208:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 3 hijas/os? {1:NUMERICAL:=0.0764:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R051 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 56 familias, 5
+de las cuales tiene un/a único/a
+hijo/a, 14 familias tienen dos hijas/os, 13 familias tienen tres hijas/os, 15 tienen cuatro hijas/os y 9 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 3 hijas/os? {1:NUMERICAL:=0.2321:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 4 hijas/os? {1:NUMERICAL:=0.4286:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 3 hijas/os? {1:NUMERICAL:=0.2203:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R052 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 33 familias, 10
+de las cuales tiene un/a único/a
+hijo/a, 5 familias tienen dos hijas/os, 7 familias tienen tres hijas/os, 8 tienen cuatro hijas/os y 3 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 4 hijas/os? {1:NUMERICAL:=0.2424:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 3 hijas/os? {1:NUMERICAL:=0.5455:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 4 hijas/os? {1:NUMERICAL:=0.3636:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R053 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 45 familias, 5
+de las cuales tiene un/a único/a
+hijo/a, 7 familias tienen dos hijas/os, 14 familias tienen tres hijas/os, 10 tienen cuatro hijas/os y 9 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 2 hijas/os? {1:NUMERICAL:=0.1556:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 3 hijas/os? {1:NUMERICAL:=0.7333:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 2 hijas/os? {1:NUMERICAL:=0.0959:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R054 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 56 familias, 13
+de las cuales tiene un/a único/a
+hijo/a, 11 familias tienen dos hijas/os, 14 familias tienen tres hijas/os, 3 tienen cuatro hijas/os y 15 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 4 hijas/os? {1:NUMERICAL:=0.0536:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 3 hijas/os? {1:NUMERICAL:=0.5714:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 4 hijas/os? {1:NUMERICAL:=0.0732:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R055 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 52 familias, 14
+de las cuales tiene un/a único/a
+hijo/a, 11 familias tienen dos hijas/os, 10 familias tienen tres hijas/os, 9 tienen cuatro hijas/os y 8 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 5 hijas/os? {1:NUMERICAL:=0.1538:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 3 hijas/os? {1:NUMERICAL:=0.5192:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 5 hijas/os? {1:NUMERICAL:=0.2817:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R056 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 31 familias, 2
+de las cuales tiene un/a único/a
+hijo/a, 9 familias tienen dos hijas/os, 11 familias tienen tres hijas/os, 3 tienen cuatro hijas/os y 6 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 2 hijas/os? {1:NUMERICAL:=0.2903:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 3 hijas/os? {1:NUMERICAL:=0.6452:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 2 hijas/os? {1:NUMERICAL:=0.1895:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R057 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 47 familias, 9
+de las cuales tiene un/a único/a
+hijo/a, 4 familias tienen dos hijas/os, 5 familias tienen tres hijas/os, 15 tienen cuatro hijas/os y 14 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 4 hijas/os? {1:NUMERICAL:=0.3191:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 4 hijas/os? {1:NUMERICAL:=0.617:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 4 hijas/os? {1:NUMERICAL:=0.3704:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R058 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 45 familias, 14
+de las cuales tiene un/a único/a
+hijo/a, 12 familias tienen dos hijas/os, 6 familias tienen tres hijas/os, 8 tienen cuatro hijas/os y 5 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 2 hijas/os? {1:NUMERICAL:=0.2667:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 4 hijas/os? {1:NUMERICAL:=0.2889:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 2 hijas/os? {1:NUMERICAL:=0.2124:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R059 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 40 familias, 8
+de las cuales tiene un/a único/a
+hijo/a, 11 familias tienen dos hijas/os, 7 familias tienen tres hijas/os, 10 tienen cuatro hijas/os y 4 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 4 hijas/os? {1:NUMERICAL:=0.25:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 3 hijas/os? {1:NUMERICAL:=0.525:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 4 hijas/os? {1:NUMERICAL:=0.3604:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R060 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 41 familias, 7
+de las cuales tiene un/a único/a
+hijo/a, 5 familias tienen dos hijas/os, 15 familias tienen tres hijas/os, 11 tienen cuatro hijas/os y 3 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 2 hijas/os? {1:NUMERICAL:=0.122:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 4 hijas/os? {1:NUMERICAL:=0.3415:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 2 hijas/os? {1:NUMERICAL:=0.0826:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R061 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 40 familias, 13
+de las cuales tiene un/a único/a
+hijo/a, 11 familias tienen dos hijas/os, 6 familias tienen tres hijas/os, 8 tienen cuatro hijas/os y 2 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 5 hijas/os? {1:NUMERICAL:=0.05:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 2 hijas/os? {1:NUMERICAL:=0.675:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 5 hijas/os? {1:NUMERICAL:=0.1053:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R062 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 56 familias, 7
+de las cuales tiene un/a único/a
+hijo/a, 14 familias tienen dos hijas/os, 15 familias tienen tres hijas/os, 12 tienen cuatro hijas/os y 8 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 4 hijas/os? {1:NUMERICAL:=0.2143:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 3 hijas/os? {1:NUMERICAL:=0.625:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 4 hijas/os? {1:NUMERICAL:=0.2857:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R063 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 49 familias, 10
+de las cuales tiene un/a único/a
+hijo/a, 15 familias tienen dos hijas/os, 11 familias tienen tres hijas/os, 6 tienen cuatro hijas/os y 7 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 2 hijas/os? {1:NUMERICAL:=0.3061:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 2 hijas/os? {1:NUMERICAL:=0.7959:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 2 hijas/os? {1:NUMERICAL:=0.2273:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R064 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 50 familias, 9
+de las cuales tiene un/a único/a
+hijo/a, 5 familias tienen dos hijas/os, 13 familias tienen tres hijas/os, 12 tienen cuatro hijas/os y 11 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 5 hijas/os? {1:NUMERICAL:=0.22:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 2 hijas/os? {1:NUMERICAL:=0.82:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 5 hijas/os? {1:NUMERICAL:=0.3416:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R065 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 46 familias, 3
+de las cuales tiene un/a único/a
+hijo/a, 13 familias tienen dos hijas/os, 10 familias tienen tres hijas/os, 9 tienen cuatro hijas/os y 11 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 5 hijas/os? {1:NUMERICAL:=0.2391:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 3 hijas/os? {1:NUMERICAL:=0.6522:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 5 hijas/os? {1:NUMERICAL:=0.3667:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R066 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 34 familias, 9
+de las cuales tiene un/a único/a
+hijo/a, 11 familias tienen dos hijas/os, 4 familias tienen tres hijas/os, 8 tienen cuatro hijas/os y 2 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 3 hijas/os? {1:NUMERICAL:=0.1176:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 2 hijas/os? {1:NUMERICAL:=0.7353:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 3 hijas/os? {1:NUMERICAL:=0.1412:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R067 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 45 familias, 8
+de las cuales tiene un/a único/a
+hijo/a, 10 familias tienen dos hijas/os, 15 familias tienen tres hijas/os, 5 tienen cuatro hijas/os y 7 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 5 hijas/os? {1:NUMERICAL:=0.1556:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 3 hijas/os? {1:NUMERICAL:=0.6:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 5 hijas/os? {1:NUMERICAL:=0.2734:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R068 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 45 familias, 5
+de las cuales tiene un/a único/a
+hijo/a, 6 familias tienen dos hijas/os, 10 familias tienen tres hijas/os, 15 tienen cuatro hijas/os y 9 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 5 hijas/os? {1:NUMERICAL:=0.2:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 2 hijas/os? {1:NUMERICAL:=0.8889:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 5 hijas/os? {1:NUMERICAL:=0.2961:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R069 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 36 familias, 3
+de las cuales tiene un/a único/a
+hijo/a, 5 familias tienen dos hijas/os, 2 familias tienen tres hijas/os, 12 tienen cuatro hijas/os y 14 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 2 hijas/os? {1:NUMERICAL:=0.1389:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 3 hijas/os? {1:NUMERICAL:=0.7778:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 2 hijas/os? {1:NUMERICAL:=0.073:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R070 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 51 familias, 13
+de las cuales tiene un/a único/a
+hijo/a, 12 familias tienen dos hijas/os, 11 familias tienen tres hijas/os, 7 tienen cuatro hijas/os y 8 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 5 hijas/os? {1:NUMERICAL:=0.1569:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 4 hijas/os? {1:NUMERICAL:=0.2941:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 5 hijas/os? {1:NUMERICAL:=0.2899:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R071 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 38 familias, 6
+de las cuales tiene un/a único/a
+hijo/a, 5 familias tienen dos hijas/os, 13 familias tienen tres hijas/os, 3 tienen cuatro hijas/os y 11 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 5 hijas/os? {1:NUMERICAL:=0.2895:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 4 hijas/os? {1:NUMERICAL:=0.3684:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 5 hijas/os? {1:NUMERICAL:=0.4508:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R072 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 52 familias, 2
+de las cuales tiene un/a único/a
+hijo/a, 12 familias tienen dos hijas/os, 13 familias tienen tres hijas/os, 15 tienen cuatro hijas/os y 10 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 3 hijas/os? {1:NUMERICAL:=0.25:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 3 hijas/os? {1:NUMERICAL:=0.7308:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 3 hijas/os? {1:NUMERICAL:=0.2229:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R073 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 42 familias, 13
+de las cuales tiene un/a único/a
+hijo/a, 7 familias tienen dos hijas/os, 15 familias tienen tres hijas/os, 2 tienen cuatro hijas/os y 5 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 5 hijas/os? {1:NUMERICAL:=0.119:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 4 hijas/os? {1:NUMERICAL:=0.1667:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 5 hijas/os? {1:NUMERICAL:=0.2381:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R074 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 36 familias, 7
+de las cuales tiene un/a único/a
+hijo/a, 3 familias tienen dos hijas/os, 11 familias tienen tres hijas/os, 5 tienen cuatro hijas/os y 10 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 3 hijas/os? {1:NUMERICAL:=0.3056:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 3 hijas/os? {1:NUMERICAL:=0.7222:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 3 hijas/os? {1:NUMERICAL:=0.2845:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R075 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 48 familias, 14
+de las cuales tiene un/a único/a
+hijo/a, 2 familias tienen dos hijas/os, 9 familias tienen tres hijas/os, 8 tienen cuatro hijas/os y 15 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 3 hijas/os? {1:NUMERICAL:=0.1875:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 3 hijas/os? {1:NUMERICAL:=0.6667:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 3 hijas/os? {1:NUMERICAL:=0.1776:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R076 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 54 familias, 14
+de las cuales tiene un/a único/a
+hijo/a, 13 familias tienen dos hijas/os, 7 familias tienen tres hijas/os, 9 tienen cuatro hijas/os y 11 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 3 hijas/os? {1:NUMERICAL:=0.1296:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 3 hijas/os? {1:NUMERICAL:=0.5:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 3 hijas/os? {1:NUMERICAL:=0.1382:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R077 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 27 familias, 2
+de las cuales tiene un/a único/a
+hijo/a, 6 familias tienen dos hijas/os, 8 familias tienen tres hijas/os, 7 tienen cuatro hijas/os y 4 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 5 hijas/os? {1:NUMERICAL:=0.1481:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 4 hijas/os? {1:NUMERICAL:=0.4074:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 5 hijas/os? {1:NUMERICAL:=0.2326:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R078 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 39 familias, 12
+de las cuales tiene un/a único/a
+hijo/a, 13 familias tienen dos hijas/os, 4 familias tienen tres hijas/os, 7 tienen cuatro hijas/os y 3 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 5 hijas/os? {1:NUMERICAL:=0.0769:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 2 hijas/os? {1:NUMERICAL:=0.6923:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 5 hijas/os? {1:NUMERICAL:=0.1613:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R079 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 49 familias, 13
+de las cuales tiene un/a único/a
+hijo/a, 11 familias tienen dos hijas/os, 12 familias tienen tres hijas/os, 3 tienen cuatro hijas/os y 10 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 3 hijas/os? {1:NUMERICAL:=0.2449:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 4 hijas/os? {1:NUMERICAL:=0.2653:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 3 hijas/os? {1:NUMERICAL:=0.2707:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R080 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 39 familias, 4
+de las cuales tiene un/a único/a
+hijo/a, 9 familias tienen dos hijas/os, 6 familias tienen tres hijas/os, 13 tienen cuatro hijas/os y 7 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 5 hijas/os? {1:NUMERICAL:=0.1795:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 4 hijas/os? {1:NUMERICAL:=0.5128:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 5 hijas/os? {1:NUMERICAL:=0.2756:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R081 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 43 familias, 9
+de las cuales tiene un/a único/a
+hijo/a, 14 familias tienen dos hijas/os, 13 familias tienen tres hijas/os, 4 tienen cuatro hijas/os y 3 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 2 hijas/os? {1:NUMERICAL:=0.3256:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 3 hijas/os? {1:NUMERICAL:=0.4651:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 2 hijas/os? {1:NUMERICAL:=0.2617:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R082 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 43 familias, 13
+de las cuales tiene un/a único/a
+hijo/a, 15 familias tienen dos hijas/os, 3 familias tienen tres hijas/os, 10 tienen cuatro hijas/os y 2 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 5 hijas/os? {1:NUMERICAL:=0.0465:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 2 hijas/os? {1:NUMERICAL:=0.6977:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 5 hijas/os? {1:NUMERICAL:=0.098:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R083 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 54 familias, 12
+de las cuales tiene un/a único/a
+hijo/a, 11 familias tienen dos hijas/os, 14 familias tienen tres hijas/os, 13 tienen cuatro hijas/os y 4 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 3 hijas/os? {1:NUMERICAL:=0.2593:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 4 hijas/os? {1:NUMERICAL:=0.3148:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 3 hijas/os? {1:NUMERICAL:=0.2838:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R084 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 40 familias, 11
+de las cuales tiene un/a único/a
+hijo/a, 10 familias tienen dos hijas/os, 4 familias tienen tres hijas/os, 8 tienen cuatro hijas/os y 7 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 3 hijas/os? {1:NUMERICAL:=0.1:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 3 hijas/os? {1:NUMERICAL:=0.475:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 3 hijas/os? {1:NUMERICAL:=0.1091:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R085 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 51 familias, 4
+de las cuales tiene un/a único/a
+hijo/a, 15 familias tienen dos hijas/os, 13 familias tienen tres hijas/os, 5 tienen cuatro hijas/os y 14 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 4 hijas/os? {1:NUMERICAL:=0.098:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 4 hijas/os? {1:NUMERICAL:=0.3725:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 4 hijas/os? {1:NUMERICAL:=0.1227:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R086 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 54 familias, 14
+de las cuales tiene un/a único/a
+hijo/a, 15 familias tienen dos hijas/os, 7 familias tienen tres hijas/os, 5 tienen cuatro hijas/os y 13 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 4 hijas/os? {1:NUMERICAL:=0.0926:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 4 hijas/os? {1:NUMERICAL:=0.3333:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 4 hijas/os? {1:NUMERICAL:=0.1333:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R087 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 48 familias, 12
+de las cuales tiene un/a único/a
+hijo/a, 10 familias tienen dos hijas/os, 7 familias tienen tres hijas/os, 11 tienen cuatro hijas/os y 8 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 2 hijas/os? {1:NUMERICAL:=0.2083:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 3 hijas/os? {1:NUMERICAL:=0.5417:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 2 hijas/os? {1:NUMERICAL:=0.146:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R088 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 52 familias, 13
+de las cuales tiene un/a único/a
+hijo/a, 15 familias tienen dos hijas/os, 8 familias tienen tres hijas/os, 11 tienen cuatro hijas/os y 5 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 5 hijas/os? {1:NUMERICAL:=0.0962:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 4 hijas/os? {1:NUMERICAL:=0.3077:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 5 hijas/os? {1:NUMERICAL:=0.1838:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R089 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 38 familias, 11
+de las cuales tiene un/a único/a
+hijo/a, 5 familias tienen dos hijas/os, 9 familias tienen tres hijas/os, 6 tienen cuatro hijas/os y 7 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 4 hijas/os? {1:NUMERICAL:=0.1579:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 2 hijas/os? {1:NUMERICAL:=0.7105:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 4 hijas/os? {1:NUMERICAL:=0.2243:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R090 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 41 familias, 7
+de las cuales tiene un/a único/a
+hijo/a, 9 familias tienen dos hijas/os, 2 familias tienen tres hijas/os, 11 tienen cuatro hijas/os y 12 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 5 hijas/os? {1:NUMERICAL:=0.2927:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 4 hijas/os? {1:NUMERICAL:=0.561:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 5 hijas/os? {1:NUMERICAL:=0.4444:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R091 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 45 familias, 4
+de las cuales tiene un/a único/a
+hijo/a, 11 familias tienen dos hijas/os, 9 familias tienen tres hijas/os, 7 tienen cuatro hijas/os y 14 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 4 hijas/os? {1:NUMERICAL:=0.1556:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 2 hijas/os? {1:NUMERICAL:=0.9111:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 4 hijas/os? {1:NUMERICAL:=0.1854:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R092 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 33 familias, 10
+de las cuales tiene un/a único/a
+hijo/a, 2 familias tienen dos hijas/os, 12 familias tienen tres hijas/os, 6 tienen cuatro hijas/os y 3 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 3 hijas/os? {1:NUMERICAL:=0.3636:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 2 hijas/os? {1:NUMERICAL:=0.697:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 3 hijas/os? {1:NUMERICAL:=0.4045:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R093 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 38 familias, 12
+de las cuales tiene un/a único/a
+hijo/a, 6 familias tienen dos hijas/os, 8 familias tienen tres hijas/os, 10 tienen cuatro hijas/os y 2 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 4 hijas/os? {1:NUMERICAL:=0.2632:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 3 hijas/os? {1:NUMERICAL:=0.5263:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 4 hijas/os? {1:NUMERICAL:=0.4082:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R094 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 45 familias, 2
+de las cuales tiene un/a único/a
+hijo/a, 10 familias tienen dos hijas/os, 7 familias tienen tres hijas/os, 14 tienen cuatro hijas/os y 12 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 5 hijas/os? {1:NUMERICAL:=0.2667:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 2 hijas/os? {1:NUMERICAL:=0.9556:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 5 hijas/os? {1:NUMERICAL:=0.3774:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R095 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 34 familias, 2
+de las cuales tiene un/a único/a
+hijo/a, 4 familias tienen dos hijas/os, 12 familias tienen tres hijas/os, 11 tienen cuatro hijas/os y 5 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 2 hijas/os? {1:NUMERICAL:=0.1176:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 2 hijas/os? {1:NUMERICAL:=0.9412:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 2 hijas/os? {1:NUMERICAL:=0.0696:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R096 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 41 familias, 13
+de las cuales tiene un/a único/a
+hijo/a, 6 familias tienen dos hijas/os, 3 familias tienen tres hijas/os, 12 tienen cuatro hijas/os y 7 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 2 hijas/os? {1:NUMERICAL:=0.1463:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 4 hijas/os? {1:NUMERICAL:=0.4634:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 2 hijas/os? {1:NUMERICAL:=0.1026:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R097 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 52 familias, 11
+de las cuales tiene un/a único/a
+hijo/a, 8 familias tienen dos hijas/os, 15 familias tienen tres hijas/os, 5 tienen cuatro hijas/os y 13 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 4 hijas/os? {1:NUMERICAL:=0.0962:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 2 hijas/os? {1:NUMERICAL:=0.7885:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 4 hijas/os? {1:NUMERICAL:=0.1274:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R098 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 39 familias, 8
+de las cuales tiene un/a único/a
+hijo/a, 5 familias tienen dos hijas/os, 13 familias tienen tres hijas/os, 2 tienen cuatro hijas/os y 11 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 2 hijas/os? {1:NUMERICAL:=0.1282:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 4 hijas/os? {1:NUMERICAL:=0.3333:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 2 hijas/os? {1:NUMERICAL:=0.0833:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R099 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 43 familias, 10
+de las cuales tiene un/a único/a
+hijo/a, 15 familias tienen dos hijas/os, 6 familias tienen tres hijas/os, 8 tienen cuatro hijas/os y 4 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 3 hijas/os? {1:NUMERICAL:=0.1395:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 2 hijas/os? {1:NUMERICAL:=0.7674:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 3 hijas/os? {1:NUMERICAL:=0.1636:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R100 Q1 : 1_hijos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_TAP_CalculoProbabilidadHijos]</strong></p>
+<p>Una pequeña comunidad escolar consta de 52 familias, 12
+de las cuales tiene un/a único/a
+hijo/a, 14 familias tienen dos hijas/os, 13 familias tienen tres hijas/os, 3 tienen cuatro hijas/os y 10 tiene 5 hijas/os.</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga 2 hijas/os? {1:NUMERICAL:=0.2692:0.01}</p>
+<p>Si se selecciona una familia al azar, ¿cuál es la probabilidad de que tenga al menos 4 hijas/os? {1:NUMERICAL:=0.25:0.01}</p>
+<p>Si se selecciona un niño al azar, ¿cuál es la probabilidad de que pertenezca a una familia con 2 hijas/os? {1:NUMERICAL:=0.1986:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+</quiz>
