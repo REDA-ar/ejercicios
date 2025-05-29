@@ -1,0 +1,4511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/UPR_PCI_ProbaCondicionalMamografia/UPR_PCI_ProbaCondicionalMamografia</text>
+</category>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R001 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.34\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(87\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.8\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0985:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1184:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R002 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.26\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(92\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.8\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0985:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1177:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R003 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.09\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(90\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.4\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0929:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1056:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R004 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.38\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(89\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.2\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0932:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1318:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R005 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.41\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(87\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.2\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0931:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1318:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R006 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.07\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(92\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.8\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0969:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1016:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R007 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.26\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(90\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.6\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0963:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1178:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R008 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.07\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(90\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.6\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0947:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1017:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R009 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.45\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(88\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.6\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0975:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1309:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R010 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.34\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(88\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.6\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0966:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1221:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R011 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.14\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(89\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.8\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0971:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1045:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R012 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.16\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(92\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.2\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0917:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1164:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R013 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.03\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(87\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.2\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0901:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.0995:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R014 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.4\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(91\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0916:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1391:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R015 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.38\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(90\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(9\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.1012:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1227:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R016 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.24\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(92\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.6\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0963:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1185:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R017 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.5\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(90\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.8\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.1002:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1347:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R018 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.14\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(90\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.6\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0953:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1077:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R019 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.19\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(87\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.2\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0914:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1133:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R020 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.05\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(91\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(9\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0986:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.0969:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R021 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(92\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.4\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0924:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.0996:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R022 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.22\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(90\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.09:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.122:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R023 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.43\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(90\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.4\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0957:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1345:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R024 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.43\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(92\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.6\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0979:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1344:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R025 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.26\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(91\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.6\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0964:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1189:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R026 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.22\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(90\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.2\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.092:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1193:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R027 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.16\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(90\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0895:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1166:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R028 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.45\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(92\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.8\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.1001:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1333:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R029 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.19\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(87\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0894:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1158:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R030 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.43\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(92\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.6\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0979:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1344:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R031 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.09\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(90\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(9\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0988:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.0993:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R032 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(91\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.4\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0923:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.0986:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R033 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.05\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(89\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(9\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0984:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.095:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R034 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.29\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(88\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.8\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0982:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1156:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R035 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.05\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(87\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(9\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0982:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.093:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R036 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.02\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(91\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0885:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1049:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R037 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.5\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(91\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.6\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0984:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1387:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R038 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(92\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.2\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0904:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1018:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R039 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.26\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(91\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.6\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0964:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1189:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R040 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.09\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(91\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.2\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.091:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.109:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R041 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.16\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(88\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0893:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1143:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R042 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.07\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(92\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.4\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0929:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.106:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R043 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.05\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(90\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.4\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0926:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1021:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R044 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.47\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(89\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(9\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.1018:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1285:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R045 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.02\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(87\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.6\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.094:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.0944:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R046 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.16\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(89\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.2\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0914:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.113:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R047 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.14\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(88\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.4\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0931:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1078:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R048 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.12\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(91\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.8\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0972:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1049:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R049 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.22\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(92\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.6\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0962:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1167:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R050 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.36\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(90\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.8\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.099:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1236:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R051 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.19\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(89\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.2\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0916:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1156:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R052 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.48\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(92\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.6\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0983:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1385:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R053 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.47\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(88\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0918:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1409:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R054 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.28\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(90\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.8\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0984:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1171:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R055 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.45\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(88\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.8\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0995:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1282:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R056 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.43\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(88\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.6\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0974:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1292:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R057 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.31\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(92\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.4\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.095:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1269:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R058 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.43\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(87\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.4\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0952:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1307:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R059 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.1\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(92\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(9\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0991:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1021:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R060 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.09\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(89\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.4\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0928:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1045:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R061 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.47\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(90\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.4\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.096:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1378:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R062 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.38\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(90\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.4\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0953:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1303:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R063 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.48\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(91\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(9\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.1021:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1319:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R064 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.33\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(92\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.6\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0971:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.126:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R065 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.17\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(89\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0895:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1163:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R066 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.09\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(88\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.8\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0966:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.0993:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R067 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.38\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(87\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(9\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.1008:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1191:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R068 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.19\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(90\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.2\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0917:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1168:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R069 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.45\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(90\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.6\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0978:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1334:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R070 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.45\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(88\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.6\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0975:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1309:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R071 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.21\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(91\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(9\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0999:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1102:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R072 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.31\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(87\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(9\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.1002:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1137:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R073 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.24\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(87\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(9\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0997:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1082:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R074 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.43\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(88\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.6\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0974:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1292:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R075 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.38\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(89\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.2\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0932:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1318:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R076 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.12\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(92\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.2\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0914:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1127:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R077 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(87\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0879:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.099:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R078 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.45\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(91\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.2\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.094:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1404:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R079 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.09\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(87\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.4\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0926:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1024:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R080 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.24\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(91\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0903:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.125:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R081 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.22\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(87\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.4\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0936:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1134:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R082 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.16\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(87\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0892:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1131:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R083 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.36\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(87\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.8\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0986:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.12:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R084 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.41\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(90\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0916:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1385:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R085 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.28\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(89\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.4\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0943:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1208:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R086 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.43\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(90\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0917:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1403:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R087 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.07\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(90\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.8\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0967:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.0996:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R088 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.02\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(89\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(9\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0982:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.0924:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R089 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(88\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(9\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0979:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.0899:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R090 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.1\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(88\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(9\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0987:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.0981:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R091 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.05\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(88\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.8\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0963:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.096:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R092 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.1\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(90\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.6\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.095:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1042:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R093 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(88\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.8\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0959:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.0918:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R094 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.47\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(89\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0919:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1424:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R095 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.14\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(91\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.8\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0974:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1065:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R096 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.1\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(89\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(9\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0988:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.0991:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R097 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.14\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(89\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.8\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0971:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1045:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R098 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.47\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(88\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.4\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0957:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1352:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R099 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.14\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(87\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.4\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.093:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1066:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R100 Q1 : 2_mamografia </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalMamografia]</strong></p>
+<p>Consideremos una población de mujeres mayores de <span class="math inline">\(50\)</span> años. Se tienen los siguientes datos:</p>
+<ul>
+<li>el <span class="math inline">\(1.45\)</span><span class="math inline">\(\%\)</span> tiene cáncer de mama.</li>
+<li>el <span class="math inline">\(87\)</span><span class="math inline">\(\%\)</span> de las que tienen cáncer de mama, dan positivo en las mamografías. Positivo no significa que efectivamente tengan cáncer.</li>
+<li>hay un <span class="math inline">\(8.6\)</span> <span class="math inline">\(\%\)</span> de falsos positivos. Falso positivo significa que el examen da positivo en una persona que sabemos que está sana.</li>
+</ul>
+<p>¿Cuál es la probabilidad de que a una de estas mujeres mayores de <span class="math inline">\(50\)</span> años le de positivo el resultado de la mamografía? {1:NUMERICAL:=0.0974:0.01}</p>
+<p>Hallar la probabilidad de que una de estas mujeres tenga cáncer, si tiene un resultado de mamografía positivo. {1:NUMERICAL:=0.1295:0.01}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+</quiz>

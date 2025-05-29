@@ -1,0 +1,4911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/UPR_PCI_ProbaCondicionalCaramelos/UPR_PCI_ProbaCondicionalCaramelos</text>
+</category>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R001 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(110\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(130\)</span> y la de Belgrano <span class="math inline">\(180\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.4 &amp;  0.6\\
+\text{Nuñez} &amp; 0.7 &amp;0.3\\
+\text{Belgrano} &amp; 0.7 &amp;0.3\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Palermo?</li>
+</ul>
+<p> {1:NUMERICAL:=0.1686:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R002 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(110\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(140\)</span> y la de Belgrano <span class="math inline">\(180\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.5 &amp;  0.5\\
+\text{Nuñez} &amp; 0.6 &amp;0.4\\
+\text{Belgrano} &amp; 0.7 &amp;0.3\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Palermo?</li>
+</ul>
+<p> {1:NUMERICAL:=0.2075:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R003 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(80\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(130\)</span> y la de Belgrano <span class="math inline">\(190\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.4 &amp;  0.6\\
+\text{Nuñez} &amp; 0.7 &amp;0.3\\
+\text{Belgrano} &amp; 0.7 &amp;0.3\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Nuñez?</li>
+</ul>
+<p> {1:NUMERICAL:=0.3555:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R004 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(80\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(160\)</span> y la de Belgrano <span class="math inline">\(190\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.3 &amp;  0.7\\
+\text{Nuñez} &amp; 0.6 &amp;0.4\\
+\text{Belgrano} &amp; 0.7 &amp;0.3\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Belgrano?</li>
+</ul>
+<p> {1:NUMERICAL:=0.5257:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R005 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(90\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(160\)</span> y la de Belgrano <span class="math inline">\(180\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.4 &amp;  0.6\\
+\text{Nuñez} &amp; 0.6 &amp;0.4\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Belgrano?</li>
+</ul>
+<p> {1:NUMERICAL:=0.5217:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R006 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(110\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(160\)</span> y la de Belgrano <span class="math inline">\(180\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.4 &amp;  0.6\\
+\text{Nuñez} &amp; 0.5 &amp;0.5\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Nuñez?</li>
+</ul>
+<p> {1:NUMERICAL:=0.2985:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R007 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(100\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(120\)</span> y la de Belgrano <span class="math inline">\(180\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.3 &amp;  0.7\\
+\text{Nuñez} &amp; 0.5 &amp;0.5\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Nuñez?</li>
+</ul>
+<p> {1:NUMERICAL:=0.2564:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R008 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(80\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(140\)</span> y la de Belgrano <span class="math inline">\(170\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.2 &amp;  0.8\\
+\text{Nuñez} &amp; 0.7 &amp;0.3\\
+\text{Belgrano} &amp; 0.7 &amp;0.3\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Nuñez?</li>
+</ul>
+<p> {1:NUMERICAL:=0.4206:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R009 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(110\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(130\)</span> y la de Belgrano <span class="math inline">\(180\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.2 &amp;  0.8\\
+\text{Nuñez} &amp; 0.7 &amp;0.3\\
+\text{Belgrano} &amp; 0.7 &amp;0.3\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Belgrano?</li>
+</ul>
+<p> {1:NUMERICAL:=0.5272:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R010 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(80\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(160\)</span> y la de Belgrano <span class="math inline">\(170\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.2 &amp;  0.8\\
+\text{Nuñez} &amp; 0.6 &amp;0.4\\
+\text{Belgrano} &amp; 0.7 &amp;0.3\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Belgrano?</li>
+</ul>
+<p> {1:NUMERICAL:=0.5152:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R011 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(80\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(120\)</span> y la de Belgrano <span class="math inline">\(190\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.4 &amp;  0.6\\
+\text{Nuñez} &amp; 0.6 &amp;0.4\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Belgrano?</li>
+</ul>
+<p> {1:NUMERICAL:=0.5938:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R012 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(90\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(120\)</span> y la de Belgrano <span class="math inline">\(180\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.4 &amp;  0.6\\
+\text{Nuñez} &amp; 0.5 &amp;0.5\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Nuñez?</li>
+</ul>
+<p> {1:NUMERICAL:=0.25:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R013 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(110\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(160\)</span> y la de Belgrano <span class="math inline">\(190\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.3 &amp;  0.7\\
+\text{Nuñez} &amp; 0.5 &amp;0.5\\
+\text{Belgrano} &amp; 0.7 &amp;0.3\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Palermo?</li>
+</ul>
+<p> {1:NUMERICAL:=0.1341:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R014 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(80\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(150\)</span> y la de Belgrano <span class="math inline">\(170\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.5 &amp;  0.5\\
+\text{Nuñez} &amp; 0.6 &amp;0.4\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Belgrano?</li>
+</ul>
+<p> {1:NUMERICAL:=0.5113:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R015 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(100\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(140\)</span> y la de Belgrano <span class="math inline">\(190\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.4 &amp;  0.6\\
+\text{Nuñez} &amp; 0.6 &amp;0.4\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Palermo?</li>
+</ul>
+<p> {1:NUMERICAL:=0.1449:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R016 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(100\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(130\)</span> y la de Belgrano <span class="math inline">\(190\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.3 &amp;  0.7\\
+\text{Nuñez} &amp; 0.6 &amp;0.4\\
+\text{Belgrano} &amp; 0.7 &amp;0.3\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Palermo?</li>
+</ul>
+<p> {1:NUMERICAL:=0.1245:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R017 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(100\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(150\)</span> y la de Belgrano <span class="math inline">\(190\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.2 &amp;  0.8\\
+\text{Nuñez} &amp; 0.6 &amp;0.4\\
+\text{Belgrano} &amp; 0.7 &amp;0.3\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Palermo?</li>
+</ul>
+<p> {1:NUMERICAL:=0.0823:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R018 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(100\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(150\)</span> y la de Belgrano <span class="math inline">\(180\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.5 &amp;  0.5\\
+\text{Nuñez} &amp; 0.7 &amp;0.3\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Belgrano?</li>
+</ul>
+<p> {1:NUMERICAL:=0.4816:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R019 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(110\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(140\)</span> y la de Belgrano <span class="math inline">\(170\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.3 &amp;  0.7\\
+\text{Nuñez} &amp; 0.6 &amp;0.4\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Belgrano?</li>
+</ul>
+<p> {1:NUMERICAL:=0.5375:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R020 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(110\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(130\)</span> y la de Belgrano <span class="math inline">\(170\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.4 &amp;  0.6\\
+\text{Nuñez} &amp; 0.5 &amp;0.5\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Belgrano?</li>
+</ul>
+<p> {1:NUMERICAL:=0.5551:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R021 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(100\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(130\)</span> y la de Belgrano <span class="math inline">\(170\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.4 &amp;  0.6\\
+\text{Nuñez} &amp; 0.6 &amp;0.4\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Nuñez?</li>
+</ul>
+<p> {1:NUMERICAL:=0.3071:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R022 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(90\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(140\)</span> y la de Belgrano <span class="math inline">\(180\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.5 &amp;  0.5\\
+\text{Nuñez} &amp; 0.5 &amp;0.5\\
+\text{Belgrano} &amp; 0.7 &amp;0.3\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Nuñez?</li>
+</ul>
+<p> {1:NUMERICAL:=0.2905:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R023 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(110\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(120\)</span> y la de Belgrano <span class="math inline">\(180\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.3 &amp;  0.7\\
+\text{Nuñez} &amp; 0.6 &amp;0.4\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Belgrano?</li>
+</ul>
+<p> {1:NUMERICAL:=0.5783:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R024 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(110\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(140\)</span> y la de Belgrano <span class="math inline">\(180\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.3 &amp;  0.7\\
+\text{Nuñez} &amp; 0.6 &amp;0.4\\
+\text{Belgrano} &amp; 0.7 &amp;0.3\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Palermo?</li>
+</ul>
+<p> {1:NUMERICAL:=0.1358:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R025 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(80\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(120\)</span> y la de Belgrano <span class="math inline">\(190\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.3 &amp;  0.7\\
+\text{Nuñez} &amp; 0.7 &amp;0.3\\
+\text{Belgrano} &amp; 0.7 &amp;0.3\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Palermo?</li>
+</ul>
+<p> {1:NUMERICAL:=0.0996:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R026 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(80\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(160\)</span> y la de Belgrano <span class="math inline">\(180\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.5 &amp;  0.5\\
+\text{Nuñez} &amp; 0.5 &amp;0.5\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Palermo?</li>
+</ul>
+<p> {1:NUMERICAL:=0.1515:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R027 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(80\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(120\)</span> y la de Belgrano <span class="math inline">\(180\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.5 &amp;  0.5\\
+\text{Nuñez} &amp; 0.7 &amp;0.3\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Nuñez?</li>
+</ul>
+<p> {1:NUMERICAL:=0.3134:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R028 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(110\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(140\)</span> y la de Belgrano <span class="math inline">\(170\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.5 &amp;  0.5\\
+\text{Nuñez} &amp; 0.6 &amp;0.4\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Belgrano?</li>
+</ul>
+<p> {1:NUMERICAL:=0.4945:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R029 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(110\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(140\)</span> y la de Belgrano <span class="math inline">\(180\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.3 &amp;  0.7\\
+\text{Nuñez} &amp; 0.7 &amp;0.3\\
+\text{Belgrano} &amp; 0.7 &amp;0.3\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Belgrano?</li>
+</ul>
+<p> {1:NUMERICAL:=0.4903:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R030 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(100\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(150\)</span> y la de Belgrano <span class="math inline">\(170\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.2 &amp;  0.8\\
+\text{Nuñez} &amp; 0.6 &amp;0.4\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Belgrano?</li>
+</ul>
+<p> {1:NUMERICAL:=0.5528:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R031 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(90\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(140\)</span> y la de Belgrano <span class="math inline">\(190\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.3 &amp;  0.7\\
+\text{Nuñez} &amp; 0.7 &amp;0.3\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Nuñez?</li>
+</ul>
+<p> {1:NUMERICAL:=0.3538:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R032 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(80\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(160\)</span> y la de Belgrano <span class="math inline">\(180\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.3 &amp;  0.7\\
+\text{Nuñez} &amp; 0.5 &amp;0.5\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Belgrano?</li>
+</ul>
+<p> {1:NUMERICAL:=0.5806:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R033 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(80\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(160\)</span> y la de Belgrano <span class="math inline">\(180\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.5 &amp;  0.5\\
+\text{Nuñez} &amp; 0.6 &amp;0.4\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Belgrano?</li>
+</ul>
+<p> {1:NUMERICAL:=0.5143:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R034 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(100\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(130\)</span> y la de Belgrano <span class="math inline">\(170\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.3 &amp;  0.7\\
+\text{Nuñez} &amp; 0.5 &amp;0.5\\
+\text{Belgrano} &amp; 0.7 &amp;0.3\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Palermo?</li>
+</ul>
+<p> {1:NUMERICAL:=0.1402:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R035 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(90\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(120\)</span> y la de Belgrano <span class="math inline">\(190\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.3 &amp;  0.7\\
+\text{Nuñez} &amp; 0.5 &amp;0.5\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Palermo?</li>
+</ul>
+<p> {1:NUMERICAL:=0.113:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R036 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(90\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(160\)</span> y la de Belgrano <span class="math inline">\(170\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.5 &amp;  0.5\\
+\text{Nuñez} &amp; 0.6 &amp;0.4\\
+\text{Belgrano} &amp; 0.7 &amp;0.3\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Nuñez?</li>
+</ul>
+<p> {1:NUMERICAL:=0.3692:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R037 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(90\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(140\)</span> y la de Belgrano <span class="math inline">\(170\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.5 &amp;  0.5\\
+\text{Nuñez} &amp; 0.6 &amp;0.4\\
+\text{Belgrano} &amp; 0.7 &amp;0.3\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Belgrano?</li>
+</ul>
+<p> {1:NUMERICAL:=0.4798:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R038 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(100\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(120\)</span> y la de Belgrano <span class="math inline">\(180\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.3 &amp;  0.7\\
+\text{Nuñez} &amp; 0.6 &amp;0.4\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Belgrano?</li>
+</ul>
+<p> {1:NUMERICAL:=0.5854:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R039 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(110\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(120\)</span> y la de Belgrano <span class="math inline">\(180\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.3 &amp;  0.7\\
+\text{Nuñez} &amp; 0.6 &amp;0.4\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Belgrano?</li>
+</ul>
+<p> {1:NUMERICAL:=0.5783:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R040 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(100\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(120\)</span> y la de Belgrano <span class="math inline">\(190\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.2 &amp;  0.8\\
+\text{Nuñez} &amp; 0.5 &amp;0.5\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Nuñez?</li>
+</ul>
+<p> {1:NUMERICAL:=0.2586:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R041 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(90\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(140\)</span> y la de Belgrano <span class="math inline">\(190\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.5 &amp;  0.5\\
+\text{Nuñez} &amp; 0.6 &amp;0.4\\
+\text{Belgrano} &amp; 0.7 &amp;0.3\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Palermo?</li>
+</ul>
+<p> {1:NUMERICAL:=0.1718:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R042 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(80\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(140\)</span> y la de Belgrano <span class="math inline">\(170\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.5 &amp;  0.5\\
+\text{Nuñez} &amp; 0.7 &amp;0.3\\
+\text{Belgrano} &amp; 0.7 &amp;0.3\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Palermo?</li>
+</ul>
+<p> {1:NUMERICAL:=0.1556:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R043 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(110\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(130\)</span> y la de Belgrano <span class="math inline">\(170\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.3 &amp;  0.7\\
+\text{Nuñez} &amp; 0.6 &amp;0.4\\
+\text{Belgrano} &amp; 0.7 &amp;0.3\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Nuñez?</li>
+</ul>
+<p> {1:NUMERICAL:=0.3391:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R044 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(80\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(140\)</span> y la de Belgrano <span class="math inline">\(180\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.2 &amp;  0.8\\
+\text{Nuñez} &amp; 0.7 &amp;0.3\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Belgrano?</li>
+</ul>
+<p> {1:NUMERICAL:=0.5581:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R045 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(100\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(130\)</span> y la de Belgrano <span class="math inline">\(190\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.3 &amp;  0.7\\
+\text{Nuñez} &amp; 0.6 &amp;0.4\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Nuñez?</li>
+</ul>
+<p> {1:NUMERICAL:=0.3:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R046 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(80\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(150\)</span> y la de Belgrano <span class="math inline">\(190\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.2 &amp;  0.8\\
+\text{Nuñez} &amp; 0.7 &amp;0.3\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Nuñez?</li>
+</ul>
+<p> {1:NUMERICAL:=0.3846:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R047 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(80\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(150\)</span> y la de Belgrano <span class="math inline">\(170\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.3 &amp;  0.7\\
+\text{Nuñez} &amp; 0.6 &amp;0.4\\
+\text{Belgrano} &amp; 0.7 &amp;0.3\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Palermo?</li>
+</ul>
+<p> {1:NUMERICAL:=0.103:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R048 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(80\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(150\)</span> y la de Belgrano <span class="math inline">\(170\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.2 &amp;  0.8\\
+\text{Nuñez} &amp; 0.5 &amp;0.5\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Nuñez?</li>
+</ul>
+<p> {1:NUMERICAL:=0.3304:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R049 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(110\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(140\)</span> y la de Belgrano <span class="math inline">\(170\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.4 &amp;  0.6\\
+\text{Nuñez} &amp; 0.5 &amp;0.5\\
+\text{Belgrano} &amp; 0.7 &amp;0.3\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Nuñez?</li>
+</ul>
+<p> {1:NUMERICAL:=0.3004:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R050 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(80\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(130\)</span> y la de Belgrano <span class="math inline">\(170\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.3 &amp;  0.7\\
+\text{Nuñez} &amp; 0.6 &amp;0.4\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Nuñez?</li>
+</ul>
+<p> {1:NUMERICAL:=0.3277:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R051 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(90\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(130\)</span> y la de Belgrano <span class="math inline">\(180\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.3 &amp;  0.7\\
+\text{Nuñez} &amp; 0.7 &amp;0.3\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Nuñez?</li>
+</ul>
+<p> {1:NUMERICAL:=0.3473:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R052 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(100\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(140\)</span> y la de Belgrano <span class="math inline">\(190\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.5 &amp;  0.5\\
+\text{Nuñez} &amp; 0.6 &amp;0.4\\
+\text{Belgrano} &amp; 0.7 &amp;0.3\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Nuñez?</li>
+</ul>
+<p> {1:NUMERICAL:=0.3146:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R053 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(100\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(130\)</span> y la de Belgrano <span class="math inline">\(180\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.4 &amp;  0.6\\
+\text{Nuñez} &amp; 0.6 &amp;0.4\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Palermo?</li>
+</ul>
+<p> {1:NUMERICAL:=0.1527:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R054 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(80\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(130\)</span> y la de Belgrano <span class="math inline">\(180\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.5 &amp;  0.5\\
+\text{Nuñez} &amp; 0.6 &amp;0.4\\
+\text{Belgrano} &amp; 0.7 &amp;0.3\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Belgrano?</li>
+</ul>
+<p> {1:NUMERICAL:=0.5164:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R055 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(90\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(150\)</span> y la de Belgrano <span class="math inline">\(170\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.3 &amp;  0.7\\
+\text{Nuñez} &amp; 0.7 &amp;0.3\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Belgrano?</li>
+</ul>
+<p> {1:NUMERICAL:=0.5075:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R056 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(110\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(140\)</span> y la de Belgrano <span class="math inline">\(170\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.5 &amp;  0.5\\
+\text{Nuñez} &amp; 0.6 &amp;0.4\\
+\text{Belgrano} &amp; 0.7 &amp;0.3\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Nuñez?</li>
+</ul>
+<p> {1:NUMERICAL:=0.3256:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R057 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(80\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(150\)</span> y la de Belgrano <span class="math inline">\(180\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.3 &amp;  0.7\\
+\text{Nuñez} &amp; 0.7 &amp;0.3\\
+\text{Belgrano} &amp; 0.7 &amp;0.3\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Belgrano?</li>
+</ul>
+<p> {1:NUMERICAL:=0.4941:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R058 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(90\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(150\)</span> y la de Belgrano <span class="math inline">\(170\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.5 &amp;  0.5\\
+\text{Nuñez} &amp; 0.7 &amp;0.3\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Palermo?</li>
+</ul>
+<p> {1:NUMERICAL:=0.1573:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R059 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(90\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(160\)</span> y la de Belgrano <span class="math inline">\(180\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.4 &amp;  0.6\\
+\text{Nuñez} &amp; 0.7 &amp;0.3\\
+\text{Belgrano} &amp; 0.7 &amp;0.3\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Palermo?</li>
+</ul>
+<p> {1:NUMERICAL:=0.1314:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R060 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(100\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(150\)</span> y la de Belgrano <span class="math inline">\(180\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.2 &amp;  0.8\\
+\text{Nuñez} &amp; 0.7 &amp;0.3\\
+\text{Belgrano} &amp; 0.7 &amp;0.3\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Nuñez?</li>
+</ul>
+<p> {1:NUMERICAL:=0.4183:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R061 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(90\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(130\)</span> y la de Belgrano <span class="math inline">\(190\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.5 &amp;  0.5\\
+\text{Nuñez} &amp; 0.5 &amp;0.5\\
+\text{Belgrano} &amp; 0.7 &amp;0.3\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Palermo?</li>
+</ul>
+<p> {1:NUMERICAL:=0.1852:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R062 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(100\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(140\)</span> y la de Belgrano <span class="math inline">\(190\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.5 &amp;  0.5\\
+\text{Nuñez} &amp; 0.6 &amp;0.4\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Belgrano?</li>
+</ul>
+<p> {1:NUMERICAL:=0.5315:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R063 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(80\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(140\)</span> y la de Belgrano <span class="math inline">\(170\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.5 &amp;  0.5\\
+\text{Nuñez} &amp; 0.5 &amp;0.5\\
+\text{Belgrano} &amp; 0.7 &amp;0.3\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Palermo?</li>
+</ul>
+<p> {1:NUMERICAL:=0.1747:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R064 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(80\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(120\)</span> y la de Belgrano <span class="math inline">\(190\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.2 &amp;  0.8\\
+\text{Nuñez} &amp; 0.5 &amp;0.5\\
+\text{Belgrano} &amp; 0.7 &amp;0.3\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Nuñez?</li>
+</ul>
+<p> {1:NUMERICAL:=0.2871:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R065 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(100\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(140\)</span> y la de Belgrano <span class="math inline">\(170\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.4 &amp;  0.6\\
+\text{Nuñez} &amp; 0.7 &amp;0.3\\
+\text{Belgrano} &amp; 0.7 &amp;0.3\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Belgrano?</li>
+</ul>
+<p> {1:NUMERICAL:=0.463:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R066 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(90\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(120\)</span> y la de Belgrano <span class="math inline">\(190\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.4 &amp;  0.6\\
+\text{Nuñez} &amp; 0.6 &amp;0.4\\
+\text{Belgrano} &amp; 0.7 &amp;0.3\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Nuñez?</li>
+</ul>
+<p> {1:NUMERICAL:=0.2988:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R067 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(110\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(120\)</span> y la de Belgrano <span class="math inline">\(180\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.4 &amp;  0.6\\
+\text{Nuñez} &amp; 0.5 &amp;0.5\\
+\text{Belgrano} &amp; 0.7 &amp;0.3\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Nuñez?</li>
+</ul>
+<p> {1:NUMERICAL:=0.2609:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R068 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(80\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(150\)</span> y la de Belgrano <span class="math inline">\(190\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.3 &amp;  0.7\\
+\text{Nuñez} &amp; 0.7 &amp;0.3\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Belgrano?</li>
+</ul>
+<p> {1:NUMERICAL:=0.5409:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R069 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(80\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(120\)</span> y la de Belgrano <span class="math inline">\(180\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.5 &amp;  0.5\\
+\text{Nuñez} &amp; 0.6 &amp;0.4\\
+\text{Belgrano} &amp; 0.7 &amp;0.3\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Belgrano?</li>
+</ul>
+<p> {1:NUMERICAL:=0.5294:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R070 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(90\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(140\)</span> y la de Belgrano <span class="math inline">\(170\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.5 &amp;  0.5\\
+\text{Nuñez} &amp; 0.5 &amp;0.5\\
+\text{Belgrano} &amp; 0.7 &amp;0.3\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Palermo?</li>
+</ul>
+<p> {1:NUMERICAL:=0.1923:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R071 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(100\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(160\)</span> y la de Belgrano <span class="math inline">\(170\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.5 &amp;  0.5\\
+\text{Nuñez} &amp; 0.7 &amp;0.3\\
+\text{Belgrano} &amp; 0.7 &amp;0.3\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Palermo?</li>
+</ul>
+<p> {1:NUMERICAL:=0.1779:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R072 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(80\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(130\)</span> y la de Belgrano <span class="math inline">\(190\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.2 &amp;  0.8\\
+\text{Nuñez} &amp; 0.6 &amp;0.4\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Nuñez?</li>
+</ul>
+<p> {1:NUMERICAL:=0.3171:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R073 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(100\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(120\)</span> y la de Belgrano <span class="math inline">\(180\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.2 &amp;  0.8\\
+\text{Nuñez} &amp; 0.5 &amp;0.5\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Palermo?</li>
+</ul>
+<p> {1:NUMERICAL:=0.0893:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R074 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(90\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(160\)</span> y la de Belgrano <span class="math inline">\(170\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.3 &amp;  0.7\\
+\text{Nuñez} &amp; 0.5 &amp;0.5\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Belgrano?</li>
+</ul>
+<p> {1:NUMERICAL:=0.5597:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R075 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(90\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(120\)</span> y la de Belgrano <span class="math inline">\(180\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.5 &amp;  0.5\\
+\text{Nuñez} &amp; 0.5 &amp;0.5\\
+\text{Belgrano} &amp; 0.7 &amp;0.3\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Palermo?</li>
+</ul>
+<p> {1:NUMERICAL:=0.1948:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R076 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(110\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(140\)</span> y la de Belgrano <span class="math inline">\(190\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.3 &amp;  0.7\\
+\text{Nuñez} &amp; 0.7 &amp;0.3\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Palermo?</li>
+</ul>
+<p> {1:NUMERICAL:=0.1166:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R077 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(110\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(150\)</span> y la de Belgrano <span class="math inline">\(180\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.5 &amp;  0.5\\
+\text{Nuñez} &amp; 0.6 &amp;0.4\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Nuñez?</li>
+</ul>
+<p> {1:NUMERICAL:=0.3114:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R078 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(80\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(150\)</span> y la de Belgrano <span class="math inline">\(170\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.4 &amp;  0.6\\
+\text{Nuñez} &amp; 0.7 &amp;0.3\\
+\text{Belgrano} &amp; 0.7 &amp;0.3\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Belgrano?</li>
+</ul>
+<p> {1:NUMERICAL:=0.4648:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R079 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(100\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(120\)</span> y la de Belgrano <span class="math inline">\(190\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.3 &amp;  0.7\\
+\text{Nuñez} &amp; 0.6 &amp;0.4\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Palermo?</li>
+</ul>
+<p> {1:NUMERICAL:=0.1181:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R080 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(110\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(150\)</span> y la de Belgrano <span class="math inline">\(180\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.4 &amp;  0.6\\
+\text{Nuñez} &amp; 0.5 &amp;0.5\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Palermo?</li>
+</ul>
+<p> {1:NUMERICAL:=0.1673:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R081 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(110\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(130\)</span> y la de Belgrano <span class="math inline">\(180\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.3 &amp;  0.7\\
+\text{Nuñez} &amp; 0.7 &amp;0.3\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Palermo?</li>
+</ul>
+<p> {1:NUMERICAL:=0.1231:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R082 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(80\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(120\)</span> y la de Belgrano <span class="math inline">\(170\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.3 &amp;  0.7\\
+\text{Nuñez} &amp; 0.6 &amp;0.4\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Palermo?</li>
+</ul>
+<p> {1:NUMERICAL:=0.1034:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R083 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(90\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(150\)</span> y la de Belgrano <span class="math inline">\(190\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.3 &amp;  0.7\\
+\text{Nuñez} &amp; 0.5 &amp;0.5\\
+\text{Belgrano} &amp; 0.7 &amp;0.3\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Palermo?</li>
+</ul>
+<p> {1:NUMERICAL:=0.1149:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R084 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(80\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(140\)</span> y la de Belgrano <span class="math inline">\(190\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.3 &amp;  0.7\\
+\text{Nuñez} &amp; 0.6 &amp;0.4\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Nuñez?</li>
+</ul>
+<p> {1:NUMERICAL:=0.3231:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R085 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(80\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(130\)</span> y la de Belgrano <span class="math inline">\(180\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.2 &amp;  0.8\\
+\text{Nuñez} &amp; 0.7 &amp;0.3\\
+\text{Belgrano} &amp; 0.7 &amp;0.3\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Nuñez?</li>
+</ul>
+<p> {1:NUMERICAL:=0.3906:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R086 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(100\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(160\)</span> y la de Belgrano <span class="math inline">\(170\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.2 &amp;  0.8\\
+\text{Nuñez} &amp; 0.7 &amp;0.3\\
+\text{Belgrano} &amp; 0.7 &amp;0.3\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Nuñez?</li>
+</ul>
+<p> {1:NUMERICAL:=0.4462:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R087 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(110\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(140\)</span> y la de Belgrano <span class="math inline">\(190\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.2 &amp;  0.8\\
+\text{Nuñez} &amp; 0.7 &amp;0.3\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Nuñez?</li>
+</ul>
+<p> {1:NUMERICAL:=0.3603:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R088 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(100\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(160\)</span> y la de Belgrano <span class="math inline">\(190\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.3 &amp;  0.7\\
+\text{Nuñez} &amp; 0.7 &amp;0.3\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Belgrano?</li>
+</ul>
+<p> {1:NUMERICAL:=0.517:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R089 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(110\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(130\)</span> y la de Belgrano <span class="math inline">\(170\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.5 &amp;  0.5\\
+\text{Nuñez} &amp; 0.6 &amp;0.4\\
+\text{Belgrano} &amp; 0.7 &amp;0.3\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Belgrano?</li>
+</ul>
+<p> {1:NUMERICAL:=0.4722:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R090 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(90\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(120\)</span> y la de Belgrano <span class="math inline">\(180\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.2 &amp;  0.8\\
+\text{Nuñez} &amp; 0.7 &amp;0.3\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Belgrano?</li>
+</ul>
+<p> {1:NUMERICAL:=0.5854:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R091 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(80\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(150\)</span> y la de Belgrano <span class="math inline">\(190\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.4 &amp;  0.6\\
+\text{Nuñez} &amp; 0.7 &amp;0.3\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Belgrano?</li>
+</ul>
+<p> {1:NUMERICAL:=0.526:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R092 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(110\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(140\)</span> y la de Belgrano <span class="math inline">\(170\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.4 &amp;  0.6\\
+\text{Nuñez} &amp; 0.7 &amp;0.3\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Nuñez?</li>
+</ul>
+<p> {1:NUMERICAL:=0.3525:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R093 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(80\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(150\)</span> y la de Belgrano <span class="math inline">\(190\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.5 &amp;  0.5\\
+\text{Nuñez} &amp; 0.5 &amp;0.5\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Palermo?</li>
+</ul>
+<p> {1:NUMERICAL:=0.1498:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R094 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(110\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(160\)</span> y la de Belgrano <span class="math inline">\(180\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.4 &amp;  0.6\\
+\text{Nuñez} &amp; 0.7 &amp;0.3\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Belgrano?</li>
+</ul>
+<p> {1:NUMERICAL:=0.48:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R095 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(110\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(160\)</span> y la de Belgrano <span class="math inline">\(170\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.4 &amp;  0.6\\
+\text{Nuñez} &amp; 0.7 &amp;0.3\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Palermo?</li>
+</ul>
+<p> {1:NUMERICAL:=0.1507:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R096 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(100\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(140\)</span> y la de Belgrano <span class="math inline">\(170\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.3 &amp;  0.7\\
+\text{Nuñez} &amp; 0.6 &amp;0.4\\
+\text{Belgrano} &amp; 0.8 &amp;0.2\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Belgrano?</li>
+</ul>
+<p> {1:NUMERICAL:=0.544:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R097 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(90\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(130\)</span> y la de Belgrano <span class="math inline">\(180\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.4 &amp;  0.6\\
+\text{Nuñez} &amp; 0.6 &amp;0.4\\
+\text{Belgrano} &amp; 0.7 &amp;0.3\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Palermo?</li>
+</ul>
+<p> {1:NUMERICAL:=0.15:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R098 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(110\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(120\)</span> y la de Belgrano <span class="math inline">\(190\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.3 &amp;  0.7\\
+\text{Nuñez} &amp; 0.6 &amp;0.4\\
+\text{Belgrano} &amp; 0.7 &amp;0.3\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Nuñez?</li>
+</ul>
+<p> {1:NUMERICAL:=0.3025:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R099 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(100\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(140\)</span> y la de Belgrano <span class="math inline">\(180\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.2 &amp;  0.8\\
+\text{Nuñez} &amp; 0.5 &amp;0.5\\
+\text{Belgrano} &amp; 0.7 &amp;0.3\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Nuñez?</li>
+</ul>
+<p> {1:NUMERICAL:=0.3241:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R100 Q1 : 3_caramelos </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PCI_ProbaCondicionalCaramelos]</strong></p>
+<p>Una fabrica de caramelos tiene 3 sucursales. La sucursal de Palermo fabrica <span class="math inline">\(110\)</span> caramelos por día, la sucursal de Nuñez <span class="math inline">\(160\)</span> y la de Belgrano <span class="math inline">\(170\)</span>. Todas las sucursales fabrican caramelos de frutilla y de limón según las siguientes proporciones:</p>
+<span class="math display">\[\begin{array}{c|c}
+\text{maquina} &amp; \text{frutilla}&amp; \text{limón}\\
+\hline
+\text{Palermo} &amp; 0.5 &amp;  0.5\\
+\text{Nuñez} &amp; 0.6 &amp;0.4\\
+\text{Belgrano} &amp; 0.7 &amp;0.3\\
+\end{array}\]</span>
+<ul>
+<li>Si una persona acaba de comprar un caramelo de frutilla producido por esta fábrica. ¿Cuál es la probabilidad de que lo haya fabricado la sucursal de Belgrano?</li>
+</ul>
+<p> {1:NUMERICAL:=0.4407:0.001}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+</question>
+
+</quiz>

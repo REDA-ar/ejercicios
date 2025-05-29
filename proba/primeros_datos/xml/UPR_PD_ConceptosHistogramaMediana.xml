@@ -1,0 +1,4111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/UPR_PD_ConceptosHistogramaMediana/UPR_PD_ConceptosHistogramaMediana</text>
+</category>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R001 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=23\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>65.02, 65.02, 67.14, 67.32, 68.02, 68.1, 68.1, 68.66, 69.41, 69.46, 69.94, 70.17, 70.35, 70.75, 71.22, 71.35, 71.58, 72.49, 72.99, 73.94, 74.23, 74.39, 76.39</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=70.17:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([72, 74)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.0652174:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R002 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=29\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>60.81, 63.71, 64.01, 65.59, 66.89, 67.18, 67.25, 68.13, 68.31, 68.88, 68.92, 69.07, 69.28, 69.3, 70.82, 70.97, 71.03, 71.91, 71.94, 72.12, 72.21, 72.49, 72.74, 73.06, 73.15, 73.68, 74.02, 74.14, 77.24</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=70.82:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([64, 66)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.0344828:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R003 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=25\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>64.23, 64.61, 65.54, 66.47, 68.19, 68.42, 68.43, 68.6, 68.65, 68.73, 69, 70.03, 71.04, 71.11, 71.35, 71.41, 71.42, 71.94, 72.16, 72.69, 73.53, 74.02, 74.99, 75.15, 78.66</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=71.04:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([72, 74)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.06:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R004 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=29\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>62.66, 62.83, 66.67, 67.52, 67.95, 68.2, 68.22, 68.31, 68.35, 68.54, 68.61, 68.81, 69.01, 69.21, 69.24, 69.66, 69.98, 70.29, 70.34, 71.06, 71.19, 71.26, 71.62, 71.88, 72.47, 73.25, 73.68, 73.99, 75.55</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=69.24:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([72, 74)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.0689655:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R005 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=27\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>64.3, 66.58, 67.11, 67.57, 68.49, 68.79, 69.21, 69.41, 69.64, 69.71, 69.81, 70.17, 70.34, 70.4, 70.44, 70.96, 71.24, 71.39, 71.42, 71.49, 72.13, 72.48, 72.71, 74.14, 74.16, 75.32, 75.61</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=70.4:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([72, 74)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.0555556:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R006 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=29\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>63.72, 67.11, 67.52, 67.66, 67.75, 67.77, 67.92, 68.66, 68.75, 68.81, 68.92, 69.12, 69.13, 69.14, 69.48, 69.76, 70.09, 70.67, 70.74, 71.28, 71.36, 71.38, 71.72, 73.01, 73.25, 73.54, 73.6, 74.62, 76.78</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=69.48:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([74, 76)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.0172414:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R007 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=23\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>66.2, 66.31, 66.59, 67.32, 67.63, 68.43, 68.6, 68.75, 68.78, 69.08, 69.72, 69.82, 70, 70.02, 70.16, 70.34, 70.64, 72.18, 72.33, 72.39, 72.56, 73.05, 74.01</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=69.82:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([74, 75)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.0434783:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R008 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=31\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>63.1, 64.3, 66.24, 66.64, 66.82, 66.86, 67.37, 67.9, 67.97, 68.05, 68.08, 68.1, 68.13, 68.53, 69.12, 69.52, 69.52, 69.76, 69.84, 69.99, 70.4, 70.53, 70.71, 71.08, 71.71, 72.38, 73.14, 73.53, 74.28, 74.37, 74.86</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=69.52:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([70, 72)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.0806452:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R009 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=21\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>63.59, 65.62, 66.08, 67.03, 67.59, 67.88, 67.96, 68.15, 70.28, 70.35, 70.51, 70.62, 71.11, 71.13, 71.51, 71.8, 72.09, 72.11, 72.33, 74.25, 74.74</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=70.51:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([68, 70)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.0238095:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R010 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=25\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>64.59, 64.71, 65.54, 66.77, 68.03, 68.22, 68.84, 69.52, 69.63, 69.75, 69.82, 69.87, 70.01, 70.07, 70.13, 70.38, 70.41, 70.56, 71.84, 72.05, 72.46, 72.74, 72.78, 73.51, 74.88</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=70.01:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([66, 68)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.02:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R011 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=27\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>63.65, 65.08, 66.02, 66.63, 68.08, 68.24, 68.5, 69.04, 69.57, 69.69, 69.72, 70.46, 70.76, 71.2, 71.77, 71.98, 72.19, 72.51, 72.55, 72.6, 72.86, 73.22, 73.54, 75.55, 76.16, 76.85, 82.4</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=71.2:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([80, 85)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.0074074:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R012 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=29\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>66.33, 66.63, 67.26, 67.29, 67.43, 67.9, 68.31, 68.95, 69.29, 69.83, 70.02, 70.25, 70.25, 70.26, 70.51, 70.81, 71.14, 71.82, 71.83, 71.99, 73.19, 73.23, 74.29, 74.66, 75.4, 75.42, 75.69, 75.78, 76.77</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=70.51:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([74, 76)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.1034483:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R013 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=27\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>64.31, 65.62, 65.75, 65.95, 66.01, 66.19, 67.3, 67.87, 69, 69.13, 69.31, 69.37, 69.82, 69.99, 70.23, 70.23, 70.68, 71.92, 72.24, 72.54, 72.55, 72.58, 73, 73.2, 73.99, 75.12, 77.16</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=69.99:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([70, 72)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.0740741:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R014 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=31\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>64.25, 65.17, 65.47, 65.64, 66.49, 67.17, 67.28, 68.07, 68.12, 68.5, 68.54, 68.71, 69.07, 69.12, 69.2, 69.23, 69.33, 69.37, 69.71, 69.83, 70.56, 70.59, 70.68, 71.27, 71.47, 72.54, 73.29, 73.54, 73.63, 74.18, 75.04</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=69.23:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([74, 76)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.0322581:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R015 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=25\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>63.72, 65.5, 67.7, 67.98, 68.28, 68.59, 68.65, 68.96, 69.27, 69.55, 69.59, 69.76, 70.26, 70.3, 70.5, 70.67, 70.93, 71.05, 71.64, 72, 72.67, 73.66, 74.34, 74.84, 75.26</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=70.26:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([70, 72)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.16:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R016 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=25\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>61.57, 62.61, 66.45, 67.5, 68.76, 69.13, 69.6, 69.75, 70.08, 70.2, 70.33, 70.57, 71.07, 71.1, 71.25, 71.74, 71.95, 71.96, 72.16, 72.52, 73, 73.05, 73.75, 73.94, 76.74</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=71.07:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([72, 74)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.12:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R017 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=31\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>61.91, 63.73, 64.95, 64.97, 65, 65.13, 67.23, 67.48, 67.56, 67.74, 68, 68.01, 68.48, 69.11, 69.3, 69.41, 69.43, 69.51, 69.59, 69.83, 70.02, 70.08, 70.33, 70.42, 71.06, 71.62, 72.27, 73.62, 73.75, 74.64, 79.48</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=69.41:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([75, 80)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.0064516:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R018 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=29\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>65.91, 66.19, 67.15, 67.22, 67.54, 68.13, 68.26, 68.93, 69.44, 69.51, 69.56, 69.91, 70.14, 70.37, 70.41, 70.43, 71.19, 71.39, 71.4, 71.46, 71.62, 71.71, 72.06, 72.43, 72.98, 74.47, 74.94, 75.11, 76.11</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=70.41:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([74, 76)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.0517241:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R019 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=29\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>64.53, 66.35, 66.96, 67.23, 67.36, 67.62, 67.75, 67.99, 68.84, 68.98, 69.19, 69.76, 69.78, 71, 71.04, 71.2, 71.2, 71.78, 71.83, 72.13, 73.02, 73.64, 73.78, 73.8, 73.8, 74.18, 75.63, 76.43, 78.52</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=71.04:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([70, 72)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.1034483:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R020 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=25\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>65.15, 65.2, 65.35, 65.61, 66.14, 67.28, 67.49, 67.52, 67.58, 68.69, 69, 69.42, 69.88, 69.95, 70.7, 70.82, 72.85, 73.08, 74.06, 74.29, 74.29, 75.68, 76.08, 76.33, 77.48</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=69.88:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([74, 76)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.08:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R021 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=23\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>62.62, 65.18, 66.48, 66.59, 66.74, 67.71, 68.06, 68.13, 68.77, 69.14, 69.15, 69.7, 70.99, 71.73, 71.87, 71.98, 72.16, 72.21, 72.73, 73.27, 74.21, 74.99, 76.66</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=69.7:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([70, 72)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.0869565:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R022 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=29\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>64.63, 65.53, 65.94, 65.98, 66.81, 66.87, 68.15, 68.19, 68.45, 68.9, 69.02, 69.2, 69.33, 69.41, 69.84, 70.02, 70.45, 70.52, 70.58, 70.94, 70.96, 72.12, 72.33, 72.96, 75.23, 75.51, 76.15, 76.73, 76.83</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=69.84:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([68, 70)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.1551724:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R023 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=25\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>63.81, 64.04, 66.11, 66.85, 68.52, 68.64, 69.6, 69.96, 70.29, 70.34, 70.69, 70.69, 70.78, 70.94, 71.79, 72.32, 72.39, 72.51, 73.2, 73.45, 73.84, 74.14, 74.67, 74.82, 75.98</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=70.78:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([64, 66)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.02:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R024 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=25\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>62.6, 63.6, 66.52, 66.76, 66.79, 67.3, 68.22, 68.37, 69.17, 69.35, 69.39, 69.61, 69.74, 70.72, 70.76, 71.67, 71.87, 72.16, 72.22, 73.23, 74.24, 74.29, 74.7, 76.76, 78.34</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=69.74:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([74, 76)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.06:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R025 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=27\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>66.17, 66.17, 66.64, 67.39, 68.55, 69.53, 69.72, 69.9, 69.98, 70.26, 70.37, 70.71, 70.94, 71.03, 71.78, 71.82, 72.28, 72.5, 72.51, 72.76, 72.79, 73.6, 74.05, 74.1, 74.89, 75.44, 75.63</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=71.03:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([72, 74)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.1111111:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R026 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=25\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>63.34, 65.73, 65.79, 66.33, 67.89, 68.9, 69.19, 69.61, 69.65, 69.93, 69.93, 70.22, 70.37, 70.82, 71.27, 71.38, 71.49, 71.71, 72.31, 72.76, 72.88, 73.45, 74.68, 75.23, 76.47</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=70.37:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([68, 70)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.12:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R027 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=31\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>63.76, 65.25, 66.93, 66.96, 67.27, 67.42, 67.61, 67.76, 67.99, 68.35, 68.38, 68.5, 68.51, 68.6, 69.06, 69.41, 70.15, 70.38, 70.52, 70.56, 70.6, 70.87, 71.03, 71.42, 71.96, 72.34, 73.83, 73.92, 74.6, 75.37, 77.3</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=69.41:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([64, 66)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.016129:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R028 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=23\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>64, 64.08, 65.86, 66.29, 67.11, 69.25, 69.62, 69.76, 69.82, 69.85, 70.14, 70.45, 70.55, 71.32, 71.33, 71.64, 72.07, 72.42, 72.52, 73.27, 73.32, 74, 75.17</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=70.45:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([70, 72)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.1304348:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R029 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=31\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>64.75, 65.52, 65.57, 66.09, 67.12, 67.2, 67.38, 69.12, 69.13, 69.27, 69.64, 69.82, 69.93, 70.26, 70.51, 71.01, 71.04, 71.25, 71.46, 71.52, 71.66, 71.77, 72.06, 72.63, 73.11, 73.12, 74.12, 74.68, 75.19, 75.66, 77.6</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=71.01:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([68, 70)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.0967742:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R030 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=25\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>63.86, 65.25, 65.37, 65.82, 66.19, 66.53, 67.24, 67.3, 67.47, 67.93, 68.1, 68.34, 68.98, 69, 69.62, 70.03, 70.2, 71.51, 71.74, 71.97, 72.52, 72.69, 73.21, 74.61, 75.8</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=68.98:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([74, 76)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.04:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R031 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=23\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>63.73, 65.32, 65.65, 66.35, 66.51, 66.81, 66.84, 67.38, 67.4, 67.45, 67.78, 69.32, 69.81, 69.91, 70.04, 70.35, 70.83, 71.21, 72.08, 72.14, 73.62, 74.07, 78.94</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=69.32:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([66, 68)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.173913:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R032 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=23\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>64.89, 65.5, 67.52, 68.58, 68.6, 69.57, 69.9, 69.94, 70, 70.4, 70.56, 71, 71.25, 71.47, 71.86, 72.25, 73.81, 74.06, 74.08, 74.29, 75.66, 76.03, 76.12</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=71:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([68, 70)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.1304348:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R033 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=29\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>64.17, 67.26, 68.08, 68.71, 68.9, 69.04, 69.11, 69.18, 69.25, 69.29, 69.53, 69.99, 70.55, 70.73, 70.88, 71.41, 71.46, 71.72, 71.87, 72.16, 72.46, 72.47, 72.56, 72.56, 73, 73.19, 73.94, 73.95, 74.69</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=70.88:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([74, 76)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.0172414:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R034 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=25\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>63.31, 64.53, 64.89, 66.73, 68.03, 68.64, 68.93, 69.19, 69.43, 70.12, 70.77, 70.8, 70.97, 71.17, 71.21, 71.62, 72.32, 72.36, 72.41, 72.91, 73.2, 73.4, 73.51, 73.57, 75.42</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=70.97:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([72, 74)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.16:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R035 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=25\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>64.13, 65.63, 66.77, 67.3, 67.81, 69.58, 69.74, 69.79, 69.87, 70.13, 70.28, 70.3, 70.31, 70.55, 71.16, 71.62, 71.73, 71.79, 71.87, 72.74, 73.02, 73.23, 74.46, 75.13, 77.87</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=70.31:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([68, 70)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.08:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R036 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=21\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>63.97, 64.3, 66.67, 67.33, 68.08, 68.2, 68.38, 68.48, 68.59, 68.87, 69.29, 69.74, 70.58, 70.67, 72.11, 73.37, 73.55, 73.6, 74.12, 74.66, 75.98</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=69.29:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([68, 70)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.1904762:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R037 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=29\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>63.7, 63.78, 64.27, 65.04, 65.49, 66.57, 66.89, 67.59, 67.68, 67.87, 68.74, 68.88, 68.91, 68.94, 69.19, 69.24, 69.73, 69.75, 69.87, 71.23, 71.35, 71.67, 71.87, 72.1, 72.17, 72.85, 73.15, 73.34, 74.29</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=69.19:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([72, 74)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.0862069:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R038 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=27\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>64.65, 64.66, 66.15, 66.43, 66.97, 67.13, 67.56, 67.85, 67.99, 68.12, 69.48, 69.53, 69.66, 69.92, 69.96, 69.97, 70.27, 70.69, 70.94, 71.1, 71.29, 71.42, 71.67, 73.14, 74.65, 75.55, 77.56</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=69.92:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([66, 68)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.1296296:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R039 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=31\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>64.62, 64.7, 65.55, 65.69, 65.89, 66.23, 68.47, 68.59, 68.59, 68.73, 68.91, 69.33, 69.54, 69.68, 70.29, 70.39, 70.57, 71.03, 71.45, 71.82, 72.28, 72.31, 72.31, 72.58, 73.09, 73.65, 73.71, 74.45, 75.34, 75.48, 75.6</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=70.39:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([74, 76)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.0645161:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R040 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=23\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>64.09, 66.47, 66.47, 67.24, 67.49, 67.77, 68.06, 69.51, 69.6, 69.84, 70.01, 70.23, 71.04, 71.06, 71.08, 71.22, 71.56, 71.77, 72.27, 72.27, 72.28, 72.74, 74.21</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=70.23:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([66, 68)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.1086957:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R041 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=21\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>60.38, 63.16, 65.77, 66.99, 67.54, 67.74, 68.67, 69, 69.04, 69.73, 69.78, 69.84, 69.89, 70.02, 70.52, 70.68, 71.06, 71.58, 72.6, 73.41, 80.22</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=69.78:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([65, 70)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.1047619:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R042 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=25\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>62.39, 64.58, 65.86, 65.99, 66.84, 67.27, 67.36, 67.56, 68.48, 68.97, 70.08, 70.36, 70.78, 71.45, 71.99, 72.24, 72.3, 72.48, 73.09, 73.83, 74.02, 74.3, 75.05, 76.06, 76.98</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=70.78:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([70, 72)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.1:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R043 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=31\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>65.34, 65.49, 65.96, 66.61, 67.23, 67.99, 68.06, 68.13, 68.35, 68.43, 68.58, 68.69, 69.33, 69.63, 69.81, 69.84, 70.4, 70.6, 70.63, 70.88, 71.25, 71.64, 72.01, 72.03, 72.24, 72.54, 72.6, 72.75, 73.39, 75.39, 77.95</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=69.84:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([74, 76)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.016129:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R044 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=27\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>62.45, 64.06, 66.1, 66.67, 66.72, 67.66, 68, 68.28, 68.32, 68.7, 68.75, 68.89, 69.23, 69.27, 69.45, 69.79, 69.94, 70.59, 70.64, 71.69, 71.84, 72.51, 72.56, 72.56, 72.89, 74.4, 74.77</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=69.27:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([68, 70)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.1851852:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R045 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=23\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>61.54, 65.5, 66.78, 67.11, 67.56, 68.44, 68.97, 69.02, 69.13, 69.44, 70.02, 70.14, 70.26, 70.75, 71.57, 71.69, 72.13, 72.26, 72.32, 72.88, 73.08, 73.2, 74.18</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=70.14:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([72, 74)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.1304348:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R046 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=29\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>63.52, 63.74, 64.53, 66.39, 66.73, 66.76, 67.55, 67.69, 67.92, 68.56, 68.63, 68.64, 69.5, 69.5, 69.55, 69.63, 70.18, 70.78, 70.95, 71.45, 71.53, 71.63, 71.74, 72.23, 72.28, 72.29, 72.53, 73.56, 75.83</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=69.55:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([72, 74)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.0862069:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R047 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=29\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>65.83, 65.84, 65.96, 66.06, 66.14, 66.27, 66.57, 68.76, 68.79, 69.14, 69.15, 69.2, 69.39, 69.97, 70.16, 70.76, 70.86, 71, 71.19, 71.23, 71.53, 71.92, 71.97, 72.69, 73, 73.42, 73.77, 74.09, 77.45</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=70.16:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([70, 72)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.1551724:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R048 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=25\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>65.02, 65.27, 66.12, 66.13, 66.83, 68.02, 68.03, 68.49, 69.89, 70.12, 70.24, 70.26, 70.7, 70.8, 70.9, 71.16, 71.74, 72.05, 72.23, 73.46, 73.56, 74.19, 75.21, 75.44, 76.86</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=70.7:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([74, 76)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.06:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R049 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=23\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>64.4, 64.71, 65.12, 65.66, 66.05, 66.75, 66.95, 67.49, 67.64, 67.9, 68.45, 68.53, 68.98, 69.09, 69.14, 69.6, 69.74, 70.71, 71.45, 73.42, 74.66, 75.88, 77.42</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=68.53:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([70, 72)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.0434783:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R050 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=21\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>65.17, 66.32, 66.69, 66.77, 66.88, 67.68, 67.99, 69.02, 69.2, 69.66, 69.88, 70.4, 70.44, 70.58, 70.77, 71.72, 71.93, 71.98, 73.04, 73.35, 74.1</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=69.88:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([68, 70)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.0952381:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R051 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=31\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>64.48, 65.88, 66.53, 66.53, 66.7, 67.02, 67.94, 68.82, 68.87, 68.88, 69.04, 69.11, 69.21, 69.21, 69.4, 69.88, 70.87, 71.06, 71.45, 71.82, 72.22, 72.31, 72.54, 72.56, 73.24, 73.4, 73.61, 73.7, 73.83, 74.23, 74.6</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=69.88:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([66, 68)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.0806452:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R052 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=25\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>62.45, 65.17, 65.58, 66.59, 66.77, 67.21, 67.24, 67.27, 68.1, 68.52, 69.26, 70.16, 70.32, 70.53, 70.92, 70.94, 71, 71.14, 71.71, 72.11, 72.54, 72.71, 73.08, 73.91, 73.94</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=70.32:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([68, 70)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.06:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R053 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=27\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>63.81, 64.56, 67.01, 67.13, 67.18, 67.2, 67.59, 68.15, 68.51, 68.59, 68.7, 69.3, 69.66, 69.69, 70.32, 70.49, 70.65, 70.7, 70.96, 71.08, 71.38, 72.11, 72.31, 72.79, 73.53, 74.41, 75.6</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=69.69:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([64, 66)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.0185185:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R054 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=31\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>64.27, 64.81, 65.61, 67.43, 67.44, 67.57, 67.73, 68.51, 68.74, 69.14, 69.27, 69.29, 69.72, 69.86, 69.87, 70.01, 70.04, 70.51, 70.63, 70.7, 70.84, 71.08, 71.39, 71.83, 71.86, 71.86, 71.89, 72.32, 72.38, 74.14, 74.67</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=70.01:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([70, 72)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.1935484:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R055 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=31\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>63.12, 64.19, 66.35, 66.77, 67.03, 67.35, 68.21, 68.42, 68.47, 68.7, 68.88, 68.92, 68.94, 69.14, 69.42, 69.72, 69.78, 69.8, 70.11, 70.22, 70.41, 70.91, 70.92, 70.95, 71.21, 71.87, 72.35, 73.13, 73.96, 74.26, 76.47</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=69.72:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([72, 74)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.0483871:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R056 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=23\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>64.53, 64.93, 65.66, 67.68, 68.55, 69.03, 69.15, 69.21, 69.59, 69.64, 69.89, 70.15, 70.43, 70.51, 72.62, 72.64, 73.49, 73.56, 73.84, 74.22, 74.5, 74.56, 75.49</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=70.15:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([68, 70)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.1521739:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R057 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=27\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>63.52, 66.24, 66.46, 66.96, 67.86, 68.88, 68.99, 69.04, 69.1, 69.25, 69.55, 70.1, 70.12, 70.16, 70.18, 70.38, 70.93, 71.11, 71.11, 71.12, 71.12, 71.13, 71.21, 72.51, 74.14, 75.53, 75.56</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=70.16:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([74, 76)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.0555556:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R058 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=21\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>65.3, 65.4, 65.97, 66.48, 67.18, 68.7, 68.83, 68.97, 68.97, 69.23, 69.54, 69.61, 69.73, 70.34, 70.7, 70.85, 71.54, 72.75, 74.23, 75.93, 77.7</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=69.54:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([68, 70)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.1904762:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R059 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=23\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>65.76, 66.25, 67.01, 67.24, 67.66, 67.88, 68.46, 68.77, 69.21, 69.38, 69.67, 69.85, 69.99, 70.05, 71.26, 71.3, 72.33, 72.62, 72.66, 72.73, 73.5, 73.65, 78.24</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=69.85:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([76, 78)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R060 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=29\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>65.6, 66.84, 66.86, 67.03, 67.58, 67.62, 68.02, 69.14, 69.32, 69.39, 69.44, 69.55, 69.81, 70.02, 70.36, 70.43, 70.87, 71.33, 71.38, 71.4, 71.62, 71.63, 71.77, 72.94, 73.54, 74.32, 74.56, 74.72, 74.79</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=70.36:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([72, 74)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.0344828:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R061 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=25\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>62.92, 63.91, 66.14, 66.58, 66.67, 67.47, 67.67, 68.63, 68.7, 69.1, 69.49, 69.63, 70.01, 70.02, 70.03, 70.27, 70.85, 71.02, 71.26, 71.72, 71.82, 72.22, 72.3, 72.4, 76</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=70.01:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([74, 76)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.02:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R062 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=23\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>65.22, 65.4, 66.52, 68.25, 68.38, 68.49, 68.6, 68.67, 68.76, 69.05, 69.4, 69.68, 70.28, 70.69, 71.62, 71.68, 71.7, 71.75, 72.3, 73.26, 73.49, 73.56, 73.57</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=69.68:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([68, 69)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.2608696:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R063 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=29\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>62.61, 63.66, 64.55, 65.74, 65.77, 66.4, 67.29, 67.7, 67.93, 68.22, 68.28, 68.5, 68.52, 68.94, 69.43, 69.47, 69.91, 70.01, 70.15, 71.03, 71.21, 71.24, 71.94, 72.1, 72.4, 72.65, 73.35, 73.52, 74.49</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=69.43:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([70, 72)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.1034483:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R064 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=27\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>65.83, 66.93, 68.08, 69.31, 69.81, 69.84, 69.9, 69.97, 70.03, 70.16, 70.23, 70.24, 70.46, 70.62, 70.69, 71.08, 71.17, 71.3, 71.43, 72, 72.37, 72.96, 73, 73.14, 73.46, 74.5, 75.43</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=70.62:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([70, 72)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.2222222:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R065 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=29\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>62.71, 65.66, 66.96, 67.26, 67.31, 67.35, 67.77, 68.09, 68.23, 68.23, 68.36, 69.55, 69.63, 69.73, 69.79, 69.86, 69.89, 70.66, 70.69, 71.02, 71.04, 71.14, 71.91, 71.99, 71.99, 72.5, 72.78, 75.87, 76.82</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=69.79:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([68, 70)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.1724138:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R066 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=27\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>63.63, 65.47, 65.73, 66.31, 66.83, 66.88, 66.97, 67.22, 67.65, 68.7, 68.73, 69.03, 69.04, 69.17, 69.45, 69.46, 70.03, 70.54, 70.7, 71.5, 71.62, 71.72, 71.8, 71.91, 72.69, 72.85, 73.04</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=69.17:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([68, 70)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.1296296:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R067 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=27\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>64.17, 64.61, 64.88, 66.4, 68.22, 68.41, 68.48, 68.78, 68.97, 69.45, 69.66, 69.98, 70.25, 70.28, 70.36, 70.68, 70.72, 70.91, 71.09, 71.79, 71.84, 72.01, 72.19, 72.21, 73.36, 74.81, 76.6</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=70.28:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([68, 70)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.1481481:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R068 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=23\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>67.43, 68.17, 68.58, 69.08, 69.22, 69.3, 69.36, 69.37, 69.38, 69.85, 69.97, 70.09, 70.21, 70.78, 70.92, 71.23, 71.25, 71.55, 71.93, 72.23, 72.31, 74.14, 74.54</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=70.09:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([72, 73)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.0869565:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R069 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=31\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>66.11, 66.52, 66.68, 66.71, 67.32, 67.66, 67.79, 67.82, 68.22, 68.49, 68.74, 68.76, 68.93, 69.69, 69.98, 70.04, 70.64, 70.69, 70.8, 70.84, 71.13, 71.24, 71.52, 72.1, 72.57, 72.92, 73.07, 73.68, 73.97, 74.04, 77.22</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=70.04:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([70, 72)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.1290323:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R070 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=23\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>63.74, 64.24, 65.69, 66.75, 67.51, 67.84, 68.29, 68.3, 68.39, 69, 69.11, 69.13, 69.7, 69.74, 70.62, 70.91, 71.48, 71.62, 71.69, 72.22, 72.83, 73.25, 74.79</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=69.13:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([66, 68)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.0652174:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R071 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=21\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>63.81, 65.96, 66.58, 66.66, 67.16, 68.32, 68.86, 69.06, 69.41, 69.83, 70.68, 70.91, 71.02, 71.08, 71.39, 71.4, 71.91, 72.35, 72.96, 73.64, 77.66</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=70.68:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([66, 68)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.0714286:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R072 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=27\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>63.03, 65.42, 66.31, 66.32, 66.86, 66.9, 67.12, 67.87, 68.22, 68.39, 69.12, 69.48, 69.62, 69.65, 69.66, 70.12, 70.19, 70.24, 71.54, 71.89, 72.31, 72.33, 72.39, 72.95, 72.95, 73.74, 74.06</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=69.65:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([70, 72)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.0925926:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R073 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=23\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>64.99, 65.11, 66.1, 67.21, 67.54, 67.81, 67.99, 68.23, 68.26, 68.29, 68.75, 69.39, 69.59, 69.67, 70.51, 70.68, 71.44, 71.49, 71.71, 71.74, 72.51, 73.94, 75.18</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=69.39:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([66, 68)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.1086957:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R074 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=23\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>62.6, 64.85, 65.21, 65.82, 67.44, 67.59, 67.69, 67.85, 69, 69.82, 70.68, 70.78, 71.51, 71.53, 71.62, 72.07, 72.13, 72.4, 73.01, 73.28, 73.36, 73.76, 73.99</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=70.78:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([64, 66)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.0652174:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R075 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=23\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>63.36, 64.13, 65.16, 65.43, 65.76, 67.19, 67.42, 68.13, 69.88, 70.08, 70.32, 70.93, 71.09, 71.19, 71.61, 71.96, 72.43, 72.69, 72.92, 73.45, 75.3, 76.32, 76.99</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=70.93:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([76, 78)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.0434783:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R076 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=23\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>61.6, 65.96, 66.56, 66.76, 67.49, 68.01, 68.76, 68.78, 68.81, 68.9, 69.33, 70.16, 70.34, 70.37, 70.66, 70.87, 71.56, 72.29, 72.75, 73.49, 74.51, 76.54, 79.25</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=70.16:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([70, 75)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.0869565:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R077 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=27\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>66.14, 66.69, 66.79, 67.07, 67.1, 67.51, 67.93, 68.16, 68.21, 68.39, 68.42, 68.66, 68.8, 68.91, 69.05, 69.67, 70.06, 70.13, 70.68, 70.91, 71.12, 71.31, 72.19, 72.25, 74.27, 76.32, 77.07</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=68.91:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([68, 70)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.1666667:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R078 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=21\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>62.67, 63.84, 64.35, 65.87, 66.48, 66.96, 66.97, 67.07, 67.18, 68.07, 69.24, 69.7, 69.74, 71.16, 71.4, 71.91, 72.32, 72.79, 73.66, 74, 75.52</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=69.24:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([68, 70)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.0952381:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R079 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=27\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>64.19, 64.46, 66.03, 66.18, 67, 67.06, 68.64, 68.67, 68.71, 68.95, 69.03, 69.08, 69.81, 69.9, 70.52, 70.66, 70.73, 70.9, 70.98, 71.45, 71.56, 72.2, 72.61, 72.63, 73.09, 74.05, 78.31</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=69.9:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([76, 78)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R080 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=23\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>64.18, 64.48, 65.32, 66.11, 66.67, 67.13, 67.24, 67.35, 68.15, 68.83, 69.44, 69.55, 69.55, 69.97, 70.56, 70.63, 70.82, 70.87, 71.91, 72.91, 73.11, 74.03, 74.28</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=69.55:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([74, 76)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.0434783:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R081 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=29\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>64.17, 65.38, 65.5, 66.8, 68.26, 68.42, 68.48, 68.83, 68.88, 68.96, 69.26, 69.34, 69.49, 69.62, 69.63, 69.89, 70.21, 70.61, 71.18, 71.42, 71.74, 71.94, 72.33, 72.74, 73.2, 73.84, 74.37, 75.63, 76.08</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=69.63:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([76, 78)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.0172414:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R082 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=25\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>62.52, 64.66, 65.18, 65.64, 65.87, 66.73, 66.97, 67.04, 67.41, 67.55, 67.7, 69.5, 70.13, 70.36, 70.79, 71.22, 71.68, 71.89, 74.09, 74.46, 74.59, 74.84, 75.25, 75.37, 76.52</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=70.13:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([72, 74)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R083 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=29\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>63.01, 63.3, 65.41, 66.66, 67.51, 67.53, 67.6, 67.94, 68, 68.08, 68.2, 68.21, 68.38, 68.44, 68.73, 69.3, 69.75, 70.26, 70.91, 70.95, 71.28, 71.32, 71.65, 71.85, 71.94, 72.33, 73.3, 74.68, 75.22</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=68.73:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([72, 74)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.0344828:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R084 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=31\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>63.38, 65.49, 66.27, 66.88, 67.37, 67.56, 67.97, 68.64, 68.68, 68.97, 69.15, 69.42, 69.52, 69.66, 69.76, 69.79, 69.83, 69.96, 70.37, 70.39, 70.98, 70.98, 71.07, 71.4, 71.46, 71.47, 71.56, 71.66, 73.29, 73.63, 75.33</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=69.79:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([68, 70)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.1774194:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R085 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=31\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>63.42, 65.12, 65.21, 65.68, 67.45, 67.5, 68.15, 68.8, 68.99, 69.18, 69.54, 69.88, 69.97, 70.12, 70.36, 71.19, 71.27, 71.59, 71.7, 72.08, 72.12, 72.25, 72.25, 73.07, 73.25, 73.5, 73.57, 73.86, 75.59, 75.77, 76.1</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=71.19:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([74, 76)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.0322581:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R086 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=31\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>64.74, 65.46, 65.92, 66.85, 67.16, 67.3, 67.37, 67.65, 67.93, 68, 68.23, 68.37, 68.51, 68.81, 69.22, 69.33, 69.89, 69.91, 70.14, 70.3, 70.36, 70.49, 70.5, 71.11, 71.18, 71.93, 71.96, 72.98, 73.24, 74.61, 76.72</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=69.33:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([68, 70)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.1290323:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R087 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=21\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>62.73, 65.45, 66.94, 68.22, 68.25, 69.5, 69.92, 70.44, 70.63, 70.74, 71.16, 71.18, 71.61, 71.75, 72.14, 72.46, 73.14, 73.28, 73.29, 74.13, 74.8</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=71.16:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([66, 68)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.0238095:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R088 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=31\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>64.18, 64.76, 66.23, 66.29, 66.63, 67.15, 67.15, 68.02, 68.53, 68.53, 68.6, 68.63, 68.78, 68.88, 69.13, 69.39, 69.76, 69.78, 69.88, 69.95, 70.11, 70.44, 71.52, 71.67, 71.83, 73.15, 73.73, 73.92, 74.24, 74.82, 74.96</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=69.39:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([66, 68)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.0806452:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R089 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=25\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>64.59, 65.28, 65.63, 66.19, 66.43, 66.75, 67.58, 68.08, 68.16, 69.02, 69.15, 70.04, 70.59, 70.73, 70.77, 70.97, 71.19, 71.35, 71.72, 71.92, 72.13, 72.86, 72.93, 74.65, 76.83</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=70.59:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([66, 68)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.08:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R090 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=25\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>61.99, 63.4, 63.54, 64.63, 66, 66.1, 66.26, 67.13, 68.57, 69.42, 69.97, 70.06, 70.43, 70.73, 70.86, 70.98, 71.13, 71.29, 72.03, 72.34, 72.93, 75.16, 75.38, 76.16, 76.74</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=70.43:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([66, 68)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.06:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R091 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=31\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>66.77, 67.1, 67.22, 67.91, 67.95, 68.22, 68.59, 68.74, 69.25, 69.49, 69.6, 70.2, 70.37, 70.43, 71.06, 71.24, 71.28, 71.68, 71.88, 72.08, 72.1, 72.82, 72.88, 72.96, 72.98, 73.05, 73.95, 73.96, 74.28, 75.59, 77.02</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=71.24:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([76, 78)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.016129:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R092 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=31\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>63.46, 64.36, 65.12, 65.69, 65.87, 66.37, 67.03, 67.83, 67.85, 68.29, 69.05, 69.68, 69.69, 69.71, 70.22, 70.48, 70.88, 71.2, 71.38, 71.65, 71.65, 71.81, 72.1, 72.18, 72.86, 73.85, 73.99, 74.5, 75.56, 75.7, 76.23</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=70.48:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([70, 72)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.1290323:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R093 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=29\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>62.54, 63.77, 65.28, 67.31, 67.89, 68.07, 68.11, 68.36, 69.52, 69.75, 70.16, 70.45, 70.58, 70.61, 70.84, 71.07, 71.17, 71.52, 71.57, 71.79, 71.97, 72.11, 72.2, 72.28, 72.55, 73.4, 73.9, 74.2, 75.01</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=70.84:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([66, 68)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.0344828:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R094 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=27\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>64.06, 65.36, 67.63, 67.9, 68.17, 68.26, 68.39, 68.41, 68.45, 68.47, 68.8, 68.85, 69.37, 69.96, 70.2, 70.44, 70.84, 71.29, 71.43, 71.61, 71.84, 72.17, 72.6, 72.71, 73.4, 73.82, 74.49</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=69.96:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([72, 74)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.0925926:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R095 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=31\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>63.44, 64.9, 64.91, 66.18, 66.21, 66.45, 66.63, 66.87, 66.99, 67.63, 68.67, 68.77, 69.94, 70.15, 70.32, 70.64, 70.8, 70.82, 70.93, 71.12, 71.56, 71.81, 72.23, 72.56, 72.71, 73.13, 73.56, 74.16, 74.6, 76.02, 76.51</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=70.64:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([66, 68)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.1129032:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R096 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=21\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>64.28, 65.21, 65.73, 67.09, 67.34, 67.57, 67.96, 68.93, 69.32, 69.52, 69.59, 70.29, 70.6, 70.88, 71.33, 71.34, 71.36, 71.81, 72.88, 74.93, 75.53</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=69.59:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([66, 68)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.0952381:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R097 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=23\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>64.76, 65.62, 66.67, 67.2, 67.23, 67.28, 67.35, 67.75, 67.93, 68.44, 68.85, 68.89, 69.31, 70.21, 70.52, 71.15, 71.42, 71.75, 73.28, 74.05, 74.08, 74.41, 74.54</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=68.89:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([66, 68)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.1521739:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R098 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=29\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>64.61, 65.63, 66.35, 66.49, 67.7, 67.72, 68.22, 68.82, 68.86, 68.93, 69.07, 69.59, 69.79, 69.79, 69.8, 70.13, 70.17, 70.45, 70.64, 71.41, 71.78, 72.06, 72.18, 72.67, 74.14, 74.28, 74.32, 74.78, 75.77</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=69.8:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([66, 68)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.0689655:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R099 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=31\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>63.54, 65.01, 65.14, 66.09, 66.64, 67.01, 67.27, 67.3, 67.89, 68.16, 68.37, 69.05, 69.43, 69.8, 69.93, 70.11, 70.2, 70.41, 70.88, 70.91, 71.05, 71.4, 71.5, 71.76, 72.17, 72.48, 73.2, 73.64, 74.22, 75.01, 75.54</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=70.11:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([72, 74)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.0645161:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R100 Q1 : 2_histograma </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><strong>[Referencia: UPR_PD_ConceptosHistogramaMediana]</strong></p>
+<p>Considere el siguiente conjunto de <span class="math inline">\(n=27\)</span> datos <strong>ordenados de manera creciente</strong>:</p>
+<p>65.4, 65.69, 66.99, 67.06, 67.26, 67.37, 67.95, 68.02, 68.4, 68.56, 68.72, 68.81, 68.95, 69.5, 69.96, 70.13, 70.5, 70.6, 71.3, 71.42, 71.69, 71.88, 72.05, 72.41, 73.07, 73.19, 74.24</p>
+<p>Indicar el valor de la mediana. {1:NUMERICAL:=69.5:0.01}</p>
+<p>Indicar el valor de la altura sobre el intervalo <span class="math inline">\([68, 70)\)</span> en el histograma de probabilidades correspondiente a los datos presentados. {1:NUMERICAL:=0.1481481:0.1}</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+</quiz>
