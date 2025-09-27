@@ -1,0 +1,57 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+```{r data generation, echo = FALSE, results = "hide"}
+
+library(exams)
+
+# parametros
+conc_H2A= sample(seq(from=0.1, to=0.25, by=0.01),1)
+pka1= sample(seq(from=3, to=6, by=0.02),1)
+pka2= sample(seq(from=8, to=12, by=0.02),1)
+
+
+# solucion
+pH_anf= (pka1+pka2)/2
+
+res <- pH_anf
+
+```
+
+
+Question
+========
+
+
+Calcular el pH de una solución del anfolito proveniente de el ácido $H_2A$, cuyo concentración es $`r conc_H2A`$ M, sabiendo que $pKa1 =`r pka1`$ y  $pKa 2 = `r pka2`$. Informar el resultado con 2 decimales.
+
+
+Solution
+========
+
+Para calcular el pH del unico anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:  
+
+$$
+\begin{aligned}
+pH &= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+$$
+
+Así, reemplazando en la expresión tenemos:
+
+$$
+\begin{aligned}
+pH &= \frac{`r pka1`+ `r pka2`}{2}
+\end{aligned}
+$$
+De modo que el pH resulta: $`r res`$
+
+
+Meta-information
+================
+extype: num
+exsolution: `r res`
+exname: pH_anf
+extol: 0.01

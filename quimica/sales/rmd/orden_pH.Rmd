@@ -1,0 +1,47 @@
+---
+title: "acido base 1"
+date: "2025-01-05"
+output: 
+  exams2html: default
+  exams2pdf: default
+---
+
+
+```{r setup, include=FALSE}
+library(exams)
+
+```
+
+Question
+========
+Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH$_4$Cl, NH$_3$, NaClO$_3$, HClO$_3$.
+
+Datos:  
+K$_b$(NH$_3$) = 1.87×10$^{-5}$, K$_a$(HClO$_3$) = 0.011
+
+
+Answerlist
+----------
+- HClO$_3$ < NH$_4$Cl < NaClO$_3$ < NH$_3$
+- NH$_4$Cl < HClO$_3$ < NH$_3$ < NaClO$_3$ 
+- NaClO$_3$  <  HClO$_3$  < NH$_3$ <NaClO$_3$ 
+- NH$_3$ < NH$_4$Cl < HClO$_3$ < NaClO$_3$ 
+
+Solution
+========
+Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:
+
+- NH$_4$Cl es una sal de un ácido débil (NH$_4^+$), por lo tanto dará una **solución ácida**  
+- HClO$_3$ es un **ácido débil**, con $Ka$ mayor a la $Ka$ del amonio, por lo tanto el pH será menor al de la solución de amonio.
+- NH$_3$ es una **base débil**  
+- NaClO$_3$ es la sal de la base conjugada de HClO$_3$, o sea dará una  solución **básica**, pero menos básica que la de amoníaco, ya que su $Kb$ es menor.
+
+Recordar que $K_a(NH_4^+)$ y $K_b(ClO_3^-)$ se calculan con $K_w$.
+
+Orden de menor a mayor pH: **HClO$_3$ < NH$_4$Cl < NaClO$_3$ < NH$_3$**
+
+Meta-information
+================
+exname: ordenar_pH
+extype: schoice
+exsolution: 1000

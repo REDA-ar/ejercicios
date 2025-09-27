@@ -1,0 +1,44 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+```{r data generation, echo = FALSE, results = "hide"}
+
+library(exams)
+
+# parametros
+Kb <- sample(seq(from=1.6e-4, to= 9.6e-4,by=0.00002),1) 
+Kw=1e-14
+
+# Convertir a notación científica (sirve solo para la Question)
+Kb_cient <- format(Kb, scientific = TRUE, digits = 2)
+Kw_cient <- format(Kw, scientific = TRUE, digits = 2)
+
+# solucion
+Ka <- Kw/Kb
+
+res <- as.numeric(format(Ka, scientific = TRUE, digits = 3))
+
+```
+
+
+Question
+========
+Calcular la constante de hidrólisis del par conjugado de una base (monobásica), si su $K_b$ es  $`r Kb_cient`$. Para escribir el resultado en notación científica, usar el siguiente formato: 1,11e-11. Usar dos decimales y coma para separar la parte entera de la decimal.
+
+
+Solution
+========
+
+Para un acido y su base conjugada existe una relacion entre sus constantes de disociacion e hidrólisis dada por $K_w = K_a K_b$. De esta manera se puede despejar $K_a$ como: $K_a= \frac {`r Kw_cient`}{`r Kb_cient`}$
+
+Así, la constante de acidez es: $`r format(res, scientific = TRUE)`$
+
+
+Meta-information
+================
+extype: num
+exsolution: `r format(res, scientific = TRUE)`
+exname: const_ac
+extol: 1e-13

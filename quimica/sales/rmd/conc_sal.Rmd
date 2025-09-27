@@ -1,0 +1,70 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+```{r data generation, echo = FALSE, results = "hide"}
+
+library(exams)
+
+# parametros
+
+pH <- sample(seq(from=8.45, to= 9,by=0.02),1)
+Kb <- sample(seq(from=1e-9, to= 8e-9,by=0.5e-10),1)
+Kw <- 1e-14
+
+prot <- 10^(-pH)
+ox <- Kw/prot
+
+# Convertir a notación científica
+Kb_cient <- format(Kb, scientific = TRUE, digits = 2)
+ox_cient <- format(ox, scientific = TRUE, digits = 2)
+anion_eq <- ox^2/Kb
+ox_cient <- format(ox, scientific = TRUE, digits = 2)
+
+
+# solucion
+res <- round(anion_eq,4)
+```
+
+
+Question
+========
+Se tiene una solución de una sal $AB$, cuyo anión $B^-$ hidroliza. El sistema en equilibrio tiene un pH de $`r pH`$. Calcular la concentración del anión $B^-$ en equilibrio, sabiendo que la $K_b$ de hidrólisis del mismo es $`r Kb_cient`$.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. ("e" significa 10^).
+
+
+
+Solution
+========
+La expresión para la $K_b$ de hidrólisis es: $K_b = \frac{(HB)(OH^-)}{(B^-)}$.
+En el equilibrio, $(HB)=(OH^-)$. Sabiendo el pH, la concentración de oxhidrilos resulta: $`r ox_cient`$. Luego, despejamos $(B^-)$ de la $K_b$:
+
+$$
+\begin{aligned}
+(B^-) &= \frac{(`r ox_cient`)^2}{`r Kb_cient`}
+\end{aligned}
+$$
+Así, la concentración de amoníaco en el equilibrio es: $`r res`$
+
+
+Meta-information
+================
+extype: num
+exsolution: `r res`
+exname: conc_amoniaco
+extol: 0.0001
+
+
+```{r eval=FALSE, include=FALSE}
+# Esto es para ver el rango de pH y K a
+
+pH <- seq(from=8.45, to= 9,by=0.02)
+Kb <- 8e-9
+prot <- 10^(-pH)
+ox <- Kw/prot
+
+anion_eq <- ox^2/Kb
+plot(anion_eq,pH)
+```
+

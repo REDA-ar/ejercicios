@@ -1,0 +1,72 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+```{r data generation, echo = FALSE, results = "hide"}
+
+library(exams)
+
+# parametros
+
+Co_amonio <- sample(seq(from=0.102, to= 0.908 ,by=0.002),1) 
+Kb <- 1.8e-5
+Kw <- 1e-14
+Ka <- Kw/Kb
+
+# Convertir a notación científica
+
+
+Kb_cient <- format(Kb, scientific = TRUE, digits = 3)
+Kw_cient <- format(Kw, scientific = TRUE, digits = 3)
+Ka_cient <- format(Ka, scientific = TRUE, digits = 3)
+
+# solucion
+prot <- sqrt(Ka*Co_amonio)
+
+pH <- -log10(prot)
+
+res <- round(pH,2)
+
+```
+
+
+Question
+========
+Calcular el pH de una solución de $NH_4NO_3$ $`r Co_amonio`$ M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: $K_w=`r Kw_cient`$, $K_b(NH_3)=`r Kb_cient`$. Informar el resultado con dos decimales.
+
+Solution
+========
+
+Primero disociamos la sal: $NH_4NO_3 \rightarrow NH_4^+ + NO_3^-$. El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil ($NH_3$), hidroliza de acuerdo a: $NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+$.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones. Así, la expresión de la $Ka$ queda:
+
+$$
+\begin{aligned}
+K_a &= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+$$
+De acuerdo a la consideración pedida en el enunciado, asumimos que $(H_3O^+)$ << $(NH_4^+)_{inicial}$, así la expresión de la constante queda:
+
+$$
+\begin{aligned}
+K_a &= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+$$
+De modo que se despeja la $(H_3O^+)$:
+
+$$
+\begin{aligned}
+(H_3O^+) &= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+$$
+
+Reemplazando con los valores, tenemos: $(H_3O^+)= (`r Kb_cient` \cdot `r Co_amonio`)^{1/2}$
+
+
+Meta-information
+================
+extype: num
+exsolution: `r res`
+exname: pH_amonio
+extol: 0.01
