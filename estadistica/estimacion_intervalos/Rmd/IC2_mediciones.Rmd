@@ -1,0 +1,102 @@
+```{r data generation, echo = FALSE, results = "hide"}
+## cálculos
+library(exams)
+sigma <- 3
+  #round(runif(1,0.2,0.5),1)
+var <- sigma^2
+mu <- 70
+n <-4 
+  #sample(seq(2:5),1)
+
+datos <- round(rnorm(n,mu,sigma),2)
+promedio <- round( mean(datos),4)
+
+epsilon <- 0.5
+# Improved probability calculation for better numerical stability
+probabilidad <- round(2 * pnorm(sqrt(n)*epsilon/sigma) - 1, 4)
+
+factor <- sample(seq(2,3,0.5),1)
+delta <-1-(round(factor*probabilidad,4))
+# Ensure n_cero is always positive and properly rounded
+n_cero <-ceiling((sigma*qnorm(1-delta/2)/epsilon)^2) 
+
+tol <- 0.0001
+
+## Preguntas y respuestas
+questions <- solutions <- rep(list(""), 6)
+type <- rep(list("schoice"), 6)
+
+
+questions[[1]] <- c("El método es exacto y por consiguiente la esperanza de las mediciones conincide con el valor de la magnitud de interés","El método es preciso y por consiguiente la esperanza de las mediciones conincide con el valor del mesurando")
+solutions[[1]] <- c(TRUE,FALSE)
+
+
+
+questions[[2]] <- c("El promedio es un estimador consistente de la esperanza",paste(promedio,"es un estimador  consistente de la esperanza"))
+solutions[[2]] <- c(TRUE,FALSE)
+
+questions[[3]] <- c("El promedio es un estimador insesgado de la esperanza",paste(promedio,"es un estimador  insesgado de la esperanza"))
+solutions[[3]] <- c(TRUE,FALSE)
+
+
+questions[[4]] <- c(paste("El valor  del  mesurando  es  ", promedio),paste("En base a los datos que dispone, la estimación del valor del  mesurando  es  ", promedio))
+solutions[[4]] <- c(FALSE,TRUE)
+
+
+questions[[5]] <-paste( "Calcular la probabilidad de que el estimador, utilizando n=", n, "mediciones, diste de la verdadera magnitud en menos de", epsilon, 
+"unidades.")
+solutions[[5]] <- probabilidad
+type[[5]] <- "num"
+
+
+
+
+
+questions[[6]] <- paste("Determinar cuántas mediciones son necesarias para que la probabilidad de que el estimador diste del mesurando  en menos de",epsilon, "unidades sea mayor a", 1-delta,".") 
+solutions[[6]] <- n_cero
+type[[6]] <- "num"
+
+
+solutions[c(1,2,3,4)] <- lapply(solutions[c(1,2,3,4)], mchoice2string)
+
+
+###########
+
+
+
+```
+
+Question
+========
+Se desea determinar una magnitud (o mesurando) $\mu$. Para
+ello se realizan $n$
+mediciones independientes de la misma magnitud en idénticas condiciones, que denotaremos
+con $X_{1},...,X_{n}$. Asumimos el siguiente modelo para las variables
+aleatorias $X_{i}$
+$$
+X_{i}=\mu+\varepsilon_{i}
+$$
+donde $\mu$ es la verdadera magnitud desconocida, y $\varepsilon_{i}$ es la
+variable aleatoria que denota el error de la i-ésima medición. Asumimos
+que $\varepsilon_{1},...,\varepsilon_{n}$ son variables aleatorias
+independientes e idénticamente distribuidas con distribución normal con
+media cero y que su varianza  es $\sigma^2=`r var`$.
+
+
+
+Al realizarse  $n=`r n`$ mediciones  se obtienen los siguientes datos: `r datos`
+
+
+Eligir la respuesta adecuada en cada uno de los siguientes desplegables. 
+
+```{r questionlist, echo = FALSE, results = "asis"}
+answerlist(unlist(questions), markup = "markdown")
+```
+
+Meta-information
+================
+extype: cloze
+exsolution: `r paste(solutions, collapse = "|")`
+exclozetype: `r paste(type, collapse = "|")`
+exname: IC2_mediciones
+extol: 0.0001

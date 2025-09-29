@@ -1,0 +1,95 @@
+```{r data generation, echo = FALSE, results = "hide"}
+## cálculos
+library(exams)
+sigma <- 5
+  #round(runif(1,0.2,0.5),1)
+var_1 <- sigma^2
+mu <- 750
+n <-sample(seq(from=5, to=10,by=1),1)
+  #sample(seq(2:5),1)
+
+
+datos <- round(rnorm(n,mu,sigma),2)
+
+intervalos <- function(datos, nivel, varianza)
+{
+  n <- length(datos)
+  factor <- qnorm(1-(1-nivel)/2)
+a <- round(mean(datos)-factor*sqrt(varianza/n),4)  
+b <- round(mean(datos)+factor*sqrt(varianza/n),4)  
+salida <- c(a,b)
+salida
+}
+
+intervalos_t <- function(datos, nivel) {
+  n <- length(datos)
+  factor <- qt(1-(1-nivel)/2, n-1)
+  xbar <- mean(datos)
+  # More stable calculation of sample variance and standard error
+  varianza_est <- var(datos)
+  se <- sqrt(varianza_est/n)
+  
+  # Calculate interval bounds with proper rounding
+  a <- round(xbar - factor * se, 4)
+  b <- round(xbar + factor * se, 4)
+  c(a, b)
+}
+
+nivel_1 <- sample(c(0.9,0.95,0.99),1)
+
+limite <- sample(c(0.9,1,1.1),1)
+factor <- qnorm(1-(1-nivel_1)/2)
+n <- ceiling((2*factor*sigma/limite)^2)
+
+# Main calculations
+sol0 <- round(mean(datos), 4)
+intervalo <- intervalos_t(datos, nivel_1)
+sol1 <- intervalo[1]
+sol2 <- intervalo[2]
+
+###########
+
+
+
+```
+
+Question
+========
+Una máquina embotelladora llena botellas con cantidades que siguen una distribución $\mathcal N(\mu, \sigma^2)$. Se quiere realizar una estimación por intervalos del parámetro $\mu$. 
+Al realizarse  una serie de  mediciones  se obtienen los siguientes datos: `r datos`
+
+
+
+Questionlist
+------------
+
+* Indicar cuál es la esimación (puntual) de $\mu$  asociada a los valores observados. 
+
+* Ralizar una estimación por intervalos para $\mu$ utilizando un procedimiento de nivel `r nivel_1`, teniendo en cuenta que la varianza poblacional es DESCONOCIDA. Indicar el límite inferior del intervalo.
+
+* y el límite superior del intervalo.
+
+
+
+Solution
+========
+
+
+* El estimador de $\mu$ es $$\widehat \mu=\overline X_n=\frac{1}{n}\sum_{i=1}^n X_i.$$ Ahora bien, considerando que el promedio observado es $\overline x= `r sol0`$, concluímos que la estimación puntual está dada por  $\widehat\mu_{obs}=`r sol0`$.
+
+* Para construir intervalos de confianza en el mundo normal con varianza $\sigma^2$ DESCONICIDA, usamos el pivot dado por 
+$$\frac{\overline X_n-\mu}{\sqrt{S^2/n}}\sim t_{n-1}$$
+donde $t_{n-1}$ denota a la distribución de Student con $n-1$ grados de libertad. Es decir, al usar $S^2$ para estimar el valor $\sigma^2$ de la varianza, tenemos un nuevo pivot con una nueva distribución.  
+Luego, dado un nivel $1-\alpha$, el intervalo de confianza está dado por 
+$$\left(\overline X_n-t_{n-1,\alpha/2}\sqrt{S^2/n}\quad,\quad
+\overline X_n+t_{n-1,\alpha/2}\sqrt{S^2/n}\right),$$
+recordando que $t_{n-1,\alpha/2}$ deja area $\alpha/2$ a derecha de la densidad $t$- Student con $n-1$ grados de libertad. Luego,  la estimacion por intervalos está dada por $(`r sol1`, `r sol2`)$.
+
+
+Meta-information
+================
+extype: cloze
+exsolution: `r sol0`|`r sol1`|`r sol2`
+exclozetype: num|num|num
+exname: IC4_embotelladora_parte2
+extol: 0.001|0.001|0.001

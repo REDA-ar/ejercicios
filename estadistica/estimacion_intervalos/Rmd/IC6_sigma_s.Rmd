@@ -1,0 +1,64 @@
+```{r data generation, echo = FALSE, results = "hide"}
+## cálculos
+library(exams)
+n <- sample(seq(from=5,to=16, by=1),1)
+sigma <- sample(seq(from=1.5,to=4, by=0.1),1)
+sigC <- sigma^2
+xobs <-round(rnorm(1,7.5,sigma),2)
+
+nivel <- sample(c(0.9,0.95,0.99),1)
+
+incer1 <- sigma/sqrt(n)
+factor1 <- qnorm(1-(1-nivel)/2)
+sol1 <- round(xobs-factor1*incer1,2)
+sol2 <- round(xobs+factor1*incer1,2)
+
+incer2 <- sqrt(sigC)/sqrt(n)
+factor2 <- qt(1-(1-nivel)/2,n-1)
+sol3 <- round(xobs-factor2*incer2,2)
+sol4 <- round(xobs+factor2*incer2,2)
+
+```
+
+Question
+========
+Consideramos $X_1,...,X_n$ una muestra aleatoria con distribución 
+$\mathcal{N}(\mu,\sigma^2)$, con $n=`r n`$. 
+
+Calcular la estimación por intervalos para $\mu$ de nivel de significación $`r nivel`$ sabiendo que $\overline{X}_{\hbox{obs}}=`r xobs`$.
+
+Questionlist
+----------
+* Si se sabe que $\sigma^2=`r sigC`$, indicá el límite inferior del intervalo
+* y el límite superior del intervalo
+* Si se sabe que $S^2_{\hbox{obs}}=`r sigC`$, indicá el límite inferior del intervalo
+* y el límite superior del intervalo
+
+
+Solution
+========
+
+
+* Cuando trabajamos en el mundo normal con varianza conocida, el pivot es 
+$$\frac{\overline X_n-\mu}{\sqrt{\sigma^2/n}}\sim Z$$
+donde $Z\sim \mathcal N(0,1)$. Luego, el intervalo de confianza de nivel $1-\alpha$ está dado por Luego, dado un nivel $1-\alpha$, el intervalo de confianza está dado por 
+$$\left(\overline X_n-z_{\alpha/2}\sqrt{\sigma^2/n}\quad,\quad
+\overline X_n+z_{\alpha/2}\sqrt{\sigma^2/n}\right),$$
+recordando que $z_{\alpha/2}$ deja area $\alpha/2$ a derecha de la densidad normal estandar. Contemplando la estimación puntual, el valor de $\sigma^2$, el tamaño muestral $n$  y el nivel pedido, concluímos que la estimacion por intervalos está dada por $(`r sol1`, `r sol2`)$.
+
+* En el mundo normal, si la varianza es DESCONOCIDA,  usamos el pivot dado por 
+$$\frac{\overline X_n-\mu}{\sqrt{S^2/n}}\sim t_{n-1}$$
+donde $t_{n-1}$ denota a la distribución de Student con $n-1$ grados de libertad. Es decir, al usar $S^2$ para estimar el valor $\sigma^2$ de la varianza, tenemos un nuevo pivot con una nueva distribución. Luego, dado un nivel $1-\alpha$, el intervalo de confianza está dado por 
+$$\left(\overline X_n-t_{n-1\alpha/2}\sqrt{S^2/n}\quad,\quad
+\overline X_n+t_{n-1,\alpha/2}\sqrt{S^2/n}\right),$$
+recordando que $t_{n-1,\alpha/2}$ deja area $\alpha/2$ a derecha de la densidad $t$- Student con $n-1$ grados de libertad. La estimacion por intervalos está dada por $(`r sol3`, `r sol4`)$.
+
+* En conclusión, el objetivo de este ejercicio es enfatizar que cuando la varianza es DESCONOCDA, no podemos usar su estimación *y hacer como * si esa fuera la verdadera varianza. 
+
+Meta-information
+============
+extype: cloze
+exclozetype: num|num|num|num
+exsolution: `r sol1`|`r sol2`|`r sol3`|`r sol4`
+exname: IC6_sigma_s
+extol: 0.01|0.01|0.01|0.01

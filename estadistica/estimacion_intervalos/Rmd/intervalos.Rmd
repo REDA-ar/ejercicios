@@ -1,0 +1,16 @@
+---
+title: "Intervalos"
+output: exams2forms::webquiz
+---
+
+```{r exams2forms-setup, include = FALSE}
+## package and exercises
+library("exams2forms")
+exm <- c("IC1_nivel.Rmd", "IC2_mediciones.Rmd", "IC3_embotelladora.Rmd", 
+"IC4_embotelladora_parte2.Rmd", "IC5_cemento.Rmd", "IC6_sigma_s.Rmd"
+)
+```
+
+```{r exams2forms-include, echo = FALSE, message = FALSE, results="asis"}
+exams2forms(exm,  n = 20, nsamp = NULL, edir = "/home/mariela_sued/Dropbox/Cuenta-RedaAr/Ejercitación/Ejercicios en proceso/Estadistica/Intervalos de confianza/Intervalos_para_mu", encoding = "utf8")
+```

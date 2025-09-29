@@ -1,0 +1,59 @@
+```{r data generation, echo = FALSE, results = "hide"}
+## cálculos
+library(exams)
+mu <- 15
+sigma <- 0.75
+
+n <- sample(seq(from=4, to=9, by=1),1)
+
+alpha <- sample(seq(from=0.05, to=0.1, by=0.01),1)
+nivel <- 1-alpha
+datos <-rnorm(n, mu,sigma) 
+promedio <-round(mean(datos),2)
+scuad <- round(var(datos),2)
+incertidumbre <- sqrt(scuad/n)
+factor <- qnorm(1-alpha/2)
+a <- promedio-factor*incertidumbre
+b <- promedio+factor*incertidumbre
+
+
+factor2 <- qnorm(1-2*alpha)
+a2<-round( promedio-factor2*incertidumbre,2)
+b2 <- round(promedio+factor2*incertidumbre,2)
+
+
+
+
+sol <- "10"
+
+
+###########
+
+
+
+```
+
+Question
+========
+
+Se necesita realizar una estimación por intervalos del peso (en Kg.)  medio de las bolsa  de cemento que venden en MATeriales. Se sabe  que el peso de cada bolsa está dado por una variable aleatoria con distribución normal con parámetros desconocidos. El equipo de control de calidad toma  una muestra de $n=`r n`$  bolsas y se observan los siguientes valores para  la media y varianza muestral: $\overline x_n=`r promedio`$ y $s^2=`r scuad`$ y realiza la estimación por intervalos con nivel de confianza de $`r nivel`$.  Un pasante con poca experiencia, hace una estimación de mismo nivel pero asume que la varianza  \textbf{poblacional} es conocido e igual  a  $\sigma^2=`r scuad`$.
+
+Answerlist
+----------
+
+*  El intervalo calculado por el equipo de control de calidad utilizando un pocedimiento donde  la varianza estimada  es más  largo  que el intervalo calculado con por el pasante. 
+
+
+*  El intervalo calculado por el equipo de control de calidad utilizando un pocedimiento donde  la varianza estimada  es más  corto  que el intervalo calculado con por el pasante. 
+
+
+
+
+
+
+Meta-information
+================
+extype: cloze
+exsolution: `r sol`
+exclozetype: schoice
+exname: IC5_cemento

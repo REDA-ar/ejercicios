@@ -1,0 +1,89 @@
+```{r data generation, echo = FALSE, results = "hide"}
+## cálculos
+library(exams)
+sigma <- 5
+  #round(runif(1,0.2,0.5),1)
+var_1 <- sigma^2
+mu <- 750
+n <- sample(seq(from=5, to=10, by=1), 1)
+  #sample(seq(2:5),1)
+
+
+datos <- round(rnorm(n, mu, sigma), 2)
+
+intervalos <- function(datos, nivel, varianza)
+{
+  n <- length(datos)
+  factor <- qnorm(1-(1-nivel)/2)
+  xbar <- mean(datos)
+  margin <- factor * sqrt(varianza/n)
+  a <- round(xbar - margin, 4)
+  b <- round(xbar + margin, 4)
+  c(a, b)
+}
+
+intervalos_t <- function(datos, nivel)
+{
+  n <- length(datos)
+  factor <- qt(1-(1-nivel)/2,n-1)
+  varianza_est <-var(datos)
+a <- round(mean(datos)-factor*sqrt(varianza_est/n),4)  
+b <- round(mean(datos)+factor*sqrt(varianza_est/n),4)  
+salida <- c(a,b)
+salida
+}
+nivel_1 <- sample(c(0.9,0.95,0.99),1)
+
+limite <- sample(c(0.9, 1, 1.1), 1)
+factor <- qnorm(1-(1-nivel_1)/2)
+n2 <- ceiling((2*factor*sigma/limite)^2)
+
+sol0 <- round(mean(datos),4)
+sol1 <- intervalos(datos, nivel_1, var_1)[1]
+sol2 <- intervalos(datos, nivel_1, var_1)[2]
+
+sol3 <- n2
+
+```
+Question
+========
+
+Una máquina embotelladora llena botellas con cantidades que siguen una distribución $\mathcal N(\mu, \sigma^2)$. Se quiere realizar una estimación por intervalos del parámetro $\mu$. 
+En una muestra de   $n=`r n`$ botellas el contenido promedio es $\overline x= `r sol0`$. 
+
+Questionlist
+------------
+
+* Indicar cuál es la esimación (puntual) de $\mu$  asociada a los valores observados. 
+
+* Asumiendo que $\sigma^2=`r var_1`$ realizar una estimación por intervalos para $\mu$ utilizando un procedimiento de nivel `r nivel_1`. Indicar el límite inferior del intervalo
+* y el límite superior del intervalo.
+
+* Determinar de qué tamaño debe tomarse la muestra para que la longitud del intervalo de confianza para $\mu$ de nivel $`r nivel_1*100`\%$ sea de longitud a lo sumo $`r limite`$ mililitro.
+
+
+Solution
+========
+
+
+* El estimador de $\mu$ es $$\widehat \mu=\overline X_n=\frac{1}{n}\sum_{i=1}^n X_i.$$
+Ahora bien, considerando que el promedio observado es $\overline x= `r sol0`$, concluímos que la estimación puntual está dada por  $\widehat\mu_{obs}=`r sol0`$.
+
+* Para construir intervalos de confianza en el mundo normal con varianza $\sigma^2$ conocida, usamos el pivot dado por 
+$$\frac{\overline X_n-\mu}{\sqrt{\sigma^2/n}}\sim Z$$
+donde $Z\sim \mathcal N(0,1)$. 
+Luego, dado un nivel $1-\alpha$, el intervalo de confianza está dado por 
+$$(\overline{X}_n - z_{\alpha/2}\sqrt{\sigma^2/n}\quad,\quad
+\overline{X}_{n} +z_{\alpha/2}\sqrt{\sigma^2/n}),$$
+recordando que $z_{\alpha/2}$ deja area $\alpha/2$ a derecha de la densidad normal estandar. Contemplando la estimación puntual, el valor de $\sigma^2$, el tamaño muestral $n$  y el nivel pedido, concluímos que la estimacion por intervalos está dada por $(`r sol1`, `r sol2`)$.
+
+* Por último, notemos que la longitud del intervalo de confianza es $z_{\alpha/2}\sqrt{\sigma^2/n}$. Luego, haciendo $n$ tender a infinito, se puede hacer tan chica como uno quiera. En partícular, 
+ para que la longitud del intervalo de confianza para $\mu$ de nivel $`r nivel_1*100`\%$ sea de longitud a lo sumo $`r limite`$ mililitro es tamaño de la muestra debe ser al menos $n=`r sol3`$.  
+
+Meta-information
+================
+extype: cloze
+exsolution: `r sol0`|`r sol1`|`r sol2`|`r sol3`|
+exclozetype: num|num|num|num|
+exname: IC3_embotelladora
+extol: 0.0001|0.0001|0.0001|0.0001|
