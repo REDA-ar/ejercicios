@@ -1,0 +1,46 @@
+---
+  title: "Ley de Hess"
+  output:
+  pdf_document: default
+  html_document: default
+---
+```{r data generation, echo = FALSE, results = "hide"}
+## cálculos
+library(exams)
+# parametros para la reacción: 2A(g)+B -> 3C
+
+dHfA <- sample(seq(from=-50.55, to=-10.55,by=2),1) # kJ/mol
+dHfB <- sample(seq(from=40.82, to=100.82,by=2),1)  # kJ/mol
+dHfC <- sample(seq(from=-150.34, to=300.34,by=2),1)  # kJ/mol
+
+# solucion
+dH <- 3*dHfC - 2*dHfA - dHfB
+res <- round(dH,2)
+
+
+```
+
+Question
+========
+Calcular el $\Delta H$ en kJ/mol para la reacción $2A(g)+B(g) \rightarrow 3C(g)$ a 298 K. Datos de entalpías estándar de formación en kJ/mol: $`r dHfA`$, $`r dHfB`$ y $`r dHfC`$, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.
+
+
+Solution
+========
+El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el $\Delta H$ de la reacción es: $\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)$.
+$$
+\begin{aligned}
+    \Delta H &= 3\cdot(`r dHfC`\ \mathrm{kJ/mol}) - 2\cdot(`r dHfA`\             \mathrm{kJ/mol})- (`r dHfB`\ \mathrm{kJ/mol})
+\end{aligned}
+$$
+
+
+De este modo, $\Delta H = `r fmt(res)`$ kJ/mol
+
+Meta-information
+================
+extype: num
+exsolution: `r fmt(res)`
+exname: hess
+extol: 0.05
+

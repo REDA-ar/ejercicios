@@ -1,0 +1,45 @@
+---
+title: "coeficiente estequiométrico"
+date: "2025-01-05"
+output: 
+  exams2html: default
+  exams2pdf: default
+---
+
+
+```{r setup, include=FALSE}
+library(exams)
+
+res1 <- "el coeficiente estequimétrico del reactivo"
+res2 <- "el orden respecto al reactivo"
+
+questions <- c(res1, res2)
+#solutions <- c(TRUE, FALSE, FALSE)
+
+```
+
+Question
+========
+
+En las leyes integradas de velocidad, para los tres órdenes estudiados, aparece un coeficiente "a" en el término "akt". Indicar qué respresenta el factor "a". 
+
+
+```{r questionlist, echo=FALSE, results='asis'}
+answerlist(questions, markup = "markdown")
+
+```
+
+
+Solution
+========
+El factor "a" respresenta el coeficiente estequimétrico del reactivo. 
+
+
+Meta-information
+================
+
+exname: coeficiente
+extype: schoice
+exsolution: 10
+exshuffle: TRUE
+

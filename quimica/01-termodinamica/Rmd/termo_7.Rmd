@@ -1,0 +1,45 @@
+---
+title: "Q necesario"
+  output:
+  pdf_document: default
+  html_document: default
+---
+```{r data generation, echo = FALSE, results = "hide"}
+## cálculos
+library(exams)
+# parametros
+T1 <- sample(seq(from=15.27, to=25.27,by=2),1)
+T2 <- sample(seq(from=30.27, to=45.27,by=2),1)
+m <- sample(seq(from=18.27, to=26.27,by=2),1)
+
+# solucion
+Q <- m*4.184*(T2-T1)
+res <- round(Q,2)
+
+
+```
+
+Question
+========
+Calcular el calor necesario (en J) para calentar $`r m`$ g de agua desde $`r T1`$$^\circ\text{C}$ hasta $`r T2`$$^\circ\text{C}$. La capacidad calorífica del agua es 4,184 J/(g$^\circ\text{C}$). Redondear el resultado a dos cifras decimales.
+
+
+Solution
+========
+Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como:  $Q = mCp\Delta T$.
+$$
+\begin{aligned}
+    Q  &= `r m`\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(`r T2`-`r T1`)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+$$
+
+Así, redondeando a dos dígitos tenemos: $Q = `r fmt(res)`$ J.
+
+Meta-information
+================
+extype: num
+exsolution: `r fmt(res)`
+exname: Q_ran
+extol: 0.01

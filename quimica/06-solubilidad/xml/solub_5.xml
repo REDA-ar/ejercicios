@@ -1,0 +1,2661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/solub_5/Exercise 1</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R01 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.15 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.15\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.15 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.15\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.15}\)</span></p>
+<p><span class="math inline">\(s´= 1.18e-09\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1.18e-09</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R02 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.17 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.17\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.17 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.17\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.17}\)</span></p>
+<p><span class="math inline">\(s´= 1.04e-09\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1.04e-09</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R03 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.06 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.06\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.06 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.06\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.06}\)</span></p>
+<p><span class="math inline">\(s´= 2.95e-09\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2.95e-09</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R04 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.1 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.1\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.1 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.1\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.1}\)</span></p>
+<p><span class="math inline">\(s´= 1.77e-09\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1.77e-09</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R05 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.01 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.01\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.01 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.01\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.01}\)</span></p>
+<p><span class="math inline">\(s´= 1.77e-08\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1.77e-08</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R06 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.07 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.07\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.07 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.07\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.07}\)</span></p>
+<p><span class="math inline">\(s´= 2.53e-09\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2.53e-09</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R07 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.1 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.1\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.1 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.1\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.1}\)</span></p>
+<p><span class="math inline">\(s´= 1.77e-09\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1.77e-09</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R08 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.12 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.12\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.12 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.12\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.12}\)</span></p>
+<p><span class="math inline">\(s´= 1.48e-09\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1.48e-09</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R09 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.19 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.19\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.19 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.19\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.19}\)</span></p>
+<p><span class="math inline">\(s´= 9.32e-10\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>9.32e-10</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R10 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.12 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.12\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.12 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.12\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.12}\)</span></p>
+<p><span class="math inline">\(s´= 1.48e-09\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1.48e-09</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R11 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.14 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.14\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.14 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.14\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.14}\)</span></p>
+<p><span class="math inline">\(s´= 1.26e-09\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1.26e-09</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R12 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.03 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.03\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.03 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.03\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.03}\)</span></p>
+<p><span class="math inline">\(s´= 5.9e-09\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>5.9e-09</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R13 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.03 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.03\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.03 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.03\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.03}\)</span></p>
+<p><span class="math inline">\(s´= 5.9e-09\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>5.9e-09</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R14 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.19 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.19\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.19 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.19\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.19}\)</span></p>
+<p><span class="math inline">\(s´= 9.32e-10\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>9.32e-10</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R15 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.04 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.04\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.04 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.04\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.04}\)</span></p>
+<p><span class="math inline">\(s´= 4.42e-09\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.42e-09</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R16 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.1 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.1\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.1 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.1\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.1}\)</span></p>
+<p><span class="math inline">\(s´= 1.77e-09\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1.77e-09</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R17 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.16 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.16\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.16 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.16\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.16}\)</span></p>
+<p><span class="math inline">\(s´= 1.11e-09\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1.11e-09</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R18 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.11 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.11\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.11 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.11\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.11}\)</span></p>
+<p><span class="math inline">\(s´= 1.61e-09\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1.61e-09</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R19 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.1 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.1\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.1 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.1\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.1}\)</span></p>
+<p><span class="math inline">\(s´= 1.77e-09\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1.77e-09</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R20 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.14 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.14\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.14 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.14\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.14}\)</span></p>
+<p><span class="math inline">\(s´= 1.26e-09\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1.26e-09</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R21 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.01 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.01\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.01 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.01\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.01}\)</span></p>
+<p><span class="math inline">\(s´= 1.77e-08\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1.77e-08</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R22 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.04 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.04\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.04 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.04\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.04}\)</span></p>
+<p><span class="math inline">\(s´= 4.42e-09\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.42e-09</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R23 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.06 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.06\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.06 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.06\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.06}\)</span></p>
+<p><span class="math inline">\(s´= 2.95e-09\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2.95e-09</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R24 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.01 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.01\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.01 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.01\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.01}\)</span></p>
+<p><span class="math inline">\(s´= 1.77e-08\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1.77e-08</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R25 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.08 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.08\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.08 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.08\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.08}\)</span></p>
+<p><span class="math inline">\(s´= 2.21e-09\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2.21e-09</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R26 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.19 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.19\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.19 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.19\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.19}\)</span></p>
+<p><span class="math inline">\(s´= 9.32e-10\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>9.32e-10</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R27 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.15 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.15\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.15 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.15\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.15}\)</span></p>
+<p><span class="math inline">\(s´= 1.18e-09\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1.18e-09</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R28 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.03 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.03\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.03 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.03\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.03}\)</span></p>
+<p><span class="math inline">\(s´= 5.9e-09\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>5.9e-09</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R29 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.08 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.08\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.08 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.08\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.08}\)</span></p>
+<p><span class="math inline">\(s´= 2.21e-09\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2.21e-09</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R30 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.18 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.18\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.18 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.18\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.18}\)</span></p>
+<p><span class="math inline">\(s´= 9.83e-10\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>9.83e-10</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R31 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.07 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.07\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.07 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.07\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.07}\)</span></p>
+<p><span class="math inline">\(s´= 2.53e-09\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2.53e-09</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R32 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.2 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.2\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.2 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.2\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.2}\)</span></p>
+<p><span class="math inline">\(s´= 8.85e-10\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>8.85e-10</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R33 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.06 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.06\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.06 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.06\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.06}\)</span></p>
+<p><span class="math inline">\(s´= 2.95e-09\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2.95e-09</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R34 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.2 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.2\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.2 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.2\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.2}\)</span></p>
+<p><span class="math inline">\(s´= 8.85e-10\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>8.85e-10</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R35 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.15 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.15\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.15 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.15\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.15}\)</span></p>
+<p><span class="math inline">\(s´= 1.18e-09\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1.18e-09</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R36 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.04 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.04\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.04 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.04\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.04}\)</span></p>
+<p><span class="math inline">\(s´= 4.42e-09\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.42e-09</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R37 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.11 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.11\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.11 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.11\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.11}\)</span></p>
+<p><span class="math inline">\(s´= 1.61e-09\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1.61e-09</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R38 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.09 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.09\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.09 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.09\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.09}\)</span></p>
+<p><span class="math inline">\(s´= 1.97e-09\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1.97e-09</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R39 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.06 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.06\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.06 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.06\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.06}\)</span></p>
+<p><span class="math inline">\(s´= 2.95e-09\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2.95e-09</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R40 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.11 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.11\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.11 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.11\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.11}\)</span></p>
+<p><span class="math inline">\(s´= 1.61e-09\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1.61e-09</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R41 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.07 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.07\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.07 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.07\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.07}\)</span></p>
+<p><span class="math inline">\(s´= 2.53e-09\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2.53e-09</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R42 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.2 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.2\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.2 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.2\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.2}\)</span></p>
+<p><span class="math inline">\(s´= 8.85e-10\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>8.85e-10</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R43 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.1 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.1\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.1 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.1\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.1}\)</span></p>
+<p><span class="math inline">\(s´= 1.77e-09\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1.77e-09</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R44 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.09 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.09\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.09 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.09\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.09}\)</span></p>
+<p><span class="math inline">\(s´= 1.97e-09\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1.97e-09</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R45 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.17 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.17\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.17 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.17\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.17}\)</span></p>
+<p><span class="math inline">\(s´= 1.04e-09\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1.04e-09</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R46 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.03 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.03\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.03 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.03\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.03}\)</span></p>
+<p><span class="math inline">\(s´= 5.9e-09\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>5.9e-09</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R47 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.13 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.13\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.13 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.13\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.13}\)</span></p>
+<p><span class="math inline">\(s´= 1.36e-09\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1.36e-09</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R48 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.11 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.11\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.11 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.11\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.11}\)</span></p>
+<p><span class="math inline">\(s´= 1.61e-09\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1.61e-09</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R49 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.06 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.06\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.06 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.06\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.06}\)</span></p>
+<p><span class="math inline">\(s´= 2.95e-09\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2.95e-09</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R50 Q1 : solub_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>El producto de solubilidad de AgCl es <span class="math inline">\(1.77e-10\)</span>. Calcular la solubilidad del <span class="math inline">\(AgCl\)</span> en una solución que contiene 0.03 mol/L de <span class="math inline">\(NaCl\)</span>. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que hay <span class="math inline">\(Cl^-\)</span> agregados por el <span class="math inline">\(NaCl\)</span></p>
+<p>Sea s´ la nueva solubilidad de <span class="math inline">\(AgCl\)</span>:</p>
+<p><span class="math inline">\((Cl^-)=s´ + 0.03\)</span></p>
+<p><span class="math inline">\((Ag^+)=s´\)</span></p>
+<p>Para <span class="math inline">\((Cl^-)\)</span> despreciamos s´ frente a 0.03 porque es muy pequeño.</p>
+<p><span class="math inline">\(Kps= s´\cdot 0.03\)</span></p>
+<p><span class="math inline">\(s´= \frac{1,77e-10}{0.03}\)</span></p>
+<p><span class="math inline">\(s´= 5.9e-09\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>5.9e-09</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,2711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/acbase_4/Exercise 1</text>
+</category>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R01 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.86\)</span> M {1:NUMERICAL:=0.07:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.44\)</span> M {1:NUMERICAL:=0.06:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.78\)</span> M {1:NUMERICAL:=13.89:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.44\)</span> M {1:NUMERICAL:=13.94:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.86)\)</span> = <span class="math inline">\(0.07\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.44)\)</span> = <span class="math inline">\(0.06\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.78)=0.11\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 13.89\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.44) = 0.06\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =13.94\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R02 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.54\)</span> M {1:NUMERICAL:=0.27:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.6\)</span> M {1:NUMERICAL:=-0.08:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.4\)</span> M {1:NUMERICAL:=13.6:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.88\)</span> M {1:NUMERICAL:=14.25:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.54)\)</span> = <span class="math inline">\(0.27\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.6)\)</span> = <span class="math inline">\(-0.08\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.4)=0.4\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 13.6\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.88) = -0.25\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =14.25\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R03 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.48\)</span> M {1:NUMERICAL:=0.32:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.02\)</span> M {1:NUMERICAL:=1.4:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.46\)</span> M {1:NUMERICAL:=13.66:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.54\)</span> M {1:NUMERICAL:=14.03:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.48)\)</span> = <span class="math inline">\(0.32\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.02)\)</span> = <span class="math inline">\(1.4\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.46)=0.34\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 13.66\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.54) = -0.03\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =14.03\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R04 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.94\)</span> M {1:NUMERICAL:=0.03:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.76\)</span> M {1:NUMERICAL:=-0.18:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.26\)</span> M {1:NUMERICAL:=13.41:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.98\)</span> M {1:NUMERICAL:=14.29:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.94)\)</span> = <span class="math inline">\(0.03\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.76)\)</span> = <span class="math inline">\(-0.18\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.26)=0.59\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 13.41\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.98) = -0.29\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =14.29\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R05 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.42\)</span> M {1:NUMERICAL:=0.38:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.24\)</span> M {1:NUMERICAL:=0.32:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.52\)</span> M {1:NUMERICAL:=13.72:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.62\)</span> M {1:NUMERICAL:=14.09:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.42)\)</span> = <span class="math inline">\(0.38\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.24)\)</span> = <span class="math inline">\(0.32\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.52)=0.28\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 13.72\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.62) = -0.09\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =14.09\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R06 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.16\)</span> M {1:NUMERICAL:=0.8:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.04\)</span> M {1:NUMERICAL:=1.1:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.66\)</span> M {1:NUMERICAL:=13.82:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.5\)</span> M {1:NUMERICAL:=14:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.16)\)</span> = <span class="math inline">\(0.8\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.04)\)</span> = <span class="math inline">\(1.1\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.66)=0.18\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 13.82\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.5) = 0\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =14\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R07 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.18\)</span> M {1:NUMERICAL:=0.74:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.76\)</span> M {1:NUMERICAL:=-0.18:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.8\)</span> M {1:NUMERICAL:=13.9:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.74\)</span> M {1:NUMERICAL:=14.17:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.18)\)</span> = <span class="math inline">\(0.74\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.76)\)</span> = <span class="math inline">\(-0.18\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.8)=0.1\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 13.9\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.74) = -0.17\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =14.17\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R08 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.84\)</span> M {1:NUMERICAL:=0.08:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.94\)</span> M {1:NUMERICAL:=-0.27:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.12\)</span> M {1:NUMERICAL:=13.08:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.42\)</span> M {1:NUMERICAL:=13.92:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.84)\)</span> = <span class="math inline">\(0.08\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.94)\)</span> = <span class="math inline">\(-0.27\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.12)=0.92\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 13.08\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.42) = 0.08\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =13.92\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R09 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.32\)</span> M {1:NUMERICAL:=0.49:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.06\)</span> M {1:NUMERICAL:=0.92:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.94\)</span> M {1:NUMERICAL:=13.97:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.5\)</span> M {1:NUMERICAL:=14:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.32)\)</span> = <span class="math inline">\(0.49\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.06)\)</span> = <span class="math inline">\(0.92\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.94)=0.03\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 13.97\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.5) = 0\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =14\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R10 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.26\)</span> M {1:NUMERICAL:=0.59:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.96\)</span> M {1:NUMERICAL:=-0.28:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.44\)</span> M {1:NUMERICAL:=13.64:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.78\)</span> M {1:NUMERICAL:=14.19:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.26)\)</span> = <span class="math inline">\(0.59\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.96)\)</span> = <span class="math inline">\(-0.28\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.44)=0.36\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 13.64\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.78) = -0.19\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =14.19\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R11 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.42\)</span> M {1:NUMERICAL:=0.38:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.04\)</span> M {1:NUMERICAL:=1.1:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.02\)</span> M {1:NUMERICAL:=12.3:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.5\)</span> M {1:NUMERICAL:=14:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.42)\)</span> = <span class="math inline">\(0.38\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.04)\)</span> = <span class="math inline">\(1.1\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.02)=1.7\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 12.3\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.5) = 0\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =14\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R12 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.54\)</span> M {1:NUMERICAL:=0.27:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.52\)</span> M {1:NUMERICAL:=-0.02:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.84\)</span> M {1:NUMERICAL:=13.92:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.1\)</span> M {1:NUMERICAL:=13.3:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.54)\)</span> = <span class="math inline">\(0.27\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.52)\)</span> = <span class="math inline">\(-0.02\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.84)=0.08\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 13.92\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.1) = 0.7\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =13.3\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R13 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.5\)</span> M {1:NUMERICAL:=0.3:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.16\)</span> M {1:NUMERICAL:=0.49:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.66\)</span> M {1:NUMERICAL:=13.82:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.04\)</span> M {1:NUMERICAL:=12.9:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.5)\)</span> = <span class="math inline">\(0.3\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.16)\)</span> = <span class="math inline">\(0.49\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.66)=0.18\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 13.82\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.04) = 1.1\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =12.9\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R14 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.44\)</span> M {1:NUMERICAL:=0.36:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.38\)</span> M {1:NUMERICAL:=0.12:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.12\)</span> M {1:NUMERICAL:=13.08:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.9\)</span> M {1:NUMERICAL:=14.26:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.44)\)</span> = <span class="math inline">\(0.36\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.38)\)</span> = <span class="math inline">\(0.12\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.12)=0.92\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 13.08\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.9) = -0.26\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =14.26\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R15 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.76\)</span> M {1:NUMERICAL:=0.12:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.58\)</span> M {1:NUMERICAL:=-0.06:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.68\)</span> M {1:NUMERICAL:=13.83:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.6\)</span> M {1:NUMERICAL:=14.08:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.76)\)</span> = <span class="math inline">\(0.12\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.58)\)</span> = <span class="math inline">\(-0.06\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.68)=0.17\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 13.83\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.6) = -0.08\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =14.08\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R16 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.56\)</span> M {1:NUMERICAL:=0.25:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.46\)</span> M {1:NUMERICAL:=0.04:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.32\)</span> M {1:NUMERICAL:=13.51:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.88\)</span> M {1:NUMERICAL:=14.25:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.56)\)</span> = <span class="math inline">\(0.25\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.46)\)</span> = <span class="math inline">\(0.04\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.32)=0.49\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 13.51\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.88) = -0.25\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =14.25\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R17 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.9\)</span> M {1:NUMERICAL:=0.05:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.68\)</span> M {1:NUMERICAL:=-0.13:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.22\)</span> M {1:NUMERICAL:=13.34:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.86\)</span> M {1:NUMERICAL:=14.24:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.9)\)</span> = <span class="math inline">\(0.05\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.68)\)</span> = <span class="math inline">\(-0.13\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.22)=0.66\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 13.34\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.86) = -0.24\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =14.24\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R18 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.48\)</span> M {1:NUMERICAL:=0.32:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.24\)</span> M {1:NUMERICAL:=0.32:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.9\)</span> M {1:NUMERICAL:=13.95:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.02\)</span> M {1:NUMERICAL:=12.6:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.48)\)</span> = <span class="math inline">\(0.32\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.24)\)</span> = <span class="math inline">\(0.32\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.9)=0.05\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 13.95\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.02) = 1.4\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =12.6\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R19 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.4\)</span> M {1:NUMERICAL:=0.4:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.92\)</span> M {1:NUMERICAL:=-0.26:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.92\)</span> M {1:NUMERICAL:=13.96:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.82\)</span> M {1:NUMERICAL:=14.21:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.4)\)</span> = <span class="math inline">\(0.4\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.92)\)</span> = <span class="math inline">\(-0.26\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.92)=0.04\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 13.96\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.82) = -0.21\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =14.21\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R20 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.38\)</span> M {1:NUMERICAL:=0.42:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.66\)</span> M {1:NUMERICAL:=-0.12:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.1\)</span> M {1:NUMERICAL:=13:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.98\)</span> M {1:NUMERICAL:=14.29:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.38)\)</span> = <span class="math inline">\(0.42\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.66)\)</span> = <span class="math inline">\(-0.12\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.1)=1\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 13\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.98) = -0.29\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =14.29\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R21 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.4\)</span> M {1:NUMERICAL:=0.4:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.96\)</span> M {1:NUMERICAL:=-0.28:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.36\)</span> M {1:NUMERICAL:=13.56:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.88\)</span> M {1:NUMERICAL:=14.25:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.4)\)</span> = <span class="math inline">\(0.4\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.96)\)</span> = <span class="math inline">\(-0.28\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.36)=0.44\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 13.56\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.88) = -0.25\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =14.25\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R22 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.76\)</span> M {1:NUMERICAL:=0.12:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.28\)</span> M {1:NUMERICAL:=0.25:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.56\)</span> M {1:NUMERICAL:=13.75:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.22\)</span> M {1:NUMERICAL:=13.64:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.76)\)</span> = <span class="math inline">\(0.12\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.28)\)</span> = <span class="math inline">\(0.25\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.56)=0.25\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 13.75\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.22) = 0.36\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =13.64\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R23 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.04\)</span> M {1:NUMERICAL:=1.4:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.52\)</span> M {1:NUMERICAL:=-0.02:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.12\)</span> M {1:NUMERICAL:=13.08:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.7\)</span> M {1:NUMERICAL:=14.15:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.04)\)</span> = <span class="math inline">\(1.4\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.52)\)</span> = <span class="math inline">\(-0.02\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.12)=0.92\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 13.08\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.7) = -0.15\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =14.15\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R24 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.86\)</span> M {1:NUMERICAL:=0.07:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.64\)</span> M {1:NUMERICAL:=-0.11:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.7\)</span> M {1:NUMERICAL:=13.85:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.98\)</span> M {1:NUMERICAL:=14.29:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.86)\)</span> = <span class="math inline">\(0.07\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.64)\)</span> = <span class="math inline">\(-0.11\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.7)=0.15\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 13.85\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.98) = -0.29\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =14.29\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R25 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.8\)</span> M {1:NUMERICAL:=0.1:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.5\)</span> M {1:NUMERICAL:=0:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.96\)</span> M {1:NUMERICAL:=13.98:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.18\)</span> M {1:NUMERICAL:=13.56:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.8)\)</span> = <span class="math inline">\(0.1\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.5)\)</span> = <span class="math inline">\(0\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.96)=0.02\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 13.98\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.18) = 0.44\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =13.56\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R26 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.02\)</span> M {1:NUMERICAL:=1.7:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.02\)</span> M {1:NUMERICAL:=1.4:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.08\)</span> M {1:NUMERICAL:=12.9:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.08\)</span> M {1:NUMERICAL:=13.2:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.02)\)</span> = <span class="math inline">\(1.7\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.02)\)</span> = <span class="math inline">\(1.4\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.08)=1.1\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 12.9\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.08) = 0.8\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =13.2\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R27 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.58\)</span> M {1:NUMERICAL:=0.24:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.2\)</span> M {1:NUMERICAL:=0.4:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.96\)</span> M {1:NUMERICAL:=13.98:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.58\)</span> M {1:NUMERICAL:=14.06:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.58)\)</span> = <span class="math inline">\(0.24\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.2)\)</span> = <span class="math inline">\(0.4\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.96)=0.02\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 13.98\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.58) = -0.06\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =14.06\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R28 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.92\)</span> M {1:NUMERICAL:=0.04:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.76\)</span> M {1:NUMERICAL:=-0.18:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.84\)</span> M {1:NUMERICAL:=13.92:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.88\)</span> M {1:NUMERICAL:=14.25:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.92)\)</span> = <span class="math inline">\(0.04\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.76)\)</span> = <span class="math inline">\(-0.18\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.84)=0.08\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 13.92\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.88) = -0.25\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =14.25\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R29 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.06\)</span> M {1:NUMERICAL:=1.22:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.16\)</span> M {1:NUMERICAL:=0.49:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.34\)</span> M {1:NUMERICAL:=13.53:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.34\)</span> M {1:NUMERICAL:=13.83:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.06)\)</span> = <span class="math inline">\(1.22\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.16)\)</span> = <span class="math inline">\(0.49\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.34)=0.47\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 13.53\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.34) = 0.17\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =13.83\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R30 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.76\)</span> M {1:NUMERICAL:=0.12:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.22\)</span> M {1:NUMERICAL:=0.36:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.34\)</span> M {1:NUMERICAL:=13.53:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.36\)</span> M {1:NUMERICAL:=13.86:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.76)\)</span> = <span class="math inline">\(0.12\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.22)\)</span> = <span class="math inline">\(0.36\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.34)=0.47\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 13.53\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.36) = 0.14\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =13.86\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R31 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.62\)</span> M {1:NUMERICAL:=0.21:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.06\)</span> M {1:NUMERICAL:=0.92:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.84\)</span> M {1:NUMERICAL:=13.92:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.36\)</span> M {1:NUMERICAL:=13.86:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.62)\)</span> = <span class="math inline">\(0.21\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.06)\)</span> = <span class="math inline">\(0.92\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.84)=0.08\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 13.92\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.36) = 0.14\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =13.86\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R32 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.48\)</span> M {1:NUMERICAL:=0.32:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.34\)</span> M {1:NUMERICAL:=0.17:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.66\)</span> M {1:NUMERICAL:=13.82:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.24\)</span> M {1:NUMERICAL:=13.68:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.48)\)</span> = <span class="math inline">\(0.32\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.34)\)</span> = <span class="math inline">\(0.17\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.66)=0.18\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 13.82\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.24) = 0.32\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =13.68\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R33 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.18\)</span> M {1:NUMERICAL:=0.74:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.08\)</span> M {1:NUMERICAL:=0.8:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.54\)</span> M {1:NUMERICAL:=13.73:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.72\)</span> M {1:NUMERICAL:=14.16:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.18)\)</span> = <span class="math inline">\(0.74\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.08)\)</span> = <span class="math inline">\(0.8\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.54)=0.27\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 13.73\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.72) = -0.16\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =14.16\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R34 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.98\)</span> M {1:NUMERICAL:=0.01:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.1\)</span> M {1:NUMERICAL:=0.7:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.68\)</span> M {1:NUMERICAL:=13.83:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.74\)</span> M {1:NUMERICAL:=14.17:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.98)\)</span> = <span class="math inline">\(0.01\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.1)\)</span> = <span class="math inline">\(0.7\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.68)=0.17\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 13.83\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.74) = -0.17\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =14.17\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R35 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.26\)</span> M {1:NUMERICAL:=0.59:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.46\)</span> M {1:NUMERICAL:=0.04:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.34\)</span> M {1:NUMERICAL:=13.53:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.66\)</span> M {1:NUMERICAL:=14.12:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.26)\)</span> = <span class="math inline">\(0.59\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.46)\)</span> = <span class="math inline">\(0.04\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.34)=0.47\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 13.53\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.66) = -0.12\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =14.12\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R36 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.7\)</span> M {1:NUMERICAL:=0.15:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.44\)</span> M {1:NUMERICAL:=0.06:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.96\)</span> M {1:NUMERICAL:=13.98:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.48\)</span> M {1:NUMERICAL:=13.98:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.7)\)</span> = <span class="math inline">\(0.15\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.44)\)</span> = <span class="math inline">\(0.06\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.96)=0.02\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 13.98\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.48) = 0.02\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =13.98\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R37 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.42\)</span> M {1:NUMERICAL:=0.38:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.12\)</span> M {1:NUMERICAL:=0.62:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.06\)</span> M {1:NUMERICAL:=12.78:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.96\)</span> M {1:NUMERICAL:=14.28:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.42)\)</span> = <span class="math inline">\(0.38\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.12)\)</span> = <span class="math inline">\(0.62\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.06)=1.22\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 12.78\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.96) = -0.28\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =14.28\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R38 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.96\)</span> M {1:NUMERICAL:=0.02:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.64\)</span> M {1:NUMERICAL:=-0.11:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.7\)</span> M {1:NUMERICAL:=13.85:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.42\)</span> M {1:NUMERICAL:=13.92:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.96)\)</span> = <span class="math inline">\(0.02\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.64)\)</span> = <span class="math inline">\(-0.11\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.7)=0.15\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 13.85\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.42) = 0.08\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =13.92\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R39 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.36\)</span> M {1:NUMERICAL:=0.44:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.68\)</span> M {1:NUMERICAL:=-0.13:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.64\)</span> M {1:NUMERICAL:=13.81:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.86\)</span> M {1:NUMERICAL:=14.24:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.36)\)</span> = <span class="math inline">\(0.44\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.68)\)</span> = <span class="math inline">\(-0.13\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.64)=0.19\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 13.81\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.86) = -0.24\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =14.24\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R40 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.36\)</span> M {1:NUMERICAL:=0.44:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.16\)</span> M {1:NUMERICAL:=0.49:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.12\)</span> M {1:NUMERICAL:=13.08:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.78\)</span> M {1:NUMERICAL:=14.19:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.36)\)</span> = <span class="math inline">\(0.44\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.16)\)</span> = <span class="math inline">\(0.49\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.12)=0.92\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 13.08\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.78) = -0.19\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =14.19\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R41 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.32\)</span> M {1:NUMERICAL:=0.49:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.68\)</span> M {1:NUMERICAL:=-0.13:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.9\)</span> M {1:NUMERICAL:=13.95:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.32\)</span> M {1:NUMERICAL:=13.81:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.32)\)</span> = <span class="math inline">\(0.49\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.68)\)</span> = <span class="math inline">\(-0.13\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.9)=0.05\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 13.95\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.32) = 0.19\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =13.81\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R42 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.42\)</span> M {1:NUMERICAL:=0.38:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.34\)</span> M {1:NUMERICAL:=0.17:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.32\)</span> M {1:NUMERICAL:=13.51:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.82\)</span> M {1:NUMERICAL:=14.21:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.42)\)</span> = <span class="math inline">\(0.38\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.34)\)</span> = <span class="math inline">\(0.17\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.32)=0.49\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 13.51\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.82) = -0.21\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =14.21\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R43 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.7\)</span> M {1:NUMERICAL:=0.15:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.16\)</span> M {1:NUMERICAL:=0.49:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.4\)</span> M {1:NUMERICAL:=13.6:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.02\)</span> M {1:NUMERICAL:=12.6:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.7)\)</span> = <span class="math inline">\(0.15\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.16)\)</span> = <span class="math inline">\(0.49\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.4)=0.4\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 13.6\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.02) = 1.4\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =12.6\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R44 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.16\)</span> M {1:NUMERICAL:=0.8:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.06\)</span> M {1:NUMERICAL:=0.92:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.16\)</span> M {1:NUMERICAL:=13.2:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.66\)</span> M {1:NUMERICAL:=14.12:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.16)\)</span> = <span class="math inline">\(0.8\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.06)\)</span> = <span class="math inline">\(0.92\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.16)=0.8\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 13.2\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.66) = -0.12\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =14.12\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R45 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.46\)</span> M {1:NUMERICAL:=0.34:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.94\)</span> M {1:NUMERICAL:=-0.27:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.72\)</span> M {1:NUMERICAL:=13.86:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.66\)</span> M {1:NUMERICAL:=14.12:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.46)\)</span> = <span class="math inline">\(0.34\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.94)\)</span> = <span class="math inline">\(-0.27\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.72)=0.14\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 13.86\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.66) = -0.12\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =14.12\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R46 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.64\)</span> M {1:NUMERICAL:=0.19:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.26\)</span> M {1:NUMERICAL:=0.28:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.72\)</span> M {1:NUMERICAL:=13.86:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.66\)</span> M {1:NUMERICAL:=14.12:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.64)\)</span> = <span class="math inline">\(0.19\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.26)\)</span> = <span class="math inline">\(0.28\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.72)=0.14\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 13.86\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.66) = -0.12\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =14.12\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R47 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.4\)</span> M {1:NUMERICAL:=0.4:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.96\)</span> M {1:NUMERICAL:=-0.28:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.52\)</span> M {1:NUMERICAL:=13.72:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.28\)</span> M {1:NUMERICAL:=13.75:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.4)\)</span> = <span class="math inline">\(0.4\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.96)\)</span> = <span class="math inline">\(-0.28\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.52)=0.28\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 13.72\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.28) = 0.25\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =13.75\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R48 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.08\)</span> M {1:NUMERICAL:=1.1:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.5\)</span> M {1:NUMERICAL:=0:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.04\)</span> M {1:NUMERICAL:=12.6:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.24\)</span> M {1:NUMERICAL:=13.68:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.08)\)</span> = <span class="math inline">\(1.1\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.5)\)</span> = <span class="math inline">\(0\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.04)=1.4\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 12.6\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.24) = 0.32\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =13.68\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R49 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.38\)</span> M {1:NUMERICAL:=0.42:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.84\)</span> M {1:NUMERICAL:=-0.23:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.98\)</span> M {1:NUMERICAL:=13.99:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.62\)</span> M {1:NUMERICAL:=14.09:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.38)\)</span> = <span class="math inline">\(0.42\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.84)\)</span> = <span class="math inline">\(-0.23\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.98)=0.01\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 13.99\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.62) = -0.09\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =14.09\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R50 Q1 : pH_pOH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):</p>
+<ol type = "a">
+<li> <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.28\)</span> M {1:NUMERICAL:=0.55:0.01} </li>
+<li> <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.44\)</span> M {1:NUMERICAL:=0.06:0.01} </li>
+<li> <span class="math inline">\(KOH\)</span> <span class="math inline">\(0.24\)</span> M {1:NUMERICAL:=13.38:0.01} </li>
+<li> <span class="math inline">\(Ca(OH)_2\)</span> <span class="math inline">\(0.86\)</span> M {1:NUMERICAL:=14.24:0.01} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(pH = -log(H^{+})\)</span>, <span class="math inline">\(pOH = -log(OH^{-})\)</span> y <span class="math inline">\(14=pH+pOH\)</span>.</p>
+<ul>
+<li><p>Para <span class="math inline">\(HCl\)</span>, <span class="math inline">\(pH = -log(0.28)\)</span> = <span class="math inline">\(0.55\)</span></p></li>
+<li><p>Para <span class="math inline">\(H_2SO_4\)</span>, <span class="math inline">\(pH = -log(2*0.44)\)</span> = <span class="math inline">\(0.06\)</span></p></li>
+<li><p>Para <span class="math inline">\(KOH\)</span>, <span class="math inline">\(pOH = -log(0.24)=0.62\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH = 13.38\)</span></p></li>
+<li><p>Para <span class="math inline">\(Ca(OH)_2\)</span>, <span class="math inline">\(pOH = -log(2*0.86) = -0.24\)</span>, <span class="math inline">\(pH=14- pOH\)</span>, <span class="math inline">\(pH =14.24\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+</quiz>

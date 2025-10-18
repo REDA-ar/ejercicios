@@ -1,0 +1,2711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/termo_8/Exercise 1</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R01 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.815\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.325\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.148\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.148\ \mathrm{atm} \cdot(0.325-0.815)\ \mathrm{dm^3}\\
+  W  &amp;= 1.148 \cdot(0.325-0.815)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.148 \cdot(0.325-0.815)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 56.98\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>56.98</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R02 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.65\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.37\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.22\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.22\ \mathrm{atm} \cdot(0.37-0.65)\ \mathrm{dm^3}\\
+  W  &amp;= 1.22 \cdot(0.37-0.65)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.22 \cdot(0.37-0.65)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 34.60\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>34.6</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R03 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.815\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.34\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.211\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.211\ \mathrm{atm} \cdot(0.34-0.815)\ \mathrm{dm^3}\\
+  W  &amp;= 1.211 \cdot(0.34-0.815)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.211 \cdot(0.34-0.815)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 58.27\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>58.27</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R04 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.775\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.395\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.184\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.184\ \mathrm{atm} \cdot(0.395-0.775)\ \mathrm{dm^3}\\
+  W  &amp;= 1.184 \cdot(0.395-0.775)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.184 \cdot(0.395-0.775)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 45.58\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>45.58</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R05 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.59\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.4\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.331\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.331\ \mathrm{atm} \cdot(0.4-0.59)\ \mathrm{dm^3}\\
+  W  &amp;= 1.331 \cdot(0.4-0.59)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.331 \cdot(0.4-0.59)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 25.62\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>25.62</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R06 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.615\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.34\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.1\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.1\ \mathrm{atm} \cdot(0.34-0.615)\ \mathrm{dm^3}\\
+  W  &amp;= 1.1 \cdot(0.34-0.615)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.1 \cdot(0.34-0.615)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 30.64\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>30.64</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R07 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.64\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.325\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.115\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.115\ \mathrm{atm} \cdot(0.325-0.64)\ \mathrm{dm^3}\\
+  W  &amp;= 1.115 \cdot(0.325-0.64)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.115 \cdot(0.325-0.64)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 35.58\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>35.58</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R08 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.685\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.255\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.388\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.388\ \mathrm{atm} \cdot(0.255-0.685)\ \mathrm{dm^3}\\
+  W  &amp;= 1.388 \cdot(0.255-0.685)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.388 \cdot(0.255-0.685)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 60.46\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>60.46</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R09 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.605\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.42\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.109\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.109\ \mathrm{atm} \cdot(0.42-0.605)\ \mathrm{dm^3}\\
+  W  &amp;= 1.109 \cdot(0.42-0.605)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.109 \cdot(0.42-0.605)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 20.78\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>20.78</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R10 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.545\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.415\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.166\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.166\ \mathrm{atm} \cdot(0.415-0.545)\ \mathrm{dm^3}\\
+  W  &amp;= 1.166 \cdot(0.415-0.545)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.166 \cdot(0.415-0.545)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 15.36\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>15.36</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R11 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.555\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.36\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.112\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.112\ \mathrm{atm} \cdot(0.36-0.555)\ \mathrm{dm^3}\\
+  W  &amp;= 1.112 \cdot(0.36-0.555)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.112 \cdot(0.36-0.555)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 21.97\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>21.97</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R12 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.55\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.28\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.265\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.265\ \mathrm{atm} \cdot(0.28-0.55)\ \mathrm{dm^3}\\
+  W  &amp;= 1.265 \cdot(0.28-0.55)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.265 \cdot(0.28-0.55)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 34.60\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>34.6</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R13 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.76\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.295\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.328\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.328\ \mathrm{atm} \cdot(0.295-0.76)\ \mathrm{dm^3}\\
+  W  &amp;= 1.328 \cdot(0.295-0.76)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.328 \cdot(0.295-0.76)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 62.56\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>62.56</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R14 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.595\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.39\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.151\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.151\ \mathrm{atm} \cdot(0.39-0.595)\ \mathrm{dm^3}\\
+  W  &amp;= 1.151 \cdot(0.39-0.595)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.151 \cdot(0.39-0.595)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 23.90\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>23.9</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R15 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.64\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.335\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.22\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.22\ \mathrm{atm} \cdot(0.335-0.64)\ \mathrm{dm^3}\\
+  W  &amp;= 1.22 \cdot(0.335-0.64)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.22 \cdot(0.335-0.64)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 37.69\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>37.69</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R16 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.77\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.38\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.301\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.301\ \mathrm{atm} \cdot(0.38-0.77)\ \mathrm{dm^3}\\
+  W  &amp;= 1.301 \cdot(0.38-0.77)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.301 \cdot(0.38-0.77)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 51.40\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>51.4</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R17 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.63\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.29\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.229\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.229\ \mathrm{atm} \cdot(0.29-0.63)\ \mathrm{dm^3}\\
+  W  &amp;= 1.229 \cdot(0.29-0.63)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.229 \cdot(0.29-0.63)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 42.33\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>42.33</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R18 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.585\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.375\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.031\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.031\ \mathrm{atm} \cdot(0.375-0.585)\ \mathrm{dm^3}\\
+  W  &amp;= 1.031 \cdot(0.375-0.585)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.031 \cdot(0.375-0.585)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 21.93\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>21.93</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R19 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.65\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.27\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.442\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.442\ \mathrm{atm} \cdot(0.27-0.65)\ \mathrm{dm^3}\\
+  W  &amp;= 1.442 \cdot(0.27-0.65)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.442 \cdot(0.27-0.65)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 55.51\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>55.51</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R20 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.68\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.23\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.325\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.325\ \mathrm{atm} \cdot(0.23-0.68)\ \mathrm{dm^3}\\
+  W  &amp;= 1.325 \cdot(0.23-0.68)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.325 \cdot(0.23-0.68)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 60.40\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>60.4</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R21 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.73\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.41\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.1\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.1\ \mathrm{atm} \cdot(0.41-0.73)\ \mathrm{dm^3}\\
+  W  &amp;= 1.1 \cdot(0.41-0.73)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.1 \cdot(0.41-0.73)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 35.66\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>35.66</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R22 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.7\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.34\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.433\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.433\ \mathrm{atm} \cdot(0.34-0.7)\ \mathrm{dm^3}\\
+  W  &amp;= 1.433 \cdot(0.34-0.7)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.433 \cdot(0.34-0.7)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 52.26\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>52.26</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R23 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.68\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.255\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.436\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.436\ \mathrm{atm} \cdot(0.255-0.68)\ \mathrm{dm^3}\\
+  W  &amp;= 1.436 \cdot(0.255-0.68)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.436 \cdot(0.255-0.68)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 61.82\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>61.82</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R24 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.65\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.425\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.304\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.304\ \mathrm{atm} \cdot(0.425-0.65)\ \mathrm{dm^3}\\
+  W  &amp;= 1.304 \cdot(0.425-0.65)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.304 \cdot(0.425-0.65)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 29.72\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>29.72</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R25 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.635\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.235\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.199\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.199\ \mathrm{atm} \cdot(0.235-0.635)\ \mathrm{dm^3}\\
+  W  &amp;= 1.199 \cdot(0.235-0.635)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.199 \cdot(0.235-0.635)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 48.58\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>48.58</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R26 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.805\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.38\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.244\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.244\ \mathrm{atm} \cdot(0.38-0.805)\ \mathrm{dm^3}\\
+  W  &amp;= 1.244 \cdot(0.38-0.805)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.244 \cdot(0.38-0.805)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 53.56\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>53.56</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R27 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.805\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.24\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.235\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.235\ \mathrm{atm} \cdot(0.24-0.805)\ \mathrm{dm^3}\\
+  W  &amp;= 1.235 \cdot(0.24-0.805)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.235 \cdot(0.24-0.805)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 70.69\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>70.69</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R28 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.685\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.355\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.154\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.154\ \mathrm{atm} \cdot(0.355-0.685)\ \mathrm{dm^3}\\
+  W  &amp;= 1.154 \cdot(0.355-0.685)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.154 \cdot(0.355-0.685)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 38.58\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>38.58</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R29 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.675\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.275\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.331\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.331\ \mathrm{atm} \cdot(0.275-0.675)\ \mathrm{dm^3}\\
+  W  &amp;= 1.331 \cdot(0.275-0.675)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.331 \cdot(0.275-0.675)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 53.93\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>53.93</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R30 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.705\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.255\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.076\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.076\ \mathrm{atm} \cdot(0.255-0.705)\ \mathrm{dm^3}\\
+  W  &amp;= 1.076 \cdot(0.255-0.705)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.076 \cdot(0.255-0.705)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 49.05\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>49.05</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R31 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.555\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.245\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.424\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.424\ \mathrm{atm} \cdot(0.245-0.555)\ \mathrm{dm^3}\\
+  W  &amp;= 1.424 \cdot(0.245-0.555)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.424 \cdot(0.245-0.555)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 44.72\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>44.72</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R32 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.785\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.26\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.154\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.154\ \mathrm{atm} \cdot(0.26-0.785)\ \mathrm{dm^3}\\
+  W  &amp;= 1.154 \cdot(0.26-0.785)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.154 \cdot(0.26-0.785)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 61.37\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>61.37</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R33 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.805\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.245\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.373\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.373\ \mathrm{atm} \cdot(0.245-0.805)\ \mathrm{dm^3}\\
+  W  &amp;= 1.373 \cdot(0.245-0.805)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.373 \cdot(0.245-0.805)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 77.89\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>77.89</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R34 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.68\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.405\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.004\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.004\ \mathrm{atm} \cdot(0.405-0.68)\ \mathrm{dm^3}\\
+  W  &amp;= 1.004 \cdot(0.405-0.68)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.004 \cdot(0.405-0.68)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 27.97\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>27.97</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R35 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.78\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.325\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.34\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.34\ \mathrm{atm} \cdot(0.325-0.78)\ \mathrm{dm^3}\\
+  W  &amp;= 1.34 \cdot(0.325-0.78)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.34 \cdot(0.325-0.78)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 61.76\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>61.76</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R36 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.75\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.265\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.343\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.343\ \mathrm{atm} \cdot(0.265-0.75)\ \mathrm{dm^3}\\
+  W  &amp;= 1.343 \cdot(0.265-0.75)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.343 \cdot(0.265-0.75)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 65.98\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>65.98</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R37 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.565\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.41\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.16\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.16\ \mathrm{atm} \cdot(0.41-0.565)\ \mathrm{dm^3}\\
+  W  &amp;= 1.16 \cdot(0.41-0.565)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.16 \cdot(0.41-0.565)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 18.21\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>18.21</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R38 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.65\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.36\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.328\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.328\ \mathrm{atm} \cdot(0.36-0.65)\ \mathrm{dm^3}\\
+  W  &amp;= 1.328 \cdot(0.36-0.65)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.328 \cdot(0.36-0.65)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 39.01\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>39.01</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R39 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.585\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.27\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.232\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.232\ \mathrm{atm} \cdot(0.27-0.585)\ \mathrm{dm^3}\\
+  W  &amp;= 1.232 \cdot(0.27-0.585)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.232 \cdot(0.27-0.585)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 39.31\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>39.31</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R40 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.69\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.35\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.07\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.07\ \mathrm{atm} \cdot(0.35-0.69)\ \mathrm{dm^3}\\
+  W  &amp;= 1.07 \cdot(0.35-0.69)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.07 \cdot(0.35-0.69)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 36.85\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>36.85</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R41 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.595\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.26\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.157\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.157\ \mathrm{atm} \cdot(0.26-0.595)\ \mathrm{dm^3}\\
+  W  &amp;= 1.157 \cdot(0.26-0.595)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.157 \cdot(0.26-0.595)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 39.26\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>39.26</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R42 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.535\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.335\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.103\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.103\ \mathrm{atm} \cdot(0.335-0.535)\ \mathrm{dm^3}\\
+  W  &amp;= 1.103 \cdot(0.335-0.535)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.103 \cdot(0.335-0.535)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 22.35\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>22.35</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R43 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.58\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.31\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.286\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.286\ \mathrm{atm} \cdot(0.31-0.58)\ \mathrm{dm^3}\\
+  W  &amp;= 1.286 \cdot(0.31-0.58)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.286 \cdot(0.31-0.58)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 35.17\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>35.17</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R44 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.775\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.3\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.433\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.433\ \mathrm{atm} \cdot(0.3-0.775)\ \mathrm{dm^3}\\
+  W  &amp;= 1.433 \cdot(0.3-0.775)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.433 \cdot(0.3-0.775)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 68.95\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>68.95</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R45 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.59\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.225\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.439\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.439\ \mathrm{atm} \cdot(0.225-0.59)\ \mathrm{dm^3}\\
+  W  &amp;= 1.439 \cdot(0.225-0.59)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.439 \cdot(0.225-0.59)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 53.21\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>53.21</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R46 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.6\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.32\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.373\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.373\ \mathrm{atm} \cdot(0.32-0.6)\ \mathrm{dm^3}\\
+  W  &amp;= 1.373 \cdot(0.32-0.6)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.373 \cdot(0.32-0.6)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 38.94\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>38.94</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R47 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.77\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.29\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.385\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.385\ \mathrm{atm} \cdot(0.29-0.77)\ \mathrm{dm^3}\\
+  W  &amp;= 1.385 \cdot(0.29-0.77)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.385 \cdot(0.29-0.77)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 67.34\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>67.34</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R48 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.785\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.28\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.358\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.358\ \mathrm{atm} \cdot(0.28-0.785)\ \mathrm{dm^3}\\
+  W  &amp;= 1.358 \cdot(0.28-0.785)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.358 \cdot(0.28-0.785)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 69.47\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>69.47</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R49 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.78\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.31\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.322\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.322\ \mathrm{atm} \cdot(0.31-0.78)\ \mathrm{dm^3}\\
+  W  &amp;= 1.322 \cdot(0.31-0.78)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.322 \cdot(0.31-0.78)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 62.94\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>62.94</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R50 Q1 : W_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde <span class="math inline">\(0.72\)</span> <span class="math inline">\(\text{dm}^3\)</span> hasta <span class="math inline">\(0.375\)</span> <span class="math inline">\(\text{dm}^3\)</span> contra una presión externa de <span class="math inline">\(1.223\)</span> <span class="math inline">\(\text{atm}\)</span>. Asumir que <span class="math inline">\(\text{dm}^3\text{atm}=101.3\)</span> J. Redondear el resultado a tres cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El trabajo se puede calcular como: <span class="math inline">\(W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)\)</span>.
+<span class="math display">\[
+\begin{aligned} 
+  W  &amp;= 1.223\ \mathrm{atm} \cdot(0.375-0.72)\ \mathrm{dm^3}\\
+  W  &amp;= 1.223 \cdot(0.375-0.72)\ \mathrm{dm^3atm}\\
+  W  &amp;= 1.223 \cdot(0.375-0.72)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a tres dígitos tenemos: <span class="math inline">\(W = 42.74\)</span> J</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>42.74</text>
+<tolerance>0.002</tolerance>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,44 @@
+---
+title: "acido base 1"
+date: "2025-01-05"
+output: 
+  exams2html: default
+  exams2pdf: default
+---
+
+
+```{r setup, include=FALSE}
+library(exams)
+
+#parametros
+
+vol_sol_caoh2<-sample(seq(from=50, to= 500,by=1),1)
+conc_caoh2 <- sample(seq(from=0.01, to= 0.2,by=0.01),1)
+
+#solucion
+sol1=conc_caoh2*(vol_sol_caoh2/1000)
+res1<- round(sol1,4)
+
+```
+
+Question
+========
+
+Calcular el número de equivalentes de $HCl$ necesarios para neutralizar totalmente `r vol_sol_caoh2`ml de una solución de $Ca(OH)_2 `r conc_caoh2` N$ (usar cuatro decimales).
+
+
+Solution
+========
+
+Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.
+
+$n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)$
+
+$n°_{equiv} HCl = `r res1`$
+
+Meta-information
+================
+extype: num
+exsolution: `r res1`
+exname: neut_5
+extol: 0.0001

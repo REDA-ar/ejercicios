@@ -1,0 +1,2811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/neut_1/Exercise 1</text>
+</category>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R01 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(149\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.2 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.08 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=149:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=372.5:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.2 *149}{0.08} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 149\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.2 * 149)}{(0.08)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 372.5\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R02 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(354\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.14 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.19 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=104.3:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=260.8:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.14 *354}{0.19} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 104.3\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.14 * 354)}{(0.19)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 260.8\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R03 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(103\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.16 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.05 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=131.8:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=329.6:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.16 *103}{0.05} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 131.8\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.16 * 103)}{(0.05)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 329.6\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R04 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(81\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.18 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.16 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=36.5:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=91.1:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.18 *81}{0.16} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 36.5\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.18 * 81)}{(0.16)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 91.1\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R05 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(112\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.03 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.13 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=10.3:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=25.8:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.03 *112}{0.13} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 10.3\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.03 * 112)}{(0.13)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 25.8\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R06 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(360\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.01 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.09 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=16:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=40:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.01 *360}{0.09} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 16\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.01 * 360)}{(0.09)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 40\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R07 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(438\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.15 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.13 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=202.2:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=505.4:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.15 *438}{0.13} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 202.2\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.15 * 438)}{(0.13)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 505.4\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R08 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(304\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.08 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.08 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=121.6:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=304:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.08 *304}{0.08} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 121.6\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.08 * 304)}{(0.08)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 304\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R09 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(187\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.19 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.11 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=129.2:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=323:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.19 *187}{0.11} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 129.2\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.19 * 187)}{(0.11)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 323\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R10 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(260\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.2 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.01 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=2080:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=5200:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.2 *260}{0.01} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2080\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.2 * 260)}{(0.01)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 5200\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R11 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(104\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.1 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.02 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=208:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=520:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.1 *104}{0.02} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 208\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.1 * 104)}{(0.02)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 520\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R12 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(285\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.08 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.01 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=912:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=2280:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.08 *285}{0.01} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 912\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.08 * 285)}{(0.01)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2280\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R13 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(186\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.08 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.08 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=74.4:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=186:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.08 *186}{0.08} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 74.4\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.08 * 186)}{(0.08)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 186\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R14 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(441\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.14 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.13 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=190:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=474.9:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.14 *441}{0.13} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 190\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.14 * 441)}{(0.13)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 474.9\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R15 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(299\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.18 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.06 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=358.8:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=897:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.18 *299}{0.06} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 358.8\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.18 * 299)}{(0.06)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 897\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R16 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(399\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.09 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.13 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=110.5:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=276.2:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.09 *399}{0.13} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 110.5\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.09 * 399)}{(0.13)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 276.2\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R17 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(489\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.18 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.12 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=293.4:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=733.5:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.18 *489}{0.12} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 293.4\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.18 * 489)}{(0.12)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 733.5\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R18 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(329\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.15 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.06 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=329:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=822.5:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.15 *329}{0.06} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 329\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.15 * 329)}{(0.06)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 822.5\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R19 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(109\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.05 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.06 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=36.3:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=90.8:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.05 *109}{0.06} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 36.3\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.05 * 109)}{(0.06)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 90.8\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R20 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(361\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.12 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.17 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=101.9:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=254.8:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.12 *361}{0.17} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 101.9\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.12 * 361)}{(0.17)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 254.8\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R21 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(313\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.05 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.06 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=104.3:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=260.8:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.05 *313}{0.06} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 104.3\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.05 * 313)}{(0.06)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 260.8\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R22 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(53\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.03 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.07 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=9.1:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=22.7:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.03 *53}{0.07} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 9.1\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.03 * 53)}{(0.07)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 22.7\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R23 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(418\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.08 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.18 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=74.3:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=185.8:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.08 *418}{0.18} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 74.3\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.08 * 418)}{(0.18)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 185.8\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R24 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(105\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.05 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.08 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=26.2:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=65.6:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.05 *105}{0.08} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 26.2\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.05 * 105)}{(0.08)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 65.6\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R25 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(55\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.2 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.19 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=23.2:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=57.9:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.2 *55}{0.19} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 23.2\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.2 * 55)}{(0.19)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 57.9\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R26 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(258\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.2 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.18 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=114.7:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=286.7:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.2 *258}{0.18} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 114.7\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.2 * 258)}{(0.18)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 286.7\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R27 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(293\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.16 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.11 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=170.5:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=426.2:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.16 *293}{0.11} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 170.5\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.16 * 293)}{(0.11)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 426.2\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R28 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(55\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.09 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.13 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=15.2:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=38.1:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.09 *55}{0.13} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 15.2\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.09 * 55)}{(0.13)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 38.1\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R29 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(149\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.14 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.08 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=104.3:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=260.8:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.14 *149}{0.08} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 104.3\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.14 * 149)}{(0.08)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 260.8\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R30 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(467\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.11 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.05 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=411:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=1027.4:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.11 *467}{0.05} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 411\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.11 * 467)}{(0.05)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 1027.4\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R31 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(374\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.11 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.08 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=205.7:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=514.2:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.11 *374}{0.08} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 205.7\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.11 * 374)}{(0.08)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 514.2\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R32 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(157\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.12 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.06 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=125.6:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=314:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.12 *157}{0.06} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 125.6\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.12 * 157)}{(0.06)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 314\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R33 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(256\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.18 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.07 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=263.3:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=658.3:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.18 *256}{0.07} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 263.3\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.18 * 256)}{(0.07)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 658.3\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R34 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(285\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.12 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.04 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=342:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=855:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.12 *285}{0.04} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 342\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.12 * 285)}{(0.04)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 855\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R35 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(433\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.15 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.13 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=199.8:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=499.6:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.15 *433}{0.13} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 199.8\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.15 * 433)}{(0.13)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 499.6\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R36 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(244\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.19 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.03 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=618.1:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=1545.3:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.19 *244}{0.03} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 618.1\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.19 * 244)}{(0.03)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 1545.3\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R37 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(178\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.04 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.05 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=57:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=142.4:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.04 *178}{0.05} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 57\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.04 * 178)}{(0.05)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 142.4\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R38 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(175\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.09 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.01 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=630:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=1575:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.09 *175}{0.01} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 630\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.09 * 175)}{(0.01)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 1575\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R39 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(180\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.16 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.11 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=104.7:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=261.8:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.16 *180}{0.11} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 104.7\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.16 * 180)}{(0.11)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 261.8\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R40 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(445\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.01 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.16 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=11.1:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=27.8:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.01 *445}{0.16} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 11.1\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.01 * 445)}{(0.16)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 27.8\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R41 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(158\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.03 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.09 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=21.1:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=52.7:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.03 *158}{0.09} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 21.1\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.03 * 158)}{(0.09)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 52.7\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R42 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(383\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.11 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.17 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=99.1:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=247.8:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.11 *383}{0.17} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 99.1\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.11 * 383)}{(0.17)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 247.8\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R43 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(176\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.16 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.17 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=66.3:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=165.6:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.16 *176}{0.17} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 66.3\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.16 * 176)}{(0.17)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 165.6\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R44 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(424\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.17 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.09 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=320.4:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=800.9:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.17 *424}{0.09} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 320.4\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.17 * 424)}{(0.09)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 800.9\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R45 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(156\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.14 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.03 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=291.2:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=728:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.14 *156}{0.03} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 291.2\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.14 * 156)}{(0.03)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 728\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R46 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(67\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.02 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.1 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=5.4:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=13.4:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.02 *67}{0.1} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 5.4\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.02 * 67)}{(0.1)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 13.4\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R47 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(401\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.16 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.1 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=256.6:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=641.6:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.16 *401}{0.1} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 256.6\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.16 * 401)}{(0.1)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 641.6\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R48 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(284\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.02 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.11 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=20.7:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=51.6:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.02 *284}{0.11} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 20.7\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.02 * 284)}{(0.11)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 51.6\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R49 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(186\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.11 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.1 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=81.8:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=204.6:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.11 *186}{0.1} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 81.8\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.11 * 186)}{(0.1)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 204.6\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R50 Q1 : neut_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(417\)</span> ml de una solución de <span class="math inline">\(HCl\)</span> <span class="math inline">\(0.09 M\)</span>. Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.04 M\)</span> necesario para :</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del ácido. {1:NUMERICAL:=375.3:0.1} </li>
+<li> neutralizar el 100% del ácido: {1:NUMERICAL:=938.2:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaOH \rightarrow NaCl + H_2O\)</span>.</p>
+<p>Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{0.09 *417}{0.04} \cdot \frac{40}{100}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 375.3\)</span></p>
+<p>*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).</p>
+<p>Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\((HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH}=\frac{(0.09 * 417)}{(0.04)}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 938.2\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+</quiz>

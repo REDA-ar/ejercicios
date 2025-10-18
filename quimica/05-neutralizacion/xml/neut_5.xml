@@ -1,0 +1,2411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/neut_5/Exercise 1</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R01 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 66ml de una solución de <span class="math inline">\(Ca(OH)_2 0.1 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.0066\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0066</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R02 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 484ml de una solución de <span class="math inline">\(Ca(OH)_2 0.11 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.0532\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0532</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R03 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 177ml de una solución de <span class="math inline">\(Ca(OH)_2 0.08 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.0142\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0142</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R04 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 191ml de una solución de <span class="math inline">\(Ca(OH)_2 0.19 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.0363\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0363</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R05 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 190ml de una solución de <span class="math inline">\(Ca(OH)_2 0.05 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.0095\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0095</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R06 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 468ml de una solución de <span class="math inline">\(Ca(OH)_2 0.06 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.0281\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0281</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R07 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 99ml de una solución de <span class="math inline">\(Ca(OH)_2 0.07 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.0069\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0069</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R08 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 410ml de una solución de <span class="math inline">\(Ca(OH)_2 0.01 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.0041\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0041</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R09 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 94ml de una solución de <span class="math inline">\(Ca(OH)_2 0.03 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.0028\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0028</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R10 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 86ml de una solución de <span class="math inline">\(Ca(OH)_2 0.07 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.006\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.006</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R11 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 428ml de una solución de <span class="math inline">\(Ca(OH)_2 0.2 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.0856\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0856</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R12 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 273ml de una solución de <span class="math inline">\(Ca(OH)_2 0.17 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.0464\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0464</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R13 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 190ml de una solución de <span class="math inline">\(Ca(OH)_2 0.1 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.019\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.019</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R14 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 427ml de una solución de <span class="math inline">\(Ca(OH)_2 0.08 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.0342\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0342</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R15 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 434ml de una solución de <span class="math inline">\(Ca(OH)_2 0.16 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.0694\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0694</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R16 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 362ml de una solución de <span class="math inline">\(Ca(OH)_2 0.07 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.0253\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0253</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R17 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 426ml de una solución de <span class="math inline">\(Ca(OH)_2 0.07 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.0298\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0298</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R18 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 295ml de una solución de <span class="math inline">\(Ca(OH)_2 0.08 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.0236\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0236</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R19 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 228ml de una solución de <span class="math inline">\(Ca(OH)_2 0.06 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.0137\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0137</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R20 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 70ml de una solución de <span class="math inline">\(Ca(OH)_2 0.17 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.0119\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0119</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R21 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 339ml de una solución de <span class="math inline">\(Ca(OH)_2 0.13 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.0441\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0441</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R22 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 59ml de una solución de <span class="math inline">\(Ca(OH)_2 0.18 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.0106\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0106</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R23 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 245ml de una solución de <span class="math inline">\(Ca(OH)_2 0.2 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.049\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.049</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R24 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 190ml de una solución de <span class="math inline">\(Ca(OH)_2 0.15 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.0285\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0285</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R25 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 469ml de una solución de <span class="math inline">\(Ca(OH)_2 0.18 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.0844\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0844</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R26 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 263ml de una solución de <span class="math inline">\(Ca(OH)_2 0.03 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.0079\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0079</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R27 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 236ml de una solución de <span class="math inline">\(Ca(OH)_2 0.15 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.0354\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0354</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R28 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 147ml de una solución de <span class="math inline">\(Ca(OH)_2 0.18 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.0265\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0265</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R29 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 190ml de una solución de <span class="math inline">\(Ca(OH)_2 0.02 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.0038\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0038</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R30 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 394ml de una solución de <span class="math inline">\(Ca(OH)_2 0.09 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.0355\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0355</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R31 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 451ml de una solución de <span class="math inline">\(Ca(OH)_2 0.04 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.018\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.018</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R32 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 360ml de una solución de <span class="math inline">\(Ca(OH)_2 0.16 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.0576\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0576</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R33 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 494ml de una solución de <span class="math inline">\(Ca(OH)_2 0.11 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.0543\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0543</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R34 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 360ml de una solución de <span class="math inline">\(Ca(OH)_2 0.03 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.0108\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0108</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R35 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 356ml de una solución de <span class="math inline">\(Ca(OH)_2 0.16 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.057\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.057</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R36 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 484ml de una solución de <span class="math inline">\(Ca(OH)_2 0.2 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.0968\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0968</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R37 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 409ml de una solución de <span class="math inline">\(Ca(OH)_2 0.12 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.0491\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0491</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R38 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 256ml de una solución de <span class="math inline">\(Ca(OH)_2 0.16 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.041\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.041</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R39 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 144ml de una solución de <span class="math inline">\(Ca(OH)_2 0.19 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.0274\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0274</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R40 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 413ml de una solución de <span class="math inline">\(Ca(OH)_2 0.05 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.0207\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0207</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R41 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 160ml de una solución de <span class="math inline">\(Ca(OH)_2 0.15 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.024\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.024</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R42 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 383ml de una solución de <span class="math inline">\(Ca(OH)_2 0.05 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.0192\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0192</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R43 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 81ml de una solución de <span class="math inline">\(Ca(OH)_2 0.13 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.0105\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0105</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R44 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 391ml de una solución de <span class="math inline">\(Ca(OH)_2 0.07 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.0274\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0274</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R45 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 229ml de una solución de <span class="math inline">\(Ca(OH)_2 0.12 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.0275\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0275</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R46 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 292ml de una solución de <span class="math inline">\(Ca(OH)_2 0.11 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.0321\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0321</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R47 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 335ml de una solución de <span class="math inline">\(Ca(OH)_2 0.17 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.057\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.057</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R48 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 496ml de una solución de <span class="math inline">\(Ca(OH)_2 0.01 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.005\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.005</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R49 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 452ml de una solución de <span class="math inline">\(Ca(OH)_2 0.1 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.0452\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0452</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R50 Q1 : neut_5 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el número de equivalentes de <span class="math inline">\(HCl\)</span> necesarios para neutralizar totalmente 179ml de una solución de <span class="math inline">\(Ca(OH)_2 0.2 N\)</span> (usar cuatro decimales).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para que la neutralización sea total, el número de equivalentes del ácido debe ser igual al de la base.</p>
+<p><span class="math inline">\(n°_{equiv} HCl = N_{Ca(OH)_2}\cdot (V_{sc.Ca(OH)_2}/1000)\)</span></p>
+<p><span class="math inline">\(n°_{equiv} HCl = 0.0358\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0358</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,50 @@
+---
+title: "t_medio_b"
+date: "2025-01-05"
+output: 
+  exams2html: default
+  exams2pdf: default
+---
+
+```{r setup, include=FALSE}
+library(exams)
+
+res0 <- 0
+res1 <- 1
+res2 <- 2
+```
+
+Question
+========
+
+Identificar a qué orden global corresponde las siguientes unidades de k.
+
+
+Answerlist
+----------
+
+* "M/min" corresponde a orden: 
+   
+* "1/min" corresponde a orden: 
+   
+* "1/(M·min)" corresponde a orden:  
+   
+
+Solution
+========
+
+Para orden cero las unidades son: "M/min"
+
+Para orden uno las unidades son: "1/min"
+
+Para orden dos las unidades son: "1/(M·min)"
+
+
+Meta-information
+================
+
+exname: unid_k
+extype: cloze
+exsolution: `r res0`|`r res1`|`r res2`
+exclozetype: num|num|num
+exshuffle: FALSE

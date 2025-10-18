@@ -1,0 +1,3561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/acbase_5/Exercise 1</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R01 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.46\)</span>. Datos: <span class="math inline">\(K_{a1}= 1e-05\)</span> y <span class="math inline">\(K_{a2}= 5e-12\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.46-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.46\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.46}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.46)^{1/2} &amp;=2.14e-03
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(2.14e-03)\)</span>, se obtiene un pH de <span class="math inline">\(2.67\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 11.33\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>11.33</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R02 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.41\)</span>. Datos: <span class="math inline">\(K_{a1}= 4e-06\)</span> y <span class="math inline">\(K_{a2}= 8e-12\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.41-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.41\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.41}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.41)^{1/2} &amp;=1.28e-03
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(1.28e-03)\)</span>, se obtiene un pH de <span class="math inline">\(2.89\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 11.11\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>11.11</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R03 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.03\)</span>. Datos: <span class="math inline">\(K_{a1}= 8e-06\)</span> y <span class="math inline">\(K_{a2}= 1e-11\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.03-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.03\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.03}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.03)^{1/2} &amp;=4.9e-04
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(4.9e-04)\)</span>, se obtiene un pH de <span class="math inline">\(3.31\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 10.69\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>10.69</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R04 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.5\)</span>. Datos: <span class="math inline">\(K_{a1}= 6e-06\)</span> y <span class="math inline">\(K_{a2}= 5e-12\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.5-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.5\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.5}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.5)^{1/2} &amp;=1.73e-03
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(1.73e-03)\)</span>, se obtiene un pH de <span class="math inline">\(2.76\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 11.24\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>11.24</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R05 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.47\)</span>. Datos: <span class="math inline">\(K_{a1}= 2e-06\)</span> y <span class="math inline">\(K_{a2}= 6e-12\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.47-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.47\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.47}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.47)^{1/2} &amp;=9.7e-04
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(9.7e-04)\)</span>, se obtiene un pH de <span class="math inline">\(3.01\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 10.99\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>10.99</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R06 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.02\)</span>. Datos: <span class="math inline">\(K_{a1}= 1e-06\)</span> y <span class="math inline">\(K_{a2}= 1e-12\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.02-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.02\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.02}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.02)^{1/2} &amp;=1.41e-04
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(1.41e-04)\)</span>, se obtiene un pH de <span class="math inline">\(3.85\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 10.15\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>10.15</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R07 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.44\)</span>. Datos: <span class="math inline">\(K_{a1}= 1e-06\)</span> y <span class="math inline">\(K_{a2}= 1e-11\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.44-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.44\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.44}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.44)^{1/2} &amp;=6.63e-04
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(6.63e-04)\)</span>, se obtiene un pH de <span class="math inline">\(3.18\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 10.82\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>10.82</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R08 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.42\)</span>. Datos: <span class="math inline">\(K_{a1}= 5e-06\)</span> y <span class="math inline">\(K_{a2}= 2e-12\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.42-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.42\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.42}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.42)^{1/2} &amp;=1.45e-03
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(1.45e-03)\)</span>, se obtiene un pH de <span class="math inline">\(2.84\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 11.16\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>11.16</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R09 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.37\)</span>. Datos: <span class="math inline">\(K_{a1}= 2e-06\)</span> y <span class="math inline">\(K_{a2}= 7e-12\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.37-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.37\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.37}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.37)^{1/2} &amp;=8.6e-04
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(8.6e-04)\)</span>, se obtiene un pH de <span class="math inline">\(3.07\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 10.93\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>10.93</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R10 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.42\)</span>. Datos: <span class="math inline">\(K_{a1}= 6e-06\)</span> y <span class="math inline">\(K_{a2}= 8e-12\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.42-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.42\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.42}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.42)^{1/2} &amp;=1.59e-03
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(1.59e-03)\)</span>, se obtiene un pH de <span class="math inline">\(2.8\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 11.2\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>11.2</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R11 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.5\)</span>. Datos: <span class="math inline">\(K_{a1}= 1e-05\)</span> y <span class="math inline">\(K_{a2}= 9e-12\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.5-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.5\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.5}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.5)^{1/2} &amp;=2.24e-03
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(2.24e-03)\)</span>, se obtiene un pH de <span class="math inline">\(2.65\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 11.35\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>11.35</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R12 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.14\)</span>. Datos: <span class="math inline">\(K_{a1}= 1e-06\)</span> y <span class="math inline">\(K_{a2}= 1e-11\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.14-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.14\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.14}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.14)^{1/2} &amp;=3.74e-04
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(3.74e-04)\)</span>, se obtiene un pH de <span class="math inline">\(3.43\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 10.57\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>10.57</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R13 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.48\)</span>. Datos: <span class="math inline">\(K_{a1}= 2e-06\)</span> y <span class="math inline">\(K_{a2}= 7e-12\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.48-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.48\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.48}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.48)^{1/2} &amp;=9.8e-04
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(9.8e-04)\)</span>, se obtiene un pH de <span class="math inline">\(3.01\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 10.99\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>10.99</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R14 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.5\)</span>. Datos: <span class="math inline">\(K_{a1}= 1e-05\)</span> y <span class="math inline">\(K_{a2}= 1e-11\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.5-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.5\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.5}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.5)^{1/2} &amp;=2.24e-03
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(2.24e-03)\)</span>, se obtiene un pH de <span class="math inline">\(2.65\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 11.35\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>11.35</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R15 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.13\)</span>. Datos: <span class="math inline">\(K_{a1}= 6e-06\)</span> y <span class="math inline">\(K_{a2}= 2e-12\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.13-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.13\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.13}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.13)^{1/2} &amp;=8.83e-04
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(8.83e-04)\)</span>, se obtiene un pH de <span class="math inline">\(3.05\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 10.95\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>10.95</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R16 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.38\)</span>. Datos: <span class="math inline">\(K_{a1}= 4e-06\)</span> y <span class="math inline">\(K_{a2}= 9e-12\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.38-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.38\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.38}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.38)^{1/2} &amp;=1.23e-03
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(1.23e-03)\)</span>, se obtiene un pH de <span class="math inline">\(2.91\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 11.09\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>11.09</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R17 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.16\)</span>. Datos: <span class="math inline">\(K_{a1}= 6e-06\)</span> y <span class="math inline">\(K_{a2}= 8e-12\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.16-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.16\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.16}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.16)^{1/2} &amp;=9.8e-04
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(9.8e-04)\)</span>, se obtiene un pH de <span class="math inline">\(3.01\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 10.99\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>10.99</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R18 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.39\)</span>. Datos: <span class="math inline">\(K_{a1}= 1e-05\)</span> y <span class="math inline">\(K_{a2}= 9e-12\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.39-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.39\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.39}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.39)^{1/2} &amp;=1.97e-03
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(1.97e-03)\)</span>, se obtiene un pH de <span class="math inline">\(2.7\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 11.3\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>11.3</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R19 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.47\)</span>. Datos: <span class="math inline">\(K_{a1}= 4e-06\)</span> y <span class="math inline">\(K_{a2}= 1e-12\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.47-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.47\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.47}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.47)^{1/2} &amp;=1.37e-03
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(1.37e-03)\)</span>, se obtiene un pH de <span class="math inline">\(2.86\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 11.14\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>11.14</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R20 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.17\)</span>. Datos: <span class="math inline">\(K_{a1}= 1e-06\)</span> y <span class="math inline">\(K_{a2}= 5e-12\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.17-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.17\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.17}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.17)^{1/2} &amp;=4.12e-04
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(4.12e-04)\)</span>, se obtiene un pH de <span class="math inline">\(3.38\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 10.62\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>10.62</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R21 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.32\)</span>. Datos: <span class="math inline">\(K_{a1}= 4e-06\)</span> y <span class="math inline">\(K_{a2}= 2e-12\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.32-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.32\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.32}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.32)^{1/2} &amp;=1.13e-03
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(1.13e-03)\)</span>, se obtiene un pH de <span class="math inline">\(2.95\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 11.05\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>11.05</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R22 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.08\)</span>. Datos: <span class="math inline">\(K_{a1}= 1e-05\)</span> y <span class="math inline">\(K_{a2}= 7e-12\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.08-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.08\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.08}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.08)^{1/2} &amp;=8.94e-04
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(8.94e-04)\)</span>, se obtiene un pH de <span class="math inline">\(3.05\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 10.95\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>10.95</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R23 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.27\)</span>. Datos: <span class="math inline">\(K_{a1}= 6e-06\)</span> y <span class="math inline">\(K_{a2}= 7e-12\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.27-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.27\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.27}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.27)^{1/2} &amp;=1.27e-03
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(1.27e-03)\)</span>, se obtiene un pH de <span class="math inline">\(2.9\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 11.1\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>11.1</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R24 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.01\)</span>. Datos: <span class="math inline">\(K_{a1}= 5e-06\)</span> y <span class="math inline">\(K_{a2}= 8e-12\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.01-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.01\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.01}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.01)^{1/2} &amp;=2.24e-04
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(2.24e-04)\)</span>, se obtiene un pH de <span class="math inline">\(3.65\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 10.35\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>10.35</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R25 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.5\)</span>. Datos: <span class="math inline">\(K_{a1}= 3e-06\)</span> y <span class="math inline">\(K_{a2}= 1e-11\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.5-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.5\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.5}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.5)^{1/2} &amp;=1.22e-03
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(1.22e-03)\)</span>, se obtiene un pH de <span class="math inline">\(2.91\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 11.09\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>11.09</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R26 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.05\)</span>. Datos: <span class="math inline">\(K_{a1}= 5e-06\)</span> y <span class="math inline">\(K_{a2}= 6e-12\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.05-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.05\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.05}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.05)^{1/2} &amp;=5e-04
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(5e-04)\)</span>, se obtiene un pH de <span class="math inline">\(3.3\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 10.7\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>10.7</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R27 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.46\)</span>. Datos: <span class="math inline">\(K_{a1}= 6e-06\)</span> y <span class="math inline">\(K_{a2}= 9e-12\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.46-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.46\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.46}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.46)^{1/2} &amp;=1.66e-03
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(1.66e-03)\)</span>, se obtiene un pH de <span class="math inline">\(2.78\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 11.22\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>11.22</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R28 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.23\)</span>. Datos: <span class="math inline">\(K_{a1}= 2e-06\)</span> y <span class="math inline">\(K_{a2}= 8e-12\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.23-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.23\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.23}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.23)^{1/2} &amp;=6.78e-04
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(6.78e-04)\)</span>, se obtiene un pH de <span class="math inline">\(3.17\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 10.83\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>10.83</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R29 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.26\)</span>. Datos: <span class="math inline">\(K_{a1}= 5e-06\)</span> y <span class="math inline">\(K_{a2}= 6e-12\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.26-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.26\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.26}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.26)^{1/2} &amp;=1.14e-03
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(1.14e-03)\)</span>, se obtiene un pH de <span class="math inline">\(2.94\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 11.06\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>11.06</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R30 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.11\)</span>. Datos: <span class="math inline">\(K_{a1}= 1e-05\)</span> y <span class="math inline">\(K_{a2}= 8e-12\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.11-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.11\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.11}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.11)^{1/2} &amp;=1.05e-03
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(1.05e-03)\)</span>, se obtiene un pH de <span class="math inline">\(2.98\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 11.02\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>11.02</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R31 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.37\)</span>. Datos: <span class="math inline">\(K_{a1}= 3e-06\)</span> y <span class="math inline">\(K_{a2}= 1e-12\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.37-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.37\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.37}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.37)^{1/2} &amp;=1.05e-03
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(1.05e-03)\)</span>, se obtiene un pH de <span class="math inline">\(2.98\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 11.02\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>11.02</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R32 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.2\)</span>. Datos: <span class="math inline">\(K_{a1}= 9e-06\)</span> y <span class="math inline">\(K_{a2}= 1e-12\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.2-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.2\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.2}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.2)^{1/2} &amp;=1.34e-03
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(1.34e-03)\)</span>, se obtiene un pH de <span class="math inline">\(2.87\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 11.13\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>11.13</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R33 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.07\)</span>. Datos: <span class="math inline">\(K_{a1}= 6e-06\)</span> y <span class="math inline">\(K_{a2}= 7e-12\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.07-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.07\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.07}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.07)^{1/2} &amp;=6.48e-04
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(6.48e-04)\)</span>, se obtiene un pH de <span class="math inline">\(3.19\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 10.81\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>10.81</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R34 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.11\)</span>. Datos: <span class="math inline">\(K_{a1}= 5e-06\)</span> y <span class="math inline">\(K_{a2}= 4e-12\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.11-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.11\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.11}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.11)^{1/2} &amp;=7.42e-04
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(7.42e-04)\)</span>, se obtiene un pH de <span class="math inline">\(3.13\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 10.87\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>10.87</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R35 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.24\)</span>. Datos: <span class="math inline">\(K_{a1}= 1e-05\)</span> y <span class="math inline">\(K_{a2}= 3e-12\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.24-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.24\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.24}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.24)^{1/2} &amp;=1.55e-03
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(1.55e-03)\)</span>, se obtiene un pH de <span class="math inline">\(2.81\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 11.19\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>11.19</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R36 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.35\)</span>. Datos: <span class="math inline">\(K_{a1}= 8e-06\)</span> y <span class="math inline">\(K_{a2}= 4e-12\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.35-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.35\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.35}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.35)^{1/2} &amp;=1.67e-03
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(1.67e-03)\)</span>, se obtiene un pH de <span class="math inline">\(2.78\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 11.22\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>11.22</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R37 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.23\)</span>. Datos: <span class="math inline">\(K_{a1}= 7e-06\)</span> y <span class="math inline">\(K_{a2}= 1e-12\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.23-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.23\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.23}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.23)^{1/2} &amp;=1.27e-03
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(1.27e-03)\)</span>, se obtiene un pH de <span class="math inline">\(2.9\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 11.1\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>11.1</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R38 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.16\)</span>. Datos: <span class="math inline">\(K_{a1}= 6e-06\)</span> y <span class="math inline">\(K_{a2}= 6e-12\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.16-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.16\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.16}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.16)^{1/2} &amp;=9.8e-04
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(9.8e-04)\)</span>, se obtiene un pH de <span class="math inline">\(3.01\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 10.99\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>10.99</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R39 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.35\)</span>. Datos: <span class="math inline">\(K_{a1}= 1e-06\)</span> y <span class="math inline">\(K_{a2}= 7e-12\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.35-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.35\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.35}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.35)^{1/2} &amp;=5.92e-04
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(5.92e-04)\)</span>, se obtiene un pH de <span class="math inline">\(3.23\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 10.77\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>10.77</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R40 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.25\)</span>. Datos: <span class="math inline">\(K_{a1}= 6e-06\)</span> y <span class="math inline">\(K_{a2}= 1e-11\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.25-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.25\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.25}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.25)^{1/2} &amp;=1.22e-03
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(1.22e-03)\)</span>, se obtiene un pH de <span class="math inline">\(2.91\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 11.09\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>11.09</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R41 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.11\)</span>. Datos: <span class="math inline">\(K_{a1}= 9e-06\)</span> y <span class="math inline">\(K_{a2}= 5e-12\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.11-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.11\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.11}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.11)^{1/2} &amp;=9.95e-04
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(9.95e-04)\)</span>, se obtiene un pH de <span class="math inline">\(3\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 11\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>11</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R42 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.03\)</span>. Datos: <span class="math inline">\(K_{a1}= 1e-06\)</span> y <span class="math inline">\(K_{a2}= 1e-11\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.03-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.03\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.03}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.03)^{1/2} &amp;=1.73e-04
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(1.73e-04)\)</span>, se obtiene un pH de <span class="math inline">\(3.76\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 10.24\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>10.24</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R43 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.47\)</span>. Datos: <span class="math inline">\(K_{a1}= 1e-05\)</span> y <span class="math inline">\(K_{a2}= 3e-12\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.47-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.47\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.47}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.47)^{1/2} &amp;=2.17e-03
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(2.17e-03)\)</span>, se obtiene un pH de <span class="math inline">\(2.66\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 11.34\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>11.34</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R44 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.21\)</span>. Datos: <span class="math inline">\(K_{a1}= 8e-06\)</span> y <span class="math inline">\(K_{a2}= 9e-12\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.21-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.21\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.21}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.21)^{1/2} &amp;=1.3e-03
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(1.3e-03)\)</span>, se obtiene un pH de <span class="math inline">\(2.89\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 11.11\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>11.11</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R45 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.33\)</span>. Datos: <span class="math inline">\(K_{a1}= 5e-06\)</span> y <span class="math inline">\(K_{a2}= 7e-12\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.33-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.33\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.33}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.33)^{1/2} &amp;=1.28e-03
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(1.28e-03)\)</span>, se obtiene un pH de <span class="math inline">\(2.89\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 11.11\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>11.11</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R46 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.37\)</span>. Datos: <span class="math inline">\(K_{a1}= 4e-06\)</span> y <span class="math inline">\(K_{a2}= 5e-12\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.37-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.37\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.37}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.37)^{1/2} &amp;=1.22e-03
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(1.22e-03)\)</span>, se obtiene un pH de <span class="math inline">\(2.91\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 11.09\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>11.09</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R47 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.04\)</span>. Datos: <span class="math inline">\(K_{a1}= 1e-06\)</span> y <span class="math inline">\(K_{a2}= 6e-12\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.04-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.04\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.04}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.04)^{1/2} &amp;=2e-04
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(2e-04)\)</span>, se obtiene un pH de <span class="math inline">\(3.7\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 10.3\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>10.3</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R48 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.12\)</span>. Datos: <span class="math inline">\(K_{a1}= 8e-06\)</span> y <span class="math inline">\(K_{a2}= 7e-12\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.12-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.12\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.12}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.12)^{1/2} &amp;=9.8e-04
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(9.8e-04)\)</span>, se obtiene un pH de <span class="math inline">\(3.01\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 10.99\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>10.99</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R49 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.22\)</span>. Datos: <span class="math inline">\(K_{a1}= 8e-06\)</span> y <span class="math inline">\(K_{a2}= 3e-12\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.22-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.22\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.22}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.22)^{1/2} &amp;=1.33e-03
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(1.33e-03)\)</span>, se obtiene un pH de <span class="math inline">\(2.88\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 11.12\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>11.12</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R50 Q1 : pOH_debil_diprotico </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pOH de una solución de un ácido débil <span class="math inline">\(AH_2\)</span> cuya concentración inical es <span class="math inline">\(0.36\)</span>. Datos: <span class="math inline">\(K_{a1}= 7e-06\)</span> y <span class="math inline">\(K_{a2}= 9e-12\)</span>. Redondear el resultado a dos decimales (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Al ser <span class="math inline">\(K_{a1}&gt;&gt;K_{a2}\)</span>, consideramos sólo el primer equilibrio (el de <span class="math inline">\(K_{a1}\)</span>) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de <span class="math inline">\(K_{a2}\)</span>).</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+\]</span>
+Como <span class="math inline">\((H^+)=(AH^-)\)</span> en el equilibrio, tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.36-(H^+)}
+\end{aligned}
+\]</span></p>
+<p>Además, como podemos despreciar <span class="math inline">\((H^+)\)</span> frente a <span class="math inline">\(0.36\)</span> (pensar por qué), tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  K_{a1} &amp;= \frac{(H^+)^2}{0.36}
+\end{aligned}
+\]</span></p>
+<p>Despejando <span class="math inline">\((H^+)\)</span> tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot 0.36)^{1/2} &amp;=1.59e-03
+\end{aligned}
+\]</span></p>
+<p>Haciendo <span class="math inline">\(-log(1.59e-03)\)</span>, se obtiene un pH de <span class="math inline">\(2.8\)</span>,
+y el pOH se calcula como: <span class="math inline">\(pOH = 14 -pH = 11.2\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>11.2</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,51 @@
+
+---
+title: "Pregunta de entropía"
+output: 
+  exams2pdf: default
+header-includes:
+  - \usepackage{mhchem}
+---
+
+
+```{r setup, include=FALSE}
+library(exams)
+
+answer_list <- c(
+  "$\\text{CH}_4 (g)+ 2\\text{O}_2 (g) \\rightarrow \\text{CO}_2 (g)+ 2\\text{H}_2\\text{O} (l)$",  # Respuesta 1
+  "$\\text{H}_2\\text{O}(l) \\rightarrow \\text{H}_2 (g) + \\text{O}_2 (g)$",# Respuesta 2
+  "$\\text{CaCO}_3 (s)\\rightarrow \\text{CaO} (s)+ \\text{CO}_2 (g)$"  # Respuesta 3
+)
+
+
+# mchoice
+questions <- answer_list
+solutions <- "011"
+
+```
+
+Question
+========
+Elegir en cuál o cuáles de las siguientes opciones aumenta la entropía. 
+
+```{r questionlist, echo=FALSE, results='asis'}
+answerlist(questions, markup = "markdown")
+
+```
+
+
+Solution
+========
+Para poder responder correctamente, debemos mirar el estado de agregación de las sustancias involucradas y el numero de moles de GAS que hay en reactivos y productos.
+
+Para ${CH}_4 (g)+ 2{O}_2 (g) \rightarrow {CO}_2 (g)+ 2{H}_2{O} (l)$, disminuye el numero de moles de gas por lo que la entropía disminuye (hay menos moles de gas en productos que en reactivos). En cambio, para ${H}_2{O}(l) \rightarrow {H}_2 (g) + {O}_2 (g)$ y ${CaCO}_3 (s)\rightarrow {CaO} (s)+ {CO}_2 (g)$, el número de moles de gas aumenta y por lo tanto también la entropía (es decir, hay mas moles de gas en productos que en reactivos).
+
+Meta-information
+================
+exname: entropia
+extype: mchoice
+exsolution: 011
+exshuffle: TRUE
+
+
+

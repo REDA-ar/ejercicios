@@ -1,0 +1,74 @@
+---
+title: "acido base 1"
+date: "2025-01-05"
+output: 
+  exams2html: default
+  exams2pdf: default
+---
+
+```{r setup, include=FALSE}
+library(exams)
+
+#parametros
+
+vol_sol_h2so4<-sample(seq(from=50, to= 500,by=1),1)
+conc_h2so4=sample(seq(from=0.01, to=0.2, by=0.01),1)
+conc_naoh<-conc_h2so4
+
+#solucion
+sol1=vol_sol_h2so4
+sol2=2*vol_sol_h2so4
+
+#solicitar decimales
+
+
+```
+
+Question
+========
+
+Calcular el volumen (en mililitros) de una solución de $NaOH$ $`r conc_naoh` N$ necesario para neutralizar totalmente $`r vol_sol_h2so4`$ ml de:
+
+Informar el resultado con un decimal.
+
+Answerlist
+----------
+  
+* una solución de $H_2SO_4$ $`r conc_naoh` N$
+* una solución de $H_2SO_4$ $`r conc_naoh` M$
+
+
+Solution
+========
+Sabemos que $H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O$. 
+
+Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el $H_2SO_4$ es un acido diprótico).
+
+Para Normalidad:
+$N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}$
+
+$Vol_{sc. NaOH} = \frac{`r conc_h2so4` *`r vol_sol_h2so4`}{`r conc_naoh`}$
+
+$Vol_{sc. NaOH} = `r vol_sol_h2so4`$
+
+
+Para Molaridad:
+$M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}$
+
+$Vol_{sc NaOH} = \frac{2*`r conc_h2so4` *`r vol_sol_h2so4`}{`r conc_naoh`}$
+
+$Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}$
+
+$Vol_{sc NaOH} = `r sol2`$
+
+
+Meta-information
+================
+extype: cloze
+exclozetype: num|num|
+exsolution: `r sol1`|`r sol2`|
+exname: neut_4
+extol: 0.1
+
+
+

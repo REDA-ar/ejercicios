@@ -1,0 +1,105 @@
+---
+title: "acido base 1"
+date: "2025-01-05"
+output: 
+  exams2html: default
+  exams2pdf: default
+---
+
+
+```{r setup, include=FALSE}
+library(exams)
+
+#parametros
+porcentaje_1 <- sample(seq(from=40, to= 60,by=1),1)
+porcentaje_2 <- sample(seq(from=40, to= 60,by=1),1)
+conc_bic <- sample(seq(from=0.1, to= 0.5,by=0.01),1)
+bic_sobrante_1 <- conc_bic - conc_bic*(porcentaje_1/100)
+bic_sobrante_2 <- conc_bic - conc_bic*(porcentaje_2/100)
+
+#solucion
+
+sol1=conc_bic*porcentaje_1/100
+sol2=conc_bic*porcentaje_2/100
+res1=round(sol1,4)
+res3=round(sol2,4)
+sol3=6.38+log10(bic_sobrante_1/res1)
+res2=round(sol3,2)
+sol4=10.25+log10(res3/bic_sobrante_2)
+res4=round(sol4,2)
+
+
+
+```
+
+Question
+========
+
+Se tiene dos recipientes con 1 litro de solución de bicarbonato $`r conc_bic` N$, cada uno. 
+
+Calcular el número de equivalentes de $HCl$ necesarios para neutralizar el $`r porcentaje_1`$ % del bicarbonato presente en la solución de uno de los recipientes (utilizar 4 decimales).
+
+Calcular también el número de equivalentes de $NaOH$ necesarios para neutralizar el $`r porcentaje_2`$ % del bicarbonato presente en la solución del otro recipiente (utilizar 4 decimales).
+
+Luego, calcular el pH para cada una de las soluciones una vez neutralizadas (para informar el pH usar dos decimales). Los valores de pKa para el ácido carbónico son 6.38 y 10.25.
+
+Answerlist
+----------
+  
+* equivalentes de $HCl$:
+
+* pH de la solución neutralizada con $HCl$:
+
+* equivalentes de $NaOH$:
+
+* pH de la solución neutralizada con $NaOH$:
+
+Solution
+========
+
+El bicarbonato es un anfolito, al reaccionar con HCl se forma ácido carbónico y al reaccionar con NaOH se forma anión carbonato.
+
+Para HCl:
+
+$n°_{equiv} HCl = (`r porcentaje_1`/100)\cdot `r conc_bic` (eq/litro) \cdot 1 litro$
+
+$n°_{equiv} HCl = `r res1`$
+
+pH de la solución neutralizada:
+
+Una vez que ocurre la neutralización parcial se obtiene un buffer. En este caso el ácido carbónico actúa como ácido, cuya concentración $`r res1`$ proviene de $n°_{equiv} HCl$ y el bicarbonato sobrante actúa como base. Dado que las bases conjugadas son el ácido carbónico y el bicarbonato se usa pKa1.
+
+$pH=pKa1+log\frac{(B)}{(A)}$
+
+$pH=6.38+log\frac{(`r bic_sobrante_1`)}{(`r res1`)}$
+
+$pH=`r res2`$
+
+
+Para NaOH:
+
+$n°_{equiv} NaOH = (`r porcentaje_2`/100)\cdot `r conc_bic` (eq/litro) \cdot 1 litro$
+
+$n°_{equiv} NaOH = `r res3`$
+
+pH de la solución neutralizada:
+
+Una vez que ocurre la neutralización parcial se obtiene un buffer. En este caso el bicarbonato sobrante actúa como ácido y  el carbonato actúa como base cuya concentración $`r res3`$ proviene de $n°_{equiv} NaOH$.  Dado que las bases conjugadas son el bicarbonato y el carbonato se usa pKa2. 
+
+$pH=pKa2+log\frac{(B)}{(A)}$
+
+$pH=10.25+log\frac{(`r res3`)}{(`r bic_sobrante_2`)}$
+
+$pH=`r res4`$
+
+
+
+Meta-information
+================
+extype: cloze
+exclozetype: num|num|num|num|
+exsolution: `r res1`|`r res2`|`r res3`|`r res4`|
+exname: neut_6
+extol: 0.0001|0.01|0.0001|0.01|
+
+

@@ -1,0 +1,2711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/neut_3/Exercise 1</text>
+</category>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R01 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R02 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R03 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R04 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R05 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R06 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R07 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R08 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R09 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R10 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R11 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R12 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R13 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R14 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R15 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R16 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R17 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R18 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R19 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R20 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R21 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R22 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R23 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R24 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R25 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R26 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R27 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R28 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R29 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R30 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R31 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R32 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R33 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R34 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R35 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R36 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R37 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R38 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R39 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R40 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R41 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R42 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R43 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R44 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R45 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R46 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R47 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R48 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R49 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R50 Q1 : neut_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar si las siguientes afirmaciones son verdaderas o falsas:</p>
+<ol type = "a">
+<li> Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. {1:SHORTANSWER:%100%F} </li>
+<li> Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. {1:SHORTANSWER:%100%V} </li>
+<li> Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Una reacción de neutralización entre un ácido y una base siempre produce una solución con pH = 7. Es falso, ya que si el ácido o la base son débiles la hidrólisis de los iones correspondientes darán como resultado un pH distinto de 7.</p></li>
+<li><p>Para neutralizar una solución de un ácido débil monoprótico 0,5 M se requiere igual cantidad de una base fuerte que para neutralizar una solución de un ácido fuerte monoprótico de la misma concentración. Es Verdadero. Tanto el ácido fuerte como el débil tienen la misma cantidad de <span class="math inline">\(H^+\)</span> disponibles por mol, aunque el débil los libere parcialmente. Si se agrega una base fuerte (<span class="math inline">\(OH^-\)</span>), la reacción desplaza el equilibrio del ácido débil, forzándolo a liberar más <span class="math inline">\(H^+\)</span>. Al final, todos los <span class="math inline">\(H^+\)</span> disponibles terminan reaccionando, y se necesita la misma cantidad de <span class="math inline">\(OH^-\)</span> para neutralizar.</p></li>
+<li><p>Si se neutraliza totalmente una solución de ácido acético con hidróxido de sodio, el pH resulta ácido. Es falso ya que la reacción genera una sal con propiedades básicas.</p>
+<p><span class="math inline">\(HAc + NaOH\rightarrow NaAc + H_2O\)</span></p>
+<p><span class="math inline">\(NaAc\rightarrow Na^+ + Ac^-\)</span></p>
+<p><span class="math inline">\(Ac^-+H_2O\rightleftharpoons HAc+OH^-\)</span></p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+</quiz>

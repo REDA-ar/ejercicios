@@ -1,0 +1,55 @@
+---
+title: "pares conjugados"
+date: "2025-01-05"
+output: 
+  exams2html: default
+  exams2pdf: default
+---
+
+
+```{r data generation, echo = FALSE, results = "hide", warning=FALSE}
+library(exams)
+
+# solución
+res1 <- "ácido carbónico y anión carbonato"
+res2 <- "agua y oxhidrilo"
+res3 <- "anión fosfato monoácido y anión fosfato diácido"
+res4 <- "ion amonio y amoníaco "
+res5 <- "hidrógeno y oxígeno"
+res6 <- "hidróxido de potasio y ácido cianhídrico"
+
+# mchoice
+questions <- c(res1, res2, res3, res4, res5, res6)
+solutions <- c(FALSE, TRUE, TRUE, TRUE, FALSE, FALSE)
+```
+
+Question
+========
+Elegir cuál o cuáles de las siguientes especies corresponden a pares conjugados.
+
+```{r questionlist, echo=FALSE, results='asis'}
+answerlist(questions, markup = "markdown")
+
+```
+
+
+Solution
+========
+Los pares de especies que corresponden a pares conjugados son: agua y oxhidrilo, anión fosfato monoácido y anión fosfato diácido, ion amonio y amoníaco, ya que difieren en un protón.
+
+Las especies ácido carbónico y anión carbonato se diferencian en dos protones.
+
+Hidrógeno y oxígeno son dos gases a temperatura ambiente.
+
+Hidróxido de potasio y ácido cianhídrico son un ácido y una base compuestos por diferentes elementos y no difieren en un protón. 
+
+
+Meta-information
+================
+exname: pares conjugados
+extype: mchoice
+exsolution: 011100
+exshuffle: FALSE
+
+
+

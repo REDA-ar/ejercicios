@@ -1,0 +1,64 @@
+---
+title: "acido base 1"
+date: "2025-01-05"
+output: 
+  exams2html: default
+  exams2pdf: default
+---
+
+
+```{r setup, include=FALSE}
+library(exams)
+
+#parametros
+
+kps<-sample(seq(from=5.5e-12, to= 1.5e-10 ,by=1e-13),1)
+kps_cient <- format(kps, scientific = TRUE, digits = 4)
+
+
+#solucion
+
+sol=kps^(1/2)
+res <- as.numeric(format(sol, scientific = TRUE, digits = 3))
+
+# Para extol calcular dos ordenes menos que el orden del máximo valor, si se pide dos decimales despues de la coma.
+
+```
+
+Question
+========
+
+Calcular la solubilidad de una sal de estequiometría 1:1 cuyo $Kps$ es `r kps_cient`. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.
+
+
+Solution
+========
+Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:
+
+$Kps=(Catión)\cdot(Anión)=s\cdot s$
+
+Donde $s$ representa la solubilidad.
+
+$Kps={s^2}$
+
+Despejando:
+
+$s=Kps^{(1/2)}$
+
+Entonces:
+
+$s=`r format(sol, scientific = TRUE)`$
+
+Finalmente redondeando:
+
+$s= `r format(res, scientific = TRUE)`$
+
+Meta-information
+================
+extype: num
+exsolution: `r format(res, scientific = TRUE)`
+extol: 0       
+exname: solub_1
+
+

@@ -1,0 +1,2761 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/sales_4/Exercise 1</text>
+</category>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R01 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R02 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R03 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R04 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R05 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R06 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R07 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R08 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R09 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R10 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R11 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R12 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R13 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R14 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R15 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R16 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R17 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R18 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R19 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R20 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R21 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R22 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R23 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R24 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R25 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R26 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R27 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R28 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R29 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R30 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R31 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R32 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R33 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R34 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R35 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R36 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R37 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R38 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R39 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R40 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R41 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R42 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R43 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R44 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R45 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R46 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R47 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R48 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R49 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R50 Q1 : vf_sales </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio. Considerar una temperatura de 25°C para todos los casos.</p>
+<ol type = "a">
+<li> El pH de una solución de cloruro de amonio es ácido. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución 0,1 M de <span class="math inline">\(NaCl\)</span> es igual al pH de una solución 0,2 M de <span class="math inline">\(NaCl\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> La concentración de <span class="math inline">\(OH^-\)</span> presente en el equilibrio en una solución de <span class="math inline">\(LiCN\)</span> 0,1 M es mayor a la de una solución de <span class="math inline">\(LiCN\)</span> 0,5 M (el cianuro es un anión proveniente de un ácido débil). {1:SHORTANSWER:%100%F} </li>
+<li> El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7. {1:SHORTANSWER:%100%V} </li>
+<li> El pH de una solución de <span class="math inline">\(K_2HPO_4\)</span> es mayor que el pH de una solución de <span class="math inline">\(KH_2PO_4\)</span>. {1:SHORTANSWER:%100%V} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.</p></li>
+<li><p>El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.</p></li>
+<li><p>Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que <span class="math inline">\((OH^-)= (K_b \cdot C_{inicial})^{1/2}\)</span>. Por lo tanto, a mayor <span class="math inline">\(C_{inicial}\)</span>, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.</p></li>
+<li><p>El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.</p></li>
+<li><p>De acuerdo al diagrama de distribución de especies se puede observar que una solucion de <span class="math inline">\(K_2HPO_4\)</span> se encuentra a pH alrededor de 10 mientras que una solucion de <span class="math inline">\(KH_2PO_4\)</span> se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>5</defaultgrade>
+</question>
+
+</quiz>

@@ -1,0 +1,2711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/termo_7/Exercise 1</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R01 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(18.27\)</span> g de agua desde <span class="math inline">\(17.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(32.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 18.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(32.27-17.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 1146.63\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1146.63</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R02 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(26.27\)</span> g de agua desde <span class="math inline">\(23.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(40.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 26.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(40.27-23.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 1868.53\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1868.53</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R03 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(20.27\)</span> g de agua desde <span class="math inline">\(17.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(42.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 20.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(42.27-17.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 2120.24\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2120.24</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R04 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(22.27\)</span> g de agua desde <span class="math inline">\(15.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(42.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 22.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(42.27-15.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 2515.80\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2515.8</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R05 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(24.27\)</span> g de agua desde <span class="math inline">\(15.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(36.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 24.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(36.27-15.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 2132.46\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2132.46</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R06 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(26.27\)</span> g de agua desde <span class="math inline">\(23.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(36.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 26.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(36.27-23.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 1428.88\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1428.88</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R07 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(20.27\)</span> g de agua desde <span class="math inline">\(15.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(32.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 20.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(32.27-15.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 1441.76\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1441.76</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R08 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(18.27\)</span> g de agua desde <span class="math inline">\(17.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(32.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 18.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(32.27-17.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 1146.63\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1146.63</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R09 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(22.27\)</span> g de agua desde <span class="math inline">\(21.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(44.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 22.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(44.27-21.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 2143.09\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2143.09</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R10 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(24.27\)</span> g de agua desde <span class="math inline">\(25.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(34.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 24.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(34.27-25.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 913.91\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>913.91</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R11 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(18.27\)</span> g de agua desde <span class="math inline">\(23.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(32.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 18.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(32.27-23.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 687.98\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>687.98</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R12 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(26.27\)</span> g de agua desde <span class="math inline">\(25.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(38.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 26.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(38.27-25.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 1428.88\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1428.88</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R13 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(22.27\)</span> g de agua desde <span class="math inline">\(15.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(40.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 22.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(40.27-15.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 2329.44\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2329.44</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R14 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(20.27\)</span> g de agua desde <span class="math inline">\(19.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(34.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 20.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(34.27-19.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 1272.15\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1272.15</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R15 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(18.27\)</span> g de agua desde <span class="math inline">\(19.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(40.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 18.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(40.27-19.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 1605.28\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1605.28</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R16 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(24.27\)</span> g de agua desde <span class="math inline">\(19.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(36.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 24.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(36.27-19.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 1726.28\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1726.28</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R17 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(18.27\)</span> g de agua desde <span class="math inline">\(19.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(30.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 18.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(30.27-19.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 840.86\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>840.86</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R18 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(24.27\)</span> g de agua desde <span class="math inline">\(23.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(38.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 24.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(38.27-23.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 1523.19\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1523.19</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R19 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(18.27\)</span> g de agua desde <span class="math inline">\(25.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(30.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 18.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(30.27-25.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 382.21\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>382.21</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R20 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(24.27\)</span> g de agua desde <span class="math inline">\(15.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(32.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 24.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(32.27-15.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 1726.28\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1726.28</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R21 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(20.27\)</span> g de agua desde <span class="math inline">\(23.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(42.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 20.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(42.27-23.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 1611.38\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1611.38</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R22 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(20.27\)</span> g de agua desde <span class="math inline">\(19.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(36.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 20.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(36.27-19.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 1441.76\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1441.76</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R23 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(18.27\)</span> g de agua desde <span class="math inline">\(21.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(30.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 18.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(30.27-21.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 687.98\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>687.98</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R24 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(20.27\)</span> g de agua desde <span class="math inline">\(19.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(34.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 20.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(34.27-19.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 1272.15\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1272.15</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R25 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(18.27\)</span> g de agua desde <span class="math inline">\(15.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(42.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 18.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(42.27-15.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 2063.93\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2063.93</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R26 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(22.27\)</span> g de agua desde <span class="math inline">\(21.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(40.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 22.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(40.27-21.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 1770.38\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1770.38</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R27 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(26.27\)</span> g de agua desde <span class="math inline">\(25.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(36.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 26.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(36.27-25.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 1209.05\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1209.05</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R28 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(20.27\)</span> g de agua desde <span class="math inline">\(17.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(40.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 20.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(40.27-17.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 1950.62\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1950.62</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R29 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(24.27\)</span> g de agua desde <span class="math inline">\(15.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(34.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 24.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(34.27-15.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 1929.37\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1929.37</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R30 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(20.27\)</span> g de agua desde <span class="math inline">\(19.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(36.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 20.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(36.27-19.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 1441.76\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1441.76</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R31 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(26.27\)</span> g de agua desde <span class="math inline">\(23.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(38.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 26.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(38.27-23.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 1648.71\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1648.71</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R32 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(20.27\)</span> g de agua desde <span class="math inline">\(19.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(32.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 20.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(32.27-19.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 1102.53\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1102.53</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R33 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(18.27\)</span> g de agua desde <span class="math inline">\(17.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(42.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 18.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(42.27-17.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 1911.04\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1911.04</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R34 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(26.27\)</span> g de agua desde <span class="math inline">\(15.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(30.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 26.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(30.27-15.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 1648.71\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1648.71</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R35 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(18.27\)</span> g de agua desde <span class="math inline">\(23.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(32.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 18.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(32.27-23.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 687.98\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>687.98</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R36 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(20.27\)</span> g de agua desde <span class="math inline">\(21.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(32.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 20.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(32.27-21.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 932.91\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>932.91</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R37 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(22.27\)</span> g de agua desde <span class="math inline">\(17.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(42.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 22.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(42.27-17.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 2329.44\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2329.44</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R38 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(20.27\)</span> g de agua desde <span class="math inline">\(23.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(30.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 20.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(30.27-23.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 593.67\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>593.67</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R39 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(22.27\)</span> g de agua desde <span class="math inline">\(15.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(30.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 22.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(30.27-15.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 1397.67\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1397.67</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R40 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(20.27\)</span> g de agua desde <span class="math inline">\(17.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(36.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 20.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(36.27-17.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 1611.38\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1611.38</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R41 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(24.27\)</span> g de agua desde <span class="math inline">\(15.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(30.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 24.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(30.27-15.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 1523.19\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1523.19</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R42 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(18.27\)</span> g de agua desde <span class="math inline">\(21.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(44.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 18.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(44.27-21.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 1758.16\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1758.16</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R43 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(26.27\)</span> g de agua desde <span class="math inline">\(21.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(38.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 26.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(38.27-21.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 1868.53\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1868.53</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R44 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(22.27\)</span> g de agua desde <span class="math inline">\(25.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(32.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 22.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(32.27-25.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 652.24\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>652.24</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R45 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(26.27\)</span> g de agua desde <span class="math inline">\(21.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(38.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 26.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(38.27-21.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 1868.53\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1868.53</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R46 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(26.27\)</span> g de agua desde <span class="math inline">\(19.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(38.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 26.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(38.27-19.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 2088.36\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2088.36</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R47 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(26.27\)</span> g de agua desde <span class="math inline">\(21.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(32.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 26.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(32.27-21.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 1209.05\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1209.05</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R48 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(24.27\)</span> g de agua desde <span class="math inline">\(25.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(32.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 24.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(32.27-25.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 710.82\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>710.82</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R49 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(26.27\)</span> g de agua desde <span class="math inline">\(17.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(32.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 26.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(32.27-17.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 1648.71\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1648.71</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R50 Q1 : Q_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el calor necesario (en J) para calentar <span class="math inline">\(26.27\)</span> g de agua desde <span class="math inline">\(23.27\)</span><span class="math inline">\(^\circ\text{C}\)</span> hasta <span class="math inline">\(42.27\)</span><span class="math inline">\(^\circ\text{C}\)</span>. La capacidad calorífica del agua es 4,184 J/(g<span class="math inline">\(^\circ\text{C}\)</span>). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dado que no hay un cambio de estado durante el proceso, el calor necesario se puede calcular como: <span class="math inline">\(Q = mCp\Delta T\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    Q  &amp;= 26.27\mathrm{g}\cdot 4.184\ \mathrm{J/(g^\circ\text{C}
+)}\cdot(42.27-23.27)\ \mathrm{^\circ\text{C}
+} 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(Q = 2088.36\)</span> J.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2088.36</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+</quiz>

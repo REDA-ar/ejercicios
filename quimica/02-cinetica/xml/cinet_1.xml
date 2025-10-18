@@ -1,0 +1,2361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/cinet_1/Exercise 1</text>
+</category>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R01 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{2}[B]^{3}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=2:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=3:0} </li>
+<li> Orden global: {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(2\)</span> y <span class="math inline">\(3\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(5\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R02 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{3}[B]^{3}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=3:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=3:0} </li>
+<li> Orden global: {1:NUMERICAL:=6:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(3\)</span> y <span class="math inline">\(3\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(6\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R03 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{3}[B]^{1}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=3:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=1:0} </li>
+<li> Orden global: {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(3\)</span> y <span class="math inline">\(1\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(4\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R04 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{1}[B]^{1}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=1:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=1:0} </li>
+<li> Orden global: {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(1\)</span> y <span class="math inline">\(1\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(2\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R05 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{3}[B]^{2}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=3:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=2:0} </li>
+<li> Orden global: {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(3\)</span> y <span class="math inline">\(2\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(5\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R06 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{2}[B]^{1}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=2:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=1:0} </li>
+<li> Orden global: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(2\)</span> y <span class="math inline">\(1\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(3\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R07 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{1}[B]^{3}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=1:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=3:0} </li>
+<li> Orden global: {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(1\)</span> y <span class="math inline">\(3\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(4\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R08 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{1}[B]^{3}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=1:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=3:0} </li>
+<li> Orden global: {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(1\)</span> y <span class="math inline">\(3\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(4\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R09 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{3}[B]^{2}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=3:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=2:0} </li>
+<li> Orden global: {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(3\)</span> y <span class="math inline">\(2\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(5\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R10 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{3}[B]^{1}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=3:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=1:0} </li>
+<li> Orden global: {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(3\)</span> y <span class="math inline">\(1\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(4\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R11 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{2}[B]^{2}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=2:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=2:0} </li>
+<li> Orden global: {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(2\)</span> y <span class="math inline">\(2\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(4\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R12 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{2}[B]^{2}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=2:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=2:0} </li>
+<li> Orden global: {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(2\)</span> y <span class="math inline">\(2\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(4\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R13 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{2}[B]^{1}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=2:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=1:0} </li>
+<li> Orden global: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(2\)</span> y <span class="math inline">\(1\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(3\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R14 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{3}[B]^{1}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=3:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=1:0} </li>
+<li> Orden global: {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(3\)</span> y <span class="math inline">\(1\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(4\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R15 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{2}[B]^{3}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=2:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=3:0} </li>
+<li> Orden global: {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(2\)</span> y <span class="math inline">\(3\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(5\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R16 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{1}[B]^{2}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=1:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=2:0} </li>
+<li> Orden global: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(1\)</span> y <span class="math inline">\(2\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(3\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R17 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{1}[B]^{3}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=1:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=3:0} </li>
+<li> Orden global: {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(1\)</span> y <span class="math inline">\(3\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(4\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R18 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{3}[B]^{2}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=3:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=2:0} </li>
+<li> Orden global: {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(3\)</span> y <span class="math inline">\(2\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(5\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R19 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{1}[B]^{3}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=1:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=3:0} </li>
+<li> Orden global: {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(1\)</span> y <span class="math inline">\(3\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(4\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R20 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{1}[B]^{1}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=1:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=1:0} </li>
+<li> Orden global: {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(1\)</span> y <span class="math inline">\(1\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(2\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R21 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{3}[B]^{3}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=3:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=3:0} </li>
+<li> Orden global: {1:NUMERICAL:=6:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(3\)</span> y <span class="math inline">\(3\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(6\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R22 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{3}[B]^{1}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=3:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=1:0} </li>
+<li> Orden global: {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(3\)</span> y <span class="math inline">\(1\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(4\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R23 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{1}[B]^{1}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=1:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=1:0} </li>
+<li> Orden global: {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(1\)</span> y <span class="math inline">\(1\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(2\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R24 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{1}[B]^{3}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=1:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=3:0} </li>
+<li> Orden global: {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(1\)</span> y <span class="math inline">\(3\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(4\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R25 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{2}[B]^{3}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=2:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=3:0} </li>
+<li> Orden global: {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(2\)</span> y <span class="math inline">\(3\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(5\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R26 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{2}[B]^{1}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=2:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=1:0} </li>
+<li> Orden global: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(2\)</span> y <span class="math inline">\(1\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(3\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R27 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{2}[B]^{1}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=2:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=1:0} </li>
+<li> Orden global: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(2\)</span> y <span class="math inline">\(1\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(3\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R28 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{3}[B]^{2}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=3:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=2:0} </li>
+<li> Orden global: {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(3\)</span> y <span class="math inline">\(2\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(5\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R29 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{2}[B]^{1}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=2:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=1:0} </li>
+<li> Orden global: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(2\)</span> y <span class="math inline">\(1\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(3\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R30 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{1}[B]^{2}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=1:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=2:0} </li>
+<li> Orden global: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(1\)</span> y <span class="math inline">\(2\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(3\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R31 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{2}[B]^{1}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=2:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=1:0} </li>
+<li> Orden global: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(2\)</span> y <span class="math inline">\(1\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(3\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R32 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{1}[B]^{3}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=1:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=3:0} </li>
+<li> Orden global: {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(1\)</span> y <span class="math inline">\(3\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(4\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R33 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{2}[B]^{2}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=2:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=2:0} </li>
+<li> Orden global: {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(2\)</span> y <span class="math inline">\(2\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(4\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R34 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{2}[B]^{1}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=2:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=1:0} </li>
+<li> Orden global: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(2\)</span> y <span class="math inline">\(1\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(3\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R35 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{1}[B]^{2}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=1:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=2:0} </li>
+<li> Orden global: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(1\)</span> y <span class="math inline">\(2\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(3\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R36 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{1}[B]^{3}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=1:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=3:0} </li>
+<li> Orden global: {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(1\)</span> y <span class="math inline">\(3\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(4\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R37 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{2}[B]^{1}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=2:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=1:0} </li>
+<li> Orden global: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(2\)</span> y <span class="math inline">\(1\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(3\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R38 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{3}[B]^{2}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=3:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=2:0} </li>
+<li> Orden global: {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(3\)</span> y <span class="math inline">\(2\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(5\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R39 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{2}[B]^{2}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=2:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=2:0} </li>
+<li> Orden global: {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(2\)</span> y <span class="math inline">\(2\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(4\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R40 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{2}[B]^{1}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=2:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=1:0} </li>
+<li> Orden global: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(2\)</span> y <span class="math inline">\(1\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(3\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R41 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{3}[B]^{3}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=3:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=3:0} </li>
+<li> Orden global: {1:NUMERICAL:=6:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(3\)</span> y <span class="math inline">\(3\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(6\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R42 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{3}[B]^{3}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=3:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=3:0} </li>
+<li> Orden global: {1:NUMERICAL:=6:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(3\)</span> y <span class="math inline">\(3\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(6\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R43 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{3}[B]^{1}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=3:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=1:0} </li>
+<li> Orden global: {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(3\)</span> y <span class="math inline">\(1\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(4\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R44 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{2}[B]^{3}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=2:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=3:0} </li>
+<li> Orden global: {1:NUMERICAL:=5:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(2\)</span> y <span class="math inline">\(3\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(5\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R45 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{2}[B]^{2}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=2:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=2:0} </li>
+<li> Orden global: {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(2\)</span> y <span class="math inline">\(2\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(4\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R46 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{1}[B]^{1}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=1:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=1:0} </li>
+<li> Orden global: {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(1\)</span> y <span class="math inline">\(1\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(2\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R47 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{1}[B]^{1}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=1:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=1:0} </li>
+<li> Orden global: {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(1\)</span> y <span class="math inline">\(1\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(2\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R48 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{1}[B]^{1}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=1:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=1:0} </li>
+<li> Orden global: {1:NUMERICAL:=2:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(1\)</span> y <span class="math inline">\(1\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(2\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R49 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{1}[B]^{3}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=1:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=3:0} </li>
+<li> Orden global: {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(1\)</span> y <span class="math inline">\(3\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(4\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R50 Q1 : ley_vel </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(3A + B \rightarrow 2C\)</span>, se sabe que la ley de velocidad experimental tiene la siguiente expresión: <span class="math inline">\(v = k[A]^{1}[B]^{3}\)</span>. Indicar cuál es el orden para cada reactivo y cuál es el orden global.</p>
+<ol type = "a">
+<li> Orden respecto de A: {1:NUMERICAL:=1:0} </li>
+<li> Orden respecto de B: {1:NUMERICAL:=3:0} </li>
+<li> Orden global: {1:NUMERICAL:=4:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo a la expresión de la ley de velocidad, el orden respecto a cada reactivo corresponde al exponente al que cada uno de ellos está elevado. En este caso, <span class="math inline">\(1\)</span> y <span class="math inline">\(3\)</span> para A y B respectivamente. El orden glogal es la suma de los órdenes de cada reactivo: <span class="math inline">\(4\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+</quiz>

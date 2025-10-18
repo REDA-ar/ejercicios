@@ -1,0 +1,57 @@
+---
+title: "t medio"
+date: "2025-01-05"
+output: 
+  exams2html: default
+  exams2pdf: default
+---
+
+```{r setup, include=FALSE}
+library(exams)
+
+# Defino el t medio
+tmed <- sample(seq(from=1, to=10,by=0.15),1) # min
+
+# solución
+k <- log(2)/tmed
+res <- round(k,2)
+
+res1 <- "$\\mathrm{1/min}$"
+res2 <- "$\\mathrm{1/(M.min)}$"
+res3 <- "$\\mathrm{1/(M^2.min)}$"
+
+questions <- c(res1, res2, res3)
+# Identificar la respuesta correcta
+solutions <- c(TRUE, FALSE, FALSE) # "1/min" es la correcta
+```
+
+
+Question
+========
+
+Calcular la constante de velocidad k para una reacción de primer orden, sabiendo que el tiempo de vida media es de $`r tmed`$ minutos. Usar dos decimales para informar el resultado. Indicar, además, las unidades de k.
+
+
+```{r questionlist, echo=FALSE, results='asis'}
+answerlist(c("El valor de k es", questions), markup = "markdown")
+```
+
+
+Solution
+========
+
+El valor de k se calcula despejando de la expresión del tiempo de vida media para una reacción de primer orden: $t_{1/2} = ln2/k$. Por lo tanto, $k = ln2/t_{1/2}$.
+
+De este modo, $k = `r fmt(res)`$ 1/min.
+
+
+Meta-information
+================
+
+exname: t_medio
+extype: cloze
+exsolution: `r fmt(res)`|`r mchoice2string(solutions)`
+exclozetype: num|schoice
+extol: 0.01
+exshuffle: FALSE
+

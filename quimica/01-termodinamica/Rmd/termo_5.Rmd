@@ -1,0 +1,42 @@
+---
+title: "delta E"
+  output:
+  pdf_document: default
+  html_document: default
+---
+```{r data generation, echo = FALSE, results = "hide"}
+## cálculos
+library(exams)
+# parametros
+Q <- sample(seq(from=-50.27, to=50.27,by=2),1) # J
+W <- sample(seq(from=-100.46, to=100.46,by=2),1)  # J
+
+dE <- Q + W
+# solucion
+res <- round(dE,2)
+
+
+```
+
+Question
+========
+Calcular el $\Delta E$ en J para un dado proceso, donde $Q = `r Q`$ J y $W = `r W`$ J. Redondear el resultado a dos cifras decimales.
+
+
+Solution
+========
+De acuerdo al primer principio de la termodinámica: $\Delta E = Q + W$.
+$$
+\begin{aligned}
+    \Delta E &= `r Q`\ \mathrm{J} + (`r W`\ \mathrm{J}) 
+\end{aligned}
+$$
+
+Así, redondeando a dos dígitos tenemos: $\Delta E = `r fmt(res)`$ kJ/mol.
+
+Meta-information
+================
+extype: num
+exsolution: `r fmt(res)`
+exname: delta E
+extol: 0.02

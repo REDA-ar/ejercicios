@@ -1,0 +1,67 @@
+---
+title: "acido base 1"
+date: "2025-01-05"
+output: 
+  exams2html: default
+  exams2pdf: default
+---
+
+
+```{r  data generation, echo = FALSE, results = "hide", warning=FALSE}
+library(exams)
+
+conc_hcl <- round(sample(seq(from=0.02, to= 0.98,by=0.02),1),2)
+conc_h2so4 <- round(sample(seq(from=0.02, to= 0.98,by=0.02),1),2)
+conc_koh <- round(sample(seq(from=0.02, to= 0.98,by=0.02),1),2)
+conc_caoh2 <- round(sample(seq(from=0.02, to= 0.98,by=0.02),1),2)
+
+sol1 <- round(-log10(conc_hcl),2) 
+sol2 <- round(-log10(2*conc_h2so4),2)
+pOH_koh <- round((-log10(conc_koh)),2)
+pOH_caoh2 <- round((-log10(2*conc_caoh2)),2) 
+sol3 <- round(14 - (-log10(conc_koh)),2) 
+sol4 <- round(14 - (-log10(2*conc_caoh2)),2) 
+
+# 14 = pH + pOH
+
+```
+
+Question
+========
+Calcular el pH de las siguientes soluciones acuosas (redondear el resultado a dos decimales):
+
+Answerlist
+----------
+
+* $HCl$ $`r conc_hcl`$ M 
+
+* $H_2SO_4$ $`r conc_h2so4`$ M 
+
+* $KOH$ $`r conc_koh`$ M 
+
+* $Ca(OH)_2$ $`r conc_caoh2`$ M 
+
+Solution
+========
+Sabemos que $pH = -log(H^{+})$, $pOH = -log(OH^{-})$ y $14=pH+pOH$.
+
+
+* Para $HCl$,  $pH = -log(`r conc_hcl`)$ = $`r sol1`$
+
+* Para $H_2SO_4$,  $pH = -log(2*`r conc_h2so4`)$ = $`r sol2`$
+
+* Para $KOH$, $pOH = -log(`r conc_koh`)=`r pOH_koh`$, $pH=14- pOH$, $pH = `r sol3`$
+
+* Para $Ca(OH)_2$, $pOH = -log(2*`r conc_caoh2`) = `r pOH_caoh2`$, $pH=14- pOH$, $pH =`r sol4`$
+
+
+Meta-information
+================
+extype: cloze
+exsolution: `r sol1`|`r sol2`|`r sol3`|`r sol4`|
+exclozetype: num|num|num|num|
+exname: pHpOH
+extol: 0.01|0.01|0.01|0.01|
+
+
+

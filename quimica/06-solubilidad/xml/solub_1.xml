@@ -1,0 +1,2811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/solub_1/Exercise 1</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R01 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 7.92e-11. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=8.899438e-06\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 8.9e-06\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>8.9e-06</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R02 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 6.82e-11. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=8.258329e-06\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 8.26e-06\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>8.26e-06</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R03 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 5.14e-11. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=7.169379e-06\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 7.17e-06\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>7.17e-06</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R04 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 9.72e-11. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=9.859006e-06\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 9.86e-06\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>9.86e-06</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R05 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 7.86e-11. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=8.865664e-06\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 8.87e-06\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>8.87e-06</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R06 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 4.09e-11. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=6.395311e-06\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 6.4e-06\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>6.4e-06</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R07 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 1.498e-10. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=1.223928e-05\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 1.22e-05\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1.22e-05</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R08 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 1.37e-11. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=3.701351e-06\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 3.7e-06\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>3.7e-06</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R09 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 1.147e-10. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=1.070981e-05\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 1.07e-05\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1.07e-05</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R10 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 7.44e-11. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=8.625543e-06\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 8.63e-06\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>8.63e-06</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R11 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 1.174e-10. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=1.083513e-05\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 1.08e-05\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1.08e-05</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R12 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 2.17e-11. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=4.658326e-06\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 4.66e-06\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.66e-06</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R13 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 1.72e-11. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=4.147288e-06\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 4.15e-06\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.15e-06</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R14 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 2.72e-11. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=5.215362e-06\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 5.22e-06\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>5.22e-06</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R15 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 5.7e-12. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=2.387467e-06\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 2.39e-06\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>2.39e-06</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R16 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 3.39e-11. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=5.822371e-06\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 5.82e-06\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>5.82e-06</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R17 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 6.65e-11. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=8.154753e-06\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 8.15e-06\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>8.15e-06</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R18 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 6e-11. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=7.745967e-06\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 7.75e-06\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>7.75e-06</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R19 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 6.1e-11. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=7.81025e-06\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 7.81e-06\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>7.81e-06</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R20 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 8.89e-11. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=9.42868e-06\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 9.43e-06\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>9.43e-06</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R21 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 1.387e-10. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=1.17771e-05\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 1.18e-05\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1.18e-05</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R22 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 1.325e-10. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=1.151086e-05\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 1.15e-05\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1.15e-05</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R23 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 9.79e-11. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=9.894443e-06\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 9.89e-06\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>9.89e-06</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R24 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 2.24e-11. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=4.732864e-06\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 4.73e-06\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.73e-06</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R25 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 4.85e-11. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=6.964194e-06\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 6.96e-06\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>6.96e-06</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R26 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 8.2e-11. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=9.055385e-06\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 9.06e-06\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>9.06e-06</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R27 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 1.23e-10. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=1.109054e-05\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 1.11e-05\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1.11e-05</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R28 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 8.67e-11. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=9.311283e-06\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 9.31e-06\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>9.31e-06</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R29 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 1.37e-10. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=1.17047e-05\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 1.17e-05\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1.17e-05</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R30 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 3.8e-11. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=6.164414e-06\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 6.16e-06\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>6.16e-06</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R31 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 1.329e-10. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=1.152823e-05\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 1.15e-05\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1.15e-05</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R32 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 7.08e-11. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=8.414274e-06\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 8.41e-06\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>8.41e-06</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R33 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 4.1e-11. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=6.403124e-06\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 6.4e-06\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>6.4e-06</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R34 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 7.71e-11. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=8.780661e-06\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 8.78e-06\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>8.78e-06</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R35 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 1.194e-10. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=1.092703e-05\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 1.09e-05\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1.09e-05</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R36 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 9.6e-11. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=9.797959e-06\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 9.8e-06\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>9.8e-06</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R37 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 1.45e-10. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=1.204159e-05\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 1.2e-05\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1.2e-05</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R38 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 8.17e-11. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=9.038805e-06\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 9.04e-06\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>9.04e-06</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R39 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 9e-12. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=3e-06\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 3e-06\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>3e-06</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R40 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 4.78e-11. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=6.913754e-06\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 6.91e-06\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>6.91e-06</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R41 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 1.2e-11. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=3.464102e-06\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 3.46e-06\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>3.46e-06</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R42 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 8.82e-11. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=9.391486e-06\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 9.39e-06\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>9.39e-06</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R43 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 8.93e-11. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=9.449868e-06\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 9.45e-06\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>9.45e-06</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R44 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 1.494e-10. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=1.222293e-05\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 1.22e-05\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1.22e-05</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R45 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 2.01e-11. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=4.483302e-06\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 4.48e-06\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.48e-06</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R46 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 8.26e-11. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=9.088454e-06\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 9.09e-06\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>9.09e-06</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R47 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 1e-11. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=3.162278e-06\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 3.16e-06\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>3.16e-06</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R48 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 2.3e-11. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=4.795832e-06\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 4.8e-06\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.8e-06</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R49 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 1.457e-10. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=1.207063e-05\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 1.21e-05\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>1.21e-05</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R50 Q1 : solub_1 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular la solubilidad de una sal de estequiometría 1:1 cuyo <span class="math inline">\(Kps\)</span> es 8.55e-11. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que la estequiometria de la sal es 1:1.
+Por lo tanto, en el equilibrio se cumple:</p>
+<p><span class="math inline">\(Kps=(Catión)\cdot(Anión)=s\cdot s\)</span></p>
+<p>Donde <span class="math inline">\(s\)</span> representa la solubilidad.</p>
+<p><span class="math inline">\(Kps={s^2}\)</span></p>
+<p>Despejando:</p>
+<p><span class="math inline">\(s=Kps^{(1/2)}\)</span></p>
+<p>Entonces:</p>
+<p><span class="math inline">\(s=9.246621e-06\)</span></p>
+<p>Finalmente redondeando:</p>
+<p><span class="math inline">\(s= 9.25e-06\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>9.25e-06</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+</quiz>

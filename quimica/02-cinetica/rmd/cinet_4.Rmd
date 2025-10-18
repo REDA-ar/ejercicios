@@ -1,0 +1,78 @@
+---
+title: "orden 2"
+output: 
+  exams2pdf: default
+---
+
+
+```{r data generation, echo = FALSE, results = "hide"}
+
+## cálculos
+library(tinytex)
+library(exams)
+
+# Defino una incógnita x
+x <- sample(seq(from=0.0005, to=0.003, by=0.0002),1) # mol/(litro.seg)
+
+A0 <- c(0.2, 0.4, 0.2)
+B0 <- c(0.2, 0.2, 0.4)
+V0 <- c(x, 2*x, 4*x)
+
+# solución
+k <- V0[1]/(A0[1]*B0[1]^2)
+res <- round(k,4)
+
+ordenA <- 1
+ordenB <- 2
+
+```
+
+
+Question
+========
+
+Para la reacción $A+B \rightarrow C$ se obtuvieron los siguientes resultados:
+$$
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} & [A]_0 \, (\text{mol L}^{-1}) & [B]_0 \, (\text{mol L}^{-1}) & v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 & 0.2 & 0.2 & X \\
+2 & 0.4 & 0.2 & 2X \\
+3 & 0.2 & 0.4 & 4X \\
+\hline
+\end{array}
+$$
+
+
+```{r questionlist, echo=FALSE, results='asis'}
+
+preguntas <- c(
+  "Determinar el orden respecto de A",
+  "Determinar el orden respecto de B",
+  sprintf("Calcular el valor de k (sin unidades) con 4 decimales, si $X=%.4f$", x)
+)
+
+answerlist(preguntas, markup = "markdown")
+```
+
+
+
+
+Solution
+========
+
+El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión $v=k[A][B]^2$. Con los tres experimentos se obtiene el mismo valor. 
+De este modo el valor numérico de $k$ es $`r res`$.
+
+
+Meta-information
+================
+extype: cloze
+exsolution: `r ordenA`|`r ordenB`|`r res`|
+exclozetype: num|num|num|
+exname:orden2
+extol: 0|0|0.0001|
+

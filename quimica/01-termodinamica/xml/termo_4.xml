@@ -1,0 +1,2611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/termo_4/Exercise 1</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R01 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-42.55\)</span>, <span class="math inline">\(80.82\)</span> y <span class="math inline">\(-34.34\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(-34.34\ \mathrm{kJ/mol}) - 2\cdot(-42.55\             \mathrm{kJ/mol})- (80.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = -98.74\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-98.74</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R02 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-18.55\)</span>, <span class="math inline">\(98.82\)</span> y <span class="math inline">\(169.66\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(169.66\ \mathrm{kJ/mol}) - 2\cdot(-18.55\             \mathrm{kJ/mol})- (98.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = 447.26\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>447.26</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R03 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-22.55\)</span>, <span class="math inline">\(92.82\)</span> y <span class="math inline">\(31.66\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(31.66\ \mathrm{kJ/mol}) - 2\cdot(-22.55\             \mathrm{kJ/mol})- (92.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = 47.26\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>47.26</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R04 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-22.55\)</span>, <span class="math inline">\(64.82\)</span> y <span class="math inline">\(199.66\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(199.66\ \mathrm{kJ/mol}) - 2\cdot(-22.55\             \mathrm{kJ/mol})- (64.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = 579.26\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>579.26</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R05 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-44.55\)</span>, <span class="math inline">\(86.82\)</span> y <span class="math inline">\(-18.34\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(-18.34\ \mathrm{kJ/mol}) - 2\cdot(-44.55\             \mathrm{kJ/mol})- (86.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = -52.74\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-52.74</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R06 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-32.55\)</span>, <span class="math inline">\(60.82\)</span> y <span class="math inline">\(-56.34\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(-56.34\ \mathrm{kJ/mol}) - 2\cdot(-32.55\             \mathrm{kJ/mol})- (60.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = -164.74\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-164.74</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R07 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-24.55\)</span>, <span class="math inline">\(56.82\)</span> y <span class="math inline">\(-112.34\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(-112.34\ \mathrm{kJ/mol}) - 2\cdot(-24.55\             \mathrm{kJ/mol})- (56.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = -344.74\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-344.74</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R08 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-40.55\)</span>, <span class="math inline">\(44.82\)</span> y <span class="math inline">\(-54.34\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(-54.34\ \mathrm{kJ/mol}) - 2\cdot(-40.55\             \mathrm{kJ/mol})- (44.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = -126.74\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-126.74</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R09 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-26.55\)</span>, <span class="math inline">\(76.82\)</span> y <span class="math inline">\(65.66\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(65.66\ \mathrm{kJ/mol}) - 2\cdot(-26.55\             \mathrm{kJ/mol})- (76.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = 173.26\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>173.26</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R10 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-36.55\)</span>, <span class="math inline">\(56.82\)</span> y <span class="math inline">\(-96.34\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(-96.34\ \mathrm{kJ/mol}) - 2\cdot(-36.55\             \mathrm{kJ/mol})- (56.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = -272.74\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-272.74</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R11 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-34.55\)</span>, <span class="math inline">\(84.82\)</span> y <span class="math inline">\(129.66\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(129.66\ \mathrm{kJ/mol}) - 2\cdot(-34.55\             \mathrm{kJ/mol})- (84.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = 373.26\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>373.26</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R12 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-50.55\)</span>, <span class="math inline">\(52.82\)</span> y <span class="math inline">\(-136.34\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(-136.34\ \mathrm{kJ/mol}) - 2\cdot(-50.55\             \mathrm{kJ/mol})- (52.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = -360.74\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-360.74</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R13 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-42.55\)</span>, <span class="math inline">\(42.82\)</span> y <span class="math inline">\(71.66\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(71.66\ \mathrm{kJ/mol}) - 2\cdot(-42.55\             \mathrm{kJ/mol})- (42.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = 257.26\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>257.26</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R14 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-24.55\)</span>, <span class="math inline">\(100.82\)</span> y <span class="math inline">\(-124.34\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(-124.34\ \mathrm{kJ/mol}) - 2\cdot(-24.55\             \mathrm{kJ/mol})- (100.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = -424.74\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-424.74</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R15 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-32.55\)</span>, <span class="math inline">\(66.82\)</span> y <span class="math inline">\(229.66\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(229.66\ \mathrm{kJ/mol}) - 2\cdot(-32.55\             \mathrm{kJ/mol})- (66.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = 687.26\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>687.26</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R16 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-34.55\)</span>, <span class="math inline">\(84.82\)</span> y <span class="math inline">\(85.66\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(85.66\ \mathrm{kJ/mol}) - 2\cdot(-34.55\             \mathrm{kJ/mol})- (84.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = 241.26\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>241.26</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R17 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-30.55\)</span>, <span class="math inline">\(72.82\)</span> y <span class="math inline">\(271.66\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(271.66\ \mathrm{kJ/mol}) - 2\cdot(-30.55\             \mathrm{kJ/mol})- (72.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = 803.26\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>803.26</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R18 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-42.55\)</span>, <span class="math inline">\(72.82\)</span> y <span class="math inline">\(271.66\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(271.66\ \mathrm{kJ/mol}) - 2\cdot(-42.55\             \mathrm{kJ/mol})- (72.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = 827.26\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>827.26</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R19 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-10.55\)</span>, <span class="math inline">\(94.82\)</span> y <span class="math inline">\(93.66\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(93.66\ \mathrm{kJ/mol}) - 2\cdot(-10.55\             \mathrm{kJ/mol})- (94.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = 207.26\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>207.26</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R20 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-46.55\)</span>, <span class="math inline">\(54.82\)</span> y <span class="math inline">\(223.66\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(223.66\ \mathrm{kJ/mol}) - 2\cdot(-46.55\             \mathrm{kJ/mol})- (54.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = 709.26\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>709.26</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R21 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-40.55\)</span>, <span class="math inline">\(50.82\)</span> y <span class="math inline">\(263.66\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(263.66\ \mathrm{kJ/mol}) - 2\cdot(-40.55\             \mathrm{kJ/mol})- (50.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = 821.26\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>821.26</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R22 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-26.55\)</span>, <span class="math inline">\(86.82\)</span> y <span class="math inline">\(217.66\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(217.66\ \mathrm{kJ/mol}) - 2\cdot(-26.55\             \mathrm{kJ/mol})- (86.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = 619.26\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>619.26</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R23 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-24.55\)</span>, <span class="math inline">\(90.82\)</span> y <span class="math inline">\(63.66\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(63.66\ \mathrm{kJ/mol}) - 2\cdot(-24.55\             \mathrm{kJ/mol})- (90.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = 149.26\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>149.26</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R24 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-34.55\)</span>, <span class="math inline">\(84.82\)</span> y <span class="math inline">\(281.66\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(281.66\ \mathrm{kJ/mol}) - 2\cdot(-34.55\             \mathrm{kJ/mol})- (84.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = 829.26\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>829.26</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R25 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-50.55\)</span>, <span class="math inline">\(82.82\)</span> y <span class="math inline">\(237.66\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(237.66\ \mathrm{kJ/mol}) - 2\cdot(-50.55\             \mathrm{kJ/mol})- (82.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = 731.26\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>731.26</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R26 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-40.55\)</span>, <span class="math inline">\(84.82\)</span> y <span class="math inline">\(191.66\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(191.66\ \mathrm{kJ/mol}) - 2\cdot(-40.55\             \mathrm{kJ/mol})- (84.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = 571.26\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>571.26</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R27 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-18.55\)</span>, <span class="math inline">\(76.82\)</span> y <span class="math inline">\(7.66\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(7.66\ \mathrm{kJ/mol}) - 2\cdot(-18.55\             \mathrm{kJ/mol})- (76.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = -16.74\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-16.74</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R28 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-50.55\)</span>, <span class="math inline">\(68.82\)</span> y <span class="math inline">\(79.66\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(79.66\ \mathrm{kJ/mol}) - 2\cdot(-50.55\             \mathrm{kJ/mol})- (68.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = 271.26\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>271.26</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R29 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-40.55\)</span>, <span class="math inline">\(68.82\)</span> y <span class="math inline">\(61.66\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(61.66\ \mathrm{kJ/mol}) - 2\cdot(-40.55\             \mathrm{kJ/mol})- (68.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = 197.26\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>197.26</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R30 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-22.55\)</span>, <span class="math inline">\(42.82\)</span> y <span class="math inline">\(79.66\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(79.66\ \mathrm{kJ/mol}) - 2\cdot(-22.55\             \mathrm{kJ/mol})- (42.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = 241.26\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>241.26</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R31 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-46.55\)</span>, <span class="math inline">\(50.82\)</span> y <span class="math inline">\(111.66\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(111.66\ \mathrm{kJ/mol}) - 2\cdot(-46.55\             \mathrm{kJ/mol})- (50.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = 377.26\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>377.26</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R32 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-10.55\)</span>, <span class="math inline">\(40.82\)</span> y <span class="math inline">\(247.66\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(247.66\ \mathrm{kJ/mol}) - 2\cdot(-10.55\             \mathrm{kJ/mol})- (40.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = 723.26\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>723.26</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R33 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-24.55\)</span>, <span class="math inline">\(40.82\)</span> y <span class="math inline">\(-16.34\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(-16.34\ \mathrm{kJ/mol}) - 2\cdot(-24.55\             \mathrm{kJ/mol})- (40.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = -40.74\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-40.74</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R34 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-36.55\)</span>, <span class="math inline">\(46.82\)</span> y <span class="math inline">\(81.66\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(81.66\ \mathrm{kJ/mol}) - 2\cdot(-36.55\             \mathrm{kJ/mol})- (46.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = 271.26\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>271.26</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R35 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-10.55\)</span>, <span class="math inline">\(92.82\)</span> y <span class="math inline">\(-120.34\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(-120.34\ \mathrm{kJ/mol}) - 2\cdot(-10.55\             \mathrm{kJ/mol})- (92.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = -432.74\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-432.74</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R36 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-28.55\)</span>, <span class="math inline">\(80.82\)</span> y <span class="math inline">\(293.66\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(293.66\ \mathrm{kJ/mol}) - 2\cdot(-28.55\             \mathrm{kJ/mol})- (80.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = 857.26\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>857.26</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R37 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-44.55\)</span>, <span class="math inline">\(86.82\)</span> y <span class="math inline">\(35.66\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(35.66\ \mathrm{kJ/mol}) - 2\cdot(-44.55\             \mathrm{kJ/mol})- (86.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = 109.26\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>109.26</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R38 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-12.55\)</span>, <span class="math inline">\(92.82\)</span> y <span class="math inline">\(81.66\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(81.66\ \mathrm{kJ/mol}) - 2\cdot(-12.55\             \mathrm{kJ/mol})- (92.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = 177.26\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>177.26</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R39 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-34.55\)</span>, <span class="math inline">\(64.82\)</span> y <span class="math inline">\(189.66\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(189.66\ \mathrm{kJ/mol}) - 2\cdot(-34.55\             \mathrm{kJ/mol})- (64.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = 573.26\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>573.26</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R40 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-30.55\)</span>, <span class="math inline">\(72.82\)</span> y <span class="math inline">\(31.66\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(31.66\ \mathrm{kJ/mol}) - 2\cdot(-30.55\             \mathrm{kJ/mol})- (72.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = 83.26\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>83.26</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R41 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-36.55\)</span>, <span class="math inline">\(100.82\)</span> y <span class="math inline">\(-108.34\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(-108.34\ \mathrm{kJ/mol}) - 2\cdot(-36.55\             \mathrm{kJ/mol})- (100.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = -352.74\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-352.74</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R42 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-44.55\)</span>, <span class="math inline">\(52.82\)</span> y <span class="math inline">\(91.66\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(91.66\ \mathrm{kJ/mol}) - 2\cdot(-44.55\             \mathrm{kJ/mol})- (52.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = 311.26\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>311.26</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R43 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-28.55\)</span>, <span class="math inline">\(74.82\)</span> y <span class="math inline">\(145.66\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(145.66\ \mathrm{kJ/mol}) - 2\cdot(-28.55\             \mathrm{kJ/mol})- (74.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = 419.26\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>419.26</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R44 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-10.55\)</span>, <span class="math inline">\(64.82\)</span> y <span class="math inline">\(165.66\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(165.66\ \mathrm{kJ/mol}) - 2\cdot(-10.55\             \mathrm{kJ/mol})- (64.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = 453.26\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>453.26</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R45 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-34.55\)</span>, <span class="math inline">\(48.82\)</span> y <span class="math inline">\(-4.34\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(-4.34\ \mathrm{kJ/mol}) - 2\cdot(-34.55\             \mathrm{kJ/mol})- (48.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = 7.26\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>7.26</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R46 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-12.55\)</span>, <span class="math inline">\(80.82\)</span> y <span class="math inline">\(237.66\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(237.66\ \mathrm{kJ/mol}) - 2\cdot(-12.55\             \mathrm{kJ/mol})- (80.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = 657.26\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>657.26</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R47 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-34.55\)</span>, <span class="math inline">\(52.82\)</span> y <span class="math inline">\(219.66\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(219.66\ \mathrm{kJ/mol}) - 2\cdot(-34.55\             \mathrm{kJ/mol})- (52.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = 675.26\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>675.26</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R48 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-10.55\)</span>, <span class="math inline">\(46.82\)</span> y <span class="math inline">\(265.66\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(265.66\ \mathrm{kJ/mol}) - 2\cdot(-10.55\             \mathrm{kJ/mol})- (46.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = 771.26\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>771.26</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R49 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-10.55\)</span>, <span class="math inline">\(98.82\)</span> y <span class="math inline">\(-94.34\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(-94.34\ \mathrm{kJ/mol}) - 2\cdot(-10.55\             \mathrm{kJ/mol})- (98.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = -360.74\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-360.74</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R50 Q1 : hess_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta H\)</span> en kJ/mol para la reacción <span class="math inline">\(2A(g)+B(g) \rightarrow 3C(g)\)</span> a 298 K. Datos de entalpías estándar de formación en kJ/mol: <span class="math inline">\(-22.55\)</span>, <span class="math inline">\(40.82\)</span> y <span class="math inline">\(241.66\)</span>, para A, B y C respectivamente. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El cambio de entalpía para una dada reacción química puede calcularse conociendo los valores de las entalpías estándar de formación de los productos y los reactivos. La expresión para el <span class="math inline">\(\Delta H\)</span> de la reacción es: <span class="math inline">\(\Delta H = 3\Delta H^0_f(C,g) - 2\Delta H^0_f(A,g)-\Delta H^0_f(B,g)\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta H &amp;= 3\cdot(241.66\ \mathrm{kJ/mol}) - 2\cdot(-22.55\             \mathrm{kJ/mol})- (40.82\ \mathrm{kJ/mol})
+\end{aligned}
+\]</span></p>
+<p>De este modo, <span class="math inline">\(\Delta H = 729.26\)</span> kJ/mol</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>729.26</text>
+<tolerance>0.05</tolerance>
+</answer>
+</question>
+
+</quiz>

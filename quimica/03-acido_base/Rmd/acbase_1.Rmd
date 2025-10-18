@@ -1,0 +1,49 @@
+---
+title: "acido base 1"
+date: "2025-01-05"
+output: 
+  exams2html: default
+  exams2pdf: default
+---
+
+
+```{r  setup, echo = FALSE, results = "hide", warning=FALSE, message=FALSE, include=FALSE}
+library(exams)
+
+```
+
+Question
+========
+Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.  
+
+Answerlist
+----------
+
+* La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones $H^{+}$ y $OH^{-}$.
+
+* El producto iónico del agua ($K_w$) a 25°C es $1 \times10^{-14}$.
+
+* En agua pura, la concentración de $H^{+}$ siempre es mayor que la de $OH^{-}$.
+
+* El pH del agua pura es siempre 7.
+
+Solution
+========
+* La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones $H^{+}$ y $OH^{-}$: Verdadero
+
+* El producto iónico del agua ($K_w$) a 25°C es $1 \times10^{-14}$: Verdadero
+
+* En agua pura, la concentración de $H^{+}$ siempre es mayor que la de $OH^{-}$: Falso, en agua pura $H^{+}$ = $OH^{-}$.
+
+* El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de $K_w$.
+
+
+Meta-information
+================
+exname: Autoprotólisis del agua
+extype: cloze
+exclozetype: string
+exsolution: V|V|F|F
+
+
+

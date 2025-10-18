@@ -1,0 +1,3611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/sales_2/Exercise 1</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R01 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.634\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.634)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=1.88e-05\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=4.73\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.73</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R02 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.556\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.556)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=1.76e-05\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=4.75\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.75</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R03 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.858\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.858)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=2.18e-05\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=4.66\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.66</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R04 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.206\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.206)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=1.07e-05\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=4.97\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.97</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R05 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.88\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.88)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=2.21e-05\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=4.66\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.66</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R06 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.9\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.9)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=2.24e-05\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=4.65\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.65</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R07 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.616\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.616)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=1.85e-05\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=4.73\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.73</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R08 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.532\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.532)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=1.72e-05\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=4.76\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.76</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R09 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.182\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.182)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=1.01e-05\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=5\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>5</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R10 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.89\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.89)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=2.22e-05\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=4.65\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.65</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R11 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.562\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.562)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=1.77e-05\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=4.75\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.75</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R12 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.572\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.572)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=1.78e-05\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=4.75\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.75</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R13 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.116\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.116)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=8e-06\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=5.1\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>5.1</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R14 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.59\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.59)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=1.81e-05\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=4.74\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.74</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R15 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.278\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.278)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=1.24e-05\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=4.91\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.91</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R16 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.656\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.656)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=1.91e-05\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=4.72\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.72</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R17 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.18\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.18)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=1e-05\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=5\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>5</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R18 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.334\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.334)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=1.36e-05\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=4.87\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.87</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R19 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.496\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.496)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=1.66e-05\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=4.78\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.78</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R20 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.128\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.128)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=8.4e-06\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=5.08\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>5.08</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R21 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.684\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.684)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=1.95e-05\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=4.71\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.71</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R22 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.136\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.136)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=8.7e-06\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=5.06\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>5.06</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R23 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.622\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.622)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=1.86e-05\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=4.73\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.73</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R24 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.396\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.396)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=1.48e-05\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=4.83\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.83</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R25 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.898\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.898)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=2.23e-05\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=4.65\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.65</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R26 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.312\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.312)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=1.32e-05\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=4.88\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.88</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R27 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.124\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.124)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=8.3e-06\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=5.08\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>5.08</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R28 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.566\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.566)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=1.77e-05\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=4.75\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.75</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R29 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.784\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.784)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=2.09e-05\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=4.68\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.68</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R30 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.45\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.45)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=1.58e-05\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=4.8\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.8</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R31 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.81\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.81)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=2.12e-05\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=4.67\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.67</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R32 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.356\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.356)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=1.41e-05\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=4.85\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.85</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R33 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.5\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.5)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=1.67e-05\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=4.78\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.78</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R34 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.82\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.82)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=2.14e-05\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=4.67\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.67</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R35 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.576\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.576)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=1.79e-05\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=4.75\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.75</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R36 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.664\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.664)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=1.92e-05\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=4.72\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.72</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R37 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.232\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.232)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=1.14e-05\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=4.94\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.94</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R38 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.174\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.174)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=9.8e-06\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=5.01\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>5.01</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R39 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.204\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.204)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=1.07e-05\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=4.97\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.97</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R40 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.694\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.694)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=1.96e-05\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=4.71\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.71</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R41 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.312\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.312)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=1.32e-05\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=4.88\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.88</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R42 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.29\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.29)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=1.27e-05\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=4.9\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.9</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R43 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.846\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.846)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=2.17e-05\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=4.66\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.66</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R44 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.496\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.496)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=1.66e-05\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=4.78\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.78</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R45 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.898\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.898)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=2.23e-05\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=4.65\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.65</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R46 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.706\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.706)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=1.98e-05\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=4.7\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.7</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R47 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.756\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.756)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=2.05e-05\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=4.69\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.69</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R48 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.118\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.118)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=8.1e-06\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=5.09\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>5.09</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R49 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.574\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.574)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=1.79e-05\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=4.75\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.75</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R50 Q1 : calc_pH_NH4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución de <span class="math inline">\(NH_4NO_3\)</span> <span class="math inline">\(0.692\)</span> M. Considerar despreciable la cantidad de amoníaco en el equilibrio frente a la concentración inicial de amonio. Datos: <span class="math inline">\(K_w=1e-14\)</span>, <span class="math inline">\(K_b(NH_3)=1.8e-05\)</span>. Informar el resultado con dos decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Primero disociamos la sal: <span class="math inline">\(NH_4NO_3 \rightarrow NH_4^+ + NO_3^-\)</span>.
+El anión nitrato proviene de un ácido fuerte, el nítrico, por lo tanto no hidroliza. El amonio, al provenir de una base débil (<span class="math inline">\(NH_3\)</span>), hidroliza de acuerdo a: <span class="math inline">\(NH_4^+ + H_2O \rightleftharpoons NH_3 + H_3O^+\)</span>.
+Sabemos que en el equilibrio, la concentración de amoníaco es igual a la de protones.
+Así, la expresión de la <span class="math inline">\(Ka\)</span> queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}-(H_3O^+)}
+\end{aligned}
+\]</span>
+De acuerdo a la consideración pedida en el enunciado, asumimos que <span class="math inline">\((H_3O^+)\)</span> &lt;&lt; <span class="math inline">\((NH_4^+)_{inicial}\)</span>, así la expresión de la constante queda:</p>
+<p><span class="math display">\[
+\begin{aligned}
+K_a &amp;= \frac{(H_3O^+)^2}{(NH_4^+)_{inicial}}
+\end{aligned}
+\]</span>
+De modo que se despeja la <span class="math inline">\((H_3O^+)\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(H_3O^+) &amp;= (K_a \cdot (NH_4^+)_{inicial})^{1/2}
+\end{aligned}
+\]</span></p>
+<p>Reemplazando con los valores, tenemos:</p>
+<p><span class="math inline">\((H_3O^+)= (5.56e-10 \cdot 0.692)^{1/2}\)</span></p>
+<p><span class="math inline">\((H_3O^+)=1.96e-05\)</span></p>
+<p>Finalmente:</p>
+<p><span class="math inline">\(pH=-log((H_3O^+))\)</span></p>
+<p><span class="math inline">\(pH=4.71\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>4.71</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+</quiz>

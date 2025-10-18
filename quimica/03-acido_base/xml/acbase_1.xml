@@ -1,0 +1,2661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/acbase_1/Exercise 1</text>
+</category>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R01 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R02 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R03 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R04 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R05 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R06 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R07 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R08 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R09 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R10 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R11 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R12 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R13 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R14 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R15 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R16 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R17 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R18 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R19 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R20 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R21 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R22 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R23 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R24 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R25 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R26 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R27 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R28 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R29 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R30 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R31 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R32 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R33 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R34 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R35 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R36 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R37 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R38 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R39 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R40 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R41 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R42 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R43 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R44 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R45 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R46 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R47 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R48 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R49 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R50 Q1 : autop_agua </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decidir si las siguientes afirmaciones son verdaderas o falsas. Responder escribiendo V o F en cada espacio.</p>
+<ol type = "a">
+<li> La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>. {1:SHORTANSWER:%100%V} </li>
+<li> En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>. {1:SHORTANSWER:%100%F} </li>
+<li> El pH del agua pura es siempre 7. {1:SHORTANSWER:%100%F} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>La autoprotólisis del agua es una reacción de equilibrio entre el agua y los iones <span class="math inline">\(H^{+}\)</span> y <span class="math inline">\(OH^{-}\)</span>: Verdadero</p></li>
+<li><p>El producto iónico del agua (<span class="math inline">\(K_w\)</span>) a 25°C es <span class="math inline">\(1 \times10^{-14}\)</span>: Verdadero</p></li>
+<li><p>En agua pura, la concentración de <span class="math inline">\(H^{+}\)</span> siempre es mayor que la de <span class="math inline">\(OH^{-}\)</span>: Falso, en agua pura <span class="math inline">\(H^{+}\)</span> = <span class="math inline">\(OH^{-}\)</span>.</p></li>
+<li><p>El pH del agua pura es siempre 7: Falso, el pH varía con la temperatura, ya que cambia el valor de <span class="math inline">\(K_w\)</span>.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>4</defaultgrade>
+</question>
+
+</quiz>

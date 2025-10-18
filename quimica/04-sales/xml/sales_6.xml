@@ -1,0 +1,2911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/sales_6/Exercise 1</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R01 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.2\)</span> M, sabiendo que <span class="math inline">\(pKa1 =3.04\)</span> y <span class="math inline">\(pKa 2 = 11.5\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{3.04+ 11.5}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(7.27\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>7.27</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R02 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.11\)</span> M, sabiendo que <span class="math inline">\(pKa1 =5.94\)</span> y <span class="math inline">\(pKa 2 = 8.72\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{5.94+ 8.72}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(7.33\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>7.33</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R03 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.25\)</span> M, sabiendo que <span class="math inline">\(pKa1 =5.2\)</span> y <span class="math inline">\(pKa 2 = 11.8\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{5.2+ 11.8}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(8.5\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>8.5</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R04 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.12\)</span> M, sabiendo que <span class="math inline">\(pKa1 =3.62\)</span> y <span class="math inline">\(pKa 2 = 9.6\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{3.62+ 9.6}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(6.61\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>6.61</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R05 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.25\)</span> M, sabiendo que <span class="math inline">\(pKa1 =4.86\)</span> y <span class="math inline">\(pKa 2 = 11.88\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{4.86+ 11.88}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(8.37\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>8.37</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R06 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.11\)</span> M, sabiendo que <span class="math inline">\(pKa1 =3\)</span> y <span class="math inline">\(pKa 2 = 10.22\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{3+ 10.22}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(6.61\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>6.61</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R07 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.18\)</span> M, sabiendo que <span class="math inline">\(pKa1 =5.28\)</span> y <span class="math inline">\(pKa 2 = 10.16\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{5.28+ 10.16}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(7.72\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>7.72</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R08 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.21\)</span> M, sabiendo que <span class="math inline">\(pKa1 =4.08\)</span> y <span class="math inline">\(pKa 2 = 10.42\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{4.08+ 10.42}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(7.25\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>7.25</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R09 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.11\)</span> M, sabiendo que <span class="math inline">\(pKa1 =3.8\)</span> y <span class="math inline">\(pKa 2 = 10.52\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{3.8+ 10.52}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(7.16\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>7.16</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R10 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.12\)</span> M, sabiendo que <span class="math inline">\(pKa1 =4.36\)</span> y <span class="math inline">\(pKa 2 = 11.62\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{4.36+ 11.62}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(7.99\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>7.99</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R11 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.19\)</span> M, sabiendo que <span class="math inline">\(pKa1 =4.22\)</span> y <span class="math inline">\(pKa 2 = 10.34\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{4.22+ 10.34}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(7.28\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>7.28</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R12 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.2\)</span> M, sabiendo que <span class="math inline">\(pKa1 =5.3\)</span> y <span class="math inline">\(pKa 2 = 10.86\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{5.3+ 10.86}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(8.08\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>8.08</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R13 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.14\)</span> M, sabiendo que <span class="math inline">\(pKa1 =4.52\)</span> y <span class="math inline">\(pKa 2 = 8.3\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{4.52+ 8.3}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(6.41\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>6.41</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R14 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.18\)</span> M, sabiendo que <span class="math inline">\(pKa1 =4.78\)</span> y <span class="math inline">\(pKa 2 = 10.96\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{4.78+ 10.96}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(7.87\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>7.87</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R15 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.1\)</span> M, sabiendo que <span class="math inline">\(pKa1 =3.42\)</span> y <span class="math inline">\(pKa 2 = 10.78\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{3.42+ 10.78}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(7.1\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>7.1</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R16 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.16\)</span> M, sabiendo que <span class="math inline">\(pKa1 =4.34\)</span> y <span class="math inline">\(pKa 2 = 8.9\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{4.34+ 8.9}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(6.62\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>6.62</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R17 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.13\)</span> M, sabiendo que <span class="math inline">\(pKa1 =3.5\)</span> y <span class="math inline">\(pKa 2 = 9.78\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{3.5+ 9.78}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(6.64\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>6.64</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R18 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.21\)</span> M, sabiendo que <span class="math inline">\(pKa1 =5.7\)</span> y <span class="math inline">\(pKa 2 = 10.6\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{5.7+ 10.6}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(8.15\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>8.15</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R19 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.11\)</span> M, sabiendo que <span class="math inline">\(pKa1 =4.74\)</span> y <span class="math inline">\(pKa 2 = 10.8\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{4.74+ 10.8}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(7.77\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>7.77</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R20 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.25\)</span> M, sabiendo que <span class="math inline">\(pKa1 =3.5\)</span> y <span class="math inline">\(pKa 2 = 8.46\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{3.5+ 8.46}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(5.98\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>5.98</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R21 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.23\)</span> M, sabiendo que <span class="math inline">\(pKa1 =4.32\)</span> y <span class="math inline">\(pKa 2 = 8.16\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{4.32+ 8.16}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(6.24\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>6.24</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R22 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.19\)</span> M, sabiendo que <span class="math inline">\(pKa1 =5.52\)</span> y <span class="math inline">\(pKa 2 = 11.28\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{5.52+ 11.28}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(8.4\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>8.4</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R23 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.2\)</span> M, sabiendo que <span class="math inline">\(pKa1 =3.46\)</span> y <span class="math inline">\(pKa 2 = 8.88\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{3.46+ 8.88}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(6.17\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>6.17</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R24 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.1\)</span> M, sabiendo que <span class="math inline">\(pKa1 =3.08\)</span> y <span class="math inline">\(pKa 2 = 11.14\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{3.08+ 11.14}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(7.11\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>7.11</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R25 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.19\)</span> M, sabiendo que <span class="math inline">\(pKa1 =3.06\)</span> y <span class="math inline">\(pKa 2 = 8.62\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{3.06+ 8.62}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(5.84\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>5.84</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R26 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.22\)</span> M, sabiendo que <span class="math inline">\(pKa1 =4.08\)</span> y <span class="math inline">\(pKa 2 = 8.68\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{4.08+ 8.68}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(6.38\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>6.38</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R27 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.11\)</span> M, sabiendo que <span class="math inline">\(pKa1 =5.26\)</span> y <span class="math inline">\(pKa 2 = 11.8\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{5.26+ 11.8}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(8.53\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>8.53</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R28 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.24\)</span> M, sabiendo que <span class="math inline">\(pKa1 =5.82\)</span> y <span class="math inline">\(pKa 2 = 8.34\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{5.82+ 8.34}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(7.08\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>7.08</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R29 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.19\)</span> M, sabiendo que <span class="math inline">\(pKa1 =4.58\)</span> y <span class="math inline">\(pKa 2 = 8.4\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{4.58+ 8.4}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(6.49\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>6.49</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R30 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.15\)</span> M, sabiendo que <span class="math inline">\(pKa1 =4.16\)</span> y <span class="math inline">\(pKa 2 = 11.74\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{4.16+ 11.74}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(7.95\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>7.95</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R31 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.21\)</span> M, sabiendo que <span class="math inline">\(pKa1 =3.88\)</span> y <span class="math inline">\(pKa 2 = 10.62\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{3.88+ 10.62}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(7.25\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>7.25</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R32 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.2\)</span> M, sabiendo que <span class="math inline">\(pKa1 =5.08\)</span> y <span class="math inline">\(pKa 2 = 8.46\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{5.08+ 8.46}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(6.77\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>6.77</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R33 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.11\)</span> M, sabiendo que <span class="math inline">\(pKa1 =5.9\)</span> y <span class="math inline">\(pKa 2 = 10.98\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{5.9+ 10.98}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(8.44\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>8.44</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R34 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.1\)</span> M, sabiendo que <span class="math inline">\(pKa1 =5.82\)</span> y <span class="math inline">\(pKa 2 = 11.6\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{5.82+ 11.6}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(8.71\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>8.71</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R35 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.1\)</span> M, sabiendo que <span class="math inline">\(pKa1 =5.9\)</span> y <span class="math inline">\(pKa 2 = 8.62\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{5.9+ 8.62}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(7.26\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>7.26</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R36 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.24\)</span> M, sabiendo que <span class="math inline">\(pKa1 =3.04\)</span> y <span class="math inline">\(pKa 2 = 10.36\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{3.04+ 10.36}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(6.7\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>6.7</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R37 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.11\)</span> M, sabiendo que <span class="math inline">\(pKa1 =3.68\)</span> y <span class="math inline">\(pKa 2 = 10.66\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{3.68+ 10.66}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(7.17\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>7.17</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R38 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.23\)</span> M, sabiendo que <span class="math inline">\(pKa1 =4.76\)</span> y <span class="math inline">\(pKa 2 = 9.92\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{4.76+ 9.92}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(7.34\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>7.34</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R39 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.2\)</span> M, sabiendo que <span class="math inline">\(pKa1 =4.9\)</span> y <span class="math inline">\(pKa 2 = 11.98\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{4.9+ 11.98}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(8.44\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>8.44</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R40 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.13\)</span> M, sabiendo que <span class="math inline">\(pKa1 =5.58\)</span> y <span class="math inline">\(pKa 2 = 10\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{5.58+ 10}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(7.79\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>7.79</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R41 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.15\)</span> M, sabiendo que <span class="math inline">\(pKa1 =3.78\)</span> y <span class="math inline">\(pKa 2 = 8.74\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{3.78+ 8.74}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(6.26\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>6.26</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R42 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.24\)</span> M, sabiendo que <span class="math inline">\(pKa1 =4.12\)</span> y <span class="math inline">\(pKa 2 = 11.64\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{4.12+ 11.64}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(7.88\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>7.88</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R43 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.14\)</span> M, sabiendo que <span class="math inline">\(pKa1 =5.68\)</span> y <span class="math inline">\(pKa 2 = 8.66\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{5.68+ 8.66}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(7.17\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>7.17</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R44 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.17\)</span> M, sabiendo que <span class="math inline">\(pKa1 =5.88\)</span> y <span class="math inline">\(pKa 2 = 10.4\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{5.88+ 10.4}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(8.14\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>8.14</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R45 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.13\)</span> M, sabiendo que <span class="math inline">\(pKa1 =3.92\)</span> y <span class="math inline">\(pKa 2 = 9.78\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{3.92+ 9.78}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(6.85\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>6.85</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R46 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.19\)</span> M, sabiendo que <span class="math inline">\(pKa1 =4.52\)</span> y <span class="math inline">\(pKa 2 = 9.48\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{4.52+ 9.48}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(7\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>7</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R47 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.14\)</span> M, sabiendo que <span class="math inline">\(pKa1 =5.98\)</span> y <span class="math inline">\(pKa 2 = 9.96\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{5.98+ 9.96}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(7.97\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>7.97</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R48 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.13\)</span> M, sabiendo que <span class="math inline">\(pKa1 =4\)</span> y <span class="math inline">\(pKa 2 = 9.46\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{4+ 9.46}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(6.73\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>6.73</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R49 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.11\)</span> M, sabiendo que <span class="math inline">\(pKa1 =5.26\)</span> y <span class="math inline">\(pKa 2 = 10.08\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{5.26+ 10.08}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(7.67\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>7.67</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R50 Q1 : pH_anfolito </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el pH de una solución del anfolito proveniente de el ácido <span class="math inline">\(H_2A\)</span>, cuyo concentración es <span class="math inline">\(0.17\)</span> M, sabiendo que <span class="math inline">\(pKa1 =3.04\)</span> y <span class="math inline">\(pKa 2 = 10.06\)</span>. Informar el resultado con 2 decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para calcular el pH del único anfolito para un ácido débil diprótico cuya concentración es mayor a 0.01 M utilizamos la siguiente expresión:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{pKa_1 + pKa2}{2}
+\end{aligned}
+\]</span></p>
+<p>Así, reemplazando en la expresión tenemos:</p>
+<p><span class="math display">\[
+\begin{aligned}
+pH &amp;= \frac{3.04+ 10.06}{2}
+\end{aligned}
+\]</span>
+De modo que el pH resulta: <span class="math inline">\(6.55\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>6.55</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,3061 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/cinet_4/Exercise 1</text>
+</category>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R01 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0015\)</span> {1:NUMERICAL:=0.1875:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.1875\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R02 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0007\)</span> {1:NUMERICAL:=0.0875:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.0875\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R03 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0021\)</span> {1:NUMERICAL:=0.2625:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.2625\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R04 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0013\)</span> {1:NUMERICAL:=0.1625:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.1625\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R05 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0021\)</span> {1:NUMERICAL:=0.2625:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.2625\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R06 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0019\)</span> {1:NUMERICAL:=0.2375:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.2375\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R07 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0019\)</span> {1:NUMERICAL:=0.2375:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.2375\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R08 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0011\)</span> {1:NUMERICAL:=0.1375:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.1375\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R09 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0021\)</span> {1:NUMERICAL:=0.2625:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.2625\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R10 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0007\)</span> {1:NUMERICAL:=0.0875:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.0875\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R11 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0019\)</span> {1:NUMERICAL:=0.2375:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.2375\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R12 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0021\)</span> {1:NUMERICAL:=0.2625:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.2625\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R13 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0029\)</span> {1:NUMERICAL:=0.3625:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.3625\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R14 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0007\)</span> {1:NUMERICAL:=0.0875:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.0875\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R15 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0027\)</span> {1:NUMERICAL:=0.3375:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.3375\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R16 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0023\)</span> {1:NUMERICAL:=0.2875:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.2875\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R17 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0009\)</span> {1:NUMERICAL:=0.1125:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.1125\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R18 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0013\)</span> {1:NUMERICAL:=0.1625:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.1625\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R19 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0025\)</span> {1:NUMERICAL:=0.3125:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.3125\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R20 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0005\)</span> {1:NUMERICAL:=0.0625:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.0625\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R21 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0029\)</span> {1:NUMERICAL:=0.3625:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.3625\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R22 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0029\)</span> {1:NUMERICAL:=0.3625:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.3625\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R23 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0027\)</span> {1:NUMERICAL:=0.3375:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.3375\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R24 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0021\)</span> {1:NUMERICAL:=0.2625:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.2625\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R25 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0023\)</span> {1:NUMERICAL:=0.2875:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.2875\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R26 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0021\)</span> {1:NUMERICAL:=0.2625:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.2625\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R27 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0007\)</span> {1:NUMERICAL:=0.0875:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.0875\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R28 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0009\)</span> {1:NUMERICAL:=0.1125:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.1125\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R29 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0011\)</span> {1:NUMERICAL:=0.1375:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.1375\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R30 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0007\)</span> {1:NUMERICAL:=0.0875:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.0875\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R31 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0021\)</span> {1:NUMERICAL:=0.2625:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.2625\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R32 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0025\)</span> {1:NUMERICAL:=0.3125:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.3125\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R33 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0017\)</span> {1:NUMERICAL:=0.2125:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.2125\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R34 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0023\)</span> {1:NUMERICAL:=0.2875:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.2875\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R35 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0019\)</span> {1:NUMERICAL:=0.2375:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.2375\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R36 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0007\)</span> {1:NUMERICAL:=0.0875:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.0875\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R37 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0027\)</span> {1:NUMERICAL:=0.3375:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.3375\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R38 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0027\)</span> {1:NUMERICAL:=0.3375:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.3375\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R39 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0013\)</span> {1:NUMERICAL:=0.1625:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.1625\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R40 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0011\)</span> {1:NUMERICAL:=0.1375:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.1375\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R41 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0017\)</span> {1:NUMERICAL:=0.2125:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.2125\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R42 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0007\)</span> {1:NUMERICAL:=0.0875:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.0875\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R43 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0009\)</span> {1:NUMERICAL:=0.1125:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.1125\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R44 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0007\)</span> {1:NUMERICAL:=0.0875:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.0875\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R45 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0013\)</span> {1:NUMERICAL:=0.1625:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.1625\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R46 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0007\)</span> {1:NUMERICAL:=0.0875:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.0875\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R47 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0007\)</span> {1:NUMERICAL:=0.0875:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.0875\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R48 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0019\)</span> {1:NUMERICAL:=0.2375:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.2375\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R49 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0025\)</span> {1:NUMERICAL:=0.3125:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.3125\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R50 Q1 : orden2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Para la reacción <span class="math inline">\(A+B \rightarrow C\)</span> se obtuvieron los siguientes resultados:
+<span class="math display">\[
+\begin{array}{|c|c|c|c|}
+\hline
+\textbf{Experimento} &amp; [A]_0 \, (\text{mol L}^{-1}) &amp; [B]_0 \, (\text{mol L}^{-1}) &amp; v \, (\text{mol L}^{-1} \text{s}^{-1}) \\
+\hline
+1 &amp; 0.2 &amp; 0.2 &amp; X \\
+2 &amp; 0.4 &amp; 0.2 &amp; 2X \\
+3 &amp; 0.2 &amp; 0.4 &amp; 4X \\
+\hline
+\end{array}
+\]</span></p>
+<ol type = "a">
+<li> Determinar el orden respecto de A {1:NUMERICAL:=1:0} </li>
+<li> Determinar el orden respecto de B {1:NUMERICAL:=2:0} </li>
+<li> Calcular el valor de k (sin unidades) con 4 decimales, si <span class="math inline">\(X=0.0015\)</span> {1:NUMERICAL:=0.1875:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>El orden respecto de A es 1, ya que manteniendo B constante, al duplicar la concentración de A se duplica la velocidad.
+El orden respecto de B es 2, ya que manteniendo A constante, al duplicar la concentración de B se cuadruplica la velocidad.
+El valor de k se calcula despejando de la expresión <span class="math inline">\(v=k[A][B]^2\)</span>. Con los tres experimentos se obtiene el mismo valor.
+De este modo el valor numérico de <span class="math inline">\(k\)</span> es <span class="math inline">\(0.1875\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+</quiz>

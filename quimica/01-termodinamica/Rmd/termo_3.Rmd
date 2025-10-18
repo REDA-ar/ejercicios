@@ -1,0 +1,48 @@
+---
+title: "funcion de estado"
+date: "2025-01-05"
+output: 
+  exams2html: default
+  exams2pdf: default
+---
+
+
+```{r setup, include=FALSE}
+library(exams)
+
+# solución
+res1 <- "energia interna"
+res2 <- "entropía"
+res3 <- "energia libre"
+res4 <- "entalpia"
+res5 <- "calor"
+res6 <- "trabajo"
+
+# mchoice
+questions <- c(res1, res2, res3, res4, res5, res6)
+solutions <- c(FALSE, FALSE, FALSE, FALSE, TRUE, TRUE)
+```
+
+Question
+========
+Elegir cuál o cuáles de las siguientes opciones NO corresponden a una función de estado.
+
+```{r questionlist, echo=FALSE, results='asis'}
+answerlist(questions, markup = "markdown")
+
+```
+
+
+Solution
+========
+El calor y el trabajo NO son funciones de estado.
+
+Meta-information
+================
+exname: funciones de estado
+extype: mchoice
+exsolution: 000011
+exshuffle: TRUE
+
+
+

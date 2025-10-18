@@ -1,0 +1,82 @@
+---
+title: "acido base 1"
+date: "2025-01-05"
+output: 
+  exams2html: default
+  exams2pdf: default
+---
+
+
+```{r setup, include=FALSE}
+library(exams)
+
+#parametros
+
+vol_sol_hcl<-sample(seq(from=50, to= 500,by=1),1)
+conc_hcl= sample(seq(from=0.01, to=0.2, by=0.01),1)
+conc_naoh <- sample(seq(from=0.01, to= 0.2,by=0.01),1)
+
+#solucion
+
+
+sol1=(conc_hcl*vol_sol_hcl*0.4)/conc_naoh
+sol2=(conc_hcl*vol_sol_hcl)/conc_naoh
+
+res1 <- round(sol1,1)
+res2 <- round(sol2,1)
+
+
+#solicitar decimales
+
+
+
+```
+
+Question
+========
+Se tiene $`r vol_sol_hcl`$ ml de una solución de $HCl$ $`r conc_hcl` M$. Calcular el volumen (en mililitros) de una solución de $NaOH$  $`r conc_naoh` M$ necesario para :
+
+Informar el resultado con un decimal.
+
+Answerlist
+----------
+  
+* neutralizar el 40 % del ácido. 
+* neutralizar el 100% del ácido:
+
+
+Solution
+========
+Sabemos que $HCl+ NaOH \rightarrow NaCl + H_2O$. 
+
+Para neutralizar el 40% del ácido, los moles de base deben representar un 40% de los moles de ácido. Entonces se tiene que cumplir:
+
+$(HCl) \cdot V_{sc. HCl}\cdot \frac {40}{100} = (NaOH)\cdot V_{sc.NaOH}$
+
+
+$Vol_{sc NaOH} = \frac{`r conc_hcl` *`r vol_sol_hcl`}{`r conc_naoh`} \cdot \frac{40}{100}$
+
+$Vol_{sc NaOH} = `r res1`$
+
+
+*Para que el ácido sea neutralizado al 100%, los moles de ácido y base deben ser iguales (en esta caso, moles y equivalentes es lo mismo).
+
+Entonces se tiene que cumplir:
+
+$(HCl) \cdot V_{sc. HCl} = (NaOH)\cdot V_{sc.NaOH}$
+
+$Vol_{sc NaOH}=\frac{(`r conc_hcl` * `r vol_sol_hcl`)}{(`r conc_naoh`)}$
+
+$Vol_{sc NaOH} = `r res2`$
+
+
+Meta-information
+================
+extype: cloze
+exsolution: `r res1`|`r res2`|
+exclozetype: num|num|
+exname: neut_1
+extol: 0.1|0.1|
+
+
+

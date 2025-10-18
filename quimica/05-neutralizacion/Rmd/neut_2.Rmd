@@ -1,0 +1,77 @@
+---
+title: "acido base 1"
+date: "2025-01-05"
+output: 
+  exams2html: default
+  exams2pdf: default
+---
+
+
+```{r setup, include=FALSE}
+library(exams)
+
+#parametros
+vol_sol_naac <- sample(seq(from=50, to= 500,by=1),1)
+conc_naac <- sample(seq(from=0.01, to= 0.2,by=0.01),1)
+
+#solucion
+sol1 = conc_naac*(vol_sol_naac/1000)*0.4
+sol2 = conc_naac*(vol_sol_naac/1000)
+res1 <- round(sol1,4)
+res2 <- round(sol2,4)
+
+```
+
+Question
+========
+
+Se tiene $`r vol_sol_naac`$ ml de una solución de $NaAc$ $`r conc_naac` M$. Calcular el número de moles necesario de $HCl$ para: 
+
+Informar el resultado con cuatro decimales.
+
+
+Answerlist
+----------
+
+* neutralizar el 40 % del anión proveniente de la sal:
+
+* neutralizar el 100% del anión proveniente de la sal:
+
+
+
+Solution
+========
+Sabemos que $HCl+ NaAc \rightarrow NaCl + HAc$. 
+
+Recordar que en este caso el anión $Ac^-$ actúa como base y proviene de la disociación del $NaAc$. Luego de la disociación la concentración de $Ac^-$ será igual a la concentración de $NaAc$.
+
+Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:
+
+$Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}$
+
+$Moles_{HCl} = `r conc_naac` \cdot \frac{`r vol_sol_naac`}{1000}\cdot \frac {40}{100}$
+
+$Moles_{HCl} = `r res1`$
+
+
+Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:
+
+$Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}$
+
+Por lo tanto:
+
+$Moles_{HCl}= `r conc_naac` \cdot \frac{`r vol_sol_naac`}{1000}$
+
+$Moles_{HCl}=`r res2`$
+
+
+Meta-information
+================
+extype: cloze
+exclozetype: num|num
+exsolution: exsolution: `r paste(res1, res2, sep = "|")`
+extol: 0.0001|0.0001
+exname: neut_2
+
+
+

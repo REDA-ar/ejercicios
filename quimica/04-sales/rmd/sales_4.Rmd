@@ -34,19 +34,20 @@ Solution
 ========
 * El pH de una solución de cloruro de amonio es ácido (verdadero) porque el ion amonio hidroliza liberando protones a la solucion. Ademas el cloruro no presenta reaccion acido-base.
 
-* El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion acido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.
+* El pH de una solución 0,1 M de NaCl es igual al pH de una solución 0,2 M de NaCl (verdadero) porque tanto el ion sodio como el ion cloruro no presentan reaccion ácido-base por provenir de una base fuerte y un acido fuerte, respectivamente. No depende de la concentracion de la sal.
 
-* Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que $(OH^-)= (K_b \cdot C_{inicial})^{1/2}$. Por lo tanto, a mayor $C_{inicial}$, mayor concentración de oxhidrilos en el equilibrio. Por lo tanto la afirmacion es falsa.
+* Si despreciamos la concentración de oxhidrilos frente a la concentración inicial de cianuro, tenemos que $(OH^-)= (K_b \cdot C_{inicial})^{1/2}$. Por lo tanto, a mayor $C_{inicial}$, mayor concentración de oxhidrilos en el equilibrio. Por ello la afirmacion es falsa.
 
 * El pH de una solución de una sal que proviene de un ácido débil y una base fuerte es mayor a 7 a 25°C (verdadero) ya que el ion que hidroliza corresponde al par conjugado del acido debil y libera oxhidrilos.
 
-* De acuerdo al diagrama de distribucion de especies se puede observar que una solucion de $K_2HPO_4$ se ecnuentra a pH alrededor de 10 mientras que una solucion de $KH_2PO_4$ se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.
+* De acuerdo al diagrama de distribución de especies se puede observar que una solucion de $K_2HPO_4$ se encuentra a pH alrededor de 10 mientras que una solucion de $KH_2PO_4$ se encuentra alrededor de 4,5. Por lo tanto la afirmacion es verdadera.
 
 
 Meta-information
 ================
 exname: Autoprotólisis del agua
 extype: cloze
+exclozetype: string
 exsolution: V|V|F|V|V
 
 

@@ -1,0 +1,3861 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/sales_5/Exercise 1</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R01 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R02 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R03 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R04 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R05 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R06 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R07 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R08 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R09 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R10 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R11 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R12 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R13 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R14 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R15 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R16 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R17 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R18 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R19 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R20 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R21 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R22 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R23 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R24 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R25 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R26 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R27 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R28 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R29 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R30 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R31 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R32 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R33 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R34 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R35 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R36 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R37 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R38 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R39 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R40 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R41 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R42 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R43 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R44 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R45 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R46 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R47 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R48 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R49 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R50 Q1 : orden_pH </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Indicar el orden correcto de acuerdo al pH creciente para las siguientes soluciones acuosas, todas 0.1 M: NH<span class="math inline">\(_4\)</span>Cl, NH<span class="math inline">\(_3\)</span>, NaClO<span class="math inline">\(_3\)</span>, HClO<span class="math inline">\(_3\)</span>.</p>
+<p>Datos:<br />
+K<span class="math inline">\(_b\)</span>(NH<span class="math inline">\(_3\)</span>) = 1.87×10<span class="math inline">\(^{-5}\)</span>, K<span class="math inline">\(_a\)</span>(HClO<span class="math inline">\(_3\)</span>) = 0.011</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Este es un problema conceptual que se basa en la fuerza relativa de ácidos y bases conjugadas:</p>
+<ul>
+<li>NH<span class="math inline">\(_4\)</span>Cl es una sal de un ácido débil (NH<span class="math inline">\(_4^+\)</span>), por lo tanto dará una <strong>solución ácida</strong><br />
+</li>
+<li>HClO<span class="math inline">\(_3\)</span> es un <strong>ácido débil</strong>, con <span class="math inline">\(Ka\)</span> mayor a la <span class="math inline">\(Ka\)</span> del amonio, por lo tanto el pH será menor al de la solución de amonio.</li>
+<li>NH<span class="math inline">\(_3\)</span> es una <strong>base débil</strong><br />
+</li>
+<li>NaClO<span class="math inline">\(_3\)</span> es la sal de la base conjugada de HClO<span class="math inline">\(_3\)</span>, o sea dará una solución <strong>básica</strong>, pero menos básica que la de amoníaco, ya que su <span class="math inline">\(Kb\)</span> es menor.</li>
+</ul>
+<p>Recordar que <span class="math inline">\(K_a(NH_4^+)\)</span> y <span class="math inline">\(K_b(ClO_3^-)\)</span> se calculan con <span class="math inline">\(K_w\)</span>.</p>
+<p>Orden de menor a mayor pH: <strong>HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span></strong></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; NaClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NaClO<span class="math inline">\(_3\)</span> &lt; HClO<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_3\)</span> &lt;NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+NH<span class="math inline">\(_3\)</span> &lt; NH<span class="math inline">\(_4\)</span>Cl &lt; HClO<span class="math inline">\(_3\)</span> &lt; NaClO<span class="math inline">\(_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

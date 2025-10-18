@@ -1,0 +1,2861 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/neut_2/Exercise 1</text>
+</category>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R01 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(116\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.07 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=0.0032:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=0.0081:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.07 \cdot \frac{116}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.0032\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.07 \cdot \frac{116}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=0.0081\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R02 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(233\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.1 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=0.0093:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=0.0233:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.1 \cdot \frac{233}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.0093\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.1 \cdot \frac{233}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=0.0233\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R03 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(321\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.07 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=0.009:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=0.0225:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.07 \cdot \frac{321}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.009\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.07 \cdot \frac{321}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=0.0225\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R04 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(250\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.03 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=0.003:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=0.0075:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.03 \cdot \frac{250}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.003\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.03 \cdot \frac{250}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=0.0075\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R05 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(317\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.05 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=0.0063:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=0.0158:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.05 \cdot \frac{317}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.0063\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.05 \cdot \frac{317}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=0.0158\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R06 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(368\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.16 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=0.0236:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=0.0589:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.16 \cdot \frac{368}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.0236\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.16 \cdot \frac{368}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=0.0589\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R07 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(263\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.19 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=0.02:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=0.05:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.19 \cdot \frac{263}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.02\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.19 \cdot \frac{263}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=0.05\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R08 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(112\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.1 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=0.0045:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=0.0112:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.1 \cdot \frac{112}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.0045\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.1 \cdot \frac{112}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=0.0112\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R09 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(121\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.07 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=0.0034:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=0.0085:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.07 \cdot \frac{121}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.0034\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.07 \cdot \frac{121}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=0.0085\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R10 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(398\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.17 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=0.0271:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=0.0677:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.17 \cdot \frac{398}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.0271\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.17 \cdot \frac{398}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=0.0677\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R11 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(84\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.01 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=3e-04:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=8e-04:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.01 \cdot \frac{84}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 3 &amp;times; 10&lt;sup&gt;-4&lt;/sup&gt;\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.01 \cdot \frac{84}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=8 &amp;times; 10&lt;sup&gt;-4&lt;/sup&gt;\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R12 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(222\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.18 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=0.016:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=0.04:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.18 \cdot \frac{222}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.016\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.18 \cdot \frac{222}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=0.04\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R13 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(66\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.17 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=0.0045:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=0.0112:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.17 \cdot \frac{66}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.0045\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.17 \cdot \frac{66}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=0.0112\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R14 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(242\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.19 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=0.0184:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=0.046:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.19 \cdot \frac{242}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.0184\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.19 \cdot \frac{242}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=0.046\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R15 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(304\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.12 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=0.0146:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=0.0365:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.12 \cdot \frac{304}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.0146\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.12 \cdot \frac{304}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=0.0365\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R16 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(189\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.02 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=0.0015:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=0.0038:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.02 \cdot \frac{189}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.0015\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.02 \cdot \frac{189}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=0.0038\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R17 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(338\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.17 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=0.023:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=0.0575:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.17 \cdot \frac{338}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.023\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.17 \cdot \frac{338}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=0.0575\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R18 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(95\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.1 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=0.0038:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=0.0095:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.1 \cdot \frac{95}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.0038\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.1 \cdot \frac{95}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=0.0095\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R19 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(85\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.07 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=0.0024:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=0.0059:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.07 \cdot \frac{85}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.0024\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.07 \cdot \frac{85}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=0.0059\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R20 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(416\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.18 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=0.03:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=0.0749:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.18 \cdot \frac{416}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.03\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.18 \cdot \frac{416}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=0.0749\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R21 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(483\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.13 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=0.0251:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=0.0628:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.13 \cdot \frac{483}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.0251\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.13 \cdot \frac{483}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=0.0628\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R22 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(130\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.15 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=0.0078:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=0.0195:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.15 \cdot \frac{130}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.0078\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.15 \cdot \frac{130}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=0.0195\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R23 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(361\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.01 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=0.0014:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=0.0036:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.01 \cdot \frac{361}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.0014\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.01 \cdot \frac{361}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=0.0036\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R24 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(313\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.06 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=0.0075:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=0.0188:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.06 \cdot \frac{313}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.0075\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.06 \cdot \frac{313}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=0.0188\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R25 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(203\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.1 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=0.0081:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=0.0203:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.1 \cdot \frac{203}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.0081\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.1 \cdot \frac{203}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=0.0203\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R26 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(63\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.17 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=0.0043:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=0.0107:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.17 \cdot \frac{63}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.0043\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.17 \cdot \frac{63}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=0.0107\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R27 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(486\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.2 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=0.0389:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=0.0972:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.2 \cdot \frac{486}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.0389\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.2 \cdot \frac{486}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=0.0972\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R28 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(294\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.05 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=0.0059:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=0.0147:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.05 \cdot \frac{294}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.0059\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.05 \cdot \frac{294}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=0.0147\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R29 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(402\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.07 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=0.0113:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=0.0281:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.07 \cdot \frac{402}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.0113\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.07 \cdot \frac{402}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=0.0281\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R30 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(368\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.15 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=0.0221:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=0.0552:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.15 \cdot \frac{368}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.0221\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.15 \cdot \frac{368}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=0.0552\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R31 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(360\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.17 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=0.0245:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=0.0612:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.17 \cdot \frac{360}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.0245\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.17 \cdot \frac{360}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=0.0612\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R32 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(135\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.11 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=0.0059:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=0.0148:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.11 \cdot \frac{135}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.0059\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.11 \cdot \frac{135}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=0.0148\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R33 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(284\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.09 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=0.0102:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=0.0256:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.09 \cdot \frac{284}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.0102\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.09 \cdot \frac{284}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=0.0256\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R34 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(322\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.01 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=0.0013:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=0.0032:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.01 \cdot \frac{322}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.0013\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.01 \cdot \frac{322}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=0.0032\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R35 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(374\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.19 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=0.0284:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=0.0711:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.19 \cdot \frac{374}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.0284\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.19 \cdot \frac{374}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=0.0711\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R36 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(211\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.16 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=0.0135:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=0.0338:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.16 \cdot \frac{211}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.0135\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.16 \cdot \frac{211}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=0.0338\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R37 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(119\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.09 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=0.0043:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=0.0107:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.09 \cdot \frac{119}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.0043\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.09 \cdot \frac{119}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=0.0107\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R38 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(275\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.02 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=0.0022:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=0.0055:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.02 \cdot \frac{275}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.0022\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.02 \cdot \frac{275}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=0.0055\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R39 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(269\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.09 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=0.0097:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=0.0242:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.09 \cdot \frac{269}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.0097\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.09 \cdot \frac{269}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=0.0242\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R40 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(481\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.17 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=0.0327:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=0.0818:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.17 \cdot \frac{481}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.0327\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.17 \cdot \frac{481}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=0.0818\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R41 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(86\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.02 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=7e-04:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=0.0017:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.02 \cdot \frac{86}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 7 &amp;times; 10&lt;sup&gt;-4&lt;/sup&gt;\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.02 \cdot \frac{86}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=0.0017\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R42 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(478\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.06 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=0.0115:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=0.0287:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.06 \cdot \frac{478}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.0115\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.06 \cdot \frac{478}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=0.0287\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R43 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(60\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.11 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=0.0026:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=0.0066:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.11 \cdot \frac{60}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.0026\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.11 \cdot \frac{60}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=0.0066\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R44 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(147\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.16 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=0.0094:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=0.0235:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.16 \cdot \frac{147}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.0094\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.16 \cdot \frac{147}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=0.0235\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R45 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(446\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.19 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=0.0339:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=0.0847:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.19 \cdot \frac{446}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.0339\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.19 \cdot \frac{446}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=0.0847\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R46 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(438\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.18 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=0.0315:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=0.0788:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.18 \cdot \frac{438}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.0315\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.18 \cdot \frac{438}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=0.0788\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R47 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(281\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.12 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=0.0135:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=0.0337:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.12 \cdot \frac{281}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.0135\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.12 \cdot \frac{281}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=0.0337\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R48 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(232\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.15 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=0.0139:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=0.0348:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.15 \cdot \frac{232}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.0139\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.15 \cdot \frac{232}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=0.0348\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R49 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(62\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.15 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=0.0037:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=0.0093:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.15 \cdot \frac{62}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.0037\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.15 \cdot \frac{62}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=0.0093\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R50 Q1 : neut_2 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene <span class="math inline">\(282\)</span> ml de una solución de <span class="math inline">\(NaAc\)</span> <span class="math inline">\(0.17 M\)</span>. Calcular el número de moles necesario de <span class="math inline">\(HCl\)</span> para:</p>
+<p>Informar el resultado con cuatro decimales.</p>
+<ol type = "a">
+<li> neutralizar el 40 % del anión proveniente de la sal: {1:NUMERICAL:=0.0192:1e-04} </li>
+<li> neutralizar el 100% del anión proveniente de la sal: {1:NUMERICAL:=0.0479:1e-04} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(HCl+ NaAc \rightarrow NaCl + HAc\)</span>.</p>
+<p>Recordar que en este caso el anión <span class="math inline">\(Ac^-\)</span> actúa como base y proviene de la disociación del <span class="math inline">\(NaAc\)</span>. Luego de la disociación la concentración de <span class="math inline">\(Ac^-\)</span> será igual a la concentración de <span class="math inline">\(NaAc\)</span>.</p>
+<p>Para que se neutralice el 40% del anión proveniente de la sal los moles de ácido deben representar un 40% de los moles de la base. Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.17 \cdot \frac{282}{1000}\cdot \frac {40}{100}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl} = 0.0192\)</span></p>
+<p>Para que la neutralización sea total, los moles de ácido y base deben ser iguales (también este este caso, moles y equivalentes es lo mismo). Entonces se tiene que cumplir:</p>
+<p><span class="math inline">\(Moles_{HCl} = (NaAc)\cdot V_{sc.NaAc}\)</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math inline">\(Moles_{HCl}= 0.17 \cdot \frac{282}{1000}\)</span></p>
+<p><span class="math inline">\(Moles_{HCl}=0.0479\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+</quiz>

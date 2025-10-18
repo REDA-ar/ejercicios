@@ -1,0 +1,58 @@
+---
+title: "ley integrada"
+date: "2025-01-05"
+output: 
+  exams2html: default
+  exams2pdf: default
+---
+
+```{r setup, include=FALSE}
+library(exams)
+
+res0 <- 1
+res1 <- 2
+res2 <- 3
+
+```
+
+
+Question
+========
+
+Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.
+
+Expresión número 1: $[A] = [A_0] - kt$
+
+Expresión número 2: $\ln[A] = \ln[A_0] - akt$
+
+Expresión número 3: $\frac{1}{[A]} = \frac{1}{[A_0]} + kt$
+
+
+Answerlist
+----------
+
+* Ley integrada para orden cero, expresión número: 
+   
+* Ley integrada para orden uno, expresión número: 
+   
+* Ley integrada para orden dos, expresión número: 
+   
+
+Solution
+========
+
+Para orden cero la expresión es la número: `r res0`
+
+Para orden uno la expresión es la número: `r res1`
+
+Para orden dos la expresión es la número: `r res2`
+
+
+Meta-information
+================
+
+exname: ley_integrada
+extype: cloze
+exsolution: `r res0`|`r res1`|`r res2`
+exclozetype: num|num|num
+exshuffle: FALSE

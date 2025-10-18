@@ -1,0 +1,2611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/termo_1/Exercise 1</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R01 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -22.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 98.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -22.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (98.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -51.64\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-51.64</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R02 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -26.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 78.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -26.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (78.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -49.68\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-49.68</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R03 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -42.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 68.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -42.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (68.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -62.70\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-62.7</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R04 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -22.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 48.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -22.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (48.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -36.74\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-36.74</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R05 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -48.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 66.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -48.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (66.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -68.10\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-68.1</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R06 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -28.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 92.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -28.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (92.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -55.85\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-55.85</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R07 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -20.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 100.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -20.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (100.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -50.23\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-50.23</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R08 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -46.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 80.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -46.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (80.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -70.27\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-70.27</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R09 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -26.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 70.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -26.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (70.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -47.29\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-47.29</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R10 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -40.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 50.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -40.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (50.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -55.33\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-55.33</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R11 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -46.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 92.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -46.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (92.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -73.85\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-73.85</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R12 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -42.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 68.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -42.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (68.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -62.70\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-62.7</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R13 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -10.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 78.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -10.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (78.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -33.68\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-33.68</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R14 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -22.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 54.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -22.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (54.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -38.53\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-38.53</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R15 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -20.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 80.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -20.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (80.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -44.27\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-44.27</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R16 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -14.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 86.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -14.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (86.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -40.06\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-40.06</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R17 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -10.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 72.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -10.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (72.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -31.89\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-31.89</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R18 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -36.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 50.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -36.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (50.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -51.33\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-51.33</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R19 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -22.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 96.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -22.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (96.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -51.04\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-51.04</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R20 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -42.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 84.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -42.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (84.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -67.47\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-67.47</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R21 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -48.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 58.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -48.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (58.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -65.72\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-65.72</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R22 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -48.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 72.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -48.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (72.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -69.89\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-69.89</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R23 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -50.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 98.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -50.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (98.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -79.64\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-79.64</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R24 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -46.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 44.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -46.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (44.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -59.55\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-59.55</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R25 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -44.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 100.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -44.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (100.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -74.23\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-74.23</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R26 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -32.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 48.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -32.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (48.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -46.74\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-46.74</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R27 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -38.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 58.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -38.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (58.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -55.72\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-55.72</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R28 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -46.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 80.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -46.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (80.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -70.27\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-70.27</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R29 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -42.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 84.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -42.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (84.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -67.47\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-67.47</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R30 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -36.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 70.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -36.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (70.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -57.29\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-57.29</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R31 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -18.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 54.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -18.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (54.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -34.53\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-34.53</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R32 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -16.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 56.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -16.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (56.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -33.12\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-33.12</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R33 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -48.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 56.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -48.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (56.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -65.12\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-65.12</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R34 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -32.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 42.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -32.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (42.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -44.95\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-44.95</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R35 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -46.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 54.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -46.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (54.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -62.53\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-62.53</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R36 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -30.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 90.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -30.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (90.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -57.25\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-57.25</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R37 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -30.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 40.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -30.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (40.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -42.35\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-42.35</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R38 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -38.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 90.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -38.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (90.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -65.25\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-65.25</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R39 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -36.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 48.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -36.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (48.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -50.74\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-50.74</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R40 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -20.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 100.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -20.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (100.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -50.23\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-50.23</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R41 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -12.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 60.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -12.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (60.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -30.31\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-30.31</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R42 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -42.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 100.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -42.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (100.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -72.23\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-72.23</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R43 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -44.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 96.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -44.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (96.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -73.04\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-73.04</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R44 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -26.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 78.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -26.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (78.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -49.68\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-49.68</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R45 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -30.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 66.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -30.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (66.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -50.10\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-50.1</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R46 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -48.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 62.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -48.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (62.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -66.91\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-66.91</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R47 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -16.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 50.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -16.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (50.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -31.33\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-31.33</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R48 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -16.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 52.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -16.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (52.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -31.93\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-31.93</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R49 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -12.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 60.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -12.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (60.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -30.31\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-30.31</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R50 Q1 : deltaG_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta G\)</span> en kJ/mol para una dada reacción 25ºC, con <span class="math inline">\(\Delta H = -44.35\)</span> kJ/mol y <span class="math inline">\(\Delta S = 88.28\)</span> J/(Kmol). Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para <span class="math inline">\(\Delta G\)</span> es: <span class="math inline">\(\Delta G = \Delta H - T \Delta S\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta G &amp;= -44.35\ \mathrm{kJ/mol} - 298\ \mathrm{K} \cdot (88.28 \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta G = -70.66\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-70.66</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,60 @@
+---
+title: "acido base 1"
+date: "2025-01-05"
+output: 
+  exams2html: default
+  exams2pdf: default
+---
+
+
+```{r setup, include=FALSE}
+library(exams)
+
+#parametros
+kps=1.77e-10
+kps_cient <- format(kps, scientific = TRUE, digits = 3)
+conc_nacl <- sample(seq(from=0.01, to= 0.2,by=0.01),1)
+
+#solucion
+sol=kps/conc_nacl
+res<- as.numeric(format(sol,scientific=TRUE,digits=3))
+
+```
+
+Question
+========
+
+El producto de solubilidad de AgCl es $`r kps_cient`$. Calcular la solubilidad del $AgCl$ en una solución que contiene  `r conc_nacl` mol/L de $NaCl$. Utilizar el siguiente formato para expresar el resultado: 1,11e-11.
+
+
+
+Solution
+========
+
+Dado que hay $Cl^-$ agregados por el $NaCl$
+
+Sea s´ la nueva solubilidad de $AgCl$:
+
+$(Cl^-)=s´ + `r conc_nacl`$ 
+
+$(Ag^+)=s´$
+
+Para $(Cl^-)$ despreciamos s´ frente a `r conc_nacl` porque es muy pequeño.
+
+$Kps= s´\cdot `r conc_nacl`$
+
+$s´= \frac{1,77e-10}{`r conc_nacl`}$
+
+$s´= `r format(res,scientific=TRUE)`$
+
+
+
+Meta-information
+================
+extype: num
+exsolution: `r format(res,scientific=TRUE)`
+exname: solub_5
+extol: 0
+
+
+

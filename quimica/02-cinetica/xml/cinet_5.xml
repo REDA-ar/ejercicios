@@ -1,0 +1,2611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/cinet_5/Exercise 1</text>
+</category>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R01 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R02 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R03 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R04 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R05 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R06 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R07 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R08 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R09 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R10 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R11 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R12 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R13 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R14 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R15 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R16 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R17 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R18 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R19 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R20 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R21 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R22 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R23 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R24 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R25 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R26 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R27 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R28 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R29 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R30 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R31 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R32 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R33 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R34 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R35 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R36 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R37 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R38 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R39 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R40 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R41 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R42 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R43 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R44 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R45 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R46 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R47 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R48 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R49 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R50 Q1 : leyes_int </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Identificar cuál es la expresión integrada que corresponde a orden cero, uno y dos.</p>
+<p>Expresión número 1: <span class="math inline">\([A] = [A_0] - kt\)</span></p>
+<p>Expresión número 2: <span class="math inline">\(\ln[A] = \ln[A_0] - akt\)</span></p>
+<p>Expresión número 3: <span class="math inline">\(\frac{1}{[A]} = \frac{1}{[A_0]} + kt\)</span></p>
+<ol type = "a">
+<li> Ley integrada para orden cero, expresión número: {1:NUMERICAL:=1:0} </li>
+<li> Ley integrada para orden uno, expresión número: {1:NUMERICAL:=2:0} </li>
+<li> Ley integrada para orden dos, expresión número: {1:NUMERICAL:=3:0} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Para orden cero la expresión es la número: 1</p>
+<p>Para orden uno la expresión es la número: 2</p>
+<p>Para orden dos la expresión es la número: 3</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>3</defaultgrade>
+</question>
+
+</quiz>

@@ -1,0 +1,2861 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/neut_4/Exercise 1</text>
+</category>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R01 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.13 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(486\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.13 N\)</span> {1:NUMERICAL:=486:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.13 M\)</span> {1:NUMERICAL:=972:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.13 *486}{0.13}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 486\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.13 *486}{0.13}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 972\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R02 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.01 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(177\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.01 N\)</span> {1:NUMERICAL:=177:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.01 M\)</span> {1:NUMERICAL:=354:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.01 *177}{0.01}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 177\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.01 *177}{0.01}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 354\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R03 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.08 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(365\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.08 N\)</span> {1:NUMERICAL:=365:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.08 M\)</span> {1:NUMERICAL:=730:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.08 *365}{0.08}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 365\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.08 *365}{0.08}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 730\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R04 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.06 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(409\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.06 N\)</span> {1:NUMERICAL:=409:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.06 M\)</span> {1:NUMERICAL:=818:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.06 *409}{0.06}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 409\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.06 *409}{0.06}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 818\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R05 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.19 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(219\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.19 N\)</span> {1:NUMERICAL:=219:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.19 M\)</span> {1:NUMERICAL:=438:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.19 *219}{0.19}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 219\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.19 *219}{0.19}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 438\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R06 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.19 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(259\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.19 N\)</span> {1:NUMERICAL:=259:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.19 M\)</span> {1:NUMERICAL:=518:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.19 *259}{0.19}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 259\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.19 *259}{0.19}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 518\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R07 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.01 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(451\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.01 N\)</span> {1:NUMERICAL:=451:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.01 M\)</span> {1:NUMERICAL:=902:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.01 *451}{0.01}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 451\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.01 *451}{0.01}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 902\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R08 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.01 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(194\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.01 N\)</span> {1:NUMERICAL:=194:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.01 M\)</span> {1:NUMERICAL:=388:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.01 *194}{0.01}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 194\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.01 *194}{0.01}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 388\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R09 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.08 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(373\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.08 N\)</span> {1:NUMERICAL:=373:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.08 M\)</span> {1:NUMERICAL:=746:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.08 *373}{0.08}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 373\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.08 *373}{0.08}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 746\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R10 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.08 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(85\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.08 N\)</span> {1:NUMERICAL:=85:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.08 M\)</span> {1:NUMERICAL:=170:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.08 *85}{0.08}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 85\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.08 *85}{0.08}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 170\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R11 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.2 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(390\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.2 N\)</span> {1:NUMERICAL:=390:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.2 M\)</span> {1:NUMERICAL:=780:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.2 *390}{0.2}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 390\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.2 *390}{0.2}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 780\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R12 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.04 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(92\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.04 N\)</span> {1:NUMERICAL:=92:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.04 M\)</span> {1:NUMERICAL:=184:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.04 *92}{0.04}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 92\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.04 *92}{0.04}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 184\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R13 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.2 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(401\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.2 N\)</span> {1:NUMERICAL:=401:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.2 M\)</span> {1:NUMERICAL:=802:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.2 *401}{0.2}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 401\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.2 *401}{0.2}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 802\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R14 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.11 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(304\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.11 N\)</span> {1:NUMERICAL:=304:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.11 M\)</span> {1:NUMERICAL:=608:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.11 *304}{0.11}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 304\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.11 *304}{0.11}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 608\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R15 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.05 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(289\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.05 N\)</span> {1:NUMERICAL:=289:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.05 M\)</span> {1:NUMERICAL:=578:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.05 *289}{0.05}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 289\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.05 *289}{0.05}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 578\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R16 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.04 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(209\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.04 N\)</span> {1:NUMERICAL:=209:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.04 M\)</span> {1:NUMERICAL:=418:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.04 *209}{0.04}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 209\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.04 *209}{0.04}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 418\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R17 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.09 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(477\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.09 N\)</span> {1:NUMERICAL:=477:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.09 M\)</span> {1:NUMERICAL:=954:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.09 *477}{0.09}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 477\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.09 *477}{0.09}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 954\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R18 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.19 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(216\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.19 N\)</span> {1:NUMERICAL:=216:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.19 M\)</span> {1:NUMERICAL:=432:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.19 *216}{0.19}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 216\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.19 *216}{0.19}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 432\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R19 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.07 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(148\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.07 N\)</span> {1:NUMERICAL:=148:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.07 M\)</span> {1:NUMERICAL:=296:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.07 *148}{0.07}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 148\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.07 *148}{0.07}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 296\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R20 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.16 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(336\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.16 N\)</span> {1:NUMERICAL:=336:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.16 M\)</span> {1:NUMERICAL:=672:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.16 *336}{0.16}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 336\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.16 *336}{0.16}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 672\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R21 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.2 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(204\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.2 N\)</span> {1:NUMERICAL:=204:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.2 M\)</span> {1:NUMERICAL:=408:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.2 *204}{0.2}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 204\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.2 *204}{0.2}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 408\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R22 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.1 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(458\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.1 N\)</span> {1:NUMERICAL:=458:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.1 M\)</span> {1:NUMERICAL:=916:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.1 *458}{0.1}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 458\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.1 *458}{0.1}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 916\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R23 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.02 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(234\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.02 N\)</span> {1:NUMERICAL:=234:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.02 M\)</span> {1:NUMERICAL:=468:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.02 *234}{0.02}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 234\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.02 *234}{0.02}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 468\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R24 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.1 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(222\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.1 N\)</span> {1:NUMERICAL:=222:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.1 M\)</span> {1:NUMERICAL:=444:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.1 *222}{0.1}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 222\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.1 *222}{0.1}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 444\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R25 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.12 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(371\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.12 N\)</span> {1:NUMERICAL:=371:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.12 M\)</span> {1:NUMERICAL:=742:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.12 *371}{0.12}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 371\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.12 *371}{0.12}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 742\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R26 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.11 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(159\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.11 N\)</span> {1:NUMERICAL:=159:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.11 M\)</span> {1:NUMERICAL:=318:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.11 *159}{0.11}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 159\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.11 *159}{0.11}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 318\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R27 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.04 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(399\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.04 N\)</span> {1:NUMERICAL:=399:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.04 M\)</span> {1:NUMERICAL:=798:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.04 *399}{0.04}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 399\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.04 *399}{0.04}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 798\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R28 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.11 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(440\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.11 N\)</span> {1:NUMERICAL:=440:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.11 M\)</span> {1:NUMERICAL:=880:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.11 *440}{0.11}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 440\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.11 *440}{0.11}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 880\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R29 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.04 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(415\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.04 N\)</span> {1:NUMERICAL:=415:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.04 M\)</span> {1:NUMERICAL:=830:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.04 *415}{0.04}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 415\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.04 *415}{0.04}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 830\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R30 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.07 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(135\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.07 N\)</span> {1:NUMERICAL:=135:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.07 M\)</span> {1:NUMERICAL:=270:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.07 *135}{0.07}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 135\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.07 *135}{0.07}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 270\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R31 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.07 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(193\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.07 N\)</span> {1:NUMERICAL:=193:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.07 M\)</span> {1:NUMERICAL:=386:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.07 *193}{0.07}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 193\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.07 *193}{0.07}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 386\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R32 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.14 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(498\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.14 N\)</span> {1:NUMERICAL:=498:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.14 M\)</span> {1:NUMERICAL:=996:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.14 *498}{0.14}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 498\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.14 *498}{0.14}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 996\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R33 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.11 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(180\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.11 N\)</span> {1:NUMERICAL:=180:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.11 M\)</span> {1:NUMERICAL:=360:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.11 *180}{0.11}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 180\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.11 *180}{0.11}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 360\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R34 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.06 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(418\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.06 N\)</span> {1:NUMERICAL:=418:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.06 M\)</span> {1:NUMERICAL:=836:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.06 *418}{0.06}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 418\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.06 *418}{0.06}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 836\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R35 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.04 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(203\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.04 N\)</span> {1:NUMERICAL:=203:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.04 M\)</span> {1:NUMERICAL:=406:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.04 *203}{0.04}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 203\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.04 *203}{0.04}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 406\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R36 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.13 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(493\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.13 N\)</span> {1:NUMERICAL:=493:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.13 M\)</span> {1:NUMERICAL:=986:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.13 *493}{0.13}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 493\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.13 *493}{0.13}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 986\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R37 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.17 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(459\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.17 N\)</span> {1:NUMERICAL:=459:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.17 M\)</span> {1:NUMERICAL:=918:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.17 *459}{0.17}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 459\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.17 *459}{0.17}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 918\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R38 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.19 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(92\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.19 N\)</span> {1:NUMERICAL:=92:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.19 M\)</span> {1:NUMERICAL:=184:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.19 *92}{0.19}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 92\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.19 *92}{0.19}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 184\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R39 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.15 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(63\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.15 N\)</span> {1:NUMERICAL:=63:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.15 M\)</span> {1:NUMERICAL:=126:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.15 *63}{0.15}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 63\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.15 *63}{0.15}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 126\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R40 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.18 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(457\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.18 N\)</span> {1:NUMERICAL:=457:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.18 M\)</span> {1:NUMERICAL:=914:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.18 *457}{0.18}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 457\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.18 *457}{0.18}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 914\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R41 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.02 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(138\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.02 N\)</span> {1:NUMERICAL:=138:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.02 M\)</span> {1:NUMERICAL:=276:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.02 *138}{0.02}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 138\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.02 *138}{0.02}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 276\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R42 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.17 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(185\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.17 N\)</span> {1:NUMERICAL:=185:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.17 M\)</span> {1:NUMERICAL:=370:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.17 *185}{0.17}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 185\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.17 *185}{0.17}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 370\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R43 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.09 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(392\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.09 N\)</span> {1:NUMERICAL:=392:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.09 M\)</span> {1:NUMERICAL:=784:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.09 *392}{0.09}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 392\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.09 *392}{0.09}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 784\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R44 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.2 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(349\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.2 N\)</span> {1:NUMERICAL:=349:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.2 M\)</span> {1:NUMERICAL:=698:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.2 *349}{0.2}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 349\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.2 *349}{0.2}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 698\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R45 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.18 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(160\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.18 N\)</span> {1:NUMERICAL:=160:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.18 M\)</span> {1:NUMERICAL:=320:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.18 *160}{0.18}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 160\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.18 *160}{0.18}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 320\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R46 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.07 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(482\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.07 N\)</span> {1:NUMERICAL:=482:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.07 M\)</span> {1:NUMERICAL:=964:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.07 *482}{0.07}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 482\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.07 *482}{0.07}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 964\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R47 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.03 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(165\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.03 N\)</span> {1:NUMERICAL:=165:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.03 M\)</span> {1:NUMERICAL:=330:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.03 *165}{0.03}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 165\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.03 *165}{0.03}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 330\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R48 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.05 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(200\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.05 N\)</span> {1:NUMERICAL:=200:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.05 M\)</span> {1:NUMERICAL:=400:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.05 *200}{0.05}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 200\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.05 *200}{0.05}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 400\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R49 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.12 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(86\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.12 N\)</span> {1:NUMERICAL:=86:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.12 M\)</span> {1:NUMERICAL:=172:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.12 *86}{0.12}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 86\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.12 *86}{0.12}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 172\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+
+<question type="cloze">
+<name>
+<text> R50 Q1 : neut_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el volumen (en mililitros) de una solución de <span class="math inline">\(NaOH\)</span> <span class="math inline">\(0.11 N\)</span> necesario para neutralizar totalmente <span class="math inline">\(499\)</span> ml de:</p>
+<p>Informar el resultado con un decimal.</p>
+<ol type = "a">
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.11 N\)</span> {1:NUMERICAL:=499:0.1} </li>
+<li> una solución de <span class="math inline">\(H_2SO_4\)</span> <span class="math inline">\(0.11 M\)</span> {1:NUMERICAL:=998:0.1} </li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sabemos que <span class="math inline">\(H_2SO_4+ 2NaOH \rightarrow Na_2SO_4 + 2H_2O\)</span>.</p>
+<p>Para que la neutralización sea total, los equivalentes de la base deben ser igual a los del ácido, pero los moles de la base deben ser el doble que los moles del ácido (ya que el <span class="math inline">\(H_2SO_4\)</span> es un acido diprótico).</p>
+<p>Para Normalidad:
+<span class="math inline">\(N_{NaOH} \cdot V_{sc.NaOH}= N_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = \frac{0.11 *499}{0.11}\)</span></p>
+<p><span class="math inline">\(Vol_{sc. NaOH} = 499\)</span></p>
+<p>Para Molaridad:
+<span class="math inline">\(M_{NaOH} \cdot V_{sc.NaOH}= 2\cdot M_{H_2SO_4}\cdot V_{sc.H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = \frac{2*0.11 *499}{0.11}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 2\cdot Vol_{sc H_2SO_4}\)</span></p>
+<p><span class="math inline">\(Vol_{sc NaOH} = 998\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>2</defaultgrade>
+</question>
+
+</quiz>

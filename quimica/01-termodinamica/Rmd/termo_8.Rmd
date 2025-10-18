@@ -1,0 +1,46 @@
+---
+title: "Q necesario"
+  output:
+  pdf_document: default
+  html_document: default
+---
+```{r data generation, echo = FALSE, results = "hide"}
+## cálculos
+library(exams)
+# parametros
+V1 <- sample(seq(from=0.525, to=0.825,by=0.005),1) # dm3
+V2 <- sample(seq(from=0.225, to=0.425,by=0.005),1) # dm3
+Pext <- sample(seq(from=1.001, to=1.500,by=0.003),1) # atm
+  
+# solucion
+W <- - (Pext*(V2-V1)*101.3) # en J
+
+res <- round(W,3)
+
+
+```
+
+Question
+========
+Calcular el trabajo (en J) necesario para cambiar el volumen de un sistema desde $`r V1`$ $\text{dm}^3$ hasta $`r V2`$ $\text{dm}^3$ contra una presión externa de $`r Pext`$ $\text{atm}$. Asumir que $\text{dm}^3\text{atm}=101.3$ J. Redondear el resultado a tres cifras decimales.
+
+
+Solution
+========
+El trabajo se puede calcular como:  $W = -P_{ext}\Delta V = -P_{ext}(V_f-V_o)$.
+$$
+\begin{aligned} 
+  W  &= `r Pext`\ \mathrm{atm} \cdot(`r V2`-`r V1`)\ \mathrm{dm^3}\\
+  W  &= `r Pext` \cdot(`r V2`-`r V1`)\ \mathrm{dm^3atm}\\
+  W  &= `r Pext` \cdot(`r V2`-`r V1`)\cdot 101.3 \ \mathrm{J}
+\end{aligned}
+$$
+
+Así, redondeando a tres dígitos tenemos: $W = `r fmt(res)`$ J
+
+Meta-information
+================
+extype: num
+exsolution: `r fmt(res)`
+exname: W_ran
+extol: 0.002

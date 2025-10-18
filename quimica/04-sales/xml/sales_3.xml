@@ -1,0 +1,2711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/sales_3/Exercise 1</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R01 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.79\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(2.9e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(6.2e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(6.2e-06)^2}{2.9e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.0131\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0131</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R02 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.51\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(4.9e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(3.2e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(3.2e-06)^2}{4.9e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.0021\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0021</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R03 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.57\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(8e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(3.7e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(3.7e-06)^2}{8e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.0017\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0017</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R04 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.59\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(2.8e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(3.9e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(3.9e-06)^2}{2.8e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.0053\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0053</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R05 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.71\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(2.4e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(5.1e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(5.1e-06)^2}{2.4e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.011\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.011</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R06 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.65\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(1.9e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(4.5e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(4.5e-06)^2}{1.9e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.0105\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0105</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R07 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.89\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(1.2e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(7.8e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(7.8e-06)^2}{1.2e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.0502\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0502</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R08 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.93\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(7.4e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(8.5e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(8.5e-06)^2}{7.4e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.0098\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0098</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R09 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.77\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(1.6e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(5.9e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(5.9e-06)^2}{1.6e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.021\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.021</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R10 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.99\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(6.3e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(9.8e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(9.8e-06)^2}{6.3e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.015\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.015</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R11 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.99\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(2.6e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(9.8e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(9.8e-06)^2}{2.6e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.0375\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0375</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R12 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.55\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(1.7e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(3.5e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(3.5e-06)^2}{1.7e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.0074\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0074</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R13 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.97\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(2.9e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(9.3e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(9.3e-06)^2}{2.9e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.03\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.03</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R14 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.59\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(3.9e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(3.9e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(3.9e-06)^2}{3.9e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.0038\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0038</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R15 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.95\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(4e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(8.9e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(8.9e-06)^2}{4e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.0196\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0196</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R16 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.97\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(4.4e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(9.3e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(9.3e-06)^2}{4.4e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.02\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.02</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R17 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.85\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(1.8e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(7.1e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(7.1e-06)^2}{1.8e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.0278\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0278</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R18 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.55\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(4.6e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(3.5e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(3.5e-06)^2}{4.6e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.0028\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0028</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R19 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.45\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(6.9e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(2.8e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(2.8e-06)^2}{6.9e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.0012\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0012</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R20 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.71\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(1.5e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(5.1e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(5.1e-06)^2}{1.5e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.0175\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0175</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R21 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.57\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(1.1e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(3.7e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(3.7e-06)^2}{1.1e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.012\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.012</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R22 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.51\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(1.8e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(3.2e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(3.2e-06)^2}{1.8e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.0057\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0057</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R23 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.79\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(2.4e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(6.2e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(6.2e-06)^2}{2.4e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.0155\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0155</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R24 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.77\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(6.8e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(5.9e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(5.9e-06)^2}{6.8e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.0051\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0051</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R25 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.85\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(4.6e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(7.1e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(7.1e-06)^2}{4.6e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.0109\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0109</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R26 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.47\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(5.6e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(3e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(3e-06)^2}{5.6e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.0015\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0015</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R27 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.99\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(2e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(9.8e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(9.8e-06)^2}{2e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.049\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.049</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R28 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.95\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(5.3e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(8.9e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(8.9e-06)^2}{5.3e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.015\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.015</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R29 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.97\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(2.5e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(9.3e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(9.3e-06)^2}{2.5e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.0348\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0348</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R30 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.65\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(2.9e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(4.5e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(4.5e-06)^2}{2.9e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.0069\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0069</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R31 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.77\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(7.8e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(5.9e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(5.9e-06)^2}{7.8e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.0044\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0044</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R32 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.55\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(1.4e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(3.5e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(3.5e-06)^2}{1.4e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.0087\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0087</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R33 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.73\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(6e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(5.4e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(5.4e-06)^2}{6e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.0048\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0048</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R34 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.77\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(7.4e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(5.9e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(5.9e-06)^2}{7.4e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.0047\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0047</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R35 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.97\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(6.5e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(9.3e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(9.3e-06)^2}{6.5e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.0133\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0133</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R36 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.61\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(2e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(4.1e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(4.1e-06)^2}{2e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.0083\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0083</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R37 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.63\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(2.8e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(4.3e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(4.3e-06)^2}{2.8e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.0066\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0066</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R38 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.51\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(7.9e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(3.2e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(3.2e-06)^2}{7.9e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.0013\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0013</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R39 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.81\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(4.7e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(6.5e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(6.5e-06)^2}{4.7e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.0089\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0089</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R40 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.69\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(7.6e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(4.9e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(4.9e-06)^2}{7.6e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.0032\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0032</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R41 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.73\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(1e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(5.4e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(5.4e-06)^2}{1e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.0288\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0288</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R42 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.63\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(8e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(4.3e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(4.3e-06)^2}{8e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.0023\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0023</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R43 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.63\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(5e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(4.3e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(4.3e-06)^2}{5e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.0036\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0036</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R44 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.75\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(2.2e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(5.6e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(5.6e-06)^2}{2.2e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.0141\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0141</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R45 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.89\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(5.4e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(7.8e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(7.8e-06)^2}{5.4e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.0111\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0111</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R46 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.65\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(3.4e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(4.5e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(4.5e-06)^2}{3.4e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.0058\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0058</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R47 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.95\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(1.2e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(8.9e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(8.9e-06)^2}{1.2e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.0635\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0635</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R48 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.71\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(6.6e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(5.1e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(5.1e-06)^2}{6.6e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.004\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.004</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R49 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.87\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(3.0e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(7.4e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(7.4e-06)^2}{3.0e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.018\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.018</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R50 Q1 : conc_sal </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Se tiene una solución de una sal <span class="math inline">\(AB\)</span>, cuyo anión <span class="math inline">\(B^-\)</span> hidroliza. El sistema en equilibrio tiene un pH de <span class="math inline">\(8.71\)</span>. Calcular la concentración del anión <span class="math inline">\(B^-\)</span> en equilibrio, sabiendo que la <span class="math inline">\(K_b\)</span> de hidrólisis del mismo es <span class="math inline">\(1.6e-09\)</span>.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. (“e” significa 10^).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>La expresión para la <span class="math inline">\(K_b\)</span> de hidrólisis es: <span class="math inline">\(K_b = \frac{(HB)(OH^-)}{(B^-)}\)</span>.
+En el equilibrio, <span class="math inline">\((HB)=(OH^-)\)</span>. Sabiendo el pH, la concentración de oxhidrilos resulta: <span class="math inline">\(5.1e-06\)</span>. Luego, despejamos <span class="math inline">\((B^-)\)</span> de la <span class="math inline">\(K_b\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+(B^-) &amp;= \frac{(5.1e-06)^2}{1.6e-09}
+\end{aligned}
+\]</span>
+Así, la concentración de amoníaco en el equilibrio es: <span class="math inline">\(0.0159\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0159</text>
+<tolerance>1e-04</tolerance>
+</answer>
+</question>
+
+</quiz>

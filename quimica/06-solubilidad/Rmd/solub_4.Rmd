@@ -1,0 +1,90 @@
+---
+title: "solub4vF"
+date: "2025-01-05"
+output: 
+  exams2html: default
+  exams2pdf: default
+---
+
+
+```{r setup, include=FALSE}
+library(exams)
+
+```
+
+Question
+========
+De las siguientes afirmaciones, marcar cuáles son verdaderas:
+
+
+Answerlist
+----------
+
+* El carbonato de calcio es más soluble en soluciones básicas que en soluciones ácidas.
+
+* En una solución saturada de $Ag_2CrO_4$, las concentraciones de los iones $Ag^+$ y ${CrO_4}^{2-}$ aumentan al agregarse a la solución 100 g de $Ag_2CrO_4$ sólido.
+
+* El producto de solubilidad (Kps) es constante a una temperatura dada.
+
+* Si se añade un ion común a una disolución saturada, la solubilidad del soluto disminuye.
+
+* El equilibrio de solubilidad solo se aplica a sustancias solubles.
+
+* Para saber si una sal es más soluble que otra, basta con comparar los valores de Kps de cada una.
+
+* La precipitación ocurre cuando el producto iónico es igual o mayor que el Kps.
+
+* El equilibrio de solubilidad se alcanza cuando ya no se puede disolver más soluto, y el exceso se deposita en el fondo.
+
+* El valor del Kps cambia si se altera la concentración de los iones.
+
+* Un aumento en la temperatura siempre aumenta la solubilidad de una sal.
+
+* La adición de un ácido fuerte puede aumentar la solubilidad de algunas sales que contienen aniones básicos.
+
+* El equilibrio de solubilidad nunca se ve afectado por cambios en el pH.
+
+
+
+
+Solution
+========
+
+Answerlist
+----------
+
+* La afirmación es falsa. En soluciones ácidas el ión ${CO_3}^{2-}$ reacciona con los $H^+$ del medio para formar ${HCO_3}^{-}$. Esta reacción reduce la concentracion del ión ${CO_3}^{2-}$. De esta manera el equilibrio se desplaza hacia la disolución y aumenta la solubilidad de la sal $CaCO3$. Esto no ocurre en soluciones básicas.
+
+* La afirmación es falsa. Una solución saturada es aquella que contiene la máxima cantidad de sal disuelta posible a cierta temperatura. Por lo tanto el agregado de más sal $Ag_2CrO_4$ no va a modificar las concentraciones de los iones $Ag^+$ y ${CrO_4}^{2-}$ sino que va a precipitar como sólido insoluble manteniendo las concentraciones de $Ag^+$ y ${CrO_4}^{2-}$ libres.
+
+* La afirmación es verdadera.
+
+* La afirmación es verdadera.
+
+* Falso. Se aplica a sales poco solubles en equilibrio con sus iones en solución.
+
+* Falso. Sólo es válido comparar los valores de Kps si las sales tienen la misma estequiometría.
+
+* La afirmación es verdadera.
+
+* La afirmación es verdadera.
+
+* La afirmación es falsa. El Kps depende solo de la temperatura, no de las concentraciones.
+
+* La afirmación es falsa. Depende del proceso: si la disolución es endotérmica o exotérmica.
+
+* La afirmación es verdadera.
+
+* La afirmación es falsa. Sí puede verse afectado, especialmente si uno de los iones reacciona con $H^+$ o $OH^-$.
+
+
+ 
+
+Meta-information
+================
+exname: solub_VF
+extype: mchoice
+exsolution: 001100110010
+exshuffle:5
+
+

@@ -1,0 +1,46 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+```{r data generation, echo = FALSE, results = "hide"}
+
+
+library(exams)
+
+# parametros
+dH <- sample(seq(from=-50.35, to=-10.35,by=2),1) # kJ/mol
+dS <- sample(seq(from=40.28, to=100.28,by=2),1)  # J/mol
+temp <- 298
+dG <- dH - temp*(dS/1000)
+dG
+
+# solucion
+res <- round(dG,2)
+
+
+```
+
+Question
+========
+Calcular el $\Delta G$ en kJ/mol para una dada reacción 25ºC, con $\Delta H = `r dH`$ kJ/mol y $\Delta S = `r dS`$  J/(Kmol). Redondear el resultado a dos cifras decimales.
+
+
+Solution
+========
+La expresión para $\Delta G$ es: $\Delta G = \Delta H - T \Delta S$.
+$$
+\begin{aligned}
+    \Delta G &= `r dH`\ \mathrm{kJ/mol} - `r temp`\ \mathrm{K} \cdot (`r dS` \cdot 10^{-3})\ \mathrm{kJ/(Kmol)}
+\end{aligned}
+$$
+
+
+Así, redondeando a dos dígitos tenemos: $\Delta G = `r fmt(res)`$ kJ/mol.
+
+Meta-information
+================
+extype: num
+exsolution: `r fmt(res)`
+exname: termo_1
+extol: 0.01

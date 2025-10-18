@@ -1,0 +1,55 @@
+---
+title: "entalpia"
+date: "2025-01-05"
+output: 
+  exams2html: default
+  exams2pdf: default
+---
+
+
+```{r setup, include=FALSE}
+library(exams)
+
+# solución
+res <- "entalpia"
+res1 <- "energia interna"
+res2 <- "entropía"
+res3 <- "energia libre"
+
+# schoice
+questions <- c(res, res1, res2, res3)
+solutions <- c(TRUE, FALSE, FALSE, FALSE)
+
+o <- sample(1:4)
+questions <- questions[o]
+solutions <- solutions[o]
+
+```
+
+Question
+========
+Elegir la función termodinámica asociada al calor intercambiado entre el sistema y el entorno a presión constante.
+
+```{r questionlist, echo=FALSE, results='asis'}
+answerlist(questions, markup = "markdown")
+
+```
+
+
+Solution
+========
+La entalpía es la función termodinámica que se relaciona con el calor intercambiado a presión constante.
+
+Meta-information
+================
+extype: schoice
+exsolution: `r mchoice2string(solutions, single = TRUE)`
+exname: entalpia
+
+
+```{r}
+# exams2pdf("p2_termo.Rmd")
+```
+
+
+

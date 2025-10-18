@@ -1,0 +1,2611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/termo_5/Exercise 1</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R01 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = 41.73\)</span> J y <span class="math inline">\(W = 45.54\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= 41.73\ \mathrm{J} + (45.54\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = 87.27\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>87.27</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R02 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = -6.27\)</span> J y <span class="math inline">\(W = -42.46\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= -6.27\ \mathrm{J} + (-42.46\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = -48.73\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-48.73</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R03 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = 29.73\)</span> J y <span class="math inline">\(W = 79.54\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= 29.73\ \mathrm{J} + (79.54\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = 109.27\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>109.27</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R04 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = -46.27\)</span> J y <span class="math inline">\(W = -74.46\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= -46.27\ \mathrm{J} + (-74.46\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = -120.73\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-120.73</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R05 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = 45.73\)</span> J y <span class="math inline">\(W = -64.46\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= 45.73\ \mathrm{J} + (-64.46\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = -18.73\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-18.73</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R06 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = 31.73\)</span> J y <span class="math inline">\(W = 73.54\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= 31.73\ \mathrm{J} + (73.54\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = 105.27\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>105.27</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R07 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = -10.27\)</span> J y <span class="math inline">\(W = 21.54\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= -10.27\ \mathrm{J} + (21.54\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = 11.27\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>11.27</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R08 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = -16.27\)</span> J y <span class="math inline">\(W = -70.46\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= -16.27\ \mathrm{J} + (-70.46\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = -86.73\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-86.73</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R09 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = 5.73\)</span> J y <span class="math inline">\(W = -78.46\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= 5.73\ \mathrm{J} + (-78.46\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = -72.73\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-72.73</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R10 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = -6.27\)</span> J y <span class="math inline">\(W = 29.54\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= -6.27\ \mathrm{J} + (29.54\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = 23.27\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>23.27</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R11 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = 9.73\)</span> J y <span class="math inline">\(W = -60.46\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= 9.73\ \mathrm{J} + (-60.46\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = -50.73\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-50.73</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R12 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = 35.73\)</span> J y <span class="math inline">\(W = 55.54\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= 35.73\ \mathrm{J} + (55.54\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = 91.27\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>91.27</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R13 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = -20.27\)</span> J y <span class="math inline">\(W = 9.54\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= -20.27\ \mathrm{J} + (9.54\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = -10.73\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-10.73</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R14 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = 3.73\)</span> J y <span class="math inline">\(W = 99.54\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= 3.73\ \mathrm{J} + (99.54\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = 103.27\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>103.27</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R15 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = 35.73\)</span> J y <span class="math inline">\(W = 15.54\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= 35.73\ \mathrm{J} + (15.54\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = 51.27\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>51.27</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R16 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = -44.27\)</span> J y <span class="math inline">\(W = -46.46\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= -44.27\ \mathrm{J} + (-46.46\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = -90.73\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-90.73</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R17 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = -50.27\)</span> J y <span class="math inline">\(W = 71.54\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= -50.27\ \mathrm{J} + (71.54\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = 21.27\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>21.27</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R18 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = 49.73\)</span> J y <span class="math inline">\(W = -26.46\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= 49.73\ \mathrm{J} + (-26.46\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = 23.27\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>23.27</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R19 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = -8.27\)</span> J y <span class="math inline">\(W = 77.54\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= -8.27\ \mathrm{J} + (77.54\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = 69.27\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>69.27</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R20 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = 49.73\)</span> J y <span class="math inline">\(W = -18.46\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= 49.73\ \mathrm{J} + (-18.46\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = 31.27\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>31.27</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R21 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = 21.73\)</span> J y <span class="math inline">\(W = -52.46\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= 21.73\ \mathrm{J} + (-52.46\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = -30.73\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-30.73</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R22 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = -40.27\)</span> J y <span class="math inline">\(W = 7.54\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= -40.27\ \mathrm{J} + (7.54\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = -32.73\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-32.73</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R23 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = -22.27\)</span> J y <span class="math inline">\(W = 41.54\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= -22.27\ \mathrm{J} + (41.54\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = 19.27\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>19.27</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R24 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = -44.27\)</span> J y <span class="math inline">\(W = 1.54\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= -44.27\ \mathrm{J} + (1.54\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = -42.73\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-42.73</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R25 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = 23.73\)</span> J y <span class="math inline">\(W = 9.54\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= 23.73\ \mathrm{J} + (9.54\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = 33.27\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>33.27</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R26 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = 9.73\)</span> J y <span class="math inline">\(W = -36.46\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= 9.73\ \mathrm{J} + (-36.46\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = -26.73\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-26.73</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R27 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = 45.73\)</span> J y <span class="math inline">\(W = -42.46\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= 45.73\ \mathrm{J} + (-42.46\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = 3.27\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>3.27</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R28 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = 17.73\)</span> J y <span class="math inline">\(W = -52.46\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= 17.73\ \mathrm{J} + (-52.46\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = -34.73\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-34.73</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R29 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = -28.27\)</span> J y <span class="math inline">\(W = -54.46\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= -28.27\ \mathrm{J} + (-54.46\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = -82.73\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-82.73</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R30 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = -46.27\)</span> J y <span class="math inline">\(W = -40.46\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= -46.27\ \mathrm{J} + (-40.46\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = -86.73\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-86.73</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R31 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = 31.73\)</span> J y <span class="math inline">\(W = 11.54\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= 31.73\ \mathrm{J} + (11.54\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = 43.27\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>43.27</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R32 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = 19.73\)</span> J y <span class="math inline">\(W = -4.46\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= 19.73\ \mathrm{J} + (-4.46\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = 15.27\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>15.27</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R33 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = 15.73\)</span> J y <span class="math inline">\(W = -62.46\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= 15.73\ \mathrm{J} + (-62.46\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = -46.73\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-46.73</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R34 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = 45.73\)</span> J y <span class="math inline">\(W = -12.46\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= 45.73\ \mathrm{J} + (-12.46\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = 33.27\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>33.27</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R35 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = -30.27\)</span> J y <span class="math inline">\(W = -60.46\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= -30.27\ \mathrm{J} + (-60.46\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = -90.73\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-90.73</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R36 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = 5.73\)</span> J y <span class="math inline">\(W = -86.46\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= 5.73\ \mathrm{J} + (-86.46\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = -80.73\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-80.73</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R37 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = 47.73\)</span> J y <span class="math inline">\(W = -94.46\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= 47.73\ \mathrm{J} + (-94.46\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = -46.73\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-46.73</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R38 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = 45.73\)</span> J y <span class="math inline">\(W = -58.46\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= 45.73\ \mathrm{J} + (-58.46\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = -12.73\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-12.73</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R39 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = -18.27\)</span> J y <span class="math inline">\(W = 45.54\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= -18.27\ \mathrm{J} + (45.54\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = 27.27\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>27.27</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R40 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = 25.73\)</span> J y <span class="math inline">\(W = -80.46\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= 25.73\ \mathrm{J} + (-80.46\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = -54.73\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-54.73</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R41 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = -8.27\)</span> J y <span class="math inline">\(W = 91.54\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= -8.27\ \mathrm{J} + (91.54\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = 83.27\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>83.27</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R42 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = 43.73\)</span> J y <span class="math inline">\(W = 97.54\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= 43.73\ \mathrm{J} + (97.54\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = 141.27\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>141.27</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R43 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = 3.73\)</span> J y <span class="math inline">\(W = -20.46\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= 3.73\ \mathrm{J} + (-20.46\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = -16.73\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-16.73</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R44 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = 31.73\)</span> J y <span class="math inline">\(W = 85.54\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= 31.73\ \mathrm{J} + (85.54\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = 117.27\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>117.27</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R45 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = -36.27\)</span> J y <span class="math inline">\(W = 31.54\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= -36.27\ \mathrm{J} + (31.54\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = -4.73\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-4.73</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R46 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = 37.73\)</span> J y <span class="math inline">\(W = 39.54\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= 37.73\ \mathrm{J} + (39.54\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = 77.27\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>77.27</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R47 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = 39.73\)</span> J y <span class="math inline">\(W = -2.46\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= 39.73\ \mathrm{J} + (-2.46\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = 37.27\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>37.27</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R48 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = -4.27\)</span> J y <span class="math inline">\(W = -0.46\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= -4.27\ \mathrm{J} + (-0.46\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = -4.73\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-4.73</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R49 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = -18.27\)</span> J y <span class="math inline">\(W = 13.54\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= -18.27\ \mathrm{J} + (13.54\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = -4.73\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>-4.73</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> R50 Q1 : deltaE_ran </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Calcular el <span class="math inline">\(\Delta E\)</span> en J para un dado proceso, donde <span class="math inline">\(Q = 43.73\)</span> J y <span class="math inline">\(W = 71.54\)</span> J. Redondear el resultado a dos cifras decimales.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De acuerdo al primer principio de la termodinámica: <span class="math inline">\(\Delta E = Q + W\)</span>.
+<span class="math display">\[
+\begin{aligned}
+    \Delta E &amp;= 43.73\ \mathrm{J} + (71.54\ \mathrm{J}) 
+\end{aligned}
+\]</span></p>
+<p>Así, redondeando a dos dígitos tenemos: <span class="math inline">\(\Delta E = 115.27\)</span> kJ/mol.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>115.27</text>
+<tolerance>0.02</tolerance>
+</answer>
+</question>
+
+</quiz>

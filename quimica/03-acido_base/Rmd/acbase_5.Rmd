@@ -1,0 +1,77 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+```{r data generation, echo = FALSE, results = "hide", warning=FALSE}
+
+library(exams)
+
+# parametros
+c0 <- sample(seq(from=0.01, to= 0.50, by=0.01),1) # conc inicial de base
+ka1 <- sample(seq(from=1e-6, to= 1e-5, by=1e-6),1)
+ka2 <- sample(seq(from=1e-12, to= 1e-11, by=1e-12),1)
+
+# Convertir a notación científica
+ka1_cient <- format(ka1, scientific = TRUE, digits = 2)
+ka2_cient <- format(ka2, scientific = TRUE, digits = 2)
+
+conc_H <- sqrt(ka1*c0)
+conc_H_cient <- format(conc_H, scientific = TRUE, digits = 3)
+
+pH <- round(-log10(conc_H),2)
+pOH <- 14 -pH 
+
+# solucion
+res <- pOH
+```
+
+
+Question
+========
+Calcular el pOH de una solución de un ácido débil $AH_2$ cuya concentración inical es $`r c0`$. Datos: $K_{a1}= `r ka1_cient`$ y $K_{a2}= `r ka2_cient`$. Redondear el resultado a dos decimales ("e" significa 10^).
+
+
+Solution
+========
+Al ser $K_{a1}>>K_{a2}$, consideramos sólo el primer equilibrio (el de $K_{a1}$) y despreciamos el aporte de protones proveniente del segundo equilibrio (el de $K_{a2}$). 
+
+$$
+\begin{aligned}
+  K_{a1} &= \frac{(H^+)(AH^-)}{(AH_2)}
+\end{aligned}
+$$
+Como $(H^+)=(AH^-)$ en el equilibrio, tenemos:
+
+$$
+\begin{aligned}
+  K_{a1} &= \frac{(H^+)^2}{`r c0`-(H^+)}
+\end{aligned}
+$$
+
+Además, como podemos despreciar $(H^+)$ frente a $`r c0`$ (pensar por qué), tenemos:
+
+$$
+\begin{aligned}
+  K_{a1} &= \frac{(H^+)^2}{`r c0`}
+\end{aligned}
+$$
+
+Despejando  $(H^+)$ tenemos:
+
+$$
+\begin{aligned}
+  (H^+)=(K_{a1} \cdot `r c0`)^{1/2} &=`r conc_H_cient`
+\end{aligned}
+$$
+
+Haciendo $-log(`r conc_H_cient`)$, se obtiene un pH de $`r pH`$,
+y el pOH se calcula como: $pOH = 14 -pH = `r res`$
+
+
+Meta-information
+================
+extype: num
+exsolution: `r res`
+exname: conc_amoniaco
+extol: 0.01

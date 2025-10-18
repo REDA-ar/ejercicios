@@ -1,0 +1,55 @@
+
+---
+title: "orden 1"
+output: 
+  exams2pdf: default
+---
+
+
+```{r setup, include=FALSE}
+library(exams)
+
+# Defino el t medio
+a <- 2
+porc_transf <- sample(seq(from=40, to=60,by=0.25),1)
+k <- sample(seq(from=0.01, to=0.9,by=0.015),1)
+
+
+t <- -log(0.01*(100-porc_transf))/(a*k)
+
+# ln(A0/A) = akt
+# ln(0.01*porc_transf) = -akt
+
+# solución
+res <- round(t,2)
+
+```
+
+
+Question
+========
+
+Para la reacción $2A \rightarrow B$, calcular el tiempo que tarda en descomponerse el $`r porc_transf`$ % del reactivo si la k tiene un valor de $`r k`$ $\text{min}^{-1}$. Usar dos decimales para informar el resultado.
+
+
+Solution
+========
+Sabemos que la reacción es de primer orden dadas las unidades de la k. El tiempo se calcula despejando de la expresión integrada para primer orden:
+$$
+\begin{aligned}
+    lnA &= lnA_o-akt\\
+    lnA - lnA_o&= -akt\\
+    ln(A/A_o) &= -akt\\
+    ln(0.01\cdot (100-`r porc_transf`)\cdot A_o/A_o) &= -`r a`\cdot`r k`\quad min^{-1}\cdot t
+\end{aligned}
+$$
+De este modo, $t = `r fmt(res)`$ min.
+
+
+Meta-information
+================
+
+extype: num
+exsolution: `r fmt(res)`
+exname: orden1
+extol: 0.02

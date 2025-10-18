@@ -1,0 +1,56 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+```{r data generation, echo = FALSE, results = "hide", warning=FALSE}
+
+library(exams)
+
+# parametros
+amonioeq <- sample(seq(from=1.6e-4, to= 9.6e-4,by=0.00002),1) # conc de amonio en equil
+kb <- 1.8e-5
+
+# Convertir a notación científica
+amonioeq_cient <- format(amonioeq, scientific = TRUE,digits = 2)
+kb_cient <- format(kb, scientific = TRUE, digits = 2)
+
+amoniaco_eq <- amonioeq^2/kb
+
+# solucion
+res <- round(amoniaco_eq,4)
+```
+
+
+Question
+========
+Se tiene una solución acuosa de amoníaco. Una vez que el sistema alcanzó el equilibrio, la concentración de ion amonio es $`r amonioeq_cient`$. Sabiendo que $K_b$ de amoníaco es $`r kb_cient`$, calcular la concentración molar de dicha base en el equilibrio.
+Redondear el resultado a cuatro cifras decimales e informarlo en notación simple, no científica. ("e" significa 10^).
+
+
+
+<!-- Answerlist -->
+<!-- ---------- -->
+
+<!-- La concentracion de amoniaco en equilibrio es: -->
+
+
+Solution
+========
+La expresión para $K_b$ es: $K_b = \frac{(NH_4^+)(OH^-)}{(NH_3)}$.
+Dado que, en equilibrio, $(NH_4^+)=(OH^-)$, despejamos $(NH_3)$ de la $K_b$:
+
+$$
+\begin{aligned}
+(NH_3) &= \frac{(`r amonioeq_cient`)^2}{`r kb_cient`}
+\end{aligned}
+$$
+Así, la concentración de amoníaco en el equilibrio es: $`r res`$
+
+
+Meta-information
+================
+extype: num
+exsolution: `r res`
+exname: conc_amoniaco
+extol: 0.0001
