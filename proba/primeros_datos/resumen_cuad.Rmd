@@ -1,0 +1,50 @@
+---
+title: "Probabilidades/Primeros datos"
+output: "primeros_datos.html"
+---
+
+```{r setup, echo = FALSE}
+
+library(exams2forms)
+
+```
+
+
+```{r data generation, echo = FALSE, results = "hide", warning=FALSE}
+
+
+## Defino las funciones
+
+a <- sample(1:4,1)
+b <- sample(-5:5,1)
+
+y <- sample(1:15,5, replace = FALSE)
+
+
+# a1<-(mean(x*y)-mean(x)*mean(y))/(mean(x^2)-mean(x)^2)
+# a0 <-mean(y)-a1*mean(x) 
+#   
+# x <- c(3,6,1)
+# y <- c(15,7,12)
+# 
+# 
+# abs(a1-sol2)<0.01
+sol1 <- round(mean(y),4)
+
+```
+
+Question
+========
+
+Sea 
+$$\ell(a)= \left(`r y[1]`-a\right)^2+\left(`r y[2]`-a\right)^2+\left(`r y[3]`-a \right)^2+\left(`r y[4]`-a\right)^2+\left(`r y[5]`-a \right)^2\,.
+$$
+La función se minimiza en $a^\ast=$  
+
+
+Meta-information
+============
+extype: num
+exsolution: `r sol1`
+exname: promedio
+extol: 0.01
